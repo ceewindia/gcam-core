@@ -55,6 +55,10 @@ data.DEPENDENT <- "Dependent"
 
 
 # Modeltime constants ======================================================================
+# The number of years encompased in the first model period, currently hard coded in the C++
+# Note, this is different than the number of years between period 0 and period 1
+# The value typically does not matter but does come up for calculating resource depletion
+modeltime.PERIOD0_TIMESTEP <- 15
 
 # MAGICC model assumptions
 modeltime.MAGICC_LAST_HISTORICAL_YEAR <- 2005
@@ -136,7 +140,7 @@ aglu.BASE_YEAR_IFA          <- 2006      # Base year of International Fertilizer
 aglu.BIO_START_YEAR         <- 2020
 aglu.CROSIT_HISTORICAL_YEAR <- 2005      # Historical year from the CROSIT data
 aglu.DIET_YEARS             <- seq(max(aglu.AGLU_HISTORICAL_YEARS), 2050, by = 5)
-aglu.FAO_HISTORICAL_YEARS   <- 1961:2011
+aglu.FAO_HISTORICAL_YEARS   <- 1961:2012
 aglu.FAO_LDS_YEARS          <- 1998:2002  # Years for which FAO harvested area data is averaged over for use in the land data system (LDS)
 aglu.GTAP_HISTORICAL_YEAR   <- 2000      # Is the year that the GTAP data is based on.
 aglu.LAND_HISTORY_YEARS     <- c(1700, 1750, 1800, 1850, 1900, 1950, 1975)
@@ -144,9 +148,13 @@ aglu.LAND_COVER_YEARS       <- sort(unique(c(aglu.LAND_HISTORY_YEARS, aglu.AGLU_
 aglu.MODEL_COST_YEARS       <- 2008:2011
 aglu.MODEL_PRICE_YEARS      <- 2008:2011
 aglu.PREAGLU_YEARS          <- c(1700, 1750,1800, 1850, 1900, 1950)          # Cropland cover years prior to first aglu historical year to use in climate model component
+aglu.DEFLATOR_BASE_YEAR     <- 2010                                          # year used as the basis for computing regional price deflators
 aglu.SPEC_AG_PROD_YEARS     <- seq(max(aglu.AGLU_HISTORICAL_YEARS), 2050, by = 5) # Specified ag productivity years, KD i think this might need a better comment
 aglu.SSP_DEMAND_YEARS       <- seq(2010, 2100, 5) # food demand in the SSPs is calculated at 5-yr intervals
-
+aglu.TRADE_CAL_YEARS        <- 2008:2012 # Years used for calculating base year gross trade. Should ideally include the final base year, but note that the trade data starts in 1986.
+aglu.TRADE_FINAL_BASE_YEAR  <- max(MODEL_BASE_YEARS) # The base year to which gross trade volumes are assigned. Should be within the aglu.TRADE_CAL_YEARS and equal to the final model calibration year
+aglu.FALLOW_YEARS           <- 2008:2012 # Years used for calculating the % of fallow land
+aglu.TRADED_CROPS           <- c("Corn", "FiberCrop", "MiscCrop", "OilCrop", "OtherGrain", "PalmFruit", "Rice", "RootTuber", "SugarCrop", "Wheat")
 aglu.LAND_TOLERANCE    <- 0.005
 aglu.MIN_PROFIT_MARGIN <- 0.15  # Unitless and is used to ensure that Agricultural Costs (units 1975USD/kg) don't lead to profits below a minimum profit margin.
 
@@ -200,7 +208,8 @@ aglu.LOW_PROD_GROWTH_MULT <- 0.5 # Multipliers for low ag prod growth scenarios
 # AgLU cost constants
 aglu.BIO_GRASS_COST_75USD_GJ <- 0.75   # Production costs of biomass (from Patrick Luckow's work)
 aglu.BIO_TREE_COST_75USD_GJ  <- 0.67   # Production costs of biomass (from Patrick Luckow's work)
-aglu.FERT_COST               <- 363    # Cost of fertlizer, 2007$ per ton NH3
+aglu.FERT_PRICE              <- 596    # Price of fertilizer, 2010$ per ton NH3
+aglu.FERT_PRICE_YEAR         <- 2010    # Year corresponding to the above price/cost
 aglu.FOR_COST_75USDM3        <- 29.59  # Forestry cost (1975$/GJ)
 
 # Price at which base year bio frac produced is used.
@@ -304,12 +313,11 @@ aglu.MGMT_LOGIT_EXP  <- 0.5
 aglu.MGMT_LOGIT_TYPE <- "absolute-cost-logit"
 
 # XML-related constants
-aglu.CROP_DELIMITER       <- "_"  # delimiter between (some) crop names such as Root_Tuber, biomass_grass, biomass_tree
 aglu.CROP_GLU_DELIMITER   <- "_"  # delimiter between the crop name and GLU name
 aglu.GLU_NDIGITS          <- 3    # number of digits in the geographic land unit identifier codes
 aglu.IRR_DELIMITER        <- "_"  # delimiter between the appended crop x GLU and irrigation level
 aglu.LT_GLU_DELIMITER     <-      # delimiter between the land use type name and GLU name. should be the same as the crop-glu delimiter
-  aglu.MGMT_DELIMITER       <- "_"  # delimiter between appended tech name and management level
+aglu.MGMT_DELIMITER       <- "_"  # delimiter between appended tech name and management level
 
 # AgLU digits constants to control the number of digits for rounding going into XMLs.
 aglu.DIGITS_AGPRODCHANGE  <- 4 # rate of change in yield values
@@ -356,6 +364,7 @@ energy.RSRC_FUELS              <- c("coal", "gas", "refined liquids")
 # technologies with secondary output of heat in units of 1975$/EJ
 energy.HEAT_PRICE <- 3.2
 energy.GAS_PRICE  <- 2
+energy.GAS_PIPELINE_COST_ADDER_75USDGJ  <- 0.1  # estimated cost mark-up from "regional natural gas" to "wholesale gas" (1975$/GJ)
 
 energy.CO2.STORAGE.MARKET <- "carbon-storage"
 
@@ -396,7 +405,7 @@ energy.DIGITS_CAPITAL          <- 0
 energy.DIGITS_COEFFICIENT      <- 7
 energy.DIGITS_COST             <- 4
 energy.DIGITS_CURVE_EXPONENT   <- 3
-energy.DIGITS_DEPRESOURCE      <- 1
+energy.DIGITS_RESOURCE      <- 1
 energy.DIGITS_EFFICIENCY       <- 3
 energy.DIGITS_FLOORSPACE       <- 3
 energy.DIGITS_GDP_SUPPLY_ELAST <- 3
@@ -415,9 +424,12 @@ energy.DIGITS_SPEED            <- 1
 energy.DIGITS_TECHCHANGE       <- 4
 
 # Policy assumptions for module_energy_L270.limits
+
 energy.NEG_EMISS_POLICY_NAME    <- "negative_emiss_budget"
+energy.NEG_EMISS_TARGET_GAS     <- "CO2_LTG" # the name of the gas to target in the negative emiss budget
 energy.NEG_EMISS_GDP_BUDGET_PCT <- 0.01 # Max fraction of GDP which may be given to subsidize net negative emissions
 energy.NEG_EMISS_MARKT_GLOBAL   <- TRUE # If the negative emissions budget is global (TRUE) or regional (FALSE)
+energy.OIL_CREDITS_MARKETNAME   <- "oil-credits"
 energy.OILFRACT_ELEC            <- 1.0 # Fraction of liquids for feedstocks that must come from oil
 energy.OILFRACT_FEEDSTOCKS      <- 0.8 # Fraction of liquids for oil electricity that must come from oil
 
@@ -451,6 +463,11 @@ socioeconomics.POP_DIGITS                <- 0
 
 # Water constants ======================================================================
 
+water.ALL_WATER_TYPES                     <- c("water consumption",
+                                               "water withdrawals",
+                                               "seawater",
+                                               "biophysical water consumption",
+                                               "desalination")
 water.AG_ONLY_WATER_TYPES                 <- "biophysical water consumption"
 water.COOLING_SYSTEM_CAPACITY_FACTOR      <- 0.6   # Cooling system capacity factor (Unitless)
 water.COOLING_SYSTEM_FCR                  <- 0.15  # Cooling system fixed charge rate (Unitless)
@@ -458,6 +475,8 @@ water.COOLING_SYSTEM_LOGIT 				        <- -5    # Cooling system logit (Unitless
 water.DEFAULT_UNLIMITED_IRR_WATER_PRICE   <- 0.001 # (Units: 1975$/m3)
 water.DEFAULT_UNLIMITED_WATER_PRICE       <- 0
 water.DEFAULT_UNLIMITED_WITHD_WATER_PRICE <- 0.001
+water.DEFAULT_BASEYEAR_WATER_PRICE        <- 0.001
+water.IRR_PRICE_SUBSIDY_MULT              <- 0.01  # Multiplier for irrigation price subsidy (OECD 2009 Managing Water for All)
 water.DRY_COOLING_EFF_ADJ 				        <- 0.95  # Dry cooling efficiency adjustment (Unitless)
 water.IRRIGATION                          <- "Irrigation"
 water.MAPPED_WATER_TYPES                  <- c("water consumption", "water withdrawals")
@@ -466,6 +485,12 @@ names(water.MAPPED_WATER_TYPES_SHORT)     <- water.MAPPED_WATER_TYPES
 water.WATER_UNITS_PRICE                   <- "1975$/m^3"
 water.WATER_UNITS_QUANTITY                <- "km^3"
 water.DIGITS_MUNI_WATER                   <- 4
+water.DESALINATION_PRICE                  <- 0.214  # 1975$/m3
+water.IRR_SHARE                           <- 1
+water.MAPPING_COEF                        <- 1
+water.MAPPING_PMULT                       <- 1
+water.NONIRRIGATION_SECTORS               <- c("Municipal", "Electricity", "Livestock", "Manufacturing", "Mining")
+water.LOGIT_EXP                           <- -6
 
 # GCAM intermediate sectors for which Vassolo + Doll assessed manufacturing water demands. In the paper, they indicate
 # chemicals, pulp and paper, pig iron, sugar, beer, cloth, cement, and crude steel. some industrial mfg does take place
@@ -478,6 +503,24 @@ water.GCAM_MFG_FUELS_EFW <- c("electricity")
 # the maximum portion of aquastat industrial (mfg + elec) water withdrawals that is allowed to be assigned to
 # manufacturing. Used to set a cap on derived manufacturing water withdrawals
 water.MAX_MFG_FRAC_OF_IND <- 0.85
+
+# Groundwater may be calibrated using either the "watergap" or "gleeson" historical groundwater depletion estimates.
+water.GROUNDWATER_CALIBRATION <- "watergap"  # "gleeson"
+water.GROUNDWATER_SCENARIO <- "25pct" # may be "05pct", "25pct", or "40pct" (i.e., 5, 25, 40 % of groundwater)
+
+# Groundwater depletable resource curve parameters (see Kim et al., 2016)
+water.GROUNDWATER_MAX_PRICE_INC <- 10000
+water.GROUNDWATER_UNIFORM_GRADES <- 10
+water.GROUNDWATER_BETA <- 1.0
+water.DIGITS_GROUND_WATER <- 6 #Digits for rounding
+water.DIGITS_GROUND_WATER_RSC <- 5 #Digits for rounding
+water.DIGITS_RENEW_WATER <- 3 #Digits for rounding
+water.GW_DEPLETION_HISTORICAL <- c(2005, 2010) # Historical years for groundwater depletion
+water.GW_DEPLETION_BASE_YEAR <- 1990 # Historical year for groundwater depletion calibration
+water.RUNOFF_HISTORICAL <- c(1990, 2005, 2010) # Historical years for freshwater runoff
+water.RENEW.COST.GRADE1 <- 0.00001 #Renewable water grade1 cost
+water.RENEW.COST.GRADE2 <- 0.001 #Renewable water grade2 cost
+water.RENEW.COST.GRADE3 <- 10 #Renewable water grade3 cost
 
 # Emissions constants ======================================================================
 
@@ -642,8 +685,6 @@ gcamusa.STATE_SUBSECTOR_DELIMITER <- " "
 
 # Number of digits for model input data
 gcamusa.DIGITS_CALOUTPUT          <- 7    # production
-gcamusa.DIGITS_COST               <- 4
-gcamuse.DIGITS_DEPRESOURCE        <- 1
 gcamusa.EFFICIENCY_PARTITION_YEAR <- 2010
 gcamusa.DIGITS_TRNUSA_DEFAULT     <- 1    # Reduce rounding in detailed USA transport for compatability with model
 gcamusa.DIGITS_EMISSIONS          <- 5

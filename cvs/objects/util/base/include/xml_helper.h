@@ -309,6 +309,9 @@ template<typename T>
 void TechVectorParseHelper<T>::initializeVector( const unsigned int aStartPeriod, const unsigned int aSize, objects::TechVintageVector<T>& aTechVec ) {
     // Do not re-initialize an instance that has already been initialized.
     if( !aTechVec.isInitialized() ) {
+        // Save temp data key before we overwrite it.
+        size_t tempDataKey = reinterpret_cast<size_t>( aTechVec.mData );
+
         // Fill the the vector parameters and allocate it's memory.
         aTechVec.mStartPeriod = aStartPeriod;
         aTechVec.mSize = aSize;
@@ -318,7 +321,6 @@ void TechVectorParseHelper<T>::initializeVector( const unsigned int aStartPeriod
         
         // Attempt to copy in data from temporary storage
         TechVectorParseHelper<T>* currTVParseHelper = boost::fusion::at_key<T>( sTechVectorParseHelperMap );
-        size_t tempDataKey = reinterpret_cast<size_t>( aTechVec.mData );
         
         if( currTVParseHelper ) {
             auto tempData = currTVParseHelper->mTempStore.find( tempDataKey );
@@ -840,6 +842,27 @@ inline void XMLWriteOpeningTag( const std::string& elementName, std::ostream& ou
     }
     out << ">" << std::endl;
     tabs->increaseIndent();
+}
+
+/*! \brief Write an opening XML tag.
+ * \details This function is used to write an opening XML tag and attributes specified as a map of strings
+ * where key is attribute name and value is attribute value. The function increases the indent level after
+ * writing the tag so that subsequent elements are correctly indented.
+ * \param aElementName Name of the element.
+ * \param aOut Stream to print to.
+ * \param aTabs The number of tabs to print before the element.
+ * \param aAttrs A map of attributes to include where key is attribute name and value is attribute value.
+ */
+inline void XMLWriteOpeningTag( const std::string& aElementName, std::ostream& aOut, Tabs* aTabs, const std::map<std::string, std::string>& aAttrs ) {
+    
+    aTabs->writeTabs( aOut );
+    aOut << "<" << aElementName;
+
+    for( auto iter = aAttrs.begin(); iter != aAttrs.end(); ++iter ) {
+        aOut << " " << (*iter).first << "=\"" << (*iter).second << "\"";
+    }
+    aOut << ">" << std::endl;
+    aTabs->increaseIndent();
 }
 
 /*!  \brief Write a closing XML tag.
