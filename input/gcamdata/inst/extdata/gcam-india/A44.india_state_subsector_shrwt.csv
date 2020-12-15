@@ -1,0 +1,51 @@
+# File: A44.india_state_subsector_shrwt.csv
+# Title: Building subsector default shareweights
+# Units: Unitless
+# Source: None (GCAM assumptions)
+# Column types: cccin
+# ----------
+supplysector,subsector,year.fillout,year,share.weight
+resid rural cooling,electricity,start-year,2100,1
+resid urban cooling,electricity,start-year,2100,1
+resid rural coolers,electricity,start-year,2100,1
+resid urban coolers,electricity,start-year,2100,1
+resid rural lighting,electricity,start-year,2100,1
+resid urban lighting,electricity,start-year,2100,1
+resid rural space heating,electricity,start-year,2100,1
+resid urban space heating,electricity,start-year,2100,1
+resid rural cooking,electricity,start-year,2100,1
+resid urban cooking,electricity,start-year,2100,1
+resid rural apploth,electricity,start-year,2100,1
+resid urban apploth,electricity,start-year,2100,1
+resid rural space heating,coal,start-year,2100,1
+resid urban space heating,coal,start-year,2100,1
+resid rural cooking,coal,start-year,2100,1
+resid urban cooking,coal,start-year,2100,1
+resid rural apploth,coal,start-year,2100,1
+resid urban apploth,coal,start-year,2100,1
+resid rural space heating,biomass,start-year,2100,1
+resid urban space heating,biomass,start-year,2100,1
+resid rural cooking,biomass,start-year,2100,1
+resid urban cooking,biomass,start-year,2100,1
+resid urban cooking,refined liquids,start-year,2100,1
+resid rural cooking,refined liquids,start-year,2100,1
+resid rural cooking,traditional biomass,start-year,2100,1
+resid urban cooking,traditional biomass,start-year,2100,1
+resid rural apploth,biomass,start-year,2100,1
+resid urban apploth,biomass,start-year,2100,1
+resid rural apploth,refined liquids,start-year,2100,1
+resid urban apploth,refined liquids,start-year,2100,1
+resid rural apploth,gas,start-year,2100,1
+resid urban apploth,gas,start-year,2100,1
+resid rural cooking,gas,start-year,2100,1
+resid urban cooking,gas,start-year,2100,1
+comm hvac,electricity,start-year,2100,1
+comm lighting,electricity,start-year,2100,1
+comm ref,electricity,start-year,2100,1
+comm others,electricity,start-year,2100,1
+comm others,coal,start-year,2100,1
+comm others,biomass,start-year,2100,1
+comm others,refined liquids,start-year,2100,1
+comm cooking,refined liquids,start-year,2100,1
+comm cooking,gas,start-year,2100,1
+comm cooking,electricity,start-year,2100,1

@@ -1,0 +1,44 @@
+# File: A10.india_state_GDP_rural_urban_share.csv
+# Title: Rural GDP share by state
+# Units: Share
+# Source: IIASA
+# Column types: ccn
+# ----------
+state,sector ,2010
+AN,resid rural,0.36888242
+AP,resid rural,0.409022921
+AR,resid rural,0.35577131
+AS,resid rural,0.364968267
+BR,resid rural,0.377093256
+CG,resid rural,0.282748825
+CH,resid rural,0.009150943
+DD,resid rural,0.242984551
+DL,resid rural,0.012547171
+DN,resid rural,0.25652626
+GA,resid rural,0.483921851
+GJ,resid rural,0.433948187
+HP,resid rural,0.391752899
+HR,resid rural,0.371876492
+JH,resid rural,0.349183834
+JK,resid rural,0.48086645
+KA,resid rural,0.414923776
+KL,resid rural,0.588384982
+LA,resid rural,0.466439373
+LD,resid rural,0.460863459
+MH,resid rural,0.3815135
+ML,resid rural,0.327161304
+MN,resid rural,0.503143406
+MP,resid rural,0.386427143
+MZ,resid rural,0.435349466
+NL,resid rural,0.30479148
+OD,resid rural,0.276956104
+PB,resid rural,0.539294784
+PC,resid rural,0.309200937
+RJ,resid rural,0.399558951
+SK,resid rural,0.457846263
+TN,resid rural,0.478556557
+TR,resid rural,0.496340571
+TS,resid rural,0.404232186
+UK,resid rural,0.398997625
+UP,resid rural,0.364191959
+WB,resid rural,0.345331958

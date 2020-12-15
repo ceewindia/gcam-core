@@ -1,0 +1,74 @@
+# File: A32.India_state_industry_subsector_shrwt.csv
+# Title: Industry split subsector shareweights
+# Units: Unitless
+# Column types: ccccn
+# ----------
+supplysector,subsector,year.fillout,year,share.weight
+Agriculture_enuse,refined liquids,start-year,,1
+Cement_enuse,biomass,start-year,,1
+Cement_enuse,coal,start-year,,1
+Cement_enuse,electricity,start-year,,1
+Cement_enuse,hydrogen,start-year,,0
+Cement_enuse,hydrogen,2020,,0.25
+Cement_enuse,gas,start-year,,1
+Cement_enuse,refined liquids,start-year,,1
+Cement_enuse,coal,start-year,,1
+Chem_Fert_enuse,biomass,start-year,,1
+Chem_Fert_enuse,coal,start-year,,1
+Chem_Fert_enuse,electricity,start-year,,1
+Chem_Fert_enuse,hydrogen,start-year,,0
+Chem_Fert_enuse,hydrogen,2020,,0.25
+Chem_Fert_enuse,gas,start-year,,1
+Chem_Fert_enuse,refined liquids,start-year,,1
+Chem_Fert_enuse,coal,start-year,,1
+Fisheries_enuse,refined liquids,start-year,,1
+Iron and Steel_enuse,biomass,start-year,,1
+Iron and Steel_enuse,coal,start-year,,1
+Iron and Steel_enuse,electricity,start-year,,1
+Iron and Steel_enuse,hydrogen,start-year,,0
+Iron and Steel_enuse,hydrogen,2020,,0.25
+Iron and Steel_enuse,gas,start-year,,1
+Iron and Steel_enuse,refined liquids,start-year,,1
+Iron and Steel_enuse,coal,start-year,,1
+Non-Ferrous Metals_enuse,biomass,start-year,,1
+Non-Ferrous Metals_enuse,coal,start-year,,1
+Non-Ferrous Metals_enuse,electricity,start-year,,1
+Non-Ferrous Metals_enuse,hydrogen,start-year,,0
+Non-Ferrous Metals_enuse,hydrogen,2020,,0.25
+Non-Ferrous Metals_enuse,gas,start-year,,1
+Non-Ferrous Metals_enuse,refined liquids,start-year,,1
+Non-Ferrous Metals_enuse,coal,start-year,,1
+Other Industries_enuse,biomass,start-year,,1
+Other Industries_enuse,coal,start-year,,1
+Other Industries_enuse,electricity,start-year,,1
+Other Industries_enuse,hydrogen,start-year,,0
+Other Industries_enuse,hydrogen,2020,,0.25
+Other Industries_enuse,gas,start-year,,1
+Other Industries_enuse,refined liquids,start-year,,1
+Other Industries_enuse,coal,start-year,,1
+Paper and Pulp_enuse,biomass,start-year,,1
+Paper and Pulp_enuse,coal,start-year,,1
+Paper and Pulp_enuse,electricity,start-year,,1
+Paper and Pulp_enuse,hydrogen,start-year,,0
+Paper and Pulp_enuse,hydrogen,2020,,0.25
+Paper and Pulp_enuse,gas,start-year,,1
+Paper and Pulp_enuse,refined liquids,start-year,,1
+Paper and Pulp_enuse,coal,start-year,,1
+Cement_fsuse,coal,start-year,,1
+Cement_fsuse,gas,start-year,,1
+Cement_fsuse,refined liquids,start-year,,1
+Chem_Fert_fsuse,coal,start-year,,1
+Chem_Fert_fsuse,gas,start-year,,1
+Chem_Fert_fsuse,refined liquids,start-year,,1
+Chem_Fert_fsuse,refined liquids,2015,,0.1
+Other Industries_fsuse,coal,start-year,,1
+Other Industries_fsuse,gas,start-year,,1
+Other Industries_fsuse,refined liquids,start-year,,1
+Agriculture,Agriculture,start-year,,1
+Cement,Cement,start-year,,1
+Chem_Fert,Chem_Fert,start-year,,1
+Fisheries,Fisheries,start-year,,1
+Iron and Steel,Iron and Steel,start-year,,1
+Non-Ferrous Metals,Non-Ferrous Metals,start-year,,1
+Other Industries,Other Industries,start-year,,1
+Paper and Pulp,Paper and Pulp,start-year,,1

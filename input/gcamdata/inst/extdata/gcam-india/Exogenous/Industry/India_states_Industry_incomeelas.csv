@@ -1,0 +1,5333 @@
+INPUT_TABLE,,,
+Variable ID,,,
+IncomeElasticity,,,
+,,,
+region,energy.final.demand,year,income.elasticity
+AN,Agriculture,2015,0.3
+AN,Agriculture,2020,0.3
+AN,Agriculture,2025,0.3
+AN,Agriculture,2030,0.3
+AN,Agriculture,2035,0.3
+AN,Agriculture,2040,0.3
+AN,Agriculture,2045,0.3
+AN,Agriculture,2050,0.3
+AN,Agriculture,2055,0.3
+AN,Agriculture,2060,0.3
+AN,Agriculture,2065,0.3
+AN,Agriculture,2070,0.3
+AN,Agriculture,2075,0.3
+AN,Agriculture,2080,0.3
+AN,Agriculture,2085,0.3
+AN,Agriculture,2090,0.3
+AN,Agriculture,2095,0.3
+AN,Agriculture,2100,0.3
+AP,Agriculture,2015,0.3
+AP,Agriculture,2020,0.3
+AP,Agriculture,2025,0.3
+AP,Agriculture,2030,0.3
+AP,Agriculture,2035,0.3
+AP,Agriculture,2040,0.3
+AP,Agriculture,2045,0.3
+AP,Agriculture,2050,0.3
+AP,Agriculture,2055,0.3
+AP,Agriculture,2060,0.3
+AP,Agriculture,2065,0.3
+AP,Agriculture,2070,0.3
+AP,Agriculture,2075,0.3
+AP,Agriculture,2080,0.3
+AP,Agriculture,2085,0.3
+AP,Agriculture,2090,0.3
+AP,Agriculture,2095,0.3
+AP,Agriculture,2100,0.3
+AR,Agriculture,2015,0.3
+AR,Agriculture,2020,0.3
+AR,Agriculture,2025,0.3
+AR,Agriculture,2030,0.3
+AR,Agriculture,2035,0.3
+AR,Agriculture,2040,0.3
+AR,Agriculture,2045,0.3
+AR,Agriculture,2050,0.3
+AR,Agriculture,2055,0.3
+AR,Agriculture,2060,0.3
+AR,Agriculture,2065,0.3
+AR,Agriculture,2070,0.3
+AR,Agriculture,2075,0.3
+AR,Agriculture,2080,0.3
+AR,Agriculture,2085,0.3
+AR,Agriculture,2090,0.3
+AR,Agriculture,2095,0.3
+AR,Agriculture,2100,0.3
+AS,Agriculture,2015,0.3
+AS,Agriculture,2020,0.3
+AS,Agriculture,2025,0.3
+AS,Agriculture,2030,0.3
+AS,Agriculture,2035,0.3
+AS,Agriculture,2040,0.3
+AS,Agriculture,2045,0.3
+AS,Agriculture,2050,0.3
+AS,Agriculture,2055,0.3
+AS,Agriculture,2060,0.3
+AS,Agriculture,2065,0.3
+AS,Agriculture,2070,0.3
+AS,Agriculture,2075,0.3
+AS,Agriculture,2080,0.3
+AS,Agriculture,2085,0.3
+AS,Agriculture,2090,0.3
+AS,Agriculture,2095,0.3
+AS,Agriculture,2100,0.3
+BR,Agriculture,2015,0.3
+BR,Agriculture,2020,0.3
+BR,Agriculture,2025,0.3
+BR,Agriculture,2030,0.3
+BR,Agriculture,2035,0.3
+BR,Agriculture,2040,0.3
+BR,Agriculture,2045,0.3
+BR,Agriculture,2050,0.3
+BR,Agriculture,2055,0.3
+BR,Agriculture,2060,0.3
+BR,Agriculture,2065,0.3
+BR,Agriculture,2070,0.3
+BR,Agriculture,2075,0.3
+BR,Agriculture,2080,0.3
+BR,Agriculture,2085,0.3
+BR,Agriculture,2090,0.3
+BR,Agriculture,2095,0.3
+BR,Agriculture,2100,0.3
+CG,Agriculture,2015,0.3
+CG,Agriculture,2020,0.3
+CG,Agriculture,2025,0.3
+CG,Agriculture,2030,0.3
+CG,Agriculture,2035,0.3
+CG,Agriculture,2040,0.3
+CG,Agriculture,2045,0.3
+CG,Agriculture,2050,0.3
+CG,Agriculture,2055,0.3
+CG,Agriculture,2060,0.3
+CG,Agriculture,2065,0.3
+CG,Agriculture,2070,0.3
+CG,Agriculture,2075,0.3
+CG,Agriculture,2080,0.3
+CG,Agriculture,2085,0.3
+CG,Agriculture,2090,0.3
+CG,Agriculture,2095,0.3
+CG,Agriculture,2100,0.3
+CH,Agriculture,2015,0.3
+CH,Agriculture,2020,0.3
+CH,Agriculture,2025,0.3
+CH,Agriculture,2030,0.3
+CH,Agriculture,2035,0.3
+CH,Agriculture,2040,0.3
+CH,Agriculture,2045,0.3
+CH,Agriculture,2050,0.3
+CH,Agriculture,2055,0.3
+CH,Agriculture,2060,0.3
+CH,Agriculture,2065,0.3
+CH,Agriculture,2070,0.3
+CH,Agriculture,2075,0.3
+CH,Agriculture,2080,0.3
+CH,Agriculture,2085,0.3
+CH,Agriculture,2090,0.3
+CH,Agriculture,2095,0.3
+CH,Agriculture,2100,0.3
+DD,Agriculture,2015,0.3
+DD,Agriculture,2020,0.3
+DD,Agriculture,2025,0.3
+DD,Agriculture,2030,0.3
+DD,Agriculture,2035,0.3
+DD,Agriculture,2040,0.3
+DD,Agriculture,2045,0.3
+DD,Agriculture,2050,0.3
+DD,Agriculture,2055,0.3
+DD,Agriculture,2060,0.3
+DD,Agriculture,2065,0.3
+DD,Agriculture,2070,0.3
+DD,Agriculture,2075,0.3
+DD,Agriculture,2080,0.3
+DD,Agriculture,2085,0.3
+DD,Agriculture,2090,0.3
+DD,Agriculture,2095,0.3
+DD,Agriculture,2100,0.3
+DL,Agriculture,2015,0.3
+DL,Agriculture,2020,0.3
+DL,Agriculture,2025,0.3
+DL,Agriculture,2030,0.3
+DL,Agriculture,2035,0.3
+DL,Agriculture,2040,0.3
+DL,Agriculture,2045,0.3
+DL,Agriculture,2050,0.3
+DL,Agriculture,2055,0.3
+DL,Agriculture,2060,0.3
+DL,Agriculture,2065,0.3
+DL,Agriculture,2070,0.3
+DL,Agriculture,2075,0.3
+DL,Agriculture,2080,0.3
+DL,Agriculture,2085,0.3
+DL,Agriculture,2090,0.3
+DL,Agriculture,2095,0.3
+DL,Agriculture,2100,0.3
+DN,Agriculture,2015,0.3
+DN,Agriculture,2020,0.3
+DN,Agriculture,2025,0.3
+DN,Agriculture,2030,0.3
+DN,Agriculture,2035,0.3
+DN,Agriculture,2040,0.3
+DN,Agriculture,2045,0.3
+DN,Agriculture,2050,0.3
+DN,Agriculture,2055,0.3
+DN,Agriculture,2060,0.3
+DN,Agriculture,2065,0.3
+DN,Agriculture,2070,0.3
+DN,Agriculture,2075,0.3
+DN,Agriculture,2080,0.3
+DN,Agriculture,2085,0.3
+DN,Agriculture,2090,0.3
+DN,Agriculture,2095,0.3
+DN,Agriculture,2100,0.3
+GA,Agriculture,2015,0.3
+GA,Agriculture,2020,0.3
+GA,Agriculture,2025,0.3
+GA,Agriculture,2030,0.3
+GA,Agriculture,2035,0.3
+GA,Agriculture,2040,0.3
+GA,Agriculture,2045,0.3
+GA,Agriculture,2050,0.3
+GA,Agriculture,2055,0.3
+GA,Agriculture,2060,0.3
+GA,Agriculture,2065,0.3
+GA,Agriculture,2070,0.3
+GA,Agriculture,2075,0.3
+GA,Agriculture,2080,0.3
+GA,Agriculture,2085,0.3
+GA,Agriculture,2090,0.3
+GA,Agriculture,2095,0.3
+GA,Agriculture,2100,0.3
+GJ,Agriculture,2015,0.3
+GJ,Agriculture,2020,0.3
+GJ,Agriculture,2025,0.3
+GJ,Agriculture,2030,0.3
+GJ,Agriculture,2035,0.3
+GJ,Agriculture,2040,0.3
+GJ,Agriculture,2045,0.3
+GJ,Agriculture,2050,0.3
+GJ,Agriculture,2055,0.3
+GJ,Agriculture,2060,0.3
+GJ,Agriculture,2065,0.3
+GJ,Agriculture,2070,0.3
+GJ,Agriculture,2075,0.3
+GJ,Agriculture,2080,0.3
+GJ,Agriculture,2085,0.3
+GJ,Agriculture,2090,0.3
+GJ,Agriculture,2095,0.3
+GJ,Agriculture,2100,0.3
+HP,Agriculture,2015,0.3
+HP,Agriculture,2020,0.3
+HP,Agriculture,2025,0.3
+HP,Agriculture,2030,0.3
+HP,Agriculture,2035,0.3
+HP,Agriculture,2040,0.3
+HP,Agriculture,2045,0.3
+HP,Agriculture,2050,0.3
+HP,Agriculture,2055,0.3
+HP,Agriculture,2060,0.3
+HP,Agriculture,2065,0.3
+HP,Agriculture,2070,0.3
+HP,Agriculture,2075,0.3
+HP,Agriculture,2080,0.3
+HP,Agriculture,2085,0.3
+HP,Agriculture,2090,0.3
+HP,Agriculture,2095,0.3
+HP,Agriculture,2100,0.3
+HR,Agriculture,2015,0.3
+HR,Agriculture,2020,0.3
+HR,Agriculture,2025,0.3
+HR,Agriculture,2030,0.3
+HR,Agriculture,2035,0.3
+HR,Agriculture,2040,0.3
+HR,Agriculture,2045,0.3
+HR,Agriculture,2050,0.3
+HR,Agriculture,2055,0.3
+HR,Agriculture,2060,0.3
+HR,Agriculture,2065,0.3
+HR,Agriculture,2070,0.3
+HR,Agriculture,2075,0.3
+HR,Agriculture,2080,0.3
+HR,Agriculture,2085,0.3
+HR,Agriculture,2090,0.3
+HR,Agriculture,2095,0.3
+HR,Agriculture,2100,0.3
+JH,Agriculture,2015,0.3
+JH,Agriculture,2020,0.3
+JH,Agriculture,2025,0.3
+JH,Agriculture,2030,0.3
+JH,Agriculture,2035,0.3
+JH,Agriculture,2040,0.3
+JH,Agriculture,2045,0.3
+JH,Agriculture,2050,0.3
+JH,Agriculture,2055,0.3
+JH,Agriculture,2060,0.3
+JH,Agriculture,2065,0.3
+JH,Agriculture,2070,0.3
+JH,Agriculture,2075,0.3
+JH,Agriculture,2080,0.3
+JH,Agriculture,2085,0.3
+JH,Agriculture,2090,0.3
+JH,Agriculture,2095,0.3
+JH,Agriculture,2100,0.3
+JK,Agriculture,2015,0.3
+JK,Agriculture,2020,0.3
+JK,Agriculture,2025,0.3
+JK,Agriculture,2030,0.3
+JK,Agriculture,2035,0.3
+JK,Agriculture,2040,0.3
+JK,Agriculture,2045,0.3
+JK,Agriculture,2050,0.3
+JK,Agriculture,2055,0.3
+JK,Agriculture,2060,0.3
+JK,Agriculture,2065,0.3
+JK,Agriculture,2070,0.3
+JK,Agriculture,2075,0.3
+JK,Agriculture,2080,0.3
+JK,Agriculture,2085,0.3
+JK,Agriculture,2090,0.3
+JK,Agriculture,2095,0.3
+JK,Agriculture,2100,0.3
+KA,Agriculture,2015,0.3
+KA,Agriculture,2020,0.3
+KA,Agriculture,2025,0.3
+KA,Agriculture,2030,0.3
+KA,Agriculture,2035,0.3
+KA,Agriculture,2040,0.3
+KA,Agriculture,2045,0.3
+KA,Agriculture,2050,0.3
+KA,Agriculture,2055,0.3
+KA,Agriculture,2060,0.3
+KA,Agriculture,2065,0.3
+KA,Agriculture,2070,0.3
+KA,Agriculture,2075,0.3
+KA,Agriculture,2080,0.3
+KA,Agriculture,2085,0.3
+KA,Agriculture,2090,0.3
+KA,Agriculture,2095,0.3
+KA,Agriculture,2100,0.3
+KL,Agriculture,2015,0.3
+KL,Agriculture,2020,0.3
+KL,Agriculture,2025,0.3
+KL,Agriculture,2030,0.3
+KL,Agriculture,2035,0.3
+KL,Agriculture,2040,0.3
+KL,Agriculture,2045,0.3
+KL,Agriculture,2050,0.3
+KL,Agriculture,2055,0.3
+KL,Agriculture,2060,0.3
+KL,Agriculture,2065,0.3
+KL,Agriculture,2070,0.3
+KL,Agriculture,2075,0.3
+KL,Agriculture,2080,0.3
+KL,Agriculture,2085,0.3
+KL,Agriculture,2090,0.3
+KL,Agriculture,2095,0.3
+KL,Agriculture,2100,0.3
+LA,Agriculture,2015,0.3
+LA,Agriculture,2020,0.3
+LA,Agriculture,2025,0.3
+LA,Agriculture,2030,0.3
+LA,Agriculture,2035,0.3
+LA,Agriculture,2040,0.3
+LA,Agriculture,2045,0.3
+LA,Agriculture,2050,0.3
+LA,Agriculture,2055,0.3
+LA,Agriculture,2060,0.3
+LA,Agriculture,2065,0.3
+LA,Agriculture,2070,0.3
+LA,Agriculture,2075,0.3
+LA,Agriculture,2080,0.3
+LA,Agriculture,2085,0.3
+LA,Agriculture,2090,0.3
+LA,Agriculture,2095,0.3
+LA,Agriculture,2100,0.3
+LD,Agriculture,2015,0.3
+LD,Agriculture,2020,0.3
+LD,Agriculture,2025,0.3
+LD,Agriculture,2030,0.3
+LD,Agriculture,2035,0.3
+LD,Agriculture,2040,0.3
+LD,Agriculture,2045,0.3
+LD,Agriculture,2050,0.3
+LD,Agriculture,2055,0.3
+LD,Agriculture,2060,0.3
+LD,Agriculture,2065,0.3
+LD,Agriculture,2070,0.3
+LD,Agriculture,2075,0.3
+LD,Agriculture,2080,0.3
+LD,Agriculture,2085,0.3
+LD,Agriculture,2090,0.3
+LD,Agriculture,2095,0.3
+LD,Agriculture,2100,0.3
+MH,Agriculture,2015,0.3
+MH,Agriculture,2020,0.3
+MH,Agriculture,2025,0.3
+MH,Agriculture,2030,0.3
+MH,Agriculture,2035,0.3
+MH,Agriculture,2040,0.3
+MH,Agriculture,2045,0.3
+MH,Agriculture,2050,0.3
+MH,Agriculture,2055,0.3
+MH,Agriculture,2060,0.3
+MH,Agriculture,2065,0.3
+MH,Agriculture,2070,0.3
+MH,Agriculture,2075,0.3
+MH,Agriculture,2080,0.3
+MH,Agriculture,2085,0.3
+MH,Agriculture,2090,0.3
+MH,Agriculture,2095,0.3
+MH,Agriculture,2100,0.3
+ML,Agriculture,2015,0.3
+ML,Agriculture,2020,0.3
+ML,Agriculture,2025,0.3
+ML,Agriculture,2030,0.3
+ML,Agriculture,2035,0.3
+ML,Agriculture,2040,0.3
+ML,Agriculture,2045,0.3
+ML,Agriculture,2050,0.3
+ML,Agriculture,2055,0.3
+ML,Agriculture,2060,0.3
+ML,Agriculture,2065,0.3
+ML,Agriculture,2070,0.3
+ML,Agriculture,2075,0.3
+ML,Agriculture,2080,0.3
+ML,Agriculture,2085,0.3
+ML,Agriculture,2090,0.3
+ML,Agriculture,2095,0.3
+ML,Agriculture,2100,0.3
+MN,Agriculture,2015,0.3
+MN,Agriculture,2020,0.3
+MN,Agriculture,2025,0.3
+MN,Agriculture,2030,0.3
+MN,Agriculture,2035,0.3
+MN,Agriculture,2040,0.3
+MN,Agriculture,2045,0.3
+MN,Agriculture,2050,0.3
+MN,Agriculture,2055,0.3
+MN,Agriculture,2060,0.3
+MN,Agriculture,2065,0.3
+MN,Agriculture,2070,0.3
+MN,Agriculture,2075,0.3
+MN,Agriculture,2080,0.3
+MN,Agriculture,2085,0.3
+MN,Agriculture,2090,0.3
+MN,Agriculture,2095,0.3
+MN,Agriculture,2100,0.3
+MP,Agriculture,2015,0.3
+MP,Agriculture,2020,0.3
+MP,Agriculture,2025,0.3
+MP,Agriculture,2030,0.3
+MP,Agriculture,2035,0.3
+MP,Agriculture,2040,0.3
+MP,Agriculture,2045,0.3
+MP,Agriculture,2050,0.3
+MP,Agriculture,2055,0.3
+MP,Agriculture,2060,0.3
+MP,Agriculture,2065,0.3
+MP,Agriculture,2070,0.3
+MP,Agriculture,2075,0.3
+MP,Agriculture,2080,0.3
+MP,Agriculture,2085,0.3
+MP,Agriculture,2090,0.3
+MP,Agriculture,2095,0.3
+MP,Agriculture,2100,0.3
+MZ,Agriculture,2015,0.3
+MZ,Agriculture,2020,0.3
+MZ,Agriculture,2025,0.3
+MZ,Agriculture,2030,0.3
+MZ,Agriculture,2035,0.3
+MZ,Agriculture,2040,0.3
+MZ,Agriculture,2045,0.3
+MZ,Agriculture,2050,0.3
+MZ,Agriculture,2055,0.3
+MZ,Agriculture,2060,0.3
+MZ,Agriculture,2065,0.3
+MZ,Agriculture,2070,0.3
+MZ,Agriculture,2075,0.3
+MZ,Agriculture,2080,0.3
+MZ,Agriculture,2085,0.3
+MZ,Agriculture,2090,0.3
+MZ,Agriculture,2095,0.3
+MZ,Agriculture,2100,0.3
+NL,Agriculture,2015,0.3
+NL,Agriculture,2020,0.3
+NL,Agriculture,2025,0.3
+NL,Agriculture,2030,0.3
+NL,Agriculture,2035,0.3
+NL,Agriculture,2040,0.3
+NL,Agriculture,2045,0.3
+NL,Agriculture,2050,0.3
+NL,Agriculture,2055,0.3
+NL,Agriculture,2060,0.3
+NL,Agriculture,2065,0.3
+NL,Agriculture,2070,0.3
+NL,Agriculture,2075,0.3
+NL,Agriculture,2080,0.3
+NL,Agriculture,2085,0.3
+NL,Agriculture,2090,0.3
+NL,Agriculture,2095,0.3
+NL,Agriculture,2100,0.3
+OD,Agriculture,2015,0.3
+OD,Agriculture,2020,0.3
+OD,Agriculture,2025,0.3
+OD,Agriculture,2030,0.3
+OD,Agriculture,2035,0.3
+OD,Agriculture,2040,0.3
+OD,Agriculture,2045,0.3
+OD,Agriculture,2050,0.3
+OD,Agriculture,2055,0.3
+OD,Agriculture,2060,0.3
+OD,Agriculture,2065,0.3
+OD,Agriculture,2070,0.3
+OD,Agriculture,2075,0.3
+OD,Agriculture,2080,0.3
+OD,Agriculture,2085,0.3
+OD,Agriculture,2090,0.3
+OD,Agriculture,2095,0.3
+OD,Agriculture,2100,0.3
+PB,Agriculture,2015,0.3
+PB,Agriculture,2020,0.3
+PB,Agriculture,2025,0.3
+PB,Agriculture,2030,0.3
+PB,Agriculture,2035,0.3
+PB,Agriculture,2040,0.3
+PB,Agriculture,2045,0.3
+PB,Agriculture,2050,0.3
+PB,Agriculture,2055,0.3
+PB,Agriculture,2060,0.3
+PB,Agriculture,2065,0.3
+PB,Agriculture,2070,0.3
+PB,Agriculture,2075,0.3
+PB,Agriculture,2080,0.3
+PB,Agriculture,2085,0.3
+PB,Agriculture,2090,0.3
+PB,Agriculture,2095,0.3
+PB,Agriculture,2100,0.3
+PC,Agriculture,2015,0.3
+PC,Agriculture,2020,0.3
+PC,Agriculture,2025,0.3
+PC,Agriculture,2030,0.3
+PC,Agriculture,2035,0.3
+PC,Agriculture,2040,0.3
+PC,Agriculture,2045,0.3
+PC,Agriculture,2050,0.3
+PC,Agriculture,2055,0.3
+PC,Agriculture,2060,0.3
+PC,Agriculture,2065,0.3
+PC,Agriculture,2070,0.3
+PC,Agriculture,2075,0.3
+PC,Agriculture,2080,0.3
+PC,Agriculture,2085,0.3
+PC,Agriculture,2090,0.3
+PC,Agriculture,2095,0.3
+PC,Agriculture,2100,0.3
+RJ,Agriculture,2015,0.3
+RJ,Agriculture,2020,0.3
+RJ,Agriculture,2025,0.3
+RJ,Agriculture,2030,0.3
+RJ,Agriculture,2035,0.3
+RJ,Agriculture,2040,0.3
+RJ,Agriculture,2045,0.3
+RJ,Agriculture,2050,0.3
+RJ,Agriculture,2055,0.3
+RJ,Agriculture,2060,0.3
+RJ,Agriculture,2065,0.3
+RJ,Agriculture,2070,0.3
+RJ,Agriculture,2075,0.3
+RJ,Agriculture,2080,0.3
+RJ,Agriculture,2085,0.3
+RJ,Agriculture,2090,0.3
+RJ,Agriculture,2095,0.3
+RJ,Agriculture,2100,0.3
+SK,Agriculture,2015,0.3
+SK,Agriculture,2020,0.3
+SK,Agriculture,2025,0.3
+SK,Agriculture,2030,0.3
+SK,Agriculture,2035,0.3
+SK,Agriculture,2040,0.3
+SK,Agriculture,2045,0.3
+SK,Agriculture,2050,0.3
+SK,Agriculture,2055,0.3
+SK,Agriculture,2060,0.3
+SK,Agriculture,2065,0.3
+SK,Agriculture,2070,0.3
+SK,Agriculture,2075,0.3
+SK,Agriculture,2080,0.3
+SK,Agriculture,2085,0.3
+SK,Agriculture,2090,0.3
+SK,Agriculture,2095,0.3
+SK,Agriculture,2100,0.3
+TN,Agriculture,2015,0.3
+TN,Agriculture,2020,0.3
+TN,Agriculture,2025,0.3
+TN,Agriculture,2030,0.3
+TN,Agriculture,2035,0.3
+TN,Agriculture,2040,0.3
+TN,Agriculture,2045,0.3
+TN,Agriculture,2050,0.3
+TN,Agriculture,2055,0.3
+TN,Agriculture,2060,0.3
+TN,Agriculture,2065,0.3
+TN,Agriculture,2070,0.3
+TN,Agriculture,2075,0.3
+TN,Agriculture,2080,0.3
+TN,Agriculture,2085,0.3
+TN,Agriculture,2090,0.3
+TN,Agriculture,2095,0.3
+TN,Agriculture,2100,0.3
+TR,Agriculture,2015,0.3
+TR,Agriculture,2020,0.3
+TR,Agriculture,2025,0.3
+TR,Agriculture,2030,0.3
+TR,Agriculture,2035,0.3
+TR,Agriculture,2040,0.3
+TR,Agriculture,2045,0.3
+TR,Agriculture,2050,0.3
+TR,Agriculture,2055,0.3
+TR,Agriculture,2060,0.3
+TR,Agriculture,2065,0.3
+TR,Agriculture,2070,0.3
+TR,Agriculture,2075,0.3
+TR,Agriculture,2080,0.3
+TR,Agriculture,2085,0.3
+TR,Agriculture,2090,0.3
+TR,Agriculture,2095,0.3
+TR,Agriculture,2100,0.3
+TS,Agriculture,2015,0.3
+TS,Agriculture,2020,0.3
+TS,Agriculture,2025,0.3
+TS,Agriculture,2030,0.3
+TS,Agriculture,2035,0.3
+TS,Agriculture,2040,0.3
+TS,Agriculture,2045,0.3
+TS,Agriculture,2050,0.3
+TS,Agriculture,2055,0.3
+TS,Agriculture,2060,0.3
+TS,Agriculture,2065,0.3
+TS,Agriculture,2070,0.3
+TS,Agriculture,2075,0.3
+TS,Agriculture,2080,0.3
+TS,Agriculture,2085,0.3
+TS,Agriculture,2090,0.3
+TS,Agriculture,2095,0.3
+TS,Agriculture,2100,0.3
+UK,Agriculture,2015,0.3
+UK,Agriculture,2020,0.3
+UK,Agriculture,2025,0.3
+UK,Agriculture,2030,0.3
+UK,Agriculture,2035,0.3
+UK,Agriculture,2040,0.3
+UK,Agriculture,2045,0.3
+UK,Agriculture,2050,0.3
+UK,Agriculture,2055,0.3
+UK,Agriculture,2060,0.3
+UK,Agriculture,2065,0.3
+UK,Agriculture,2070,0.3
+UK,Agriculture,2075,0.3
+UK,Agriculture,2080,0.3
+UK,Agriculture,2085,0.3
+UK,Agriculture,2090,0.3
+UK,Agriculture,2095,0.3
+UK,Agriculture,2100,0.3
+UP,Agriculture,2015,0.3
+UP,Agriculture,2020,0.3
+UP,Agriculture,2025,0.3
+UP,Agriculture,2030,0.3
+UP,Agriculture,2035,0.3
+UP,Agriculture,2040,0.3
+UP,Agriculture,2045,0.3
+UP,Agriculture,2050,0.3
+UP,Agriculture,2055,0.3
+UP,Agriculture,2060,0.3
+UP,Agriculture,2065,0.3
+UP,Agriculture,2070,0.3
+UP,Agriculture,2075,0.3
+UP,Agriculture,2080,0.3
+UP,Agriculture,2085,0.3
+UP,Agriculture,2090,0.3
+UP,Agriculture,2095,0.3
+UP,Agriculture,2100,0.3
+WB,Agriculture,2015,0.3
+WB,Agriculture,2020,0.3
+WB,Agriculture,2025,0.3
+WB,Agriculture,2030,0.3
+WB,Agriculture,2035,0.3
+WB,Agriculture,2040,0.3
+WB,Agriculture,2045,0.3
+WB,Agriculture,2050,0.3
+WB,Agriculture,2055,0.3
+WB,Agriculture,2060,0.3
+WB,Agriculture,2065,0.3
+WB,Agriculture,2070,0.3
+WB,Agriculture,2075,0.3
+WB,Agriculture,2080,0.3
+WB,Agriculture,2085,0.3
+WB,Agriculture,2090,0.3
+WB,Agriculture,2095,0.3
+WB,Agriculture,2100,0.3
+AN,Cement,2015,1.42
+AN,Cement,2020,1.278642534
+AN,Cement,2025,1.053499388
+AN,Cement,2030,0.867999407
+AN,Cement,2035,0.715162229
+AN,Cement,2040,0.589236593
+AN,Cement,2045,0.485483921
+AN,Cement,2050,0.4
+AN,Cement,2055,0.339714867
+AN,Cement,2060,0.28676171
+AN,Cement,2065,0.268839104
+AN,Cement,2070,0.253360489
+AN,Cement,2075,0.237881874
+AN,Cement,2080,0.224032586
+AN,Cement,2085,0.210997963
+AN,Cement,2090,0.208553972
+AN,Cement,2095,0.205295316
+AN,Cement,2100,0.20203666
+AP,Cement,2015,1.35
+AP,Cement,2020,1.21561086
+AP,Cement,2025,1.00156632
+AP,Cement,2030,0.825210704
+AP,Cement,2035,0.679907753
+AP,Cement,2040,0.560189719
+AP,Cement,2045,0.461551615
+AP,Cement,2050,0.38028169
+AP,Cement,2055,0.322968359
+AP,Cement,2060,0.272625569
+AP,Cement,2065,0.255586472
+AP,Cement,2070,0.240870887
+AP,Cement,2075,0.226155303
+AP,Cement,2080,0.212988726
+AP,Cement,2085,0.200596655
+AP,Cement,2090,0.198273142
+AP,Cement,2095,0.195175124
+AP,Cement,2100,0.192077106
+AR,Cement,2015,1.42
+AR,Cement,2020,1.278642534
+AR,Cement,2025,1.053499388
+AR,Cement,2030,0.867999407
+AR,Cement,2035,0.715162229
+AR,Cement,2040,0.589236593
+AR,Cement,2045,0.485483921
+AR,Cement,2050,0.4
+AR,Cement,2055,0.339714867
+AR,Cement,2060,0.28676171
+AR,Cement,2065,0.268839104
+AR,Cement,2070,0.253360489
+AR,Cement,2075,0.237881874
+AR,Cement,2080,0.224032586
+AR,Cement,2085,0.210997963
+AR,Cement,2090,0.208553972
+AR,Cement,2095,0.205295316
+AR,Cement,2100,0.20203666
+AS,Cement,2015,1.48
+AS,Cement,2020,1.332669683
+AS,Cement,2025,1.098013447
+AS,Cement,2030,0.904675438
+AS,Cement,2035,0.745380351
+AS,Cement,2040,0.614133914
+AS,Cement,2045,0.505997326
+AS,Cement,2050,0.416901408
+AS,Cement,2055,0.354069016
+AS,Cement,2060,0.298878402
+AS,Cement,2065,0.280198503
+AS,Cement,2070,0.264065862
+AS,Cement,2075,0.247933221
+AS,Cement,2080,0.233498752
+AS,Cement,2085,0.21991337
+AS,Cement,2090,0.217366112
+AS,Cement,2095,0.213969766
+AS,Cement,2100,0.21057342
+BR,Cement,2015,1.48
+BR,Cement,2020,1.332669683
+BR,Cement,2025,1.098013447
+BR,Cement,2030,0.904675438
+BR,Cement,2035,0.745380351
+BR,Cement,2040,0.614133914
+BR,Cement,2045,0.505997326
+BR,Cement,2050,0.416901408
+BR,Cement,2055,0.354069016
+BR,Cement,2060,0.298878402
+BR,Cement,2065,0.280198503
+BR,Cement,2070,0.264065862
+BR,Cement,2075,0.247933221
+BR,Cement,2080,0.233498752
+BR,Cement,2085,0.21991337
+BR,Cement,2090,0.217366112
+BR,Cement,2095,0.213969766
+BR,Cement,2100,0.21057342
+CG,Cement,2015,2
+CG,Cement,2020,1.800904977
+CG,Cement,2025,1.483801955
+CG,Cement,2030,1.222534376
+CG,Cement,2035,1.007270745
+CG,Cement,2040,0.829910694
+CG,Cement,2045,0.68378017
+CG,Cement,2050,0.563380282
+CG,Cement,2055,0.478471644
+CG,Cement,2060,0.403889732
+CG,Cement,2065,0.378646625
+CG,Cement,2070,0.356845759
+CG,Cement,2075,0.335044893
+CG,Cement,2080,0.315538854
+CG,Cement,2085,0.29718023
+CG,Cement,2090,0.293737989
+CG,Cement,2095,0.289148332
+CG,Cement,2100,0.284558676
+CH,Cement,2015,1.42
+CH,Cement,2020,1.278642534
+CH,Cement,2025,1.053499388
+CH,Cement,2030,0.867999407
+CH,Cement,2035,0.715162229
+CH,Cement,2040,0.589236593
+CH,Cement,2045,0.485483921
+CH,Cement,2050,0.4
+CH,Cement,2055,0.339714867
+CH,Cement,2060,0.28676171
+CH,Cement,2065,0.268839104
+CH,Cement,2070,0.253360489
+CH,Cement,2075,0.237881874
+CH,Cement,2080,0.224032586
+CH,Cement,2085,0.210997963
+CH,Cement,2090,0.208553972
+CH,Cement,2095,0.205295316
+CH,Cement,2100,0.20203666
+DD,Cement,2015,1.42
+DD,Cement,2020,1.278642534
+DD,Cement,2025,1.053499388
+DD,Cement,2030,0.867999407
+DD,Cement,2035,0.715162229
+DD,Cement,2040,0.589236593
+DD,Cement,2045,0.485483921
+DD,Cement,2050,0.4
+DD,Cement,2055,0.339714867
+DD,Cement,2060,0.28676171
+DD,Cement,2065,0.268839104
+DD,Cement,2070,0.253360489
+DD,Cement,2075,0.237881874
+DD,Cement,2080,0.224032586
+DD,Cement,2085,0.210997963
+DD,Cement,2090,0.208553972
+DD,Cement,2095,0.205295316
+DD,Cement,2100,0.20203666
+DL,Cement,2015,1.42
+DL,Cement,2020,1.278642534
+DL,Cement,2025,1.053499388
+DL,Cement,2030,0.867999407
+DL,Cement,2035,0.715162229
+DL,Cement,2040,0.589236593
+DL,Cement,2045,0.485483921
+DL,Cement,2050,0.4
+DL,Cement,2055,0.339714867
+DL,Cement,2060,0.28676171
+DL,Cement,2065,0.268839104
+DL,Cement,2070,0.253360489
+DL,Cement,2075,0.237881874
+DL,Cement,2080,0.224032586
+DL,Cement,2085,0.210997963
+DL,Cement,2090,0.208553972
+DL,Cement,2095,0.205295316
+DL,Cement,2100,0.20203666
+DN,Cement,2015,1.42
+DN,Cement,2020,1.278642534
+DN,Cement,2025,1.053499388
+DN,Cement,2030,0.867999407
+DN,Cement,2035,0.715162229
+DN,Cement,2040,0.589236593
+DN,Cement,2045,0.485483921
+DN,Cement,2050,0.4
+DN,Cement,2055,0.339714867
+DN,Cement,2060,0.28676171
+DN,Cement,2065,0.268839104
+DN,Cement,2070,0.253360489
+DN,Cement,2075,0.237881874
+DN,Cement,2080,0.224032586
+DN,Cement,2085,0.210997963
+DN,Cement,2090,0.208553972
+DN,Cement,2095,0.205295316
+DN,Cement,2100,0.20203666
+GA,Cement,2015,1.3
+GA,Cement,2020,1.170588235
+GA,Cement,2025,0.964471271
+GA,Cement,2030,0.794647344
+GA,Cement,2035,0.654725984
+GA,Cement,2040,0.539441951
+GA,Cement,2045,0.444457111
+GA,Cement,2050,0.366197183
+GA,Cement,2055,0.311006568
+GA,Cement,2060,0.262528326
+GA,Cement,2065,0.246120306
+GA,Cement,2070,0.231949743
+GA,Cement,2075,0.21777918
+GA,Cement,2080,0.205100255
+GA,Cement,2085,0.193167149
+GA,Cement,2090,0.190929693
+GA,Cement,2095,0.187946416
+GA,Cement,2100,0.184963139
+GJ,Cement,2015,1
+GJ,Cement,2020,0.900452489
+GJ,Cement,2025,0.741900977
+GJ,Cement,2030,0.611267188
+GJ,Cement,2035,0.503635373
+GJ,Cement,2040,0.414955347
+GJ,Cement,2045,0.341890085
+GJ,Cement,2050,0.281690141
+GJ,Cement,2055,0.239235822
+GJ,Cement,2060,0.201944866
+GJ,Cement,2065,0.189323313
+GJ,Cement,2070,0.17842288
+GJ,Cement,2075,0.167522446
+GJ,Cement,2080,0.157769427
+GJ,Cement,2085,0.148590115
+GJ,Cement,2090,0.146868994
+GJ,Cement,2095,0.144574166
+GJ,Cement,2100,0.142279338
+HP,Cement,2015,1.42
+HP,Cement,2020,1.278642534
+HP,Cement,2025,1.053499388
+HP,Cement,2030,0.867999407
+HP,Cement,2035,0.715162229
+HP,Cement,2040,0.589236593
+HP,Cement,2045,0.485483921
+HP,Cement,2050,0.4
+HP,Cement,2055,0.339714867
+HP,Cement,2060,0.28676171
+HP,Cement,2065,0.268839104
+HP,Cement,2070,0.253360489
+HP,Cement,2075,0.237881874
+HP,Cement,2080,0.224032586
+HP,Cement,2085,0.210997963
+HP,Cement,2090,0.208553972
+HP,Cement,2095,0.205295316
+HP,Cement,2100,0.20203666
+HR,Cement,2015,1.42
+HR,Cement,2020,1.278642534
+HR,Cement,2025,1.053499388
+HR,Cement,2030,0.867999407
+HR,Cement,2035,0.715162229
+HR,Cement,2040,0.589236593
+HR,Cement,2045,0.485483921
+HR,Cement,2050,0.4
+HR,Cement,2055,0.339714867
+HR,Cement,2060,0.28676171
+HR,Cement,2065,0.268839104
+HR,Cement,2070,0.253360489
+HR,Cement,2075,0.237881874
+HR,Cement,2080,0.224032586
+HR,Cement,2085,0.210997963
+HR,Cement,2090,0.208553972
+HR,Cement,2095,0.205295316
+HR,Cement,2100,0.20203666
+JH,Cement,2015,1.42
+JH,Cement,2020,1.278642534
+JH,Cement,2025,1.053499388
+JH,Cement,2030,0.867999407
+JH,Cement,2035,0.715162229
+JH,Cement,2040,0.589236593
+JH,Cement,2045,0.485483921
+JH,Cement,2050,0.4
+JH,Cement,2055,0.339714867
+JH,Cement,2060,0.28676171
+JH,Cement,2065,0.268839104
+JH,Cement,2070,0.253360489
+JH,Cement,2075,0.237881874
+JH,Cement,2080,0.224032586
+JH,Cement,2085,0.210997963
+JH,Cement,2090,0.208553972
+JH,Cement,2095,0.205295316
+JH,Cement,2100,0.20203666
+JK,Cement,2015,1.42
+JK,Cement,2020,1.278642534
+JK,Cement,2025,1.053499388
+JK,Cement,2030,0.867999407
+JK,Cement,2035,0.715162229
+JK,Cement,2040,0.589236593
+JK,Cement,2045,0.485483921
+JK,Cement,2050,0.4
+JK,Cement,2055,0.339714867
+JK,Cement,2060,0.28676171
+JK,Cement,2065,0.268839104
+JK,Cement,2070,0.253360489
+JK,Cement,2075,0.237881874
+JK,Cement,2080,0.224032586
+JK,Cement,2085,0.210997963
+JK,Cement,2090,0.208553972
+JK,Cement,2095,0.205295316
+JK,Cement,2100,0.20203666
+KA,Cement,2015,1.48
+KA,Cement,2020,1.332669683
+KA,Cement,2025,1.098013447
+KA,Cement,2030,0.904675438
+KA,Cement,2035,0.745380351
+KA,Cement,2040,0.614133914
+KA,Cement,2045,0.505997326
+KA,Cement,2050,0.416901408
+KA,Cement,2055,0.354069016
+KA,Cement,2060,0.298878402
+KA,Cement,2065,0.280198503
+KA,Cement,2070,0.264065862
+KA,Cement,2075,0.247933221
+KA,Cement,2080,0.233498752
+KA,Cement,2085,0.21991337
+KA,Cement,2090,0.217366112
+KA,Cement,2095,0.213969766
+KA,Cement,2100,0.21057342
+KL,Cement,2015,1.42
+KL,Cement,2020,1.278642534
+KL,Cement,2025,1.053499388
+KL,Cement,2030,0.867999407
+KL,Cement,2035,0.715162229
+KL,Cement,2040,0.589236593
+KL,Cement,2045,0.485483921
+KL,Cement,2050,0.4
+KL,Cement,2055,0.339714867
+KL,Cement,2060,0.28676171
+KL,Cement,2065,0.268839104
+KL,Cement,2070,0.253360489
+KL,Cement,2075,0.237881874
+KL,Cement,2080,0.224032586
+KL,Cement,2085,0.210997963
+KL,Cement,2090,0.208553972
+KL,Cement,2095,0.205295316
+KL,Cement,2100,0.20203666
+LA,Cement,2015,1.42
+LA,Cement,2020,1.278642534
+LA,Cement,2025,1.053499388
+LA,Cement,2030,0.867999407
+LA,Cement,2035,0.715162229
+LA,Cement,2040,0.589236593
+LA,Cement,2045,0.485483921
+LA,Cement,2050,0.4
+LA,Cement,2055,0.339714867
+LA,Cement,2060,0.28676171
+LA,Cement,2065,0.268839104
+LA,Cement,2070,0.253360489
+LA,Cement,2075,0.237881874
+LA,Cement,2080,0.224032586
+LA,Cement,2085,0.210997963
+LA,Cement,2090,0.208553972
+LA,Cement,2095,0.205295316
+LA,Cement,2100,0.20203666
+LD,Cement,2015,1.42
+LD,Cement,2020,1.278642534
+LD,Cement,2025,1.053499388
+LD,Cement,2030,0.867999407
+LD,Cement,2035,0.715162229
+LD,Cement,2040,0.589236593
+LD,Cement,2045,0.485483921
+LD,Cement,2050,0.4
+LD,Cement,2055,0.339714867
+LD,Cement,2060,0.28676171
+LD,Cement,2065,0.268839104
+LD,Cement,2070,0.253360489
+LD,Cement,2075,0.237881874
+LD,Cement,2080,0.224032586
+LD,Cement,2085,0.210997963
+LD,Cement,2090,0.208553972
+LD,Cement,2095,0.205295316
+LD,Cement,2100,0.20203666
+MH,Cement,2015,1.48
+MH,Cement,2020,1.332669683
+MH,Cement,2025,1.098013447
+MH,Cement,2030,0.904675438
+MH,Cement,2035,0.745380351
+MH,Cement,2040,0.614133914
+MH,Cement,2045,0.505997326
+MH,Cement,2050,0.416901408
+MH,Cement,2055,0.354069016
+MH,Cement,2060,0.298878402
+MH,Cement,2065,0.280198503
+MH,Cement,2070,0.264065862
+MH,Cement,2075,0.247933221
+MH,Cement,2080,0.233498752
+MH,Cement,2085,0.21991337
+MH,Cement,2090,0.217366112
+MH,Cement,2095,0.213969766
+MH,Cement,2100,0.21057342
+ML,Cement,2015,1.42
+ML,Cement,2020,1.278642534
+ML,Cement,2025,1.053499388
+ML,Cement,2030,0.867999407
+ML,Cement,2035,0.715162229
+ML,Cement,2040,0.589236593
+ML,Cement,2045,0.485483921
+ML,Cement,2050,0.4
+ML,Cement,2055,0.339714867
+ML,Cement,2060,0.28676171
+ML,Cement,2065,0.268839104
+ML,Cement,2070,0.253360489
+ML,Cement,2075,0.237881874
+ML,Cement,2080,0.224032586
+ML,Cement,2085,0.210997963
+ML,Cement,2090,0.208553972
+ML,Cement,2095,0.205295316
+ML,Cement,2100,0.20203666
+MN,Cement,2015,1.42
+MN,Cement,2020,1.278642534
+MN,Cement,2025,1.053499388
+MN,Cement,2030,0.867999407
+MN,Cement,2035,0.715162229
+MN,Cement,2040,0.589236593
+MN,Cement,2045,0.485483921
+MN,Cement,2050,0.4
+MN,Cement,2055,0.339714867
+MN,Cement,2060,0.28676171
+MN,Cement,2065,0.268839104
+MN,Cement,2070,0.253360489
+MN,Cement,2075,0.237881874
+MN,Cement,2080,0.224032586
+MN,Cement,2085,0.210997963
+MN,Cement,2090,0.208553972
+MN,Cement,2095,0.205295316
+MN,Cement,2100,0.20203666
+MP,Cement,2015,1.42
+MP,Cement,2020,1.278642534
+MP,Cement,2025,1.053499388
+MP,Cement,2030,0.867999407
+MP,Cement,2035,0.715162229
+MP,Cement,2040,0.589236593
+MP,Cement,2045,0.485483921
+MP,Cement,2050,0.4
+MP,Cement,2055,0.339714867
+MP,Cement,2060,0.28676171
+MP,Cement,2065,0.268839104
+MP,Cement,2070,0.253360489
+MP,Cement,2075,0.237881874
+MP,Cement,2080,0.224032586
+MP,Cement,2085,0.210997963
+MP,Cement,2090,0.208553972
+MP,Cement,2095,0.205295316
+MP,Cement,2100,0.20203666
+MZ,Cement,2015,1.42
+MZ,Cement,2020,1.278642534
+MZ,Cement,2025,1.053499388
+MZ,Cement,2030,0.867999407
+MZ,Cement,2035,0.715162229
+MZ,Cement,2040,0.589236593
+MZ,Cement,2045,0.485483921
+MZ,Cement,2050,0.4
+MZ,Cement,2055,0.339714867
+MZ,Cement,2060,0.28676171
+MZ,Cement,2065,0.268839104
+MZ,Cement,2070,0.253360489
+MZ,Cement,2075,0.237881874
+MZ,Cement,2080,0.224032586
+MZ,Cement,2085,0.210997963
+MZ,Cement,2090,0.208553972
+MZ,Cement,2095,0.205295316
+MZ,Cement,2100,0.20203666
+NL,Cement,2015,1.42
+NL,Cement,2020,1.278642534
+NL,Cement,2025,1.053499388
+NL,Cement,2030,0.867999407
+NL,Cement,2035,0.715162229
+NL,Cement,2040,0.589236593
+NL,Cement,2045,0.485483921
+NL,Cement,2050,0.4
+NL,Cement,2055,0.339714867
+NL,Cement,2060,0.28676171
+NL,Cement,2065,0.268839104
+NL,Cement,2070,0.253360489
+NL,Cement,2075,0.237881874
+NL,Cement,2080,0.224032586
+NL,Cement,2085,0.210997963
+NL,Cement,2090,0.208553972
+NL,Cement,2095,0.205295316
+NL,Cement,2100,0.20203666
+OD,Cement,2015,1.42
+OD,Cement,2020,1.278642534
+OD,Cement,2025,1.053499388
+OD,Cement,2030,0.867999407
+OD,Cement,2035,0.715162229
+OD,Cement,2040,0.589236593
+OD,Cement,2045,0.485483921
+OD,Cement,2050,0.4
+OD,Cement,2055,0.339714867
+OD,Cement,2060,0.28676171
+OD,Cement,2065,0.268839104
+OD,Cement,2070,0.253360489
+OD,Cement,2075,0.237881874
+OD,Cement,2080,0.224032586
+OD,Cement,2085,0.210997963
+OD,Cement,2090,0.208553972
+OD,Cement,2095,0.205295316
+OD,Cement,2100,0.20203666
+PB,Cement,2015,1.42
+PB,Cement,2020,1.278642534
+PB,Cement,2025,1.053499388
+PB,Cement,2030,0.867999407
+PB,Cement,2035,0.715162229
+PB,Cement,2040,0.589236593
+PB,Cement,2045,0.485483921
+PB,Cement,2050,0.4
+PB,Cement,2055,0.339714867
+PB,Cement,2060,0.28676171
+PB,Cement,2065,0.268839104
+PB,Cement,2070,0.253360489
+PB,Cement,2075,0.237881874
+PB,Cement,2080,0.224032586
+PB,Cement,2085,0.210997963
+PB,Cement,2090,0.208553972
+PB,Cement,2095,0.205295316
+PB,Cement,2100,0.20203666
+PC,Cement,2015,1.42
+PC,Cement,2020,1.278642534
+PC,Cement,2025,1.053499388
+PC,Cement,2030,0.867999407
+PC,Cement,2035,0.715162229
+PC,Cement,2040,0.589236593
+PC,Cement,2045,0.485483921
+PC,Cement,2050,0.4
+PC,Cement,2055,0.339714867
+PC,Cement,2060,0.28676171
+PC,Cement,2065,0.268839104
+PC,Cement,2070,0.253360489
+PC,Cement,2075,0.237881874
+PC,Cement,2080,0.224032586
+PC,Cement,2085,0.210997963
+PC,Cement,2090,0.208553972
+PC,Cement,2095,0.205295316
+PC,Cement,2100,0.20203666
+RJ,Cement,2015,1.42
+RJ,Cement,2020,1.278642534
+RJ,Cement,2025,1.053499388
+RJ,Cement,2030,0.867999407
+RJ,Cement,2035,0.715162229
+RJ,Cement,2040,0.589236593
+RJ,Cement,2045,0.485483921
+RJ,Cement,2050,0.4
+RJ,Cement,2055,0.339714867
+RJ,Cement,2060,0.28676171
+RJ,Cement,2065,0.268839104
+RJ,Cement,2070,0.253360489
+RJ,Cement,2075,0.237881874
+RJ,Cement,2080,0.224032586
+RJ,Cement,2085,0.210997963
+RJ,Cement,2090,0.208553972
+RJ,Cement,2095,0.205295316
+RJ,Cement,2100,0.20203666
+SK,Cement,2015,1.42
+SK,Cement,2020,1.278642534
+SK,Cement,2025,1.053499388
+SK,Cement,2030,0.867999407
+SK,Cement,2035,0.715162229
+SK,Cement,2040,0.589236593
+SK,Cement,2045,0.485483921
+SK,Cement,2050,0.4
+SK,Cement,2055,0.339714867
+SK,Cement,2060,0.28676171
+SK,Cement,2065,0.268839104
+SK,Cement,2070,0.253360489
+SK,Cement,2075,0.237881874
+SK,Cement,2080,0.224032586
+SK,Cement,2085,0.210997963
+SK,Cement,2090,0.208553972
+SK,Cement,2095,0.205295316
+SK,Cement,2100,0.20203666
+TN,Cement,2015,1.35
+TN,Cement,2020,1.21561086
+TN,Cement,2025,1.00156632
+TN,Cement,2030,0.825210704
+TN,Cement,2035,0.679907753
+TN,Cement,2040,0.560189719
+TN,Cement,2045,0.461551615
+TN,Cement,2050,0.38028169
+TN,Cement,2055,0.322968359
+TN,Cement,2060,0.272625569
+TN,Cement,2065,0.255586472
+TN,Cement,2070,0.240870887
+TN,Cement,2075,0.226155303
+TN,Cement,2080,0.212988726
+TN,Cement,2085,0.200596655
+TN,Cement,2090,0.198273142
+TN,Cement,2095,0.195175124
+TN,Cement,2100,0.192077106
+TR,Cement,2015,1.42
+TR,Cement,2020,1.278642534
+TR,Cement,2025,1.053499388
+TR,Cement,2030,0.867999407
+TR,Cement,2035,0.715162229
+TR,Cement,2040,0.589236593
+TR,Cement,2045,0.485483921
+TR,Cement,2050,0.4
+TR,Cement,2055,0.339714867
+TR,Cement,2060,0.28676171
+TR,Cement,2065,0.268839104
+TR,Cement,2070,0.253360489
+TR,Cement,2075,0.237881874
+TR,Cement,2080,0.224032586
+TR,Cement,2085,0.210997963
+TR,Cement,2090,0.208553972
+TR,Cement,2095,0.205295316
+TR,Cement,2100,0.20203666
+TS,Cement,2015,1.32
+TS,Cement,2020,1.188597285
+TS,Cement,2025,0.97930929
+TS,Cement,2030,0.806872688
+TS,Cement,2035,0.664798692
+TS,Cement,2040,0.547741058
+TS,Cement,2045,0.451294912
+TS,Cement,2050,0.371830986
+TS,Cement,2055,0.315791285
+TS,Cement,2060,0.266567223
+TS,Cement,2065,0.249906773
+TS,Cement,2070,0.235518201
+TS,Cement,2075,0.221129629
+TS,Cement,2080,0.208255643
+TS,Cement,2085,0.196138952
+TS,Cement,2090,0.193867073
+TS,Cement,2095,0.190837899
+TS,Cement,2100,0.187808726
+UK,Cement,2015,1.42
+UK,Cement,2020,1.278642534
+UK,Cement,2025,1.053499388
+UK,Cement,2030,0.867999407
+UK,Cement,2035,0.715162229
+UK,Cement,2040,0.589236593
+UK,Cement,2045,0.485483921
+UK,Cement,2050,0.4
+UK,Cement,2055,0.339714867
+UK,Cement,2060,0.28676171
+UK,Cement,2065,0.268839104
+UK,Cement,2070,0.253360489
+UK,Cement,2075,0.237881874
+UK,Cement,2080,0.224032586
+UK,Cement,2085,0.210997963
+UK,Cement,2090,0.208553972
+UK,Cement,2095,0.205295316
+UK,Cement,2100,0.20203666
+UP,Cement,2015,1.42
+UP,Cement,2020,1.278642534
+UP,Cement,2025,1.053499388
+UP,Cement,2030,0.867999407
+UP,Cement,2035,0.715162229
+UP,Cement,2040,0.589236593
+UP,Cement,2045,0.485483921
+UP,Cement,2050,0.4
+UP,Cement,2055,0.339714867
+UP,Cement,2060,0.28676171
+UP,Cement,2065,0.268839104
+UP,Cement,2070,0.253360489
+UP,Cement,2075,0.237881874
+UP,Cement,2080,0.224032586
+UP,Cement,2085,0.210997963
+UP,Cement,2090,0.208553972
+UP,Cement,2095,0.205295316
+UP,Cement,2100,0.20203666
+WB,Cement,2015,1.48
+WB,Cement,2020,1.332669683
+WB,Cement,2025,1.098013447
+WB,Cement,2030,0.904675438
+WB,Cement,2035,0.745380351
+WB,Cement,2040,0.614133914
+WB,Cement,2045,0.505997326
+WB,Cement,2050,0.416901408
+WB,Cement,2055,0.354069016
+WB,Cement,2060,0.298878402
+WB,Cement,2065,0.280198503
+WB,Cement,2070,0.264065862
+WB,Cement,2075,0.247933221
+WB,Cement,2080,0.233498752
+WB,Cement,2085,0.21991337
+WB,Cement,2090,0.217366112
+WB,Cement,2095,0.213969766
+WB,Cement,2100,0.21057342
+AN,Chem_Fert,2015,0.65
+AN,Chem_Fert,2020,0.585294118
+AN,Chem_Fert,2025,0.52
+AN,Chem_Fert,2030,0.476470588
+AN,Chem_Fert,2035,0.430588235
+AN,Chem_Fert,2040,0.382941176
+AN,Chem_Fert,2045,0.335294118
+AN,Chem_Fert,2050,0.288823529
+AN,Chem_Fert,2055,0.245294118
+AN,Chem_Fert,2060,0.207058824
+AN,Chem_Fert,2065,0.194117647
+AN,Chem_Fert,2070,0.182941176
+AN,Chem_Fert,2075,0.171764706
+AN,Chem_Fert,2080,0.161764706
+AN,Chem_Fert,2085,0.152352941
+AN,Chem_Fert,2090,0.150588235
+AN,Chem_Fert,2095,0.148235294
+AN,Chem_Fert,2100,0.145882353
+AP,Chem_Fert,2015,0.65
+AP,Chem_Fert,2020,0.585294118
+AP,Chem_Fert,2025,0.52
+AP,Chem_Fert,2030,0.476470588
+AP,Chem_Fert,2035,0.430588235
+AP,Chem_Fert,2040,0.382941176
+AP,Chem_Fert,2045,0.335294118
+AP,Chem_Fert,2050,0.288823529
+AP,Chem_Fert,2055,0.245294118
+AP,Chem_Fert,2060,0.207058824
+AP,Chem_Fert,2065,0.194117647
+AP,Chem_Fert,2070,0.182941176
+AP,Chem_Fert,2075,0.171764706
+AP,Chem_Fert,2080,0.161764706
+AP,Chem_Fert,2085,0.152352941
+AP,Chem_Fert,2090,0.150588235
+AP,Chem_Fert,2095,0.148235294
+AP,Chem_Fert,2100,0.145882353
+AR,Chem_Fert,2015,0.65
+AR,Chem_Fert,2020,0.585294118
+AR,Chem_Fert,2025,0.52
+AR,Chem_Fert,2030,0.476470588
+AR,Chem_Fert,2035,0.430588235
+AR,Chem_Fert,2040,0.382941176
+AR,Chem_Fert,2045,0.335294118
+AR,Chem_Fert,2050,0.288823529
+AR,Chem_Fert,2055,0.245294118
+AR,Chem_Fert,2060,0.207058824
+AR,Chem_Fert,2065,0.194117647
+AR,Chem_Fert,2070,0.182941176
+AR,Chem_Fert,2075,0.171764706
+AR,Chem_Fert,2080,0.161764706
+AR,Chem_Fert,2085,0.152352941
+AR,Chem_Fert,2090,0.150588235
+AR,Chem_Fert,2095,0.148235294
+AR,Chem_Fert,2100,0.145882353
+AS,Chem_Fert,2015,0.65
+AS,Chem_Fert,2020,0.585294118
+AS,Chem_Fert,2025,0.52
+AS,Chem_Fert,2030,0.476470588
+AS,Chem_Fert,2035,0.430588235
+AS,Chem_Fert,2040,0.382941176
+AS,Chem_Fert,2045,0.335294118
+AS,Chem_Fert,2050,0.288823529
+AS,Chem_Fert,2055,0.245294118
+AS,Chem_Fert,2060,0.207058824
+AS,Chem_Fert,2065,0.194117647
+AS,Chem_Fert,2070,0.182941176
+AS,Chem_Fert,2075,0.171764706
+AS,Chem_Fert,2080,0.161764706
+AS,Chem_Fert,2085,0.152352941
+AS,Chem_Fert,2090,0.150588235
+AS,Chem_Fert,2095,0.148235294
+AS,Chem_Fert,2100,0.145882353
+BR,Chem_Fert,2015,0.65
+BR,Chem_Fert,2020,0.585294118
+BR,Chem_Fert,2025,0.52
+BR,Chem_Fert,2030,0.476470588
+BR,Chem_Fert,2035,0.430588235
+BR,Chem_Fert,2040,0.382941176
+BR,Chem_Fert,2045,0.335294118
+BR,Chem_Fert,2050,0.288823529
+BR,Chem_Fert,2055,0.245294118
+BR,Chem_Fert,2060,0.207058824
+BR,Chem_Fert,2065,0.194117647
+BR,Chem_Fert,2070,0.182941176
+BR,Chem_Fert,2075,0.171764706
+BR,Chem_Fert,2080,0.161764706
+BR,Chem_Fert,2085,0.152352941
+BR,Chem_Fert,2090,0.150588235
+BR,Chem_Fert,2095,0.148235294
+BR,Chem_Fert,2100,0.145882353
+CG,Chem_Fert,2015,0.65
+CG,Chem_Fert,2020,0.585294118
+CG,Chem_Fert,2025,0.52
+CG,Chem_Fert,2030,0.476470588
+CG,Chem_Fert,2035,0.430588235
+CG,Chem_Fert,2040,0.382941176
+CG,Chem_Fert,2045,0.335294118
+CG,Chem_Fert,2050,0.288823529
+CG,Chem_Fert,2055,0.245294118
+CG,Chem_Fert,2060,0.207058824
+CG,Chem_Fert,2065,0.194117647
+CG,Chem_Fert,2070,0.182941176
+CG,Chem_Fert,2075,0.171764706
+CG,Chem_Fert,2080,0.161764706
+CG,Chem_Fert,2085,0.152352941
+CG,Chem_Fert,2090,0.150588235
+CG,Chem_Fert,2095,0.148235294
+CG,Chem_Fert,2100,0.145882353
+CH,Chem_Fert,2015,0.65
+CH,Chem_Fert,2020,0.585294118
+CH,Chem_Fert,2025,0.52
+CH,Chem_Fert,2030,0.476470588
+CH,Chem_Fert,2035,0.430588235
+CH,Chem_Fert,2040,0.382941176
+CH,Chem_Fert,2045,0.335294118
+CH,Chem_Fert,2050,0.288823529
+CH,Chem_Fert,2055,0.245294118
+CH,Chem_Fert,2060,0.207058824
+CH,Chem_Fert,2065,0.194117647
+CH,Chem_Fert,2070,0.182941176
+CH,Chem_Fert,2075,0.171764706
+CH,Chem_Fert,2080,0.161764706
+CH,Chem_Fert,2085,0.152352941
+CH,Chem_Fert,2090,0.150588235
+CH,Chem_Fert,2095,0.148235294
+CH,Chem_Fert,2100,0.145882353
+DD,Chem_Fert,2015,0.65
+DD,Chem_Fert,2020,0.585294118
+DD,Chem_Fert,2025,0.52
+DD,Chem_Fert,2030,0.476470588
+DD,Chem_Fert,2035,0.430588235
+DD,Chem_Fert,2040,0.382941176
+DD,Chem_Fert,2045,0.335294118
+DD,Chem_Fert,2050,0.288823529
+DD,Chem_Fert,2055,0.245294118
+DD,Chem_Fert,2060,0.207058824
+DD,Chem_Fert,2065,0.194117647
+DD,Chem_Fert,2070,0.182941176
+DD,Chem_Fert,2075,0.171764706
+DD,Chem_Fert,2080,0.161764706
+DD,Chem_Fert,2085,0.152352941
+DD,Chem_Fert,2090,0.150588235
+DD,Chem_Fert,2095,0.148235294
+DD,Chem_Fert,2100,0.145882353
+DL,Chem_Fert,2015,0.65
+DL,Chem_Fert,2020,0.585294118
+DL,Chem_Fert,2025,0.52
+DL,Chem_Fert,2030,0.476470588
+DL,Chem_Fert,2035,0.430588235
+DL,Chem_Fert,2040,0.382941176
+DL,Chem_Fert,2045,0.335294118
+DL,Chem_Fert,2050,0.288823529
+DL,Chem_Fert,2055,0.245294118
+DL,Chem_Fert,2060,0.207058824
+DL,Chem_Fert,2065,0.194117647
+DL,Chem_Fert,2070,0.182941176
+DL,Chem_Fert,2075,0.171764706
+DL,Chem_Fert,2080,0.161764706
+DL,Chem_Fert,2085,0.152352941
+DL,Chem_Fert,2090,0.150588235
+DL,Chem_Fert,2095,0.148235294
+DL,Chem_Fert,2100,0.145882353
+DN,Chem_Fert,2015,0.65
+DN,Chem_Fert,2020,0.585294118
+DN,Chem_Fert,2025,0.52
+DN,Chem_Fert,2030,0.476470588
+DN,Chem_Fert,2035,0.430588235
+DN,Chem_Fert,2040,0.382941176
+DN,Chem_Fert,2045,0.335294118
+DN,Chem_Fert,2050,0.288823529
+DN,Chem_Fert,2055,0.245294118
+DN,Chem_Fert,2060,0.207058824
+DN,Chem_Fert,2065,0.194117647
+DN,Chem_Fert,2070,0.182941176
+DN,Chem_Fert,2075,0.171764706
+DN,Chem_Fert,2080,0.161764706
+DN,Chem_Fert,2085,0.152352941
+DN,Chem_Fert,2090,0.150588235
+DN,Chem_Fert,2095,0.148235294
+DN,Chem_Fert,2100,0.145882353
+GA,Chem_Fert,2015,0.65
+GA,Chem_Fert,2020,0.585294118
+GA,Chem_Fert,2025,0.52
+GA,Chem_Fert,2030,0.476470588
+GA,Chem_Fert,2035,0.430588235
+GA,Chem_Fert,2040,0.382941176
+GA,Chem_Fert,2045,0.335294118
+GA,Chem_Fert,2050,0.288823529
+GA,Chem_Fert,2055,0.245294118
+GA,Chem_Fert,2060,0.207058824
+GA,Chem_Fert,2065,0.194117647
+GA,Chem_Fert,2070,0.182941176
+GA,Chem_Fert,2075,0.171764706
+GA,Chem_Fert,2080,0.161764706
+GA,Chem_Fert,2085,0.152352941
+GA,Chem_Fert,2090,0.150588235
+GA,Chem_Fert,2095,0.148235294
+GA,Chem_Fert,2100,0.145882353
+GJ,Chem_Fert,2015,0.65
+GJ,Chem_Fert,2020,0.585294118
+GJ,Chem_Fert,2025,0.52
+GJ,Chem_Fert,2030,0.476470588
+GJ,Chem_Fert,2035,0.430588235
+GJ,Chem_Fert,2040,0.382941176
+GJ,Chem_Fert,2045,0.335294118
+GJ,Chem_Fert,2050,0.288823529
+GJ,Chem_Fert,2055,0.245294118
+GJ,Chem_Fert,2060,0.207058824
+GJ,Chem_Fert,2065,0.194117647
+GJ,Chem_Fert,2070,0.182941176
+GJ,Chem_Fert,2075,0.171764706
+GJ,Chem_Fert,2080,0.161764706
+GJ,Chem_Fert,2085,0.152352941
+GJ,Chem_Fert,2090,0.150588235
+GJ,Chem_Fert,2095,0.148235294
+GJ,Chem_Fert,2100,0.145882353
+HP,Chem_Fert,2015,0.65
+HP,Chem_Fert,2020,0.585294118
+HP,Chem_Fert,2025,0.52
+HP,Chem_Fert,2030,0.476470588
+HP,Chem_Fert,2035,0.430588235
+HP,Chem_Fert,2040,0.382941176
+HP,Chem_Fert,2045,0.335294118
+HP,Chem_Fert,2050,0.288823529
+HP,Chem_Fert,2055,0.245294118
+HP,Chem_Fert,2060,0.207058824
+HP,Chem_Fert,2065,0.194117647
+HP,Chem_Fert,2070,0.182941176
+HP,Chem_Fert,2075,0.171764706
+HP,Chem_Fert,2080,0.161764706
+HP,Chem_Fert,2085,0.152352941
+HP,Chem_Fert,2090,0.150588235
+HP,Chem_Fert,2095,0.148235294
+HP,Chem_Fert,2100,0.145882353
+HR,Chem_Fert,2015,0.65
+HR,Chem_Fert,2020,0.585294118
+HR,Chem_Fert,2025,0.52
+HR,Chem_Fert,2030,0.476470588
+HR,Chem_Fert,2035,0.430588235
+HR,Chem_Fert,2040,0.382941176
+HR,Chem_Fert,2045,0.335294118
+HR,Chem_Fert,2050,0.288823529
+HR,Chem_Fert,2055,0.245294118
+HR,Chem_Fert,2060,0.207058824
+HR,Chem_Fert,2065,0.194117647
+HR,Chem_Fert,2070,0.182941176
+HR,Chem_Fert,2075,0.171764706
+HR,Chem_Fert,2080,0.161764706
+HR,Chem_Fert,2085,0.152352941
+HR,Chem_Fert,2090,0.150588235
+HR,Chem_Fert,2095,0.148235294
+HR,Chem_Fert,2100,0.145882353
+JH,Chem_Fert,2015,0.65
+JH,Chem_Fert,2020,0.585294118
+JH,Chem_Fert,2025,0.52
+JH,Chem_Fert,2030,0.476470588
+JH,Chem_Fert,2035,0.430588235
+JH,Chem_Fert,2040,0.382941176
+JH,Chem_Fert,2045,0.335294118
+JH,Chem_Fert,2050,0.288823529
+JH,Chem_Fert,2055,0.245294118
+JH,Chem_Fert,2060,0.207058824
+JH,Chem_Fert,2065,0.194117647
+JH,Chem_Fert,2070,0.182941176
+JH,Chem_Fert,2075,0.171764706
+JH,Chem_Fert,2080,0.161764706
+JH,Chem_Fert,2085,0.152352941
+JH,Chem_Fert,2090,0.150588235
+JH,Chem_Fert,2095,0.148235294
+JH,Chem_Fert,2100,0.145882353
+JK,Chem_Fert,2015,0.65
+JK,Chem_Fert,2020,0.585294118
+JK,Chem_Fert,2025,0.52
+JK,Chem_Fert,2030,0.476470588
+JK,Chem_Fert,2035,0.430588235
+JK,Chem_Fert,2040,0.382941176
+JK,Chem_Fert,2045,0.335294118
+JK,Chem_Fert,2050,0.288823529
+JK,Chem_Fert,2055,0.245294118
+JK,Chem_Fert,2060,0.207058824
+JK,Chem_Fert,2065,0.194117647
+JK,Chem_Fert,2070,0.182941176
+JK,Chem_Fert,2075,0.171764706
+JK,Chem_Fert,2080,0.161764706
+JK,Chem_Fert,2085,0.152352941
+JK,Chem_Fert,2090,0.150588235
+JK,Chem_Fert,2095,0.148235294
+JK,Chem_Fert,2100,0.145882353
+KA,Chem_Fert,2015,0.65
+KA,Chem_Fert,2020,0.585294118
+KA,Chem_Fert,2025,0.52
+KA,Chem_Fert,2030,0.476470588
+KA,Chem_Fert,2035,0.430588235
+KA,Chem_Fert,2040,0.382941176
+KA,Chem_Fert,2045,0.335294118
+KA,Chem_Fert,2050,0.288823529
+KA,Chem_Fert,2055,0.245294118
+KA,Chem_Fert,2060,0.207058824
+KA,Chem_Fert,2065,0.194117647
+KA,Chem_Fert,2070,0.182941176
+KA,Chem_Fert,2075,0.171764706
+KA,Chem_Fert,2080,0.161764706
+KA,Chem_Fert,2085,0.152352941
+KA,Chem_Fert,2090,0.150588235
+KA,Chem_Fert,2095,0.148235294
+KA,Chem_Fert,2100,0.145882353
+KL,Chem_Fert,2015,0.65
+KL,Chem_Fert,2020,0.585294118
+KL,Chem_Fert,2025,0.52
+KL,Chem_Fert,2030,0.476470588
+KL,Chem_Fert,2035,0.430588235
+KL,Chem_Fert,2040,0.382941176
+KL,Chem_Fert,2045,0.335294118
+KL,Chem_Fert,2050,0.288823529
+KL,Chem_Fert,2055,0.245294118
+KL,Chem_Fert,2060,0.207058824
+KL,Chem_Fert,2065,0.194117647
+KL,Chem_Fert,2070,0.182941176
+KL,Chem_Fert,2075,0.171764706
+KL,Chem_Fert,2080,0.161764706
+KL,Chem_Fert,2085,0.152352941
+KL,Chem_Fert,2090,0.150588235
+KL,Chem_Fert,2095,0.148235294
+KL,Chem_Fert,2100,0.145882353
+LA,Chem_Fert,2015,0.65
+LA,Chem_Fert,2020,0.585294118
+LA,Chem_Fert,2025,0.52
+LA,Chem_Fert,2030,0.476470588
+LA,Chem_Fert,2035,0.430588235
+LA,Chem_Fert,2040,0.382941176
+LA,Chem_Fert,2045,0.335294118
+LA,Chem_Fert,2050,0.288823529
+LA,Chem_Fert,2055,0.245294118
+LA,Chem_Fert,2060,0.207058824
+LA,Chem_Fert,2065,0.194117647
+LA,Chem_Fert,2070,0.182941176
+LA,Chem_Fert,2075,0.171764706
+LA,Chem_Fert,2080,0.161764706
+LA,Chem_Fert,2085,0.152352941
+LA,Chem_Fert,2090,0.150588235
+LA,Chem_Fert,2095,0.148235294
+LA,Chem_Fert,2100,0.145882353
+LD,Chem_Fert,2015,0.65
+LD,Chem_Fert,2020,0.585294118
+LD,Chem_Fert,2025,0.52
+LD,Chem_Fert,2030,0.476470588
+LD,Chem_Fert,2035,0.430588235
+LD,Chem_Fert,2040,0.382941176
+LD,Chem_Fert,2045,0.335294118
+LD,Chem_Fert,2050,0.288823529
+LD,Chem_Fert,2055,0.245294118
+LD,Chem_Fert,2060,0.207058824
+LD,Chem_Fert,2065,0.194117647
+LD,Chem_Fert,2070,0.182941176
+LD,Chem_Fert,2075,0.171764706
+LD,Chem_Fert,2080,0.161764706
+LD,Chem_Fert,2085,0.152352941
+LD,Chem_Fert,2090,0.150588235
+LD,Chem_Fert,2095,0.148235294
+LD,Chem_Fert,2100,0.145882353
+MH,Chem_Fert,2015,0.65
+MH,Chem_Fert,2020,0.585294118
+MH,Chem_Fert,2025,0.52
+MH,Chem_Fert,2030,0.476470588
+MH,Chem_Fert,2035,0.430588235
+MH,Chem_Fert,2040,0.382941176
+MH,Chem_Fert,2045,0.335294118
+MH,Chem_Fert,2050,0.288823529
+MH,Chem_Fert,2055,0.245294118
+MH,Chem_Fert,2060,0.207058824
+MH,Chem_Fert,2065,0.194117647
+MH,Chem_Fert,2070,0.182941176
+MH,Chem_Fert,2075,0.171764706
+MH,Chem_Fert,2080,0.161764706
+MH,Chem_Fert,2085,0.152352941
+MH,Chem_Fert,2090,0.150588235
+MH,Chem_Fert,2095,0.148235294
+MH,Chem_Fert,2100,0.145882353
+ML,Chem_Fert,2015,0.65
+ML,Chem_Fert,2020,0.585294118
+ML,Chem_Fert,2025,0.52
+ML,Chem_Fert,2030,0.476470588
+ML,Chem_Fert,2035,0.430588235
+ML,Chem_Fert,2040,0.382941176
+ML,Chem_Fert,2045,0.335294118
+ML,Chem_Fert,2050,0.288823529
+ML,Chem_Fert,2055,0.245294118
+ML,Chem_Fert,2060,0.207058824
+ML,Chem_Fert,2065,0.194117647
+ML,Chem_Fert,2070,0.182941176
+ML,Chem_Fert,2075,0.171764706
+ML,Chem_Fert,2080,0.161764706
+ML,Chem_Fert,2085,0.152352941
+ML,Chem_Fert,2090,0.150588235
+ML,Chem_Fert,2095,0.148235294
+ML,Chem_Fert,2100,0.145882353
+MN,Chem_Fert,2015,0.65
+MN,Chem_Fert,2020,0.585294118
+MN,Chem_Fert,2025,0.52
+MN,Chem_Fert,2030,0.476470588
+MN,Chem_Fert,2035,0.430588235
+MN,Chem_Fert,2040,0.382941176
+MN,Chem_Fert,2045,0.335294118
+MN,Chem_Fert,2050,0.288823529
+MN,Chem_Fert,2055,0.245294118
+MN,Chem_Fert,2060,0.207058824
+MN,Chem_Fert,2065,0.194117647
+MN,Chem_Fert,2070,0.182941176
+MN,Chem_Fert,2075,0.171764706
+MN,Chem_Fert,2080,0.161764706
+MN,Chem_Fert,2085,0.152352941
+MN,Chem_Fert,2090,0.150588235
+MN,Chem_Fert,2095,0.148235294
+MN,Chem_Fert,2100,0.145882353
+MP,Chem_Fert,2015,0.65
+MP,Chem_Fert,2020,0.585294118
+MP,Chem_Fert,2025,0.52
+MP,Chem_Fert,2030,0.476470588
+MP,Chem_Fert,2035,0.430588235
+MP,Chem_Fert,2040,0.382941176
+MP,Chem_Fert,2045,0.335294118
+MP,Chem_Fert,2050,0.288823529
+MP,Chem_Fert,2055,0.245294118
+MP,Chem_Fert,2060,0.207058824
+MP,Chem_Fert,2065,0.194117647
+MP,Chem_Fert,2070,0.182941176
+MP,Chem_Fert,2075,0.171764706
+MP,Chem_Fert,2080,0.161764706
+MP,Chem_Fert,2085,0.152352941
+MP,Chem_Fert,2090,0.150588235
+MP,Chem_Fert,2095,0.148235294
+MP,Chem_Fert,2100,0.145882353
+MZ,Chem_Fert,2015,0.65
+MZ,Chem_Fert,2020,0.585294118
+MZ,Chem_Fert,2025,0.52
+MZ,Chem_Fert,2030,0.476470588
+MZ,Chem_Fert,2035,0.430588235
+MZ,Chem_Fert,2040,0.382941176
+MZ,Chem_Fert,2045,0.335294118
+MZ,Chem_Fert,2050,0.288823529
+MZ,Chem_Fert,2055,0.245294118
+MZ,Chem_Fert,2060,0.207058824
+MZ,Chem_Fert,2065,0.194117647
+MZ,Chem_Fert,2070,0.182941176
+MZ,Chem_Fert,2075,0.171764706
+MZ,Chem_Fert,2080,0.161764706
+MZ,Chem_Fert,2085,0.152352941
+MZ,Chem_Fert,2090,0.150588235
+MZ,Chem_Fert,2095,0.148235294
+MZ,Chem_Fert,2100,0.145882353
+NL,Chem_Fert,2015,0.65
+NL,Chem_Fert,2020,0.585294118
+NL,Chem_Fert,2025,0.52
+NL,Chem_Fert,2030,0.476470588
+NL,Chem_Fert,2035,0.430588235
+NL,Chem_Fert,2040,0.382941176
+NL,Chem_Fert,2045,0.335294118
+NL,Chem_Fert,2050,0.288823529
+NL,Chem_Fert,2055,0.245294118
+NL,Chem_Fert,2060,0.207058824
+NL,Chem_Fert,2065,0.194117647
+NL,Chem_Fert,2070,0.182941176
+NL,Chem_Fert,2075,0.171764706
+NL,Chem_Fert,2080,0.161764706
+NL,Chem_Fert,2085,0.152352941
+NL,Chem_Fert,2090,0.150588235
+NL,Chem_Fert,2095,0.148235294
+NL,Chem_Fert,2100,0.145882353
+OD,Chem_Fert,2015,0.65
+OD,Chem_Fert,2020,0.585294118
+OD,Chem_Fert,2025,0.52
+OD,Chem_Fert,2030,0.476470588
+OD,Chem_Fert,2035,0.430588235
+OD,Chem_Fert,2040,0.382941176
+OD,Chem_Fert,2045,0.335294118
+OD,Chem_Fert,2050,0.288823529
+OD,Chem_Fert,2055,0.245294118
+OD,Chem_Fert,2060,0.207058824
+OD,Chem_Fert,2065,0.194117647
+OD,Chem_Fert,2070,0.182941176
+OD,Chem_Fert,2075,0.171764706
+OD,Chem_Fert,2080,0.161764706
+OD,Chem_Fert,2085,0.152352941
+OD,Chem_Fert,2090,0.150588235
+OD,Chem_Fert,2095,0.148235294
+OD,Chem_Fert,2100,0.145882353
+PB,Chem_Fert,2015,0.65
+PB,Chem_Fert,2020,0.585294118
+PB,Chem_Fert,2025,0.52
+PB,Chem_Fert,2030,0.476470588
+PB,Chem_Fert,2035,0.430588235
+PB,Chem_Fert,2040,0.382941176
+PB,Chem_Fert,2045,0.335294118
+PB,Chem_Fert,2050,0.288823529
+PB,Chem_Fert,2055,0.245294118
+PB,Chem_Fert,2060,0.207058824
+PB,Chem_Fert,2065,0.194117647
+PB,Chem_Fert,2070,0.182941176
+PB,Chem_Fert,2075,0.171764706
+PB,Chem_Fert,2080,0.161764706
+PB,Chem_Fert,2085,0.152352941
+PB,Chem_Fert,2090,0.150588235
+PB,Chem_Fert,2095,0.148235294
+PB,Chem_Fert,2100,0.145882353
+PC,Chem_Fert,2015,0.65
+PC,Chem_Fert,2020,0.585294118
+PC,Chem_Fert,2025,0.52
+PC,Chem_Fert,2030,0.476470588
+PC,Chem_Fert,2035,0.430588235
+PC,Chem_Fert,2040,0.382941176
+PC,Chem_Fert,2045,0.335294118
+PC,Chem_Fert,2050,0.288823529
+PC,Chem_Fert,2055,0.245294118
+PC,Chem_Fert,2060,0.207058824
+PC,Chem_Fert,2065,0.194117647
+PC,Chem_Fert,2070,0.182941176
+PC,Chem_Fert,2075,0.171764706
+PC,Chem_Fert,2080,0.161764706
+PC,Chem_Fert,2085,0.152352941
+PC,Chem_Fert,2090,0.150588235
+PC,Chem_Fert,2095,0.148235294
+PC,Chem_Fert,2100,0.145882353
+RJ,Chem_Fert,2015,0.65
+RJ,Chem_Fert,2020,0.585294118
+RJ,Chem_Fert,2025,0.52
+RJ,Chem_Fert,2030,0.476470588
+RJ,Chem_Fert,2035,0.430588235
+RJ,Chem_Fert,2040,0.382941176
+RJ,Chem_Fert,2045,0.335294118
+RJ,Chem_Fert,2050,0.288823529
+RJ,Chem_Fert,2055,0.245294118
+RJ,Chem_Fert,2060,0.207058824
+RJ,Chem_Fert,2065,0.194117647
+RJ,Chem_Fert,2070,0.182941176
+RJ,Chem_Fert,2075,0.171764706
+RJ,Chem_Fert,2080,0.161764706
+RJ,Chem_Fert,2085,0.152352941
+RJ,Chem_Fert,2090,0.150588235
+RJ,Chem_Fert,2095,0.148235294
+RJ,Chem_Fert,2100,0.145882353
+SK,Chem_Fert,2015,0.65
+SK,Chem_Fert,2020,0.585294118
+SK,Chem_Fert,2025,0.52
+SK,Chem_Fert,2030,0.476470588
+SK,Chem_Fert,2035,0.430588235
+SK,Chem_Fert,2040,0.382941176
+SK,Chem_Fert,2045,0.335294118
+SK,Chem_Fert,2050,0.288823529
+SK,Chem_Fert,2055,0.245294118
+SK,Chem_Fert,2060,0.207058824
+SK,Chem_Fert,2065,0.194117647
+SK,Chem_Fert,2070,0.182941176
+SK,Chem_Fert,2075,0.171764706
+SK,Chem_Fert,2080,0.161764706
+SK,Chem_Fert,2085,0.152352941
+SK,Chem_Fert,2090,0.150588235
+SK,Chem_Fert,2095,0.148235294
+SK,Chem_Fert,2100,0.145882353
+TN,Chem_Fert,2015,0.65
+TN,Chem_Fert,2020,0.585294118
+TN,Chem_Fert,2025,0.52
+TN,Chem_Fert,2030,0.476470588
+TN,Chem_Fert,2035,0.430588235
+TN,Chem_Fert,2040,0.382941176
+TN,Chem_Fert,2045,0.335294118
+TN,Chem_Fert,2050,0.288823529
+TN,Chem_Fert,2055,0.245294118
+TN,Chem_Fert,2060,0.207058824
+TN,Chem_Fert,2065,0.194117647
+TN,Chem_Fert,2070,0.182941176
+TN,Chem_Fert,2075,0.171764706
+TN,Chem_Fert,2080,0.161764706
+TN,Chem_Fert,2085,0.152352941
+TN,Chem_Fert,2090,0.150588235
+TN,Chem_Fert,2095,0.148235294
+TN,Chem_Fert,2100,0.145882353
+TR,Chem_Fert,2015,0.65
+TR,Chem_Fert,2020,0.585294118
+TR,Chem_Fert,2025,0.52
+TR,Chem_Fert,2030,0.476470588
+TR,Chem_Fert,2035,0.430588235
+TR,Chem_Fert,2040,0.382941176
+TR,Chem_Fert,2045,0.335294118
+TR,Chem_Fert,2050,0.288823529
+TR,Chem_Fert,2055,0.245294118
+TR,Chem_Fert,2060,0.207058824
+TR,Chem_Fert,2065,0.194117647
+TR,Chem_Fert,2070,0.182941176
+TR,Chem_Fert,2075,0.171764706
+TR,Chem_Fert,2080,0.161764706
+TR,Chem_Fert,2085,0.152352941
+TR,Chem_Fert,2090,0.150588235
+TR,Chem_Fert,2095,0.148235294
+TR,Chem_Fert,2100,0.145882353
+TS,Chem_Fert,2015,0.65
+TS,Chem_Fert,2020,0.585294118
+TS,Chem_Fert,2025,0.52
+TS,Chem_Fert,2030,0.476470588
+TS,Chem_Fert,2035,0.430588235
+TS,Chem_Fert,2040,0.382941176
+TS,Chem_Fert,2045,0.335294118
+TS,Chem_Fert,2050,0.288823529
+TS,Chem_Fert,2055,0.245294118
+TS,Chem_Fert,2060,0.207058824
+TS,Chem_Fert,2065,0.194117647
+TS,Chem_Fert,2070,0.182941176
+TS,Chem_Fert,2075,0.171764706
+TS,Chem_Fert,2080,0.161764706
+TS,Chem_Fert,2085,0.152352941
+TS,Chem_Fert,2090,0.150588235
+TS,Chem_Fert,2095,0.148235294
+TS,Chem_Fert,2100,0.145882353
+UK,Chem_Fert,2015,0.65
+UK,Chem_Fert,2020,0.585294118
+UK,Chem_Fert,2025,0.52
+UK,Chem_Fert,2030,0.476470588
+UK,Chem_Fert,2035,0.430588235
+UK,Chem_Fert,2040,0.382941176
+UK,Chem_Fert,2045,0.335294118
+UK,Chem_Fert,2050,0.288823529
+UK,Chem_Fert,2055,0.245294118
+UK,Chem_Fert,2060,0.207058824
+UK,Chem_Fert,2065,0.194117647
+UK,Chem_Fert,2070,0.182941176
+UK,Chem_Fert,2075,0.171764706
+UK,Chem_Fert,2080,0.161764706
+UK,Chem_Fert,2085,0.152352941
+UK,Chem_Fert,2090,0.150588235
+UK,Chem_Fert,2095,0.148235294
+UK,Chem_Fert,2100,0.145882353
+UP,Chem_Fert,2015,0.65
+UP,Chem_Fert,2020,0.585294118
+UP,Chem_Fert,2025,0.52
+UP,Chem_Fert,2030,0.476470588
+UP,Chem_Fert,2035,0.430588235
+UP,Chem_Fert,2040,0.382941176
+UP,Chem_Fert,2045,0.335294118
+UP,Chem_Fert,2050,0.288823529
+UP,Chem_Fert,2055,0.245294118
+UP,Chem_Fert,2060,0.207058824
+UP,Chem_Fert,2065,0.194117647
+UP,Chem_Fert,2070,0.182941176
+UP,Chem_Fert,2075,0.171764706
+UP,Chem_Fert,2080,0.161764706
+UP,Chem_Fert,2085,0.152352941
+UP,Chem_Fert,2090,0.150588235
+UP,Chem_Fert,2095,0.148235294
+UP,Chem_Fert,2100,0.145882353
+WB,Chem_Fert,2015,0.65
+WB,Chem_Fert,2020,0.585294118
+WB,Chem_Fert,2025,0.52
+WB,Chem_Fert,2030,0.476470588
+WB,Chem_Fert,2035,0.430588235
+WB,Chem_Fert,2040,0.382941176
+WB,Chem_Fert,2045,0.335294118
+WB,Chem_Fert,2050,0.288823529
+WB,Chem_Fert,2055,0.245294118
+WB,Chem_Fert,2060,0.207058824
+WB,Chem_Fert,2065,0.194117647
+WB,Chem_Fert,2070,0.182941176
+WB,Chem_Fert,2075,0.171764706
+WB,Chem_Fert,2080,0.161764706
+WB,Chem_Fert,2085,0.152352941
+WB,Chem_Fert,2090,0.150588235
+WB,Chem_Fert,2095,0.148235294
+WB,Chem_Fert,2100,0.145882353
+AN,Fisheries,2015,0.550997011
+AN,Fisheries,2020,0.49614663
+AN,Fisheries,2025,0.440797609
+AN,Fisheries,2030,0.403898261
+AN,Fisheries,2035,0.365004355
+AN,Fisheries,2040,0.324614529
+AN,Fisheries,2045,0.284224703
+AN,Fisheries,2050,0.244832156
+AN,Fisheries,2055,0.207932809
+AN,Fisheries,2060,0.17552122
+AN,Fisheries,2065,0.164551144
+AN,Fisheries,2070,0.155076987
+AN,Fisheries,2075,0.14560283
+AN,Fisheries,2080,0.137125953
+AN,Fisheries,2085,0.129147716
+AN,Fisheries,2090,0.127651796
+AN,Fisheries,2095,0.125657237
+AN,Fisheries,2100,0.123662678
+AP,Fisheries,2015,0.550997011
+AP,Fisheries,2020,0.49614663
+AP,Fisheries,2025,0.440797609
+AP,Fisheries,2030,0.403898261
+AP,Fisheries,2035,0.365004355
+AP,Fisheries,2040,0.324614529
+AP,Fisheries,2045,0.284224703
+AP,Fisheries,2050,0.244832156
+AP,Fisheries,2055,0.207932809
+AP,Fisheries,2060,0.17552122
+AP,Fisheries,2065,0.164551144
+AP,Fisheries,2070,0.155076987
+AP,Fisheries,2075,0.14560283
+AP,Fisheries,2080,0.137125953
+AP,Fisheries,2085,0.129147716
+AP,Fisheries,2090,0.127651796
+AP,Fisheries,2095,0.125657237
+AP,Fisheries,2100,0.123662678
+AR,Fisheries,2015,0.550997011
+AR,Fisheries,2020,0.49614663
+AR,Fisheries,2025,0.440797609
+AR,Fisheries,2030,0.403898261
+AR,Fisheries,2035,0.365004355
+AR,Fisheries,2040,0.324614529
+AR,Fisheries,2045,0.284224703
+AR,Fisheries,2050,0.244832156
+AR,Fisheries,2055,0.207932809
+AR,Fisheries,2060,0.17552122
+AR,Fisheries,2065,0.164551144
+AR,Fisheries,2070,0.155076987
+AR,Fisheries,2075,0.14560283
+AR,Fisheries,2080,0.137125953
+AR,Fisheries,2085,0.129147716
+AR,Fisheries,2090,0.127651796
+AR,Fisheries,2095,0.125657237
+AR,Fisheries,2100,0.123662678
+AS,Fisheries,2015,0.550997011
+AS,Fisheries,2020,0.49614663
+AS,Fisheries,2025,0.440797609
+AS,Fisheries,2030,0.403898261
+AS,Fisheries,2035,0.365004355
+AS,Fisheries,2040,0.324614529
+AS,Fisheries,2045,0.284224703
+AS,Fisheries,2050,0.244832156
+AS,Fisheries,2055,0.207932809
+AS,Fisheries,2060,0.17552122
+AS,Fisheries,2065,0.164551144
+AS,Fisheries,2070,0.155076987
+AS,Fisheries,2075,0.14560283
+AS,Fisheries,2080,0.137125953
+AS,Fisheries,2085,0.129147716
+AS,Fisheries,2090,0.127651796
+AS,Fisheries,2095,0.125657237
+AS,Fisheries,2100,0.123662678
+BR,Fisheries,2015,0.550997011
+BR,Fisheries,2020,0.49614663
+BR,Fisheries,2025,0.440797609
+BR,Fisheries,2030,0.403898261
+BR,Fisheries,2035,0.365004355
+BR,Fisheries,2040,0.324614529
+BR,Fisheries,2045,0.284224703
+BR,Fisheries,2050,0.244832156
+BR,Fisheries,2055,0.207932809
+BR,Fisheries,2060,0.17552122
+BR,Fisheries,2065,0.164551144
+BR,Fisheries,2070,0.155076987
+BR,Fisheries,2075,0.14560283
+BR,Fisheries,2080,0.137125953
+BR,Fisheries,2085,0.129147716
+BR,Fisheries,2090,0.127651796
+BR,Fisheries,2095,0.125657237
+BR,Fisheries,2100,0.123662678
+CG,Fisheries,2015,0.550997011
+CG,Fisheries,2020,0.49614663
+CG,Fisheries,2025,0.440797609
+CG,Fisheries,2030,0.403898261
+CG,Fisheries,2035,0.365004355
+CG,Fisheries,2040,0.324614529
+CG,Fisheries,2045,0.284224703
+CG,Fisheries,2050,0.244832156
+CG,Fisheries,2055,0.207932809
+CG,Fisheries,2060,0.17552122
+CG,Fisheries,2065,0.164551144
+CG,Fisheries,2070,0.155076987
+CG,Fisheries,2075,0.14560283
+CG,Fisheries,2080,0.137125953
+CG,Fisheries,2085,0.129147716
+CG,Fisheries,2090,0.127651796
+CG,Fisheries,2095,0.125657237
+CG,Fisheries,2100,0.123662678
+CH,Fisheries,2015,0.550997011
+CH,Fisheries,2020,0.49614663
+CH,Fisheries,2025,0.440797609
+CH,Fisheries,2030,0.403898261
+CH,Fisheries,2035,0.365004355
+CH,Fisheries,2040,0.324614529
+CH,Fisheries,2045,0.284224703
+CH,Fisheries,2050,0.244832156
+CH,Fisheries,2055,0.207932809
+CH,Fisheries,2060,0.17552122
+CH,Fisheries,2065,0.164551144
+CH,Fisheries,2070,0.155076987
+CH,Fisheries,2075,0.14560283
+CH,Fisheries,2080,0.137125953
+CH,Fisheries,2085,0.129147716
+CH,Fisheries,2090,0.127651796
+CH,Fisheries,2095,0.125657237
+CH,Fisheries,2100,0.123662678
+DD,Fisheries,2015,0.550997011
+DD,Fisheries,2020,0.49614663
+DD,Fisheries,2025,0.440797609
+DD,Fisheries,2030,0.403898261
+DD,Fisheries,2035,0.365004355
+DD,Fisheries,2040,0.324614529
+DD,Fisheries,2045,0.284224703
+DD,Fisheries,2050,0.244832156
+DD,Fisheries,2055,0.207932809
+DD,Fisheries,2060,0.17552122
+DD,Fisheries,2065,0.164551144
+DD,Fisheries,2070,0.155076987
+DD,Fisheries,2075,0.14560283
+DD,Fisheries,2080,0.137125953
+DD,Fisheries,2085,0.129147716
+DD,Fisheries,2090,0.127651796
+DD,Fisheries,2095,0.125657237
+DD,Fisheries,2100,0.123662678
+DL,Fisheries,2015,0.550997011
+DL,Fisheries,2020,0.49614663
+DL,Fisheries,2025,0.440797609
+DL,Fisheries,2030,0.403898261
+DL,Fisheries,2035,0.365004355
+DL,Fisheries,2040,0.324614529
+DL,Fisheries,2045,0.284224703
+DL,Fisheries,2050,0.244832156
+DL,Fisheries,2055,0.207932809
+DL,Fisheries,2060,0.17552122
+DL,Fisheries,2065,0.164551144
+DL,Fisheries,2070,0.155076987
+DL,Fisheries,2075,0.14560283
+DL,Fisheries,2080,0.137125953
+DL,Fisheries,2085,0.129147716
+DL,Fisheries,2090,0.127651796
+DL,Fisheries,2095,0.125657237
+DL,Fisheries,2100,0.123662678
+DN,Fisheries,2015,0.550997011
+DN,Fisheries,2020,0.49614663
+DN,Fisheries,2025,0.440797609
+DN,Fisheries,2030,0.403898261
+DN,Fisheries,2035,0.365004355
+DN,Fisheries,2040,0.324614529
+DN,Fisheries,2045,0.284224703
+DN,Fisheries,2050,0.244832156
+DN,Fisheries,2055,0.207932809
+DN,Fisheries,2060,0.17552122
+DN,Fisheries,2065,0.164551144
+DN,Fisheries,2070,0.155076987
+DN,Fisheries,2075,0.14560283
+DN,Fisheries,2080,0.137125953
+DN,Fisheries,2085,0.129147716
+DN,Fisheries,2090,0.127651796
+DN,Fisheries,2095,0.125657237
+DN,Fisheries,2100,0.123662678
+GA,Fisheries,2015,0.550997011
+GA,Fisheries,2020,0.49614663
+GA,Fisheries,2025,0.440797609
+GA,Fisheries,2030,0.403898261
+GA,Fisheries,2035,0.365004355
+GA,Fisheries,2040,0.324614529
+GA,Fisheries,2045,0.284224703
+GA,Fisheries,2050,0.244832156
+GA,Fisheries,2055,0.207932809
+GA,Fisheries,2060,0.17552122
+GA,Fisheries,2065,0.164551144
+GA,Fisheries,2070,0.155076987
+GA,Fisheries,2075,0.14560283
+GA,Fisheries,2080,0.137125953
+GA,Fisheries,2085,0.129147716
+GA,Fisheries,2090,0.127651796
+GA,Fisheries,2095,0.125657237
+GA,Fisheries,2100,0.123662678
+GJ,Fisheries,2015,0.550997011
+GJ,Fisheries,2020,0.49614663
+GJ,Fisheries,2025,0.440797609
+GJ,Fisheries,2030,0.403898261
+GJ,Fisheries,2035,0.365004355
+GJ,Fisheries,2040,0.324614529
+GJ,Fisheries,2045,0.284224703
+GJ,Fisheries,2050,0.244832156
+GJ,Fisheries,2055,0.207932809
+GJ,Fisheries,2060,0.17552122
+GJ,Fisheries,2065,0.164551144
+GJ,Fisheries,2070,0.155076987
+GJ,Fisheries,2075,0.14560283
+GJ,Fisheries,2080,0.137125953
+GJ,Fisheries,2085,0.129147716
+GJ,Fisheries,2090,0.127651796
+GJ,Fisheries,2095,0.125657237
+GJ,Fisheries,2100,0.123662678
+HP,Fisheries,2015,0.550997011
+HP,Fisheries,2020,0.49614663
+HP,Fisheries,2025,0.440797609
+HP,Fisheries,2030,0.403898261
+HP,Fisheries,2035,0.365004355
+HP,Fisheries,2040,0.324614529
+HP,Fisheries,2045,0.284224703
+HP,Fisheries,2050,0.244832156
+HP,Fisheries,2055,0.207932809
+HP,Fisheries,2060,0.17552122
+HP,Fisheries,2065,0.164551144
+HP,Fisheries,2070,0.155076987
+HP,Fisheries,2075,0.14560283
+HP,Fisheries,2080,0.137125953
+HP,Fisheries,2085,0.129147716
+HP,Fisheries,2090,0.127651796
+HP,Fisheries,2095,0.125657237
+HP,Fisheries,2100,0.123662678
+HR,Fisheries,2015,0.550997011
+HR,Fisheries,2020,0.49614663
+HR,Fisheries,2025,0.440797609
+HR,Fisheries,2030,0.403898261
+HR,Fisheries,2035,0.365004355
+HR,Fisheries,2040,0.324614529
+HR,Fisheries,2045,0.284224703
+HR,Fisheries,2050,0.244832156
+HR,Fisheries,2055,0.207932809
+HR,Fisheries,2060,0.17552122
+HR,Fisheries,2065,0.164551144
+HR,Fisheries,2070,0.155076987
+HR,Fisheries,2075,0.14560283
+HR,Fisheries,2080,0.137125953
+HR,Fisheries,2085,0.129147716
+HR,Fisheries,2090,0.127651796
+HR,Fisheries,2095,0.125657237
+HR,Fisheries,2100,0.123662678
+JH,Fisheries,2015,0.550997011
+JH,Fisheries,2020,0.49614663
+JH,Fisheries,2025,0.440797609
+JH,Fisheries,2030,0.403898261
+JH,Fisheries,2035,0.365004355
+JH,Fisheries,2040,0.324614529
+JH,Fisheries,2045,0.284224703
+JH,Fisheries,2050,0.244832156
+JH,Fisheries,2055,0.207932809
+JH,Fisheries,2060,0.17552122
+JH,Fisheries,2065,0.164551144
+JH,Fisheries,2070,0.155076987
+JH,Fisheries,2075,0.14560283
+JH,Fisheries,2080,0.137125953
+JH,Fisheries,2085,0.129147716
+JH,Fisheries,2090,0.127651796
+JH,Fisheries,2095,0.125657237
+JH,Fisheries,2100,0.123662678
+JK,Fisheries,2015,0.550997011
+JK,Fisheries,2020,0.49614663
+JK,Fisheries,2025,0.440797609
+JK,Fisheries,2030,0.403898261
+JK,Fisheries,2035,0.365004355
+JK,Fisheries,2040,0.324614529
+JK,Fisheries,2045,0.284224703
+JK,Fisheries,2050,0.244832156
+JK,Fisheries,2055,0.207932809
+JK,Fisheries,2060,0.17552122
+JK,Fisheries,2065,0.164551144
+JK,Fisheries,2070,0.155076987
+JK,Fisheries,2075,0.14560283
+JK,Fisheries,2080,0.137125953
+JK,Fisheries,2085,0.129147716
+JK,Fisheries,2090,0.127651796
+JK,Fisheries,2095,0.125657237
+JK,Fisheries,2100,0.123662678
+KA,Fisheries,2015,0.550997011
+KA,Fisheries,2020,0.49614663
+KA,Fisheries,2025,0.440797609
+KA,Fisheries,2030,0.403898261
+KA,Fisheries,2035,0.365004355
+KA,Fisheries,2040,0.324614529
+KA,Fisheries,2045,0.284224703
+KA,Fisheries,2050,0.244832156
+KA,Fisheries,2055,0.207932809
+KA,Fisheries,2060,0.17552122
+KA,Fisheries,2065,0.164551144
+KA,Fisheries,2070,0.155076987
+KA,Fisheries,2075,0.14560283
+KA,Fisheries,2080,0.137125953
+KA,Fisheries,2085,0.129147716
+KA,Fisheries,2090,0.127651796
+KA,Fisheries,2095,0.125657237
+KA,Fisheries,2100,0.123662678
+KL,Fisheries,2015,0.550997011
+KL,Fisheries,2020,0.49614663
+KL,Fisheries,2025,0.440797609
+KL,Fisheries,2030,0.403898261
+KL,Fisheries,2035,0.365004355
+KL,Fisheries,2040,0.324614529
+KL,Fisheries,2045,0.284224703
+KL,Fisheries,2050,0.244832156
+KL,Fisheries,2055,0.207932809
+KL,Fisheries,2060,0.17552122
+KL,Fisheries,2065,0.164551144
+KL,Fisheries,2070,0.155076987
+KL,Fisheries,2075,0.14560283
+KL,Fisheries,2080,0.137125953
+KL,Fisheries,2085,0.129147716
+KL,Fisheries,2090,0.127651796
+KL,Fisheries,2095,0.125657237
+KL,Fisheries,2100,0.123662678
+LA,Fisheries,2015,0.550997011
+LA,Fisheries,2020,0.49614663
+LA,Fisheries,2025,0.440797609
+LA,Fisheries,2030,0.403898261
+LA,Fisheries,2035,0.365004355
+LA,Fisheries,2040,0.324614529
+LA,Fisheries,2045,0.284224703
+LA,Fisheries,2050,0.244832156
+LA,Fisheries,2055,0.207932809
+LA,Fisheries,2060,0.17552122
+LA,Fisheries,2065,0.164551144
+LA,Fisheries,2070,0.155076987
+LA,Fisheries,2075,0.14560283
+LA,Fisheries,2080,0.137125953
+LA,Fisheries,2085,0.129147716
+LA,Fisheries,2090,0.127651796
+LA,Fisheries,2095,0.125657237
+LA,Fisheries,2100,0.123662678
+LD,Fisheries,2015,0.550997011
+LD,Fisheries,2020,0.49614663
+LD,Fisheries,2025,0.440797609
+LD,Fisheries,2030,0.403898261
+LD,Fisheries,2035,0.365004355
+LD,Fisheries,2040,0.324614529
+LD,Fisheries,2045,0.284224703
+LD,Fisheries,2050,0.244832156
+LD,Fisheries,2055,0.207932809
+LD,Fisheries,2060,0.17552122
+LD,Fisheries,2065,0.164551144
+LD,Fisheries,2070,0.155076987
+LD,Fisheries,2075,0.14560283
+LD,Fisheries,2080,0.137125953
+LD,Fisheries,2085,0.129147716
+LD,Fisheries,2090,0.127651796
+LD,Fisheries,2095,0.125657237
+LD,Fisheries,2100,0.123662678
+MH,Fisheries,2015,0.550997011
+MH,Fisheries,2020,0.49614663
+MH,Fisheries,2025,0.440797609
+MH,Fisheries,2030,0.403898261
+MH,Fisheries,2035,0.365004355
+MH,Fisheries,2040,0.324614529
+MH,Fisheries,2045,0.284224703
+MH,Fisheries,2050,0.244832156
+MH,Fisheries,2055,0.207932809
+MH,Fisheries,2060,0.17552122
+MH,Fisheries,2065,0.164551144
+MH,Fisheries,2070,0.155076987
+MH,Fisheries,2075,0.14560283
+MH,Fisheries,2080,0.137125953
+MH,Fisheries,2085,0.129147716
+MH,Fisheries,2090,0.127651796
+MH,Fisheries,2095,0.125657237
+MH,Fisheries,2100,0.123662678
+ML,Fisheries,2015,0.550997011
+ML,Fisheries,2020,0.49614663
+ML,Fisheries,2025,0.440797609
+ML,Fisheries,2030,0.403898261
+ML,Fisheries,2035,0.365004355
+ML,Fisheries,2040,0.324614529
+ML,Fisheries,2045,0.284224703
+ML,Fisheries,2050,0.244832156
+ML,Fisheries,2055,0.207932809
+ML,Fisheries,2060,0.17552122
+ML,Fisheries,2065,0.164551144
+ML,Fisheries,2070,0.155076987
+ML,Fisheries,2075,0.14560283
+ML,Fisheries,2080,0.137125953
+ML,Fisheries,2085,0.129147716
+ML,Fisheries,2090,0.127651796
+ML,Fisheries,2095,0.125657237
+ML,Fisheries,2100,0.123662678
+MN,Fisheries,2015,0.550997011
+MN,Fisheries,2020,0.49614663
+MN,Fisheries,2025,0.440797609
+MN,Fisheries,2030,0.403898261
+MN,Fisheries,2035,0.365004355
+MN,Fisheries,2040,0.324614529
+MN,Fisheries,2045,0.284224703
+MN,Fisheries,2050,0.244832156
+MN,Fisheries,2055,0.207932809
+MN,Fisheries,2060,0.17552122
+MN,Fisheries,2065,0.164551144
+MN,Fisheries,2070,0.155076987
+MN,Fisheries,2075,0.14560283
+MN,Fisheries,2080,0.137125953
+MN,Fisheries,2085,0.129147716
+MN,Fisheries,2090,0.127651796
+MN,Fisheries,2095,0.125657237
+MN,Fisheries,2100,0.123662678
+MP,Fisheries,2015,0.550997011
+MP,Fisheries,2020,0.49614663
+MP,Fisheries,2025,0.440797609
+MP,Fisheries,2030,0.403898261
+MP,Fisheries,2035,0.365004355
+MP,Fisheries,2040,0.324614529
+MP,Fisheries,2045,0.284224703
+MP,Fisheries,2050,0.244832156
+MP,Fisheries,2055,0.207932809
+MP,Fisheries,2060,0.17552122
+MP,Fisheries,2065,0.164551144
+MP,Fisheries,2070,0.155076987
+MP,Fisheries,2075,0.14560283
+MP,Fisheries,2080,0.137125953
+MP,Fisheries,2085,0.129147716
+MP,Fisheries,2090,0.127651796
+MP,Fisheries,2095,0.125657237
+MP,Fisheries,2100,0.123662678
+MZ,Fisheries,2015,0.550997011
+MZ,Fisheries,2020,0.49614663
+MZ,Fisheries,2025,0.440797609
+MZ,Fisheries,2030,0.403898261
+MZ,Fisheries,2035,0.365004355
+MZ,Fisheries,2040,0.324614529
+MZ,Fisheries,2045,0.284224703
+MZ,Fisheries,2050,0.244832156
+MZ,Fisheries,2055,0.207932809
+MZ,Fisheries,2060,0.17552122
+MZ,Fisheries,2065,0.164551144
+MZ,Fisheries,2070,0.155076987
+MZ,Fisheries,2075,0.14560283
+MZ,Fisheries,2080,0.137125953
+MZ,Fisheries,2085,0.129147716
+MZ,Fisheries,2090,0.127651796
+MZ,Fisheries,2095,0.125657237
+MZ,Fisheries,2100,0.123662678
+NL,Fisheries,2015,0.550997011
+NL,Fisheries,2020,0.49614663
+NL,Fisheries,2025,0.440797609
+NL,Fisheries,2030,0.403898261
+NL,Fisheries,2035,0.365004355
+NL,Fisheries,2040,0.324614529
+NL,Fisheries,2045,0.284224703
+NL,Fisheries,2050,0.244832156
+NL,Fisheries,2055,0.207932809
+NL,Fisheries,2060,0.17552122
+NL,Fisheries,2065,0.164551144
+NL,Fisheries,2070,0.155076987
+NL,Fisheries,2075,0.14560283
+NL,Fisheries,2080,0.137125953
+NL,Fisheries,2085,0.129147716
+NL,Fisheries,2090,0.127651796
+NL,Fisheries,2095,0.125657237
+NL,Fisheries,2100,0.123662678
+OD,Fisheries,2015,0.550997011
+OD,Fisheries,2020,0.49614663
+OD,Fisheries,2025,0.440797609
+OD,Fisheries,2030,0.403898261
+OD,Fisheries,2035,0.365004355
+OD,Fisheries,2040,0.324614529
+OD,Fisheries,2045,0.284224703
+OD,Fisheries,2050,0.244832156
+OD,Fisheries,2055,0.207932809
+OD,Fisheries,2060,0.17552122
+OD,Fisheries,2065,0.164551144
+OD,Fisheries,2070,0.155076987
+OD,Fisheries,2075,0.14560283
+OD,Fisheries,2080,0.137125953
+OD,Fisheries,2085,0.129147716
+OD,Fisheries,2090,0.127651796
+OD,Fisheries,2095,0.125657237
+OD,Fisheries,2100,0.123662678
+PB,Fisheries,2015,0.550997011
+PB,Fisheries,2020,0.49614663
+PB,Fisheries,2025,0.440797609
+PB,Fisheries,2030,0.403898261
+PB,Fisheries,2035,0.365004355
+PB,Fisheries,2040,0.324614529
+PB,Fisheries,2045,0.284224703
+PB,Fisheries,2050,0.244832156
+PB,Fisheries,2055,0.207932809
+PB,Fisheries,2060,0.17552122
+PB,Fisheries,2065,0.164551144
+PB,Fisheries,2070,0.155076987
+PB,Fisheries,2075,0.14560283
+PB,Fisheries,2080,0.137125953
+PB,Fisheries,2085,0.129147716
+PB,Fisheries,2090,0.127651796
+PB,Fisheries,2095,0.125657237
+PB,Fisheries,2100,0.123662678
+PC,Fisheries,2015,0.550997011
+PC,Fisheries,2020,0.49614663
+PC,Fisheries,2025,0.440797609
+PC,Fisheries,2030,0.403898261
+PC,Fisheries,2035,0.365004355
+PC,Fisheries,2040,0.324614529
+PC,Fisheries,2045,0.284224703
+PC,Fisheries,2050,0.244832156
+PC,Fisheries,2055,0.207932809
+PC,Fisheries,2060,0.17552122
+PC,Fisheries,2065,0.164551144
+PC,Fisheries,2070,0.155076987
+PC,Fisheries,2075,0.14560283
+PC,Fisheries,2080,0.137125953
+PC,Fisheries,2085,0.129147716
+PC,Fisheries,2090,0.127651796
+PC,Fisheries,2095,0.125657237
+PC,Fisheries,2100,0.123662678
+RJ,Fisheries,2015,0.550997011
+RJ,Fisheries,2020,0.49614663
+RJ,Fisheries,2025,0.440797609
+RJ,Fisheries,2030,0.403898261
+RJ,Fisheries,2035,0.365004355
+RJ,Fisheries,2040,0.324614529
+RJ,Fisheries,2045,0.284224703
+RJ,Fisheries,2050,0.244832156
+RJ,Fisheries,2055,0.207932809
+RJ,Fisheries,2060,0.17552122
+RJ,Fisheries,2065,0.164551144
+RJ,Fisheries,2070,0.155076987
+RJ,Fisheries,2075,0.14560283
+RJ,Fisheries,2080,0.137125953
+RJ,Fisheries,2085,0.129147716
+RJ,Fisheries,2090,0.127651796
+RJ,Fisheries,2095,0.125657237
+RJ,Fisheries,2100,0.123662678
+SK,Fisheries,2015,0.550997011
+SK,Fisheries,2020,0.49614663
+SK,Fisheries,2025,0.440797609
+SK,Fisheries,2030,0.403898261
+SK,Fisheries,2035,0.365004355
+SK,Fisheries,2040,0.324614529
+SK,Fisheries,2045,0.284224703
+SK,Fisheries,2050,0.244832156
+SK,Fisheries,2055,0.207932809
+SK,Fisheries,2060,0.17552122
+SK,Fisheries,2065,0.164551144
+SK,Fisheries,2070,0.155076987
+SK,Fisheries,2075,0.14560283
+SK,Fisheries,2080,0.137125953
+SK,Fisheries,2085,0.129147716
+SK,Fisheries,2090,0.127651796
+SK,Fisheries,2095,0.125657237
+SK,Fisheries,2100,0.123662678
+TN,Fisheries,2015,0.550997011
+TN,Fisheries,2020,0.49614663
+TN,Fisheries,2025,0.440797609
+TN,Fisheries,2030,0.403898261
+TN,Fisheries,2035,0.365004355
+TN,Fisheries,2040,0.324614529
+TN,Fisheries,2045,0.284224703
+TN,Fisheries,2050,0.244832156
+TN,Fisheries,2055,0.207932809
+TN,Fisheries,2060,0.17552122
+TN,Fisheries,2065,0.164551144
+TN,Fisheries,2070,0.155076987
+TN,Fisheries,2075,0.14560283
+TN,Fisheries,2080,0.137125953
+TN,Fisheries,2085,0.129147716
+TN,Fisheries,2090,0.127651796
+TN,Fisheries,2095,0.125657237
+TN,Fisheries,2100,0.123662678
+TR,Fisheries,2015,0.550997011
+TR,Fisheries,2020,0.49614663
+TR,Fisheries,2025,0.440797609
+TR,Fisheries,2030,0.403898261
+TR,Fisheries,2035,0.365004355
+TR,Fisheries,2040,0.324614529
+TR,Fisheries,2045,0.284224703
+TR,Fisheries,2050,0.244832156
+TR,Fisheries,2055,0.207932809
+TR,Fisheries,2060,0.17552122
+TR,Fisheries,2065,0.164551144
+TR,Fisheries,2070,0.155076987
+TR,Fisheries,2075,0.14560283
+TR,Fisheries,2080,0.137125953
+TR,Fisheries,2085,0.129147716
+TR,Fisheries,2090,0.127651796
+TR,Fisheries,2095,0.125657237
+TR,Fisheries,2100,0.123662678
+TS,Fisheries,2015,0.550997011
+TS,Fisheries,2020,0.49614663
+TS,Fisheries,2025,0.440797609
+TS,Fisheries,2030,0.403898261
+TS,Fisheries,2035,0.365004355
+TS,Fisheries,2040,0.324614529
+TS,Fisheries,2045,0.284224703
+TS,Fisheries,2050,0.244832156
+TS,Fisheries,2055,0.207932809
+TS,Fisheries,2060,0.17552122
+TS,Fisheries,2065,0.164551144
+TS,Fisheries,2070,0.155076987
+TS,Fisheries,2075,0.14560283
+TS,Fisheries,2080,0.137125953
+TS,Fisheries,2085,0.129147716
+TS,Fisheries,2090,0.127651796
+TS,Fisheries,2095,0.125657237
+TS,Fisheries,2100,0.123662678
+UK,Fisheries,2015,0.550997011
+UK,Fisheries,2020,0.49614663
+UK,Fisheries,2025,0.440797609
+UK,Fisheries,2030,0.403898261
+UK,Fisheries,2035,0.365004355
+UK,Fisheries,2040,0.324614529
+UK,Fisheries,2045,0.284224703
+UK,Fisheries,2050,0.244832156
+UK,Fisheries,2055,0.207932809
+UK,Fisheries,2060,0.17552122
+UK,Fisheries,2065,0.164551144
+UK,Fisheries,2070,0.155076987
+UK,Fisheries,2075,0.14560283
+UK,Fisheries,2080,0.137125953
+UK,Fisheries,2085,0.129147716
+UK,Fisheries,2090,0.127651796
+UK,Fisheries,2095,0.125657237
+UK,Fisheries,2100,0.123662678
+UP,Fisheries,2015,0.550997011
+UP,Fisheries,2020,0.49614663
+UP,Fisheries,2025,0.440797609
+UP,Fisheries,2030,0.403898261
+UP,Fisheries,2035,0.365004355
+UP,Fisheries,2040,0.324614529
+UP,Fisheries,2045,0.284224703
+UP,Fisheries,2050,0.244832156
+UP,Fisheries,2055,0.207932809
+UP,Fisheries,2060,0.17552122
+UP,Fisheries,2065,0.164551144
+UP,Fisheries,2070,0.155076987
+UP,Fisheries,2075,0.14560283
+UP,Fisheries,2080,0.137125953
+UP,Fisheries,2085,0.129147716
+UP,Fisheries,2090,0.127651796
+UP,Fisheries,2095,0.125657237
+UP,Fisheries,2100,0.123662678
+WB,Fisheries,2015,0.550997011
+WB,Fisheries,2020,0.49614663
+WB,Fisheries,2025,0.440797609
+WB,Fisheries,2030,0.403898261
+WB,Fisheries,2035,0.365004355
+WB,Fisheries,2040,0.324614529
+WB,Fisheries,2045,0.284224703
+WB,Fisheries,2050,0.244832156
+WB,Fisheries,2055,0.207932809
+WB,Fisheries,2060,0.17552122
+WB,Fisheries,2065,0.164551144
+WB,Fisheries,2070,0.155076987
+WB,Fisheries,2075,0.14560283
+WB,Fisheries,2080,0.137125953
+WB,Fisheries,2085,0.129147716
+WB,Fisheries,2090,0.127651796
+WB,Fisheries,2095,0.125657237
+WB,Fisheries,2100,0.123662678
+AN,Iron and Steel,2015,0.83
+AN,Iron and Steel,2020,0.747375566
+AN,Iron and Steel,2025,0.73926263
+AN,Iron and Steel,2030,0.731237761
+AN,Iron and Steel,2035,0.723300004
+AN,Iron and Steel,2040,0.715448414
+AN,Iron and Steel,2045,0.707682054
+AN,Iron and Steel,2050,0.7
+AN,Iron and Steel,2055,0.594501018
+AN,Iron and Steel,2060,0.501832993
+AN,Iron and Steel,2065,0.470468431
+AN,Iron and Steel,2070,0.443380856
+AN,Iron and Steel,2075,0.416293279
+AN,Iron and Steel,2080,0.392057026
+AN,Iron and Steel,2085,0.369246436
+AN,Iron and Steel,2090,0.36496945
+AN,Iron and Steel,2095,0.359266802
+AN,Iron and Steel,2100,0.353564155
+AP,Iron and Steel,2015,0.75
+AP,Iron and Steel,2020,0.675339367
+AP,Iron and Steel,2025,0.6
+AP,Iron and Steel,2030,0.549773756
+AP,Iron and Steel,2035,0.496832579
+AP,Iron and Steel,2040,0.441855204
+AP,Iron and Steel,2045,0.386877828
+AP,Iron and Steel,2050,0.333257919
+AP,Iron and Steel,2055,0.283031674
+AP,Iron and Steel,2060,0.238914027
+AP,Iron and Steel,2065,0.2239819
+AP,Iron and Steel,2070,0.211085973
+AP,Iron and Steel,2075,0.198190045
+AP,Iron and Steel,2080,0.186651584
+AP,Iron and Steel,2085,0.175791855
+AP,Iron and Steel,2090,0.173755656
+AP,Iron and Steel,2095,0.171040724
+AP,Iron and Steel,2100,0.168325792
+AR,Iron and Steel,2015,0.83
+AR,Iron and Steel,2020,0.747375566
+AR,Iron and Steel,2025,0.73926263
+AR,Iron and Steel,2030,0.731237761
+AR,Iron and Steel,2035,0.723300004
+AR,Iron and Steel,2040,0.715448414
+AR,Iron and Steel,2045,0.707682054
+AR,Iron and Steel,2050,0.7
+AR,Iron and Steel,2055,0.594501018
+AR,Iron and Steel,2060,0.501832993
+AR,Iron and Steel,2065,0.470468431
+AR,Iron and Steel,2070,0.443380856
+AR,Iron and Steel,2075,0.416293279
+AR,Iron and Steel,2080,0.392057026
+AR,Iron and Steel,2085,0.369246436
+AR,Iron and Steel,2090,0.36496945
+AR,Iron and Steel,2095,0.359266802
+AR,Iron and Steel,2100,0.353564155
+AS,Iron and Steel,2015,0.8
+AS,Iron and Steel,2020,0.747375566
+AS,Iron and Steel,2025,0.73926263
+AS,Iron and Steel,2030,0.731237761
+AS,Iron and Steel,2035,0.723300004
+AS,Iron and Steel,2040,0.715448414
+AS,Iron and Steel,2045,0.707682054
+AS,Iron and Steel,2050,0.7
+AS,Iron and Steel,2055,0.594501018
+AS,Iron and Steel,2060,0.501832993
+AS,Iron and Steel,2065,0.470468431
+AS,Iron and Steel,2070,0.443380856
+AS,Iron and Steel,2075,0.416293279
+AS,Iron and Steel,2080,0.392057026
+AS,Iron and Steel,2085,0.369246436
+AS,Iron and Steel,2090,0.36496945
+AS,Iron and Steel,2095,0.359266802
+AS,Iron and Steel,2100,0.353564155
+BR,Iron and Steel,2015,0.83
+BR,Iron and Steel,2020,0.747375566
+BR,Iron and Steel,2025,0.73926263
+BR,Iron and Steel,2030,0.731237761
+BR,Iron and Steel,2035,0.723300004
+BR,Iron and Steel,2040,0.715448414
+BR,Iron and Steel,2045,0.707682054
+BR,Iron and Steel,2050,0.7
+BR,Iron and Steel,2055,0.594501018
+BR,Iron and Steel,2060,0.501832993
+BR,Iron and Steel,2065,0.470468431
+BR,Iron and Steel,2070,0.443380856
+BR,Iron and Steel,2075,0.416293279
+BR,Iron and Steel,2080,0.392057026
+BR,Iron and Steel,2085,0.369246436
+BR,Iron and Steel,2090,0.36496945
+BR,Iron and Steel,2095,0.359266802
+BR,Iron and Steel,2100,0.353564155
+CG,Iron and Steel,2015,0.6
+CG,Iron and Steel,2020,0.540271493
+CG,Iron and Steel,2025,0.48
+CG,Iron and Steel,2030,0.439819005
+CG,Iron and Steel,2035,0.397466063
+CG,Iron and Steel,2040,0.353484163
+CG,Iron and Steel,2045,0.309502262
+CG,Iron and Steel,2050,0.266606335
+CG,Iron and Steel,2055,0.226425339
+CG,Iron and Steel,2060,0.191131222
+CG,Iron and Steel,2065,0.17918552
+CG,Iron and Steel,2070,0.168868778
+CG,Iron and Steel,2075,0.158552036
+CG,Iron and Steel,2080,0.149321267
+CG,Iron and Steel,2085,0.140633484
+CG,Iron and Steel,2090,0.139004525
+CG,Iron and Steel,2095,0.136832579
+CG,Iron and Steel,2100,0.134660633
+CH,Iron and Steel,2015,0.83
+CH,Iron and Steel,2020,0.747375566
+CH,Iron and Steel,2025,0.73926263
+CH,Iron and Steel,2030,0.731237761
+CH,Iron and Steel,2035,0.723300004
+CH,Iron and Steel,2040,0.715448414
+CH,Iron and Steel,2045,0.707682054
+CH,Iron and Steel,2050,0.7
+CH,Iron and Steel,2055,0.594501018
+CH,Iron and Steel,2060,0.501832993
+CH,Iron and Steel,2065,0.470468431
+CH,Iron and Steel,2070,0.443380856
+CH,Iron and Steel,2075,0.416293279
+CH,Iron and Steel,2080,0.392057026
+CH,Iron and Steel,2085,0.369246436
+CH,Iron and Steel,2090,0.36496945
+CH,Iron and Steel,2095,0.359266802
+CH,Iron and Steel,2100,0.353564155
+DD,Iron and Steel,2015,0.8
+DD,Iron and Steel,2020,0.747375566
+DD,Iron and Steel,2025,0.73926263
+DD,Iron and Steel,2030,0.731237761
+DD,Iron and Steel,2035,0.723300004
+DD,Iron and Steel,2040,0.715448414
+DD,Iron and Steel,2045,0.707682054
+DD,Iron and Steel,2050,0.7
+DD,Iron and Steel,2055,0.594501018
+DD,Iron and Steel,2060,0.501832993
+DD,Iron and Steel,2065,0.470468431
+DD,Iron and Steel,2070,0.443380856
+DD,Iron and Steel,2075,0.416293279
+DD,Iron and Steel,2080,0.392057026
+DD,Iron and Steel,2085,0.369246436
+DD,Iron and Steel,2090,0.36496945
+DD,Iron and Steel,2095,0.359266802
+DD,Iron and Steel,2100,0.353564155
+DL,Iron and Steel,2015,0.8
+DL,Iron and Steel,2020,0.747375566
+DL,Iron and Steel,2025,0.73926263
+DL,Iron and Steel,2030,0.731237761
+DL,Iron and Steel,2035,0.723300004
+DL,Iron and Steel,2040,0.715448414
+DL,Iron and Steel,2045,0.707682054
+DL,Iron and Steel,2050,0.7
+DL,Iron and Steel,2055,0.594501018
+DL,Iron and Steel,2060,0.501832993
+DL,Iron and Steel,2065,0.470468431
+DL,Iron and Steel,2070,0.443380856
+DL,Iron and Steel,2075,0.416293279
+DL,Iron and Steel,2080,0.392057026
+DL,Iron and Steel,2085,0.369246436
+DL,Iron and Steel,2090,0.36496945
+DL,Iron and Steel,2095,0.359266802
+DL,Iron and Steel,2100,0.353564155
+DN,Iron and Steel,2015,0.8
+DN,Iron and Steel,2020,0.747375566
+DN,Iron and Steel,2025,0.73926263
+DN,Iron and Steel,2030,0.731237761
+DN,Iron and Steel,2035,0.723300004
+DN,Iron and Steel,2040,0.715448414
+DN,Iron and Steel,2045,0.707682054
+DN,Iron and Steel,2050,0.7
+DN,Iron and Steel,2055,0.594501018
+DN,Iron and Steel,2060,0.501832993
+DN,Iron and Steel,2065,0.470468431
+DN,Iron and Steel,2070,0.443380856
+DN,Iron and Steel,2075,0.416293279
+DN,Iron and Steel,2080,0.392057026
+DN,Iron and Steel,2085,0.369246436
+DN,Iron and Steel,2090,0.36496945
+DN,Iron and Steel,2095,0.359266802
+DN,Iron and Steel,2100,0.353564155
+GA,Iron and Steel,2015,0.8
+GA,Iron and Steel,2020,0.747375566
+GA,Iron and Steel,2025,0.73926263
+GA,Iron and Steel,2030,0.731237761
+GA,Iron and Steel,2035,0.723300004
+GA,Iron and Steel,2040,0.715448414
+GA,Iron and Steel,2045,0.707682054
+GA,Iron and Steel,2050,0.7
+GA,Iron and Steel,2055,0.594501018
+GA,Iron and Steel,2060,0.501832993
+GA,Iron and Steel,2065,0.470468431
+GA,Iron and Steel,2070,0.443380856
+GA,Iron and Steel,2075,0.416293279
+GA,Iron and Steel,2080,0.392057026
+GA,Iron and Steel,2085,0.369246436
+GA,Iron and Steel,2090,0.36496945
+GA,Iron and Steel,2095,0.359266802
+GA,Iron and Steel,2100,0.353564155
+GJ,Iron and Steel,2015,1
+GJ,Iron and Steel,2020,0.900452489
+GJ,Iron and Steel,2025,0.8
+GJ,Iron and Steel,2030,0.733031674
+GJ,Iron and Steel,2035,0.662443439
+GJ,Iron and Steel,2040,0.589140271
+GJ,Iron and Steel,2045,0.515837104
+GJ,Iron and Steel,2050,0.444343891
+GJ,Iron and Steel,2055,0.377375566
+GJ,Iron and Steel,2060,0.318552036
+GJ,Iron and Steel,2065,0.298642534
+GJ,Iron and Steel,2070,0.281447964
+GJ,Iron and Steel,2075,0.264253394
+GJ,Iron and Steel,2080,0.248868778
+GJ,Iron and Steel,2085,0.23438914
+GJ,Iron and Steel,2090,0.231674208
+GJ,Iron and Steel,2095,0.228054299
+GJ,Iron and Steel,2100,0.224434389
+HP,Iron and Steel,2015,0.78
+HP,Iron and Steel,2020,0.702352941
+HP,Iron and Steel,2025,0.624
+HP,Iron and Steel,2030,0.571764706
+HP,Iron and Steel,2035,0.516705882
+HP,Iron and Steel,2040,0.459529412
+HP,Iron and Steel,2045,0.402352941
+HP,Iron and Steel,2050,0.346588235
+HP,Iron and Steel,2055,0.294352941
+HP,Iron and Steel,2060,0.248470588
+HP,Iron and Steel,2065,0.232941176
+HP,Iron and Steel,2070,0.219529412
+HP,Iron and Steel,2075,0.206117647
+HP,Iron and Steel,2080,0.194117647
+HP,Iron and Steel,2085,0.182823529
+HP,Iron and Steel,2090,0.180705882
+HP,Iron and Steel,2095,0.177882353
+HP,Iron and Steel,2100,0.175058824
+HR,Iron and Steel,2015,0.7
+HR,Iron and Steel,2020,0.630316742
+HR,Iron and Steel,2025,0.56
+HR,Iron and Steel,2030,0.513122172
+HR,Iron and Steel,2035,0.463710407
+HR,Iron and Steel,2040,0.41239819
+HR,Iron and Steel,2045,0.361085973
+HR,Iron and Steel,2050,0.311040724
+HR,Iron and Steel,2055,0.264162896
+HR,Iron and Steel,2060,0.222986425
+HR,Iron and Steel,2065,0.209049774
+HR,Iron and Steel,2070,0.197013575
+HR,Iron and Steel,2075,0.184977376
+HR,Iron and Steel,2080,0.174208145
+HR,Iron and Steel,2085,0.164072398
+HR,Iron and Steel,2090,0.162171946
+HR,Iron and Steel,2095,0.159638009
+HR,Iron and Steel,2100,0.157104072
+JH,Iron and Steel,2015,0.83
+JH,Iron and Steel,2020,0.747375566
+JH,Iron and Steel,2025,0.73926263
+JH,Iron and Steel,2030,0.731237761
+JH,Iron and Steel,2035,0.723300004
+JH,Iron and Steel,2040,0.715448414
+JH,Iron and Steel,2045,0.707682054
+JH,Iron and Steel,2050,0.7
+JH,Iron and Steel,2055,0.594501018
+JH,Iron and Steel,2060,0.501832993
+JH,Iron and Steel,2065,0.470468431
+JH,Iron and Steel,2070,0.443380856
+JH,Iron and Steel,2075,0.416293279
+JH,Iron and Steel,2080,0.392057026
+JH,Iron and Steel,2085,0.369246436
+JH,Iron and Steel,2090,0.36496945
+JH,Iron and Steel,2095,0.359266802
+JH,Iron and Steel,2100,0.353564155
+JK,Iron and Steel,2015,0.83
+JK,Iron and Steel,2020,0.747375566
+JK,Iron and Steel,2025,0.73926263
+JK,Iron and Steel,2030,0.731237761
+JK,Iron and Steel,2035,0.723300004
+JK,Iron and Steel,2040,0.715448414
+JK,Iron and Steel,2045,0.707682054
+JK,Iron and Steel,2050,0.7
+JK,Iron and Steel,2055,0.594501018
+JK,Iron and Steel,2060,0.501832993
+JK,Iron and Steel,2065,0.470468431
+JK,Iron and Steel,2070,0.443380856
+JK,Iron and Steel,2075,0.416293279
+JK,Iron and Steel,2080,0.392057026
+JK,Iron and Steel,2085,0.369246436
+JK,Iron and Steel,2090,0.36496945
+JK,Iron and Steel,2095,0.359266802
+JK,Iron and Steel,2100,0.353564155
+KA,Iron and Steel,2015,0.83
+KA,Iron and Steel,2020,0.747375566
+KA,Iron and Steel,2025,0.73926263
+KA,Iron and Steel,2030,0.731237761
+KA,Iron and Steel,2035,0.723300004
+KA,Iron and Steel,2040,0.715448414
+KA,Iron and Steel,2045,0.707682054
+KA,Iron and Steel,2050,0.7
+KA,Iron and Steel,2055,0.594501018
+KA,Iron and Steel,2060,0.501832993
+KA,Iron and Steel,2065,0.470468431
+KA,Iron and Steel,2070,0.443380856
+KA,Iron and Steel,2075,0.416293279
+KA,Iron and Steel,2080,0.392057026
+KA,Iron and Steel,2085,0.369246436
+KA,Iron and Steel,2090,0.36496945
+KA,Iron and Steel,2095,0.359266802
+KA,Iron and Steel,2100,0.353564155
+KL,Iron and Steel,2015,0.83
+KL,Iron and Steel,2020,0.747375566
+KL,Iron and Steel,2025,0.73926263
+KL,Iron and Steel,2030,0.731237761
+KL,Iron and Steel,2035,0.723300004
+KL,Iron and Steel,2040,0.715448414
+KL,Iron and Steel,2045,0.707682054
+KL,Iron and Steel,2050,0.7
+KL,Iron and Steel,2055,0.594501018
+KL,Iron and Steel,2060,0.501832993
+KL,Iron and Steel,2065,0.470468431
+KL,Iron and Steel,2070,0.443380856
+KL,Iron and Steel,2075,0.416293279
+KL,Iron and Steel,2080,0.392057026
+KL,Iron and Steel,2085,0.369246436
+KL,Iron and Steel,2090,0.36496945
+KL,Iron and Steel,2095,0.359266802
+KL,Iron and Steel,2100,0.353564155
+LA,Iron and Steel,2015,0.83
+LA,Iron and Steel,2020,0.747375566
+LA,Iron and Steel,2025,0.73926263
+LA,Iron and Steel,2030,0.731237761
+LA,Iron and Steel,2035,0.723300004
+LA,Iron and Steel,2040,0.715448414
+LA,Iron and Steel,2045,0.707682054
+LA,Iron and Steel,2050,0.7
+LA,Iron and Steel,2055,0.594501018
+LA,Iron and Steel,2060,0.501832993
+LA,Iron and Steel,2065,0.470468431
+LA,Iron and Steel,2070,0.443380856
+LA,Iron and Steel,2075,0.416293279
+LA,Iron and Steel,2080,0.392057026
+LA,Iron and Steel,2085,0.369246436
+LA,Iron and Steel,2090,0.36496945
+LA,Iron and Steel,2095,0.359266802
+LA,Iron and Steel,2100,0.353564155
+LD,Iron and Steel,2015,0.83
+LD,Iron and Steel,2020,0.747375566
+LD,Iron and Steel,2025,0.73926263
+LD,Iron and Steel,2030,0.731237761
+LD,Iron and Steel,2035,0.723300004
+LD,Iron and Steel,2040,0.715448414
+LD,Iron and Steel,2045,0.707682054
+LD,Iron and Steel,2050,0.7
+LD,Iron and Steel,2055,0.594501018
+LD,Iron and Steel,2060,0.501832993
+LD,Iron and Steel,2065,0.470468431
+LD,Iron and Steel,2070,0.443380856
+LD,Iron and Steel,2075,0.416293279
+LD,Iron and Steel,2080,0.392057026
+LD,Iron and Steel,2085,0.369246436
+LD,Iron and Steel,2090,0.36496945
+LD,Iron and Steel,2095,0.359266802
+LD,Iron and Steel,2100,0.353564155
+MH,Iron and Steel,2015,0.78
+MH,Iron and Steel,2020,0.747375566
+MH,Iron and Steel,2025,0.73926263
+MH,Iron and Steel,2030,0.731237761
+MH,Iron and Steel,2035,0.723300004
+MH,Iron and Steel,2040,0.715448414
+MH,Iron and Steel,2045,0.707682054
+MH,Iron and Steel,2050,0.7
+MH,Iron and Steel,2055,0.594501018
+MH,Iron and Steel,2060,0.501832993
+MH,Iron and Steel,2065,0.470468431
+MH,Iron and Steel,2070,0.443380856
+MH,Iron and Steel,2075,0.416293279
+MH,Iron and Steel,2080,0.392057026
+MH,Iron and Steel,2085,0.369246436
+MH,Iron and Steel,2090,0.36496945
+MH,Iron and Steel,2095,0.359266802
+MH,Iron and Steel,2100,0.353564155
+ML,Iron and Steel,2015,0.83
+ML,Iron and Steel,2020,0.747375566
+ML,Iron and Steel,2025,0.73926263
+ML,Iron and Steel,2030,0.731237761
+ML,Iron and Steel,2035,0.723300004
+ML,Iron and Steel,2040,0.715448414
+ML,Iron and Steel,2045,0.707682054
+ML,Iron and Steel,2050,0.7
+ML,Iron and Steel,2055,0.594501018
+ML,Iron and Steel,2060,0.501832993
+ML,Iron and Steel,2065,0.470468431
+ML,Iron and Steel,2070,0.443380856
+ML,Iron and Steel,2075,0.416293279
+ML,Iron and Steel,2080,0.392057026
+ML,Iron and Steel,2085,0.369246436
+ML,Iron and Steel,2090,0.36496945
+ML,Iron and Steel,2095,0.359266802
+ML,Iron and Steel,2100,0.353564155
+MN,Iron and Steel,2015,0.83
+MN,Iron and Steel,2020,0.747375566
+MN,Iron and Steel,2025,0.73926263
+MN,Iron and Steel,2030,0.731237761
+MN,Iron and Steel,2035,0.723300004
+MN,Iron and Steel,2040,0.715448414
+MN,Iron and Steel,2045,0.707682054
+MN,Iron and Steel,2050,0.7
+MN,Iron and Steel,2055,0.594501018
+MN,Iron and Steel,2060,0.501832993
+MN,Iron and Steel,2065,0.470468431
+MN,Iron and Steel,2070,0.443380856
+MN,Iron and Steel,2075,0.416293279
+MN,Iron and Steel,2080,0.392057026
+MN,Iron and Steel,2085,0.369246436
+MN,Iron and Steel,2090,0.36496945
+MN,Iron and Steel,2095,0.359266802
+MN,Iron and Steel,2100,0.353564155
+MP,Iron and Steel,2015,0.83
+MP,Iron and Steel,2020,0.747375566
+MP,Iron and Steel,2025,0.73926263
+MP,Iron and Steel,2030,0.731237761
+MP,Iron and Steel,2035,0.723300004
+MP,Iron and Steel,2040,0.715448414
+MP,Iron and Steel,2045,0.707682054
+MP,Iron and Steel,2050,0.7
+MP,Iron and Steel,2055,0.594501018
+MP,Iron and Steel,2060,0.501832993
+MP,Iron and Steel,2065,0.470468431
+MP,Iron and Steel,2070,0.443380856
+MP,Iron and Steel,2075,0.416293279
+MP,Iron and Steel,2080,0.392057026
+MP,Iron and Steel,2085,0.369246436
+MP,Iron and Steel,2090,0.36496945
+MP,Iron and Steel,2095,0.359266802
+MP,Iron and Steel,2100,0.353564155
+MZ,Iron and Steel,2015,0.83
+MZ,Iron and Steel,2020,0.747375566
+MZ,Iron and Steel,2025,0.73926263
+MZ,Iron and Steel,2030,0.731237761
+MZ,Iron and Steel,2035,0.723300004
+MZ,Iron and Steel,2040,0.715448414
+MZ,Iron and Steel,2045,0.707682054
+MZ,Iron and Steel,2050,0.7
+MZ,Iron and Steel,2055,0.594501018
+MZ,Iron and Steel,2060,0.501832993
+MZ,Iron and Steel,2065,0.470468431
+MZ,Iron and Steel,2070,0.443380856
+MZ,Iron and Steel,2075,0.416293279
+MZ,Iron and Steel,2080,0.392057026
+MZ,Iron and Steel,2085,0.369246436
+MZ,Iron and Steel,2090,0.36496945
+MZ,Iron and Steel,2095,0.359266802
+MZ,Iron and Steel,2100,0.353564155
+NL,Iron and Steel,2015,0.83
+NL,Iron and Steel,2020,0.747375566
+NL,Iron and Steel,2025,0.73926263
+NL,Iron and Steel,2030,0.731237761
+NL,Iron and Steel,2035,0.723300004
+NL,Iron and Steel,2040,0.715448414
+NL,Iron and Steel,2045,0.707682054
+NL,Iron and Steel,2050,0.7
+NL,Iron and Steel,2055,0.594501018
+NL,Iron and Steel,2060,0.501832993
+NL,Iron and Steel,2065,0.470468431
+NL,Iron and Steel,2070,0.443380856
+NL,Iron and Steel,2075,0.416293279
+NL,Iron and Steel,2080,0.392057026
+NL,Iron and Steel,2085,0.369246436
+NL,Iron and Steel,2090,0.36496945
+NL,Iron and Steel,2095,0.359266802
+NL,Iron and Steel,2100,0.353564155
+OD,Iron and Steel,2015,1
+OD,Iron and Steel,2020,0.900452489
+OD,Iron and Steel,2025,0.8
+OD,Iron and Steel,2030,0.733031674
+OD,Iron and Steel,2035,0.662443439
+OD,Iron and Steel,2040,0.589140271
+OD,Iron and Steel,2045,0.515837104
+OD,Iron and Steel,2050,0.444343891
+OD,Iron and Steel,2055,0.377375566
+OD,Iron and Steel,2060,0.318552036
+OD,Iron and Steel,2065,0.298642534
+OD,Iron and Steel,2070,0.281447964
+OD,Iron and Steel,2075,0.264253394
+OD,Iron and Steel,2080,0.248868778
+OD,Iron and Steel,2085,0.23438914
+OD,Iron and Steel,2090,0.231674208
+OD,Iron and Steel,2095,0.228054299
+OD,Iron and Steel,2100,0.224434389
+PB,Iron and Steel,2015,0.83
+PB,Iron and Steel,2020,0.747375566
+PB,Iron and Steel,2025,0.73926263
+PB,Iron and Steel,2030,0.731237761
+PB,Iron and Steel,2035,0.723300004
+PB,Iron and Steel,2040,0.715448414
+PB,Iron and Steel,2045,0.707682054
+PB,Iron and Steel,2050,0.7
+PB,Iron and Steel,2055,0.594501018
+PB,Iron and Steel,2060,0.501832993
+PB,Iron and Steel,2065,0.470468431
+PB,Iron and Steel,2070,0.443380856
+PB,Iron and Steel,2075,0.416293279
+PB,Iron and Steel,2080,0.392057026
+PB,Iron and Steel,2085,0.369246436
+PB,Iron and Steel,2090,0.36496945
+PB,Iron and Steel,2095,0.359266802
+PB,Iron and Steel,2100,0.353564155
+PC,Iron and Steel,2015,0.83
+PC,Iron and Steel,2020,0.747375566
+PC,Iron and Steel,2025,0.73926263
+PC,Iron and Steel,2030,0.731237761
+PC,Iron and Steel,2035,0.723300004
+PC,Iron and Steel,2040,0.715448414
+PC,Iron and Steel,2045,0.707682054
+PC,Iron and Steel,2050,0.7
+PC,Iron and Steel,2055,0.594501018
+PC,Iron and Steel,2060,0.501832993
+PC,Iron and Steel,2065,0.470468431
+PC,Iron and Steel,2070,0.443380856
+PC,Iron and Steel,2075,0.416293279
+PC,Iron and Steel,2080,0.392057026
+PC,Iron and Steel,2085,0.369246436
+PC,Iron and Steel,2090,0.36496945
+PC,Iron and Steel,2095,0.359266802
+PC,Iron and Steel,2100,0.353564155
+RJ,Iron and Steel,2015,0.83
+RJ,Iron and Steel,2020,0.747375566
+RJ,Iron and Steel,2025,0.73926263
+RJ,Iron and Steel,2030,0.731237761
+RJ,Iron and Steel,2035,0.723300004
+RJ,Iron and Steel,2040,0.715448414
+RJ,Iron and Steel,2045,0.707682054
+RJ,Iron and Steel,2050,0.7
+RJ,Iron and Steel,2055,0.594501018
+RJ,Iron and Steel,2060,0.501832993
+RJ,Iron and Steel,2065,0.470468431
+RJ,Iron and Steel,2070,0.443380856
+RJ,Iron and Steel,2075,0.416293279
+RJ,Iron and Steel,2080,0.392057026
+RJ,Iron and Steel,2085,0.369246436
+RJ,Iron and Steel,2090,0.36496945
+RJ,Iron and Steel,2095,0.359266802
+RJ,Iron and Steel,2100,0.353564155
+SK,Iron and Steel,2015,0.83
+SK,Iron and Steel,2020,0.747375566
+SK,Iron and Steel,2025,0.73926263
+SK,Iron and Steel,2030,0.731237761
+SK,Iron and Steel,2035,0.723300004
+SK,Iron and Steel,2040,0.715448414
+SK,Iron and Steel,2045,0.707682054
+SK,Iron and Steel,2050,0.7
+SK,Iron and Steel,2055,0.594501018
+SK,Iron and Steel,2060,0.501832993
+SK,Iron and Steel,2065,0.470468431
+SK,Iron and Steel,2070,0.443380856
+SK,Iron and Steel,2075,0.416293279
+SK,Iron and Steel,2080,0.392057026
+SK,Iron and Steel,2085,0.369246436
+SK,Iron and Steel,2090,0.36496945
+SK,Iron and Steel,2095,0.359266802
+SK,Iron and Steel,2100,0.353564155
+TN,Iron and Steel,2015,0.9
+TN,Iron and Steel,2020,0.81040724
+TN,Iron and Steel,2025,0.72
+TN,Iron and Steel,2030,0.659728507
+TN,Iron and Steel,2035,0.596199095
+TN,Iron and Steel,2040,0.530226244
+TN,Iron and Steel,2045,0.464253394
+TN,Iron and Steel,2050,0.399909502
+TN,Iron and Steel,2055,0.339638009
+TN,Iron and Steel,2060,0.286696833
+TN,Iron and Steel,2065,0.268778281
+TN,Iron and Steel,2070,0.253303167
+TN,Iron and Steel,2075,0.237828054
+TN,Iron and Steel,2080,0.2239819
+TN,Iron and Steel,2085,0.210950226
+TN,Iron and Steel,2090,0.208506787
+TN,Iron and Steel,2095,0.205248869
+TN,Iron and Steel,2100,0.20199095
+TR,Iron and Steel,2015,0.83
+TR,Iron and Steel,2020,0.747375566
+TR,Iron and Steel,2025,0.73926263
+TR,Iron and Steel,2030,0.731237761
+TR,Iron and Steel,2035,0.723300004
+TR,Iron and Steel,2040,0.715448414
+TR,Iron and Steel,2045,0.707682054
+TR,Iron and Steel,2050,0.7
+TR,Iron and Steel,2055,0.594501018
+TR,Iron and Steel,2060,0.501832993
+TR,Iron and Steel,2065,0.470468431
+TR,Iron and Steel,2070,0.443380856
+TR,Iron and Steel,2075,0.416293279
+TR,Iron and Steel,2080,0.392057026
+TR,Iron and Steel,2085,0.369246436
+TR,Iron and Steel,2090,0.36496945
+TR,Iron and Steel,2095,0.359266802
+TR,Iron and Steel,2100,0.353564155
+TS,Iron and Steel,2015,0.8
+TS,Iron and Steel,2020,0.747375566
+TS,Iron and Steel,2025,0.73926263
+TS,Iron and Steel,2030,0.731237761
+TS,Iron and Steel,2035,0.723300004
+TS,Iron and Steel,2040,0.715448414
+TS,Iron and Steel,2045,0.707682054
+TS,Iron and Steel,2050,0.7
+TS,Iron and Steel,2055,0.594501018
+TS,Iron and Steel,2060,0.501832993
+TS,Iron and Steel,2065,0.470468431
+TS,Iron and Steel,2070,0.443380856
+TS,Iron and Steel,2075,0.416293279
+TS,Iron and Steel,2080,0.392057026
+TS,Iron and Steel,2085,0.369246436
+TS,Iron and Steel,2090,0.36496945
+TS,Iron and Steel,2095,0.359266802
+TS,Iron and Steel,2100,0.353564155
+UK,Iron and Steel,2015,0.8
+UK,Iron and Steel,2020,0.747375566
+UK,Iron and Steel,2025,0.73926263
+UK,Iron and Steel,2030,0.731237761
+UK,Iron and Steel,2035,0.723300004
+UK,Iron and Steel,2040,0.715448414
+UK,Iron and Steel,2045,0.707682054
+UK,Iron and Steel,2050,0.7
+UK,Iron and Steel,2055,0.594501018
+UK,Iron and Steel,2060,0.501832993
+UK,Iron and Steel,2065,0.470468431
+UK,Iron and Steel,2070,0.443380856
+UK,Iron and Steel,2075,0.416293279
+UK,Iron and Steel,2080,0.392057026
+UK,Iron and Steel,2085,0.369246436
+UK,Iron and Steel,2090,0.36496945
+UK,Iron and Steel,2095,0.359266802
+UK,Iron and Steel,2100,0.353564155
+UP,Iron and Steel,2015,0.83
+UP,Iron and Steel,2020,0.747375566
+UP,Iron and Steel,2025,0.73926263
+UP,Iron and Steel,2030,0.731237761
+UP,Iron and Steel,2035,0.723300004
+UP,Iron and Steel,2040,0.715448414
+UP,Iron and Steel,2045,0.707682054
+UP,Iron and Steel,2050,0.7
+UP,Iron and Steel,2055,0.594501018
+UP,Iron and Steel,2060,0.501832993
+UP,Iron and Steel,2065,0.470468431
+UP,Iron and Steel,2070,0.443380856
+UP,Iron and Steel,2075,0.416293279
+UP,Iron and Steel,2080,0.392057026
+UP,Iron and Steel,2085,0.369246436
+UP,Iron and Steel,2090,0.36496945
+UP,Iron and Steel,2095,0.359266802
+UP,Iron and Steel,2100,0.353564155
+WB,Iron and Steel,2015,0.9
+WB,Iron and Steel,2020,0.81040724
+WB,Iron and Steel,2025,0.72
+WB,Iron and Steel,2030,0.659728507
+WB,Iron and Steel,2035,0.596199095
+WB,Iron and Steel,2040,0.530226244
+WB,Iron and Steel,2045,0.464253394
+WB,Iron and Steel,2050,0.399909502
+WB,Iron and Steel,2055,0.339638009
+WB,Iron and Steel,2060,0.286696833
+WB,Iron and Steel,2065,0.268778281
+WB,Iron and Steel,2070,0.253303167
+WB,Iron and Steel,2075,0.237828054
+WB,Iron and Steel,2080,0.2239819
+WB,Iron and Steel,2085,0.210950226
+WB,Iron and Steel,2090,0.208506787
+WB,Iron and Steel,2095,0.205248869
+WB,Iron and Steel,2100,0.20199095
+AN,Non-Ferrous Metals,2015,4.3
+AN,Non-Ferrous Metals,2020,1
+AN,Non-Ferrous Metals,2025,0.888442211
+AN,Non-Ferrous Metals,2030,0.814070352
+AN,Non-Ferrous Metals,2035,0.735678392
+AN,Non-Ferrous Metals,2040,0.654271357
+AN,Non-Ferrous Metals,2045,0.572864322
+AN,Non-Ferrous Metals,2050,0.493467337
+AN,Non-Ferrous Metals,2055,0.419095477
+AN,Non-Ferrous Metals,2060,0.353768844
+AN,Non-Ferrous Metals,2065,0.331658291
+AN,Non-Ferrous Metals,2070,0.312562814
+AN,Non-Ferrous Metals,2075,0.293467337
+AN,Non-Ferrous Metals,2080,0.27638191
+AN,Non-Ferrous Metals,2085,0.260301508
+AN,Non-Ferrous Metals,2090,0.257286432
+AN,Non-Ferrous Metals,2095,0.253266332
+AN,Non-Ferrous Metals,2100,0.249246231
+AP,Non-Ferrous Metals,2015,3.5
+AP,Non-Ferrous Metals,2020,1
+AP,Non-Ferrous Metals,2025,0.888442211
+AP,Non-Ferrous Metals,2030,0.814070352
+AP,Non-Ferrous Metals,2035,0.735678392
+AP,Non-Ferrous Metals,2040,0.654271357
+AP,Non-Ferrous Metals,2045,0.572864322
+AP,Non-Ferrous Metals,2050,0.493467337
+AP,Non-Ferrous Metals,2055,0.419095477
+AP,Non-Ferrous Metals,2060,0.353768844
+AP,Non-Ferrous Metals,2065,0.331658291
+AP,Non-Ferrous Metals,2070,0.312562814
+AP,Non-Ferrous Metals,2075,0.293467337
+AP,Non-Ferrous Metals,2080,0.27638191
+AP,Non-Ferrous Metals,2085,0.260301508
+AP,Non-Ferrous Metals,2090,0.257286432
+AP,Non-Ferrous Metals,2095,0.253266332
+AP,Non-Ferrous Metals,2100,0.249246231
+AR,Non-Ferrous Metals,2015,4.3
+AR,Non-Ferrous Metals,2020,1
+AR,Non-Ferrous Metals,2025,0.888442211
+AR,Non-Ferrous Metals,2030,0.814070352
+AR,Non-Ferrous Metals,2035,0.735678392
+AR,Non-Ferrous Metals,2040,0.654271357
+AR,Non-Ferrous Metals,2045,0.572864322
+AR,Non-Ferrous Metals,2050,0.493467337
+AR,Non-Ferrous Metals,2055,0.419095477
+AR,Non-Ferrous Metals,2060,0.353768844
+AR,Non-Ferrous Metals,2065,0.331658291
+AR,Non-Ferrous Metals,2070,0.312562814
+AR,Non-Ferrous Metals,2075,0.293467337
+AR,Non-Ferrous Metals,2080,0.27638191
+AR,Non-Ferrous Metals,2085,0.260301508
+AR,Non-Ferrous Metals,2090,0.257286432
+AR,Non-Ferrous Metals,2095,0.253266332
+AR,Non-Ferrous Metals,2100,0.249246231
+AS,Non-Ferrous Metals,2015,4.3
+AS,Non-Ferrous Metals,2020,1
+AS,Non-Ferrous Metals,2025,0.888442211
+AS,Non-Ferrous Metals,2030,0.814070352
+AS,Non-Ferrous Metals,2035,0.735678392
+AS,Non-Ferrous Metals,2040,0.654271357
+AS,Non-Ferrous Metals,2045,0.572864322
+AS,Non-Ferrous Metals,2050,0.493467337
+AS,Non-Ferrous Metals,2055,0.419095477
+AS,Non-Ferrous Metals,2060,0.353768844
+AS,Non-Ferrous Metals,2065,0.331658291
+AS,Non-Ferrous Metals,2070,0.312562814
+AS,Non-Ferrous Metals,2075,0.293467337
+AS,Non-Ferrous Metals,2080,0.27638191
+AS,Non-Ferrous Metals,2085,0.260301508
+AS,Non-Ferrous Metals,2090,0.257286432
+AS,Non-Ferrous Metals,2095,0.253266332
+AS,Non-Ferrous Metals,2100,0.249246231
+BR,Non-Ferrous Metals,2015,4.3
+BR,Non-Ferrous Metals,2020,1
+BR,Non-Ferrous Metals,2025,0.888442211
+BR,Non-Ferrous Metals,2030,0.814070352
+BR,Non-Ferrous Metals,2035,0.735678392
+BR,Non-Ferrous Metals,2040,0.654271357
+BR,Non-Ferrous Metals,2045,0.572864322
+BR,Non-Ferrous Metals,2050,0.493467337
+BR,Non-Ferrous Metals,2055,0.419095477
+BR,Non-Ferrous Metals,2060,0.353768844
+BR,Non-Ferrous Metals,2065,0.331658291
+BR,Non-Ferrous Metals,2070,0.312562814
+BR,Non-Ferrous Metals,2075,0.293467337
+BR,Non-Ferrous Metals,2080,0.27638191
+BR,Non-Ferrous Metals,2085,0.260301508
+BR,Non-Ferrous Metals,2090,0.257286432
+BR,Non-Ferrous Metals,2095,0.253266332
+BR,Non-Ferrous Metals,2100,0.249246231
+CG,Non-Ferrous Metals,2015,5.5
+CG,Non-Ferrous Metals,2020,1
+CG,Non-Ferrous Metals,2025,0.888442211
+CG,Non-Ferrous Metals,2030,0.814070352
+CG,Non-Ferrous Metals,2035,0.735678392
+CG,Non-Ferrous Metals,2040,0.654271357
+CG,Non-Ferrous Metals,2045,0.572864322
+CG,Non-Ferrous Metals,2050,0.493467337
+CG,Non-Ferrous Metals,2055,0.419095477
+CG,Non-Ferrous Metals,2060,0.353768844
+CG,Non-Ferrous Metals,2065,0.331658291
+CG,Non-Ferrous Metals,2070,0.312562814
+CG,Non-Ferrous Metals,2075,0.293467337
+CG,Non-Ferrous Metals,2080,0.27638191
+CG,Non-Ferrous Metals,2085,0.260301508
+CG,Non-Ferrous Metals,2090,0.257286432
+CG,Non-Ferrous Metals,2095,0.253266332
+CG,Non-Ferrous Metals,2100,0.249246231
+CH,Non-Ferrous Metals,2015,4.3
+CH,Non-Ferrous Metals,2020,1
+CH,Non-Ferrous Metals,2025,0.888442211
+CH,Non-Ferrous Metals,2030,0.814070352
+CH,Non-Ferrous Metals,2035,0.735678392
+CH,Non-Ferrous Metals,2040,0.654271357
+CH,Non-Ferrous Metals,2045,0.572864322
+CH,Non-Ferrous Metals,2050,0.493467337
+CH,Non-Ferrous Metals,2055,0.419095477
+CH,Non-Ferrous Metals,2060,0.353768844
+CH,Non-Ferrous Metals,2065,0.331658291
+CH,Non-Ferrous Metals,2070,0.312562814
+CH,Non-Ferrous Metals,2075,0.293467337
+CH,Non-Ferrous Metals,2080,0.27638191
+CH,Non-Ferrous Metals,2085,0.260301508
+CH,Non-Ferrous Metals,2090,0.257286432
+CH,Non-Ferrous Metals,2095,0.253266332
+CH,Non-Ferrous Metals,2100,0.249246231
+DD,Non-Ferrous Metals,2015,4.3
+DD,Non-Ferrous Metals,2020,1
+DD,Non-Ferrous Metals,2025,0.888442211
+DD,Non-Ferrous Metals,2030,0.814070352
+DD,Non-Ferrous Metals,2035,0.735678392
+DD,Non-Ferrous Metals,2040,0.654271357
+DD,Non-Ferrous Metals,2045,0.572864322
+DD,Non-Ferrous Metals,2050,0.493467337
+DD,Non-Ferrous Metals,2055,0.419095477
+DD,Non-Ferrous Metals,2060,0.353768844
+DD,Non-Ferrous Metals,2065,0.331658291
+DD,Non-Ferrous Metals,2070,0.312562814
+DD,Non-Ferrous Metals,2075,0.293467337
+DD,Non-Ferrous Metals,2080,0.27638191
+DD,Non-Ferrous Metals,2085,0.260301508
+DD,Non-Ferrous Metals,2090,0.257286432
+DD,Non-Ferrous Metals,2095,0.253266332
+DD,Non-Ferrous Metals,2100,0.249246231
+DL,Non-Ferrous Metals,2015,4.3
+DL,Non-Ferrous Metals,2020,1
+DL,Non-Ferrous Metals,2025,0.888442211
+DL,Non-Ferrous Metals,2030,0.814070352
+DL,Non-Ferrous Metals,2035,0.735678392
+DL,Non-Ferrous Metals,2040,0.654271357
+DL,Non-Ferrous Metals,2045,0.572864322
+DL,Non-Ferrous Metals,2050,0.493467337
+DL,Non-Ferrous Metals,2055,0.419095477
+DL,Non-Ferrous Metals,2060,0.353768844
+DL,Non-Ferrous Metals,2065,0.331658291
+DL,Non-Ferrous Metals,2070,0.312562814
+DL,Non-Ferrous Metals,2075,0.293467337
+DL,Non-Ferrous Metals,2080,0.27638191
+DL,Non-Ferrous Metals,2085,0.260301508
+DL,Non-Ferrous Metals,2090,0.257286432
+DL,Non-Ferrous Metals,2095,0.253266332
+DL,Non-Ferrous Metals,2100,0.249246231
+DN,Non-Ferrous Metals,2015,3
+DN,Non-Ferrous Metals,2020,1
+DN,Non-Ferrous Metals,2025,0.888442211
+DN,Non-Ferrous Metals,2030,0.814070352
+DN,Non-Ferrous Metals,2035,0.735678392
+DN,Non-Ferrous Metals,2040,0.654271357
+DN,Non-Ferrous Metals,2045,0.572864322
+DN,Non-Ferrous Metals,2050,0.493467337
+DN,Non-Ferrous Metals,2055,0.419095477
+DN,Non-Ferrous Metals,2060,0.353768844
+DN,Non-Ferrous Metals,2065,0.331658291
+DN,Non-Ferrous Metals,2070,0.312562814
+DN,Non-Ferrous Metals,2075,0.293467337
+DN,Non-Ferrous Metals,2080,0.27638191
+DN,Non-Ferrous Metals,2085,0.260301508
+DN,Non-Ferrous Metals,2090,0.257286432
+DN,Non-Ferrous Metals,2095,0.253266332
+DN,Non-Ferrous Metals,2100,0.249246231
+GA,Non-Ferrous Metals,2015,3
+GA,Non-Ferrous Metals,2020,1
+GA,Non-Ferrous Metals,2025,0.888442211
+GA,Non-Ferrous Metals,2030,0.814070352
+GA,Non-Ferrous Metals,2035,0.735678392
+GA,Non-Ferrous Metals,2040,0.654271357
+GA,Non-Ferrous Metals,2045,0.572864322
+GA,Non-Ferrous Metals,2050,0.493467337
+GA,Non-Ferrous Metals,2055,0.419095477
+GA,Non-Ferrous Metals,2060,0.353768844
+GA,Non-Ferrous Metals,2065,0.331658291
+GA,Non-Ferrous Metals,2070,0.312562814
+GA,Non-Ferrous Metals,2075,0.293467337
+GA,Non-Ferrous Metals,2080,0.27638191
+GA,Non-Ferrous Metals,2085,0.260301508
+GA,Non-Ferrous Metals,2090,0.257286432
+GA,Non-Ferrous Metals,2095,0.253266332
+GA,Non-Ferrous Metals,2100,0.249246231
+GJ,Non-Ferrous Metals,2015,3.8
+GJ,Non-Ferrous Metals,2020,1
+GJ,Non-Ferrous Metals,2025,0.888442211
+GJ,Non-Ferrous Metals,2030,0.814070352
+GJ,Non-Ferrous Metals,2035,0.735678392
+GJ,Non-Ferrous Metals,2040,0.654271357
+GJ,Non-Ferrous Metals,2045,0.572864322
+GJ,Non-Ferrous Metals,2050,0.493467337
+GJ,Non-Ferrous Metals,2055,0.419095477
+GJ,Non-Ferrous Metals,2060,0.353768844
+GJ,Non-Ferrous Metals,2065,0.331658291
+GJ,Non-Ferrous Metals,2070,0.312562814
+GJ,Non-Ferrous Metals,2075,0.293467337
+GJ,Non-Ferrous Metals,2080,0.27638191
+GJ,Non-Ferrous Metals,2085,0.260301508
+GJ,Non-Ferrous Metals,2090,0.257286432
+GJ,Non-Ferrous Metals,2095,0.253266332
+GJ,Non-Ferrous Metals,2100,0.249246231
+HP,Non-Ferrous Metals,2015,4.3
+HP,Non-Ferrous Metals,2020,1
+HP,Non-Ferrous Metals,2025,0.888442211
+HP,Non-Ferrous Metals,2030,0.814070352
+HP,Non-Ferrous Metals,2035,0.735678392
+HP,Non-Ferrous Metals,2040,0.654271357
+HP,Non-Ferrous Metals,2045,0.572864322
+HP,Non-Ferrous Metals,2050,0.493467337
+HP,Non-Ferrous Metals,2055,0.419095477
+HP,Non-Ferrous Metals,2060,0.353768844
+HP,Non-Ferrous Metals,2065,0.331658291
+HP,Non-Ferrous Metals,2070,0.312562814
+HP,Non-Ferrous Metals,2075,0.293467337
+HP,Non-Ferrous Metals,2080,0.27638191
+HP,Non-Ferrous Metals,2085,0.260301508
+HP,Non-Ferrous Metals,2090,0.257286432
+HP,Non-Ferrous Metals,2095,0.253266332
+HP,Non-Ferrous Metals,2100,0.249246231
+HR,Non-Ferrous Metals,2015,3
+HR,Non-Ferrous Metals,2020,1
+HR,Non-Ferrous Metals,2025,0.888442211
+HR,Non-Ferrous Metals,2030,0.814070352
+HR,Non-Ferrous Metals,2035,0.735678392
+HR,Non-Ferrous Metals,2040,0.654271357
+HR,Non-Ferrous Metals,2045,0.572864322
+HR,Non-Ferrous Metals,2050,0.493467337
+HR,Non-Ferrous Metals,2055,0.419095477
+HR,Non-Ferrous Metals,2060,0.353768844
+HR,Non-Ferrous Metals,2065,0.331658291
+HR,Non-Ferrous Metals,2070,0.312562814
+HR,Non-Ferrous Metals,2075,0.293467337
+HR,Non-Ferrous Metals,2080,0.27638191
+HR,Non-Ferrous Metals,2085,0.260301508
+HR,Non-Ferrous Metals,2090,0.257286432
+HR,Non-Ferrous Metals,2095,0.253266332
+HR,Non-Ferrous Metals,2100,0.249246231
+JH,Non-Ferrous Metals,2015,4.3
+JH,Non-Ferrous Metals,2020,1
+JH,Non-Ferrous Metals,2025,0.888442211
+JH,Non-Ferrous Metals,2030,0.814070352
+JH,Non-Ferrous Metals,2035,0.735678392
+JH,Non-Ferrous Metals,2040,0.654271357
+JH,Non-Ferrous Metals,2045,0.572864322
+JH,Non-Ferrous Metals,2050,0.493467337
+JH,Non-Ferrous Metals,2055,0.419095477
+JH,Non-Ferrous Metals,2060,0.353768844
+JH,Non-Ferrous Metals,2065,0.331658291
+JH,Non-Ferrous Metals,2070,0.312562814
+JH,Non-Ferrous Metals,2075,0.293467337
+JH,Non-Ferrous Metals,2080,0.27638191
+JH,Non-Ferrous Metals,2085,0.260301508
+JH,Non-Ferrous Metals,2090,0.257286432
+JH,Non-Ferrous Metals,2095,0.253266332
+JH,Non-Ferrous Metals,2100,0.249246231
+JK,Non-Ferrous Metals,2015,4.3
+JK,Non-Ferrous Metals,2020,1
+JK,Non-Ferrous Metals,2025,0.888442211
+JK,Non-Ferrous Metals,2030,0.814070352
+JK,Non-Ferrous Metals,2035,0.735678392
+JK,Non-Ferrous Metals,2040,0.654271357
+JK,Non-Ferrous Metals,2045,0.572864322
+JK,Non-Ferrous Metals,2050,0.493467337
+JK,Non-Ferrous Metals,2055,0.419095477
+JK,Non-Ferrous Metals,2060,0.353768844
+JK,Non-Ferrous Metals,2065,0.331658291
+JK,Non-Ferrous Metals,2070,0.312562814
+JK,Non-Ferrous Metals,2075,0.293467337
+JK,Non-Ferrous Metals,2080,0.27638191
+JK,Non-Ferrous Metals,2085,0.260301508
+JK,Non-Ferrous Metals,2090,0.257286432
+JK,Non-Ferrous Metals,2095,0.253266332
+JK,Non-Ferrous Metals,2100,0.249246231
+KA,Non-Ferrous Metals,2015,4.3
+KA,Non-Ferrous Metals,2020,1
+KA,Non-Ferrous Metals,2025,0.888442211
+KA,Non-Ferrous Metals,2030,0.814070352
+KA,Non-Ferrous Metals,2035,0.735678392
+KA,Non-Ferrous Metals,2040,0.654271357
+KA,Non-Ferrous Metals,2045,0.572864322
+KA,Non-Ferrous Metals,2050,0.493467337
+KA,Non-Ferrous Metals,2055,0.419095477
+KA,Non-Ferrous Metals,2060,0.353768844
+KA,Non-Ferrous Metals,2065,0.331658291
+KA,Non-Ferrous Metals,2070,0.312562814
+KA,Non-Ferrous Metals,2075,0.293467337
+KA,Non-Ferrous Metals,2080,0.27638191
+KA,Non-Ferrous Metals,2085,0.260301508
+KA,Non-Ferrous Metals,2090,0.257286432
+KA,Non-Ferrous Metals,2095,0.253266332
+KA,Non-Ferrous Metals,2100,0.249246231
+KL,Non-Ferrous Metals,2015,4.3
+KL,Non-Ferrous Metals,2020,1
+KL,Non-Ferrous Metals,2025,0.888442211
+KL,Non-Ferrous Metals,2030,0.814070352
+KL,Non-Ferrous Metals,2035,0.735678392
+KL,Non-Ferrous Metals,2040,0.654271357
+KL,Non-Ferrous Metals,2045,0.572864322
+KL,Non-Ferrous Metals,2050,0.493467337
+KL,Non-Ferrous Metals,2055,0.419095477
+KL,Non-Ferrous Metals,2060,0.353768844
+KL,Non-Ferrous Metals,2065,0.331658291
+KL,Non-Ferrous Metals,2070,0.312562814
+KL,Non-Ferrous Metals,2075,0.293467337
+KL,Non-Ferrous Metals,2080,0.27638191
+KL,Non-Ferrous Metals,2085,0.260301508
+KL,Non-Ferrous Metals,2090,0.257286432
+KL,Non-Ferrous Metals,2095,0.253266332
+KL,Non-Ferrous Metals,2100,0.249246231
+LA,Non-Ferrous Metals,2015,4.3
+LA,Non-Ferrous Metals,2020,1
+LA,Non-Ferrous Metals,2025,0.888442211
+LA,Non-Ferrous Metals,2030,0.814070352
+LA,Non-Ferrous Metals,2035,0.735678392
+LA,Non-Ferrous Metals,2040,0.654271357
+LA,Non-Ferrous Metals,2045,0.572864322
+LA,Non-Ferrous Metals,2050,0.493467337
+LA,Non-Ferrous Metals,2055,0.419095477
+LA,Non-Ferrous Metals,2060,0.353768844
+LA,Non-Ferrous Metals,2065,0.331658291
+LA,Non-Ferrous Metals,2070,0.312562814
+LA,Non-Ferrous Metals,2075,0.293467337
+LA,Non-Ferrous Metals,2080,0.27638191
+LA,Non-Ferrous Metals,2085,0.260301508
+LA,Non-Ferrous Metals,2090,0.257286432
+LA,Non-Ferrous Metals,2095,0.253266332
+LA,Non-Ferrous Metals,2100,0.249246231
+LD,Non-Ferrous Metals,2015,4.3
+LD,Non-Ferrous Metals,2020,1
+LD,Non-Ferrous Metals,2025,0.888442211
+LD,Non-Ferrous Metals,2030,0.814070352
+LD,Non-Ferrous Metals,2035,0.735678392
+LD,Non-Ferrous Metals,2040,0.654271357
+LD,Non-Ferrous Metals,2045,0.572864322
+LD,Non-Ferrous Metals,2050,0.493467337
+LD,Non-Ferrous Metals,2055,0.419095477
+LD,Non-Ferrous Metals,2060,0.353768844
+LD,Non-Ferrous Metals,2065,0.331658291
+LD,Non-Ferrous Metals,2070,0.312562814
+LD,Non-Ferrous Metals,2075,0.293467337
+LD,Non-Ferrous Metals,2080,0.27638191
+LD,Non-Ferrous Metals,2085,0.260301508
+LD,Non-Ferrous Metals,2090,0.257286432
+LD,Non-Ferrous Metals,2095,0.253266332
+LD,Non-Ferrous Metals,2100,0.249246231
+MH,Non-Ferrous Metals,2015,2
+MH,Non-Ferrous Metals,2020,1
+MH,Non-Ferrous Metals,2025,0.888442211
+MH,Non-Ferrous Metals,2030,0.814070352
+MH,Non-Ferrous Metals,2035,0.735678392
+MH,Non-Ferrous Metals,2040,0.654271357
+MH,Non-Ferrous Metals,2045,0.572864322
+MH,Non-Ferrous Metals,2050,0.493467337
+MH,Non-Ferrous Metals,2055,0.419095477
+MH,Non-Ferrous Metals,2060,0.353768844
+MH,Non-Ferrous Metals,2065,0.331658291
+MH,Non-Ferrous Metals,2070,0.312562814
+MH,Non-Ferrous Metals,2075,0.293467337
+MH,Non-Ferrous Metals,2080,0.27638191
+MH,Non-Ferrous Metals,2085,0.260301508
+MH,Non-Ferrous Metals,2090,0.257286432
+MH,Non-Ferrous Metals,2095,0.253266332
+MH,Non-Ferrous Metals,2100,0.249246231
+ML,Non-Ferrous Metals,2015,4.3
+ML,Non-Ferrous Metals,2020,1
+ML,Non-Ferrous Metals,2025,0.888442211
+ML,Non-Ferrous Metals,2030,0.814070352
+ML,Non-Ferrous Metals,2035,0.735678392
+ML,Non-Ferrous Metals,2040,0.654271357
+ML,Non-Ferrous Metals,2045,0.572864322
+ML,Non-Ferrous Metals,2050,0.493467337
+ML,Non-Ferrous Metals,2055,0.419095477
+ML,Non-Ferrous Metals,2060,0.353768844
+ML,Non-Ferrous Metals,2065,0.331658291
+ML,Non-Ferrous Metals,2070,0.312562814
+ML,Non-Ferrous Metals,2075,0.293467337
+ML,Non-Ferrous Metals,2080,0.27638191
+ML,Non-Ferrous Metals,2085,0.260301508
+ML,Non-Ferrous Metals,2090,0.257286432
+ML,Non-Ferrous Metals,2095,0.253266332
+ML,Non-Ferrous Metals,2100,0.249246231
+MN,Non-Ferrous Metals,2015,4.3
+MN,Non-Ferrous Metals,2020,1
+MN,Non-Ferrous Metals,2025,0.888442211
+MN,Non-Ferrous Metals,2030,0.814070352
+MN,Non-Ferrous Metals,2035,0.735678392
+MN,Non-Ferrous Metals,2040,0.654271357
+MN,Non-Ferrous Metals,2045,0.572864322
+MN,Non-Ferrous Metals,2050,0.493467337
+MN,Non-Ferrous Metals,2055,0.419095477
+MN,Non-Ferrous Metals,2060,0.353768844
+MN,Non-Ferrous Metals,2065,0.331658291
+MN,Non-Ferrous Metals,2070,0.312562814
+MN,Non-Ferrous Metals,2075,0.293467337
+MN,Non-Ferrous Metals,2080,0.27638191
+MN,Non-Ferrous Metals,2085,0.260301508
+MN,Non-Ferrous Metals,2090,0.257286432
+MN,Non-Ferrous Metals,2095,0.253266332
+MN,Non-Ferrous Metals,2100,0.249246231
+MP,Non-Ferrous Metals,2015,4.3
+MP,Non-Ferrous Metals,2020,1
+MP,Non-Ferrous Metals,2025,0.888442211
+MP,Non-Ferrous Metals,2030,0.814070352
+MP,Non-Ferrous Metals,2035,0.735678392
+MP,Non-Ferrous Metals,2040,0.654271357
+MP,Non-Ferrous Metals,2045,0.572864322
+MP,Non-Ferrous Metals,2050,0.493467337
+MP,Non-Ferrous Metals,2055,0.419095477
+MP,Non-Ferrous Metals,2060,0.353768844
+MP,Non-Ferrous Metals,2065,0.331658291
+MP,Non-Ferrous Metals,2070,0.312562814
+MP,Non-Ferrous Metals,2075,0.293467337
+MP,Non-Ferrous Metals,2080,0.27638191
+MP,Non-Ferrous Metals,2085,0.260301508
+MP,Non-Ferrous Metals,2090,0.257286432
+MP,Non-Ferrous Metals,2095,0.253266332
+MP,Non-Ferrous Metals,2100,0.249246231
+MZ,Non-Ferrous Metals,2015,4.3
+MZ,Non-Ferrous Metals,2020,1
+MZ,Non-Ferrous Metals,2025,0.888442211
+MZ,Non-Ferrous Metals,2030,0.814070352
+MZ,Non-Ferrous Metals,2035,0.735678392
+MZ,Non-Ferrous Metals,2040,0.654271357
+MZ,Non-Ferrous Metals,2045,0.572864322
+MZ,Non-Ferrous Metals,2050,0.493467337
+MZ,Non-Ferrous Metals,2055,0.419095477
+MZ,Non-Ferrous Metals,2060,0.353768844
+MZ,Non-Ferrous Metals,2065,0.331658291
+MZ,Non-Ferrous Metals,2070,0.312562814
+MZ,Non-Ferrous Metals,2075,0.293467337
+MZ,Non-Ferrous Metals,2080,0.27638191
+MZ,Non-Ferrous Metals,2085,0.260301508
+MZ,Non-Ferrous Metals,2090,0.257286432
+MZ,Non-Ferrous Metals,2095,0.253266332
+MZ,Non-Ferrous Metals,2100,0.249246231
+NL,Non-Ferrous Metals,2015,4.3
+NL,Non-Ferrous Metals,2020,1
+NL,Non-Ferrous Metals,2025,0.888442211
+NL,Non-Ferrous Metals,2030,0.814070352
+NL,Non-Ferrous Metals,2035,0.735678392
+NL,Non-Ferrous Metals,2040,0.654271357
+NL,Non-Ferrous Metals,2045,0.572864322
+NL,Non-Ferrous Metals,2050,0.493467337
+NL,Non-Ferrous Metals,2055,0.419095477
+NL,Non-Ferrous Metals,2060,0.353768844
+NL,Non-Ferrous Metals,2065,0.331658291
+NL,Non-Ferrous Metals,2070,0.312562814
+NL,Non-Ferrous Metals,2075,0.293467337
+NL,Non-Ferrous Metals,2080,0.27638191
+NL,Non-Ferrous Metals,2085,0.260301508
+NL,Non-Ferrous Metals,2090,0.257286432
+NL,Non-Ferrous Metals,2095,0.253266332
+NL,Non-Ferrous Metals,2100,0.249246231
+OD,Non-Ferrous Metals,2015,5.5
+OD,Non-Ferrous Metals,2020,1
+OD,Non-Ferrous Metals,2025,0.888442211
+OD,Non-Ferrous Metals,2030,0.814070352
+OD,Non-Ferrous Metals,2035,0.735678392
+OD,Non-Ferrous Metals,2040,0.654271357
+OD,Non-Ferrous Metals,2045,0.572864322
+OD,Non-Ferrous Metals,2050,0.493467337
+OD,Non-Ferrous Metals,2055,0.419095477
+OD,Non-Ferrous Metals,2060,0.353768844
+OD,Non-Ferrous Metals,2065,0.331658291
+OD,Non-Ferrous Metals,2070,0.312562814
+OD,Non-Ferrous Metals,2075,0.293467337
+OD,Non-Ferrous Metals,2080,0.27638191
+OD,Non-Ferrous Metals,2085,0.260301508
+OD,Non-Ferrous Metals,2090,0.257286432
+OD,Non-Ferrous Metals,2095,0.253266332
+OD,Non-Ferrous Metals,2100,0.249246231
+PB,Non-Ferrous Metals,2015,4.3
+PB,Non-Ferrous Metals,2020,1
+PB,Non-Ferrous Metals,2025,0.888442211
+PB,Non-Ferrous Metals,2030,0.814070352
+PB,Non-Ferrous Metals,2035,0.735678392
+PB,Non-Ferrous Metals,2040,0.654271357
+PB,Non-Ferrous Metals,2045,0.572864322
+PB,Non-Ferrous Metals,2050,0.493467337
+PB,Non-Ferrous Metals,2055,0.419095477
+PB,Non-Ferrous Metals,2060,0.353768844
+PB,Non-Ferrous Metals,2065,0.331658291
+PB,Non-Ferrous Metals,2070,0.312562814
+PB,Non-Ferrous Metals,2075,0.293467337
+PB,Non-Ferrous Metals,2080,0.27638191
+PB,Non-Ferrous Metals,2085,0.260301508
+PB,Non-Ferrous Metals,2090,0.257286432
+PB,Non-Ferrous Metals,2095,0.253266332
+PB,Non-Ferrous Metals,2100,0.249246231
+PC,Non-Ferrous Metals,2015,4.3
+PC,Non-Ferrous Metals,2020,1
+PC,Non-Ferrous Metals,2025,0.888442211
+PC,Non-Ferrous Metals,2030,0.814070352
+PC,Non-Ferrous Metals,2035,0.735678392
+PC,Non-Ferrous Metals,2040,0.654271357
+PC,Non-Ferrous Metals,2045,0.572864322
+PC,Non-Ferrous Metals,2050,0.493467337
+PC,Non-Ferrous Metals,2055,0.419095477
+PC,Non-Ferrous Metals,2060,0.353768844
+PC,Non-Ferrous Metals,2065,0.331658291
+PC,Non-Ferrous Metals,2070,0.312562814
+PC,Non-Ferrous Metals,2075,0.293467337
+PC,Non-Ferrous Metals,2080,0.27638191
+PC,Non-Ferrous Metals,2085,0.260301508
+PC,Non-Ferrous Metals,2090,0.257286432
+PC,Non-Ferrous Metals,2095,0.253266332
+PC,Non-Ferrous Metals,2100,0.249246231
+RJ,Non-Ferrous Metals,2015,4.3
+RJ,Non-Ferrous Metals,2020,1
+RJ,Non-Ferrous Metals,2025,0.888442211
+RJ,Non-Ferrous Metals,2030,0.814070352
+RJ,Non-Ferrous Metals,2035,0.735678392
+RJ,Non-Ferrous Metals,2040,0.654271357
+RJ,Non-Ferrous Metals,2045,0.572864322
+RJ,Non-Ferrous Metals,2050,0.493467337
+RJ,Non-Ferrous Metals,2055,0.419095477
+RJ,Non-Ferrous Metals,2060,0.353768844
+RJ,Non-Ferrous Metals,2065,0.331658291
+RJ,Non-Ferrous Metals,2070,0.312562814
+RJ,Non-Ferrous Metals,2075,0.293467337
+RJ,Non-Ferrous Metals,2080,0.27638191
+RJ,Non-Ferrous Metals,2085,0.260301508
+RJ,Non-Ferrous Metals,2090,0.257286432
+RJ,Non-Ferrous Metals,2095,0.253266332
+RJ,Non-Ferrous Metals,2100,0.249246231
+SK,Non-Ferrous Metals,2015,4.3
+SK,Non-Ferrous Metals,2020,1
+SK,Non-Ferrous Metals,2025,0.888442211
+SK,Non-Ferrous Metals,2030,0.814070352
+SK,Non-Ferrous Metals,2035,0.735678392
+SK,Non-Ferrous Metals,2040,0.654271357
+SK,Non-Ferrous Metals,2045,0.572864322
+SK,Non-Ferrous Metals,2050,0.493467337
+SK,Non-Ferrous Metals,2055,0.419095477
+SK,Non-Ferrous Metals,2060,0.353768844
+SK,Non-Ferrous Metals,2065,0.331658291
+SK,Non-Ferrous Metals,2070,0.312562814
+SK,Non-Ferrous Metals,2075,0.293467337
+SK,Non-Ferrous Metals,2080,0.27638191
+SK,Non-Ferrous Metals,2085,0.260301508
+SK,Non-Ferrous Metals,2090,0.257286432
+SK,Non-Ferrous Metals,2095,0.253266332
+SK,Non-Ferrous Metals,2100,0.249246231
+TN,Non-Ferrous Metals,2015,3.8
+TN,Non-Ferrous Metals,2020,1
+TN,Non-Ferrous Metals,2025,0.888442211
+TN,Non-Ferrous Metals,2030,0.814070352
+TN,Non-Ferrous Metals,2035,0.735678392
+TN,Non-Ferrous Metals,2040,0.654271357
+TN,Non-Ferrous Metals,2045,0.572864322
+TN,Non-Ferrous Metals,2050,0.493467337
+TN,Non-Ferrous Metals,2055,0.419095477
+TN,Non-Ferrous Metals,2060,0.353768844
+TN,Non-Ferrous Metals,2065,0.331658291
+TN,Non-Ferrous Metals,2070,0.312562814
+TN,Non-Ferrous Metals,2075,0.293467337
+TN,Non-Ferrous Metals,2080,0.27638191
+TN,Non-Ferrous Metals,2085,0.260301508
+TN,Non-Ferrous Metals,2090,0.257286432
+TN,Non-Ferrous Metals,2095,0.253266332
+TN,Non-Ferrous Metals,2100,0.249246231
+TR,Non-Ferrous Metals,2015,3.5
+TR,Non-Ferrous Metals,2020,1
+TR,Non-Ferrous Metals,2025,0.888442211
+TR,Non-Ferrous Metals,2030,0.814070352
+TR,Non-Ferrous Metals,2035,0.735678392
+TR,Non-Ferrous Metals,2040,0.654271357
+TR,Non-Ferrous Metals,2045,0.572864322
+TR,Non-Ferrous Metals,2050,0.493467337
+TR,Non-Ferrous Metals,2055,0.419095477
+TR,Non-Ferrous Metals,2060,0.353768844
+TR,Non-Ferrous Metals,2065,0.331658291
+TR,Non-Ferrous Metals,2070,0.312562814
+TR,Non-Ferrous Metals,2075,0.293467337
+TR,Non-Ferrous Metals,2080,0.27638191
+TR,Non-Ferrous Metals,2085,0.260301508
+TR,Non-Ferrous Metals,2090,0.257286432
+TR,Non-Ferrous Metals,2095,0.253266332
+TR,Non-Ferrous Metals,2100,0.249246231
+TS,Non-Ferrous Metals,2015,2
+TS,Non-Ferrous Metals,2020,1
+TS,Non-Ferrous Metals,2025,0.888442211
+TS,Non-Ferrous Metals,2030,0.814070352
+TS,Non-Ferrous Metals,2035,0.735678392
+TS,Non-Ferrous Metals,2040,0.654271357
+TS,Non-Ferrous Metals,2045,0.572864322
+TS,Non-Ferrous Metals,2050,0.493467337
+TS,Non-Ferrous Metals,2055,0.419095477
+TS,Non-Ferrous Metals,2060,0.353768844
+TS,Non-Ferrous Metals,2065,0.331658291
+TS,Non-Ferrous Metals,2070,0.312562814
+TS,Non-Ferrous Metals,2075,0.293467337
+TS,Non-Ferrous Metals,2080,0.27638191
+TS,Non-Ferrous Metals,2085,0.260301508
+TS,Non-Ferrous Metals,2090,0.257286432
+TS,Non-Ferrous Metals,2095,0.253266332
+TS,Non-Ferrous Metals,2100,0.249246231
+UK,Non-Ferrous Metals,2015,3.8
+UK,Non-Ferrous Metals,2020,1
+UK,Non-Ferrous Metals,2025,0.888442211
+UK,Non-Ferrous Metals,2030,0.814070352
+UK,Non-Ferrous Metals,2035,0.735678392
+UK,Non-Ferrous Metals,2040,0.654271357
+UK,Non-Ferrous Metals,2045,0.572864322
+UK,Non-Ferrous Metals,2050,0.493467337
+UK,Non-Ferrous Metals,2055,0.419095477
+UK,Non-Ferrous Metals,2060,0.353768844
+UK,Non-Ferrous Metals,2065,0.331658291
+UK,Non-Ferrous Metals,2070,0.312562814
+UK,Non-Ferrous Metals,2075,0.293467337
+UK,Non-Ferrous Metals,2080,0.27638191
+UK,Non-Ferrous Metals,2085,0.260301508
+UK,Non-Ferrous Metals,2090,0.257286432
+UK,Non-Ferrous Metals,2095,0.253266332
+UK,Non-Ferrous Metals,2100,0.249246231
+UP,Non-Ferrous Metals,2015,4.3
+UP,Non-Ferrous Metals,2020,1
+UP,Non-Ferrous Metals,2025,0.888442211
+UP,Non-Ferrous Metals,2030,0.814070352
+UP,Non-Ferrous Metals,2035,0.735678392
+UP,Non-Ferrous Metals,2040,0.654271357
+UP,Non-Ferrous Metals,2045,0.572864322
+UP,Non-Ferrous Metals,2050,0.493467337
+UP,Non-Ferrous Metals,2055,0.419095477
+UP,Non-Ferrous Metals,2060,0.353768844
+UP,Non-Ferrous Metals,2065,0.331658291
+UP,Non-Ferrous Metals,2070,0.312562814
+UP,Non-Ferrous Metals,2075,0.293467337
+UP,Non-Ferrous Metals,2080,0.27638191
+UP,Non-Ferrous Metals,2085,0.260301508
+UP,Non-Ferrous Metals,2090,0.257286432
+UP,Non-Ferrous Metals,2095,0.253266332
+UP,Non-Ferrous Metals,2100,0.249246231
+WB,Non-Ferrous Metals,2015,4.3
+WB,Non-Ferrous Metals,2020,1
+WB,Non-Ferrous Metals,2025,0.888442211
+WB,Non-Ferrous Metals,2030,0.814070352
+WB,Non-Ferrous Metals,2035,0.735678392
+WB,Non-Ferrous Metals,2040,0.654271357
+WB,Non-Ferrous Metals,2045,0.572864322
+WB,Non-Ferrous Metals,2050,0.493467337
+WB,Non-Ferrous Metals,2055,0.419095477
+WB,Non-Ferrous Metals,2060,0.353768844
+WB,Non-Ferrous Metals,2065,0.331658291
+WB,Non-Ferrous Metals,2070,0.312562814
+WB,Non-Ferrous Metals,2075,0.293467337
+WB,Non-Ferrous Metals,2080,0.27638191
+WB,Non-Ferrous Metals,2085,0.260301508
+WB,Non-Ferrous Metals,2090,0.257286432
+WB,Non-Ferrous Metals,2095,0.253266332
+WB,Non-Ferrous Metals,2100,0.249246231
+AN,Other Industries,2015,0.77
+AN,Other Industries,2020,0.693348416
+AN,Other Industries,2025,0.616
+AN,Other Industries,2030,0.564434389
+AN,Other Industries,2035,0.510081448
+AN,Other Industries,2040,0.453638009
+AN,Other Industries,2045,0.39719457
+AN,Other Industries,2050,0.342144796
+AN,Other Industries,2055,0.290579186
+AN,Other Industries,2060,0.245285068
+AN,Other Industries,2065,0.229954751
+AN,Other Industries,2070,0.216714932
+AN,Other Industries,2075,0.203475113
+AN,Other Industries,2080,0.191628959
+AN,Other Industries,2085,0.180479638
+AN,Other Industries,2090,0.17838914
+AN,Other Industries,2095,0.17560181
+AN,Other Industries,2100,0.17281448
+AP,Other Industries,2015,0.77
+AP,Other Industries,2020,0.693348416
+AP,Other Industries,2025,0.616
+AP,Other Industries,2030,0.564434389
+AP,Other Industries,2035,0.510081448
+AP,Other Industries,2040,0.453638009
+AP,Other Industries,2045,0.39719457
+AP,Other Industries,2050,0.342144796
+AP,Other Industries,2055,0.290579186
+AP,Other Industries,2060,0.245285068
+AP,Other Industries,2065,0.229954751
+AP,Other Industries,2070,0.216714932
+AP,Other Industries,2075,0.203475113
+AP,Other Industries,2080,0.191628959
+AP,Other Industries,2085,0.180479638
+AP,Other Industries,2090,0.17838914
+AP,Other Industries,2095,0.17560181
+AP,Other Industries,2100,0.17281448
+AR,Other Industries,2015,0.77
+AR,Other Industries,2020,0.693348416
+AR,Other Industries,2025,0.616
+AR,Other Industries,2030,0.564434389
+AR,Other Industries,2035,0.510081448
+AR,Other Industries,2040,0.453638009
+AR,Other Industries,2045,0.39719457
+AR,Other Industries,2050,0.342144796
+AR,Other Industries,2055,0.290579186
+AR,Other Industries,2060,0.245285068
+AR,Other Industries,2065,0.229954751
+AR,Other Industries,2070,0.216714932
+AR,Other Industries,2075,0.203475113
+AR,Other Industries,2080,0.191628959
+AR,Other Industries,2085,0.180479638
+AR,Other Industries,2090,0.17838914
+AR,Other Industries,2095,0.17560181
+AR,Other Industries,2100,0.17281448
+AS,Other Industries,2015,0.77
+AS,Other Industries,2020,0.693348416
+AS,Other Industries,2025,0.616
+AS,Other Industries,2030,0.564434389
+AS,Other Industries,2035,0.510081448
+AS,Other Industries,2040,0.453638009
+AS,Other Industries,2045,0.39719457
+AS,Other Industries,2050,0.342144796
+AS,Other Industries,2055,0.290579186
+AS,Other Industries,2060,0.245285068
+AS,Other Industries,2065,0.229954751
+AS,Other Industries,2070,0.216714932
+AS,Other Industries,2075,0.203475113
+AS,Other Industries,2080,0.191628959
+AS,Other Industries,2085,0.180479638
+AS,Other Industries,2090,0.17838914
+AS,Other Industries,2095,0.17560181
+AS,Other Industries,2100,0.17281448
+BR,Other Industries,2015,0.77
+BR,Other Industries,2020,0.693348416
+BR,Other Industries,2025,0.616
+BR,Other Industries,2030,0.564434389
+BR,Other Industries,2035,0.510081448
+BR,Other Industries,2040,0.453638009
+BR,Other Industries,2045,0.39719457
+BR,Other Industries,2050,0.342144796
+BR,Other Industries,2055,0.290579186
+BR,Other Industries,2060,0.245285068
+BR,Other Industries,2065,0.229954751
+BR,Other Industries,2070,0.216714932
+BR,Other Industries,2075,0.203475113
+BR,Other Industries,2080,0.191628959
+BR,Other Industries,2085,0.180479638
+BR,Other Industries,2090,0.17838914
+BR,Other Industries,2095,0.17560181
+BR,Other Industries,2100,0.17281448
+CG,Other Industries,2015,0.77
+CG,Other Industries,2020,0.693348416
+CG,Other Industries,2025,0.616
+CG,Other Industries,2030,0.564434389
+CG,Other Industries,2035,0.510081448
+CG,Other Industries,2040,0.453638009
+CG,Other Industries,2045,0.39719457
+CG,Other Industries,2050,0.342144796
+CG,Other Industries,2055,0.290579186
+CG,Other Industries,2060,0.245285068
+CG,Other Industries,2065,0.229954751
+CG,Other Industries,2070,0.216714932
+CG,Other Industries,2075,0.203475113
+CG,Other Industries,2080,0.191628959
+CG,Other Industries,2085,0.180479638
+CG,Other Industries,2090,0.17838914
+CG,Other Industries,2095,0.17560181
+CG,Other Industries,2100,0.17281448
+CH,Other Industries,2015,0.77
+CH,Other Industries,2020,0.693348416
+CH,Other Industries,2025,0.616
+CH,Other Industries,2030,0.564434389
+CH,Other Industries,2035,0.510081448
+CH,Other Industries,2040,0.453638009
+CH,Other Industries,2045,0.39719457
+CH,Other Industries,2050,0.342144796
+CH,Other Industries,2055,0.290579186
+CH,Other Industries,2060,0.245285068
+CH,Other Industries,2065,0.229954751
+CH,Other Industries,2070,0.216714932
+CH,Other Industries,2075,0.203475113
+CH,Other Industries,2080,0.191628959
+CH,Other Industries,2085,0.180479638
+CH,Other Industries,2090,0.17838914
+CH,Other Industries,2095,0.17560181
+CH,Other Industries,2100,0.17281448
+DD,Other Industries,2015,0.77
+DD,Other Industries,2020,0.693348416
+DD,Other Industries,2025,0.616
+DD,Other Industries,2030,0.564434389
+DD,Other Industries,2035,0.510081448
+DD,Other Industries,2040,0.453638009
+DD,Other Industries,2045,0.39719457
+DD,Other Industries,2050,0.342144796
+DD,Other Industries,2055,0.290579186
+DD,Other Industries,2060,0.245285068
+DD,Other Industries,2065,0.229954751
+DD,Other Industries,2070,0.216714932
+DD,Other Industries,2075,0.203475113
+DD,Other Industries,2080,0.191628959
+DD,Other Industries,2085,0.180479638
+DD,Other Industries,2090,0.17838914
+DD,Other Industries,2095,0.17560181
+DD,Other Industries,2100,0.17281448
+DL,Other Industries,2015,0.77
+DL,Other Industries,2020,0.693348416
+DL,Other Industries,2025,0.616
+DL,Other Industries,2030,0.564434389
+DL,Other Industries,2035,0.510081448
+DL,Other Industries,2040,0.453638009
+DL,Other Industries,2045,0.39719457
+DL,Other Industries,2050,0.342144796
+DL,Other Industries,2055,0.290579186
+DL,Other Industries,2060,0.245285068
+DL,Other Industries,2065,0.229954751
+DL,Other Industries,2070,0.216714932
+DL,Other Industries,2075,0.203475113
+DL,Other Industries,2080,0.191628959
+DL,Other Industries,2085,0.180479638
+DL,Other Industries,2090,0.17838914
+DL,Other Industries,2095,0.17560181
+DL,Other Industries,2100,0.17281448
+DN,Other Industries,2015,0.77
+DN,Other Industries,2020,0.693348416
+DN,Other Industries,2025,0.616
+DN,Other Industries,2030,0.564434389
+DN,Other Industries,2035,0.510081448
+DN,Other Industries,2040,0.453638009
+DN,Other Industries,2045,0.39719457
+DN,Other Industries,2050,0.342144796
+DN,Other Industries,2055,0.290579186
+DN,Other Industries,2060,0.245285068
+DN,Other Industries,2065,0.229954751
+DN,Other Industries,2070,0.216714932
+DN,Other Industries,2075,0.203475113
+DN,Other Industries,2080,0.191628959
+DN,Other Industries,2085,0.180479638
+DN,Other Industries,2090,0.17838914
+DN,Other Industries,2095,0.17560181
+DN,Other Industries,2100,0.17281448
+GA,Other Industries,2015,0.77
+GA,Other Industries,2020,0.693348416
+GA,Other Industries,2025,0.616
+GA,Other Industries,2030,0.564434389
+GA,Other Industries,2035,0.510081448
+GA,Other Industries,2040,0.453638009
+GA,Other Industries,2045,0.39719457
+GA,Other Industries,2050,0.342144796
+GA,Other Industries,2055,0.290579186
+GA,Other Industries,2060,0.245285068
+GA,Other Industries,2065,0.229954751
+GA,Other Industries,2070,0.216714932
+GA,Other Industries,2075,0.203475113
+GA,Other Industries,2080,0.191628959
+GA,Other Industries,2085,0.180479638
+GA,Other Industries,2090,0.17838914
+GA,Other Industries,2095,0.17560181
+GA,Other Industries,2100,0.17281448
+GJ,Other Industries,2015,0.77
+GJ,Other Industries,2020,0.693348416
+GJ,Other Industries,2025,0.616
+GJ,Other Industries,2030,0.564434389
+GJ,Other Industries,2035,0.510081448
+GJ,Other Industries,2040,0.453638009
+GJ,Other Industries,2045,0.39719457
+GJ,Other Industries,2050,0.342144796
+GJ,Other Industries,2055,0.290579186
+GJ,Other Industries,2060,0.245285068
+GJ,Other Industries,2065,0.229954751
+GJ,Other Industries,2070,0.216714932
+GJ,Other Industries,2075,0.203475113
+GJ,Other Industries,2080,0.191628959
+GJ,Other Industries,2085,0.180479638
+GJ,Other Industries,2090,0.17838914
+GJ,Other Industries,2095,0.17560181
+GJ,Other Industries,2100,0.17281448
+HP,Other Industries,2015,0.77
+HP,Other Industries,2020,0.693348416
+HP,Other Industries,2025,0.616
+HP,Other Industries,2030,0.564434389
+HP,Other Industries,2035,0.510081448
+HP,Other Industries,2040,0.453638009
+HP,Other Industries,2045,0.39719457
+HP,Other Industries,2050,0.342144796
+HP,Other Industries,2055,0.290579186
+HP,Other Industries,2060,0.245285068
+HP,Other Industries,2065,0.229954751
+HP,Other Industries,2070,0.216714932
+HP,Other Industries,2075,0.203475113
+HP,Other Industries,2080,0.191628959
+HP,Other Industries,2085,0.180479638
+HP,Other Industries,2090,0.17838914
+HP,Other Industries,2095,0.17560181
+HP,Other Industries,2100,0.17281448
+HR,Other Industries,2015,0.77
+HR,Other Industries,2020,0.693348416
+HR,Other Industries,2025,0.616
+HR,Other Industries,2030,0.564434389
+HR,Other Industries,2035,0.510081448
+HR,Other Industries,2040,0.453638009
+HR,Other Industries,2045,0.39719457
+HR,Other Industries,2050,0.342144796
+HR,Other Industries,2055,0.290579186
+HR,Other Industries,2060,0.245285068
+HR,Other Industries,2065,0.229954751
+HR,Other Industries,2070,0.216714932
+HR,Other Industries,2075,0.203475113
+HR,Other Industries,2080,0.191628959
+HR,Other Industries,2085,0.180479638
+HR,Other Industries,2090,0.17838914
+HR,Other Industries,2095,0.17560181
+HR,Other Industries,2100,0.17281448
+JH,Other Industries,2015,0.77
+JH,Other Industries,2020,0.693348416
+JH,Other Industries,2025,0.616
+JH,Other Industries,2030,0.564434389
+JH,Other Industries,2035,0.510081448
+JH,Other Industries,2040,0.453638009
+JH,Other Industries,2045,0.39719457
+JH,Other Industries,2050,0.342144796
+JH,Other Industries,2055,0.290579186
+JH,Other Industries,2060,0.245285068
+JH,Other Industries,2065,0.229954751
+JH,Other Industries,2070,0.216714932
+JH,Other Industries,2075,0.203475113
+JH,Other Industries,2080,0.191628959
+JH,Other Industries,2085,0.180479638
+JH,Other Industries,2090,0.17838914
+JH,Other Industries,2095,0.17560181
+JH,Other Industries,2100,0.17281448
+JK,Other Industries,2015,0.77
+JK,Other Industries,2020,0.693348416
+JK,Other Industries,2025,0.616
+JK,Other Industries,2030,0.564434389
+JK,Other Industries,2035,0.510081448
+JK,Other Industries,2040,0.453638009
+JK,Other Industries,2045,0.39719457
+JK,Other Industries,2050,0.342144796
+JK,Other Industries,2055,0.290579186
+JK,Other Industries,2060,0.245285068
+JK,Other Industries,2065,0.229954751
+JK,Other Industries,2070,0.216714932
+JK,Other Industries,2075,0.203475113
+JK,Other Industries,2080,0.191628959
+JK,Other Industries,2085,0.180479638
+JK,Other Industries,2090,0.17838914
+JK,Other Industries,2095,0.17560181
+JK,Other Industries,2100,0.17281448
+KA,Other Industries,2015,0.77
+KA,Other Industries,2020,0.693348416
+KA,Other Industries,2025,0.616
+KA,Other Industries,2030,0.564434389
+KA,Other Industries,2035,0.510081448
+KA,Other Industries,2040,0.453638009
+KA,Other Industries,2045,0.39719457
+KA,Other Industries,2050,0.342144796
+KA,Other Industries,2055,0.290579186
+KA,Other Industries,2060,0.245285068
+KA,Other Industries,2065,0.229954751
+KA,Other Industries,2070,0.216714932
+KA,Other Industries,2075,0.203475113
+KA,Other Industries,2080,0.191628959
+KA,Other Industries,2085,0.180479638
+KA,Other Industries,2090,0.17838914
+KA,Other Industries,2095,0.17560181
+KA,Other Industries,2100,0.17281448
+KL,Other Industries,2015,0.77
+KL,Other Industries,2020,0.693348416
+KL,Other Industries,2025,0.616
+KL,Other Industries,2030,0.564434389
+KL,Other Industries,2035,0.510081448
+KL,Other Industries,2040,0.453638009
+KL,Other Industries,2045,0.39719457
+KL,Other Industries,2050,0.342144796
+KL,Other Industries,2055,0.290579186
+KL,Other Industries,2060,0.245285068
+KL,Other Industries,2065,0.229954751
+KL,Other Industries,2070,0.216714932
+KL,Other Industries,2075,0.203475113
+KL,Other Industries,2080,0.191628959
+KL,Other Industries,2085,0.180479638
+KL,Other Industries,2090,0.17838914
+KL,Other Industries,2095,0.17560181
+KL,Other Industries,2100,0.17281448
+LA,Other Industries,2015,0.77
+LA,Other Industries,2020,0.693348416
+LA,Other Industries,2025,0.616
+LA,Other Industries,2030,0.564434389
+LA,Other Industries,2035,0.510081448
+LA,Other Industries,2040,0.453638009
+LA,Other Industries,2045,0.39719457
+LA,Other Industries,2050,0.342144796
+LA,Other Industries,2055,0.290579186
+LA,Other Industries,2060,0.245285068
+LA,Other Industries,2065,0.229954751
+LA,Other Industries,2070,0.216714932
+LA,Other Industries,2075,0.203475113
+LA,Other Industries,2080,0.191628959
+LA,Other Industries,2085,0.180479638
+LA,Other Industries,2090,0.17838914
+LA,Other Industries,2095,0.17560181
+LA,Other Industries,2100,0.17281448
+LD,Other Industries,2015,0.77
+LD,Other Industries,2020,0.693348416
+LD,Other Industries,2025,0.616
+LD,Other Industries,2030,0.564434389
+LD,Other Industries,2035,0.510081448
+LD,Other Industries,2040,0.453638009
+LD,Other Industries,2045,0.39719457
+LD,Other Industries,2050,0.342144796
+LD,Other Industries,2055,0.290579186
+LD,Other Industries,2060,0.245285068
+LD,Other Industries,2065,0.229954751
+LD,Other Industries,2070,0.216714932
+LD,Other Industries,2075,0.203475113
+LD,Other Industries,2080,0.191628959
+LD,Other Industries,2085,0.180479638
+LD,Other Industries,2090,0.17838914
+LD,Other Industries,2095,0.17560181
+LD,Other Industries,2100,0.17281448
+MH,Other Industries,2015,0.77
+MH,Other Industries,2020,0.693348416
+MH,Other Industries,2025,0.616
+MH,Other Industries,2030,0.564434389
+MH,Other Industries,2035,0.510081448
+MH,Other Industries,2040,0.453638009
+MH,Other Industries,2045,0.39719457
+MH,Other Industries,2050,0.342144796
+MH,Other Industries,2055,0.290579186
+MH,Other Industries,2060,0.245285068
+MH,Other Industries,2065,0.229954751
+MH,Other Industries,2070,0.216714932
+MH,Other Industries,2075,0.203475113
+MH,Other Industries,2080,0.191628959
+MH,Other Industries,2085,0.180479638
+MH,Other Industries,2090,0.17838914
+MH,Other Industries,2095,0.17560181
+MH,Other Industries,2100,0.17281448
+ML,Other Industries,2015,0.77
+ML,Other Industries,2020,0.693348416
+ML,Other Industries,2025,0.616
+ML,Other Industries,2030,0.564434389
+ML,Other Industries,2035,0.510081448
+ML,Other Industries,2040,0.453638009
+ML,Other Industries,2045,0.39719457
+ML,Other Industries,2050,0.342144796
+ML,Other Industries,2055,0.290579186
+ML,Other Industries,2060,0.245285068
+ML,Other Industries,2065,0.229954751
+ML,Other Industries,2070,0.216714932
+ML,Other Industries,2075,0.203475113
+ML,Other Industries,2080,0.191628959
+ML,Other Industries,2085,0.180479638
+ML,Other Industries,2090,0.17838914
+ML,Other Industries,2095,0.17560181
+ML,Other Industries,2100,0.17281448
+MN,Other Industries,2015,0.77
+MN,Other Industries,2020,0.693348416
+MN,Other Industries,2025,0.616
+MN,Other Industries,2030,0.564434389
+MN,Other Industries,2035,0.510081448
+MN,Other Industries,2040,0.453638009
+MN,Other Industries,2045,0.39719457
+MN,Other Industries,2050,0.342144796
+MN,Other Industries,2055,0.290579186
+MN,Other Industries,2060,0.245285068
+MN,Other Industries,2065,0.229954751
+MN,Other Industries,2070,0.216714932
+MN,Other Industries,2075,0.203475113
+MN,Other Industries,2080,0.191628959
+MN,Other Industries,2085,0.180479638
+MN,Other Industries,2090,0.17838914
+MN,Other Industries,2095,0.17560181
+MN,Other Industries,2100,0.17281448
+MP,Other Industries,2015,0.77
+MP,Other Industries,2020,0.693348416
+MP,Other Industries,2025,0.616
+MP,Other Industries,2030,0.564434389
+MP,Other Industries,2035,0.510081448
+MP,Other Industries,2040,0.453638009
+MP,Other Industries,2045,0.39719457
+MP,Other Industries,2050,0.342144796
+MP,Other Industries,2055,0.290579186
+MP,Other Industries,2060,0.245285068
+MP,Other Industries,2065,0.229954751
+MP,Other Industries,2070,0.216714932
+MP,Other Industries,2075,0.203475113
+MP,Other Industries,2080,0.191628959
+MP,Other Industries,2085,0.180479638
+MP,Other Industries,2090,0.17838914
+MP,Other Industries,2095,0.17560181
+MP,Other Industries,2100,0.17281448
+MZ,Other Industries,2015,0.77
+MZ,Other Industries,2020,0.693348416
+MZ,Other Industries,2025,0.616
+MZ,Other Industries,2030,0.564434389
+MZ,Other Industries,2035,0.510081448
+MZ,Other Industries,2040,0.453638009
+MZ,Other Industries,2045,0.39719457
+MZ,Other Industries,2050,0.342144796
+MZ,Other Industries,2055,0.290579186
+MZ,Other Industries,2060,0.245285068
+MZ,Other Industries,2065,0.229954751
+MZ,Other Industries,2070,0.216714932
+MZ,Other Industries,2075,0.203475113
+MZ,Other Industries,2080,0.191628959
+MZ,Other Industries,2085,0.180479638
+MZ,Other Industries,2090,0.17838914
+MZ,Other Industries,2095,0.17560181
+MZ,Other Industries,2100,0.17281448
+NL,Other Industries,2015,0.77
+NL,Other Industries,2020,0.693348416
+NL,Other Industries,2025,0.616
+NL,Other Industries,2030,0.564434389
+NL,Other Industries,2035,0.510081448
+NL,Other Industries,2040,0.453638009
+NL,Other Industries,2045,0.39719457
+NL,Other Industries,2050,0.342144796
+NL,Other Industries,2055,0.290579186
+NL,Other Industries,2060,0.245285068
+NL,Other Industries,2065,0.229954751
+NL,Other Industries,2070,0.216714932
+NL,Other Industries,2075,0.203475113
+NL,Other Industries,2080,0.191628959
+NL,Other Industries,2085,0.180479638
+NL,Other Industries,2090,0.17838914
+NL,Other Industries,2095,0.17560181
+NL,Other Industries,2100,0.17281448
+OD,Other Industries,2015,0.77
+OD,Other Industries,2020,0.693348416
+OD,Other Industries,2025,0.616
+OD,Other Industries,2030,0.564434389
+OD,Other Industries,2035,0.510081448
+OD,Other Industries,2040,0.453638009
+OD,Other Industries,2045,0.39719457
+OD,Other Industries,2050,0.342144796
+OD,Other Industries,2055,0.290579186
+OD,Other Industries,2060,0.245285068
+OD,Other Industries,2065,0.229954751
+OD,Other Industries,2070,0.216714932
+OD,Other Industries,2075,0.203475113
+OD,Other Industries,2080,0.191628959
+OD,Other Industries,2085,0.180479638
+OD,Other Industries,2090,0.17838914
+OD,Other Industries,2095,0.17560181
+OD,Other Industries,2100,0.17281448
+PB,Other Industries,2015,0.77
+PB,Other Industries,2020,0.693348416
+PB,Other Industries,2025,0.616
+PB,Other Industries,2030,0.564434389
+PB,Other Industries,2035,0.510081448
+PB,Other Industries,2040,0.453638009
+PB,Other Industries,2045,0.39719457
+PB,Other Industries,2050,0.342144796
+PB,Other Industries,2055,0.290579186
+PB,Other Industries,2060,0.245285068
+PB,Other Industries,2065,0.229954751
+PB,Other Industries,2070,0.216714932
+PB,Other Industries,2075,0.203475113
+PB,Other Industries,2080,0.191628959
+PB,Other Industries,2085,0.180479638
+PB,Other Industries,2090,0.17838914
+PB,Other Industries,2095,0.17560181
+PB,Other Industries,2100,0.17281448
+PC,Other Industries,2015,0.77
+PC,Other Industries,2020,0.693348416
+PC,Other Industries,2025,0.616
+PC,Other Industries,2030,0.564434389
+PC,Other Industries,2035,0.510081448
+PC,Other Industries,2040,0.453638009
+PC,Other Industries,2045,0.39719457
+PC,Other Industries,2050,0.342144796
+PC,Other Industries,2055,0.290579186
+PC,Other Industries,2060,0.245285068
+PC,Other Industries,2065,0.229954751
+PC,Other Industries,2070,0.216714932
+PC,Other Industries,2075,0.203475113
+PC,Other Industries,2080,0.191628959
+PC,Other Industries,2085,0.180479638
+PC,Other Industries,2090,0.17838914
+PC,Other Industries,2095,0.17560181
+PC,Other Industries,2100,0.17281448
+RJ,Other Industries,2015,0.77
+RJ,Other Industries,2020,0.693348416
+RJ,Other Industries,2025,0.616
+RJ,Other Industries,2030,0.564434389
+RJ,Other Industries,2035,0.510081448
+RJ,Other Industries,2040,0.453638009
+RJ,Other Industries,2045,0.39719457
+RJ,Other Industries,2050,0.342144796
+RJ,Other Industries,2055,0.290579186
+RJ,Other Industries,2060,0.245285068
+RJ,Other Industries,2065,0.229954751
+RJ,Other Industries,2070,0.216714932
+RJ,Other Industries,2075,0.203475113
+RJ,Other Industries,2080,0.191628959
+RJ,Other Industries,2085,0.180479638
+RJ,Other Industries,2090,0.17838914
+RJ,Other Industries,2095,0.17560181
+RJ,Other Industries,2100,0.17281448
+SK,Other Industries,2015,0.77
+SK,Other Industries,2020,0.693348416
+SK,Other Industries,2025,0.616
+SK,Other Industries,2030,0.564434389
+SK,Other Industries,2035,0.510081448
+SK,Other Industries,2040,0.453638009
+SK,Other Industries,2045,0.39719457
+SK,Other Industries,2050,0.342144796
+SK,Other Industries,2055,0.290579186
+SK,Other Industries,2060,0.245285068
+SK,Other Industries,2065,0.229954751
+SK,Other Industries,2070,0.216714932
+SK,Other Industries,2075,0.203475113
+SK,Other Industries,2080,0.191628959
+SK,Other Industries,2085,0.180479638
+SK,Other Industries,2090,0.17838914
+SK,Other Industries,2095,0.17560181
+SK,Other Industries,2100,0.17281448
+TN,Other Industries,2015,0.77
+TN,Other Industries,2020,0.693348416
+TN,Other Industries,2025,0.616
+TN,Other Industries,2030,0.564434389
+TN,Other Industries,2035,0.510081448
+TN,Other Industries,2040,0.453638009
+TN,Other Industries,2045,0.39719457
+TN,Other Industries,2050,0.342144796
+TN,Other Industries,2055,0.290579186
+TN,Other Industries,2060,0.245285068
+TN,Other Industries,2065,0.229954751
+TN,Other Industries,2070,0.216714932
+TN,Other Industries,2075,0.203475113
+TN,Other Industries,2080,0.191628959
+TN,Other Industries,2085,0.180479638
+TN,Other Industries,2090,0.17838914
+TN,Other Industries,2095,0.17560181
+TN,Other Industries,2100,0.17281448
+TR,Other Industries,2015,0.77
+TR,Other Industries,2020,0.693348416
+TR,Other Industries,2025,0.616
+TR,Other Industries,2030,0.564434389
+TR,Other Industries,2035,0.510081448
+TR,Other Industries,2040,0.453638009
+TR,Other Industries,2045,0.39719457
+TR,Other Industries,2050,0.342144796
+TR,Other Industries,2055,0.290579186
+TR,Other Industries,2060,0.245285068
+TR,Other Industries,2065,0.229954751
+TR,Other Industries,2070,0.216714932
+TR,Other Industries,2075,0.203475113
+TR,Other Industries,2080,0.191628959
+TR,Other Industries,2085,0.180479638
+TR,Other Industries,2090,0.17838914
+TR,Other Industries,2095,0.17560181
+TR,Other Industries,2100,0.17281448
+TS,Other Industries,2015,0.77
+TS,Other Industries,2020,0.693348416
+TS,Other Industries,2025,0.616
+TS,Other Industries,2030,0.564434389
+TS,Other Industries,2035,0.510081448
+TS,Other Industries,2040,0.453638009
+TS,Other Industries,2045,0.39719457
+TS,Other Industries,2050,0.342144796
+TS,Other Industries,2055,0.290579186
+TS,Other Industries,2060,0.245285068
+TS,Other Industries,2065,0.229954751
+TS,Other Industries,2070,0.216714932
+TS,Other Industries,2075,0.203475113
+TS,Other Industries,2080,0.191628959
+TS,Other Industries,2085,0.180479638
+TS,Other Industries,2090,0.17838914
+TS,Other Industries,2095,0.17560181
+TS,Other Industries,2100,0.17281448
+UK,Other Industries,2015,0.77
+UK,Other Industries,2020,0.693348416
+UK,Other Industries,2025,0.616
+UK,Other Industries,2030,0.564434389
+UK,Other Industries,2035,0.510081448
+UK,Other Industries,2040,0.453638009
+UK,Other Industries,2045,0.39719457
+UK,Other Industries,2050,0.342144796
+UK,Other Industries,2055,0.290579186
+UK,Other Industries,2060,0.245285068
+UK,Other Industries,2065,0.229954751
+UK,Other Industries,2070,0.216714932
+UK,Other Industries,2075,0.203475113
+UK,Other Industries,2080,0.191628959
+UK,Other Industries,2085,0.180479638
+UK,Other Industries,2090,0.17838914
+UK,Other Industries,2095,0.17560181
+UK,Other Industries,2100,0.17281448
+UP,Other Industries,2015,0.77
+UP,Other Industries,2020,0.693348416
+UP,Other Industries,2025,0.616
+UP,Other Industries,2030,0.564434389
+UP,Other Industries,2035,0.510081448
+UP,Other Industries,2040,0.453638009
+UP,Other Industries,2045,0.39719457
+UP,Other Industries,2050,0.342144796
+UP,Other Industries,2055,0.290579186
+UP,Other Industries,2060,0.245285068
+UP,Other Industries,2065,0.229954751
+UP,Other Industries,2070,0.216714932
+UP,Other Industries,2075,0.203475113
+UP,Other Industries,2080,0.191628959
+UP,Other Industries,2085,0.180479638
+UP,Other Industries,2090,0.17838914
+UP,Other Industries,2095,0.17560181
+UP,Other Industries,2100,0.17281448
+WB,Other Industries,2015,0.77
+WB,Other Industries,2020,0.693348416
+WB,Other Industries,2025,0.616
+WB,Other Industries,2030,0.564434389
+WB,Other Industries,2035,0.510081448
+WB,Other Industries,2040,0.453638009
+WB,Other Industries,2045,0.39719457
+WB,Other Industries,2050,0.342144796
+WB,Other Industries,2055,0.290579186
+WB,Other Industries,2060,0.245285068
+WB,Other Industries,2065,0.229954751
+WB,Other Industries,2070,0.216714932
+WB,Other Industries,2075,0.203475113
+WB,Other Industries,2080,0.191628959
+WB,Other Industries,2085,0.180479638
+WB,Other Industries,2090,0.17838914
+WB,Other Industries,2095,0.17560181
+WB,Other Industries,2100,0.17281448
+AN,Paper and Pulp,2015,3
+AN,Paper and Pulp,2020,1
+AN,Paper and Pulp,2025,0.888442211
+AN,Paper and Pulp,2030,0.814070352
+AN,Paper and Pulp,2035,0.735678392
+AN,Paper and Pulp,2040,0.654271357
+AN,Paper and Pulp,2045,0.572864322
+AN,Paper and Pulp,2050,0.493467337
+AN,Paper and Pulp,2055,0.419095477
+AN,Paper and Pulp,2060,0.353768844
+AN,Paper and Pulp,2065,0.331658291
+AN,Paper and Pulp,2070,0.312562814
+AN,Paper and Pulp,2075,0.293467337
+AN,Paper and Pulp,2080,0.27638191
+AN,Paper and Pulp,2085,0.260301508
+AN,Paper and Pulp,2090,0.257286432
+AN,Paper and Pulp,2095,0.253266332
+AN,Paper and Pulp,2100,0.249246231
+AP,Paper and Pulp,2015,4
+AP,Paper and Pulp,2020,1
+AP,Paper and Pulp,2025,0.888442211
+AP,Paper and Pulp,2030,0.814070352
+AP,Paper and Pulp,2035,0.735678392
+AP,Paper and Pulp,2040,0.654271357
+AP,Paper and Pulp,2045,0.572864322
+AP,Paper and Pulp,2050,0.493467337
+AP,Paper and Pulp,2055,0.419095477
+AP,Paper and Pulp,2060,0.353768844
+AP,Paper and Pulp,2065,0.331658291
+AP,Paper and Pulp,2070,0.312562814
+AP,Paper and Pulp,2075,0.293467337
+AP,Paper and Pulp,2080,0.27638191
+AP,Paper and Pulp,2085,0.260301508
+AP,Paper and Pulp,2090,0.257286432
+AP,Paper and Pulp,2095,0.253266332
+AP,Paper and Pulp,2100,0.249246231
+AR,Paper and Pulp,2015,3
+AR,Paper and Pulp,2020,1
+AR,Paper and Pulp,2025,0.888442211
+AR,Paper and Pulp,2030,0.814070352
+AR,Paper and Pulp,2035,0.735678392
+AR,Paper and Pulp,2040,0.654271357
+AR,Paper and Pulp,2045,0.572864322
+AR,Paper and Pulp,2050,0.493467337
+AR,Paper and Pulp,2055,0.419095477
+AR,Paper and Pulp,2060,0.353768844
+AR,Paper and Pulp,2065,0.331658291
+AR,Paper and Pulp,2070,0.312562814
+AR,Paper and Pulp,2075,0.293467337
+AR,Paper and Pulp,2080,0.27638191
+AR,Paper and Pulp,2085,0.260301508
+AR,Paper and Pulp,2090,0.257286432
+AR,Paper and Pulp,2095,0.253266332
+AR,Paper and Pulp,2100,0.249246231
+AS,Paper and Pulp,2015,3
+AS,Paper and Pulp,2020,1
+AS,Paper and Pulp,2025,0.888442211
+AS,Paper and Pulp,2030,0.814070352
+AS,Paper and Pulp,2035,0.735678392
+AS,Paper and Pulp,2040,0.654271357
+AS,Paper and Pulp,2045,0.572864322
+AS,Paper and Pulp,2050,0.493467337
+AS,Paper and Pulp,2055,0.419095477
+AS,Paper and Pulp,2060,0.353768844
+AS,Paper and Pulp,2065,0.331658291
+AS,Paper and Pulp,2070,0.312562814
+AS,Paper and Pulp,2075,0.293467337
+AS,Paper and Pulp,2080,0.27638191
+AS,Paper and Pulp,2085,0.260301508
+AS,Paper and Pulp,2090,0.257286432
+AS,Paper and Pulp,2095,0.253266332
+AS,Paper and Pulp,2100,0.249246231
+BR,Paper and Pulp,2015,4
+BR,Paper and Pulp,2020,1
+BR,Paper and Pulp,2025,0.888442211
+BR,Paper and Pulp,2030,0.814070352
+BR,Paper and Pulp,2035,0.735678392
+BR,Paper and Pulp,2040,0.654271357
+BR,Paper and Pulp,2045,0.572864322
+BR,Paper and Pulp,2050,0.493467337
+BR,Paper and Pulp,2055,0.419095477
+BR,Paper and Pulp,2060,0.353768844
+BR,Paper and Pulp,2065,0.331658291
+BR,Paper and Pulp,2070,0.312562814
+BR,Paper and Pulp,2075,0.293467337
+BR,Paper and Pulp,2080,0.27638191
+BR,Paper and Pulp,2085,0.260301508
+BR,Paper and Pulp,2090,0.257286432
+BR,Paper and Pulp,2095,0.253266332
+BR,Paper and Pulp,2100,0.249246231
+CG,Paper and Pulp,2015,3
+CG,Paper and Pulp,2020,1
+CG,Paper and Pulp,2025,0.888442211
+CG,Paper and Pulp,2030,0.814070352
+CG,Paper and Pulp,2035,0.735678392
+CG,Paper and Pulp,2040,0.654271357
+CG,Paper and Pulp,2045,0.572864322
+CG,Paper and Pulp,2050,0.493467337
+CG,Paper and Pulp,2055,0.419095477
+CG,Paper and Pulp,2060,0.353768844
+CG,Paper and Pulp,2065,0.331658291
+CG,Paper and Pulp,2070,0.312562814
+CG,Paper and Pulp,2075,0.293467337
+CG,Paper and Pulp,2080,0.27638191
+CG,Paper and Pulp,2085,0.260301508
+CG,Paper and Pulp,2090,0.257286432
+CG,Paper and Pulp,2095,0.253266332
+CG,Paper and Pulp,2100,0.249246231
+CH,Paper and Pulp,2015,3
+CH,Paper and Pulp,2020,1
+CH,Paper and Pulp,2025,0.888442211
+CH,Paper and Pulp,2030,0.814070352
+CH,Paper and Pulp,2035,0.735678392
+CH,Paper and Pulp,2040,0.654271357
+CH,Paper and Pulp,2045,0.572864322
+CH,Paper and Pulp,2050,0.493467337
+CH,Paper and Pulp,2055,0.419095477
+CH,Paper and Pulp,2060,0.353768844
+CH,Paper and Pulp,2065,0.331658291
+CH,Paper and Pulp,2070,0.312562814
+CH,Paper and Pulp,2075,0.293467337
+CH,Paper and Pulp,2080,0.27638191
+CH,Paper and Pulp,2085,0.260301508
+CH,Paper and Pulp,2090,0.257286432
+CH,Paper and Pulp,2095,0.253266332
+CH,Paper and Pulp,2100,0.249246231
+DD,Paper and Pulp,2015,3
+DD,Paper and Pulp,2020,1
+DD,Paper and Pulp,2025,0.888442211
+DD,Paper and Pulp,2030,0.814070352
+DD,Paper and Pulp,2035,0.735678392
+DD,Paper and Pulp,2040,0.654271357
+DD,Paper and Pulp,2045,0.572864322
+DD,Paper and Pulp,2050,0.493467337
+DD,Paper and Pulp,2055,0.419095477
+DD,Paper and Pulp,2060,0.353768844
+DD,Paper and Pulp,2065,0.331658291
+DD,Paper and Pulp,2070,0.312562814
+DD,Paper and Pulp,2075,0.293467337
+DD,Paper and Pulp,2080,0.27638191
+DD,Paper and Pulp,2085,0.260301508
+DD,Paper and Pulp,2090,0.257286432
+DD,Paper and Pulp,2095,0.253266332
+DD,Paper and Pulp,2100,0.249246231
+DL,Paper and Pulp,2015,3
+DL,Paper and Pulp,2020,1
+DL,Paper and Pulp,2025,0.888442211
+DL,Paper and Pulp,2030,0.814070352
+DL,Paper and Pulp,2035,0.735678392
+DL,Paper and Pulp,2040,0.654271357
+DL,Paper and Pulp,2045,0.572864322
+DL,Paper and Pulp,2050,0.493467337
+DL,Paper and Pulp,2055,0.419095477
+DL,Paper and Pulp,2060,0.353768844
+DL,Paper and Pulp,2065,0.331658291
+DL,Paper and Pulp,2070,0.312562814
+DL,Paper and Pulp,2075,0.293467337
+DL,Paper and Pulp,2080,0.27638191
+DL,Paper and Pulp,2085,0.260301508
+DL,Paper and Pulp,2090,0.257286432
+DL,Paper and Pulp,2095,0.253266332
+DL,Paper and Pulp,2100,0.249246231
+DN,Paper and Pulp,2015,3
+DN,Paper and Pulp,2020,1
+DN,Paper and Pulp,2025,0.888442211
+DN,Paper and Pulp,2030,0.814070352
+DN,Paper and Pulp,2035,0.735678392
+DN,Paper and Pulp,2040,0.654271357
+DN,Paper and Pulp,2045,0.572864322
+DN,Paper and Pulp,2050,0.493467337
+DN,Paper and Pulp,2055,0.419095477
+DN,Paper and Pulp,2060,0.353768844
+DN,Paper and Pulp,2065,0.331658291
+DN,Paper and Pulp,2070,0.312562814
+DN,Paper and Pulp,2075,0.293467337
+DN,Paper and Pulp,2080,0.27638191
+DN,Paper and Pulp,2085,0.260301508
+DN,Paper and Pulp,2090,0.257286432
+DN,Paper and Pulp,2095,0.253266332
+DN,Paper and Pulp,2100,0.249246231
+GA,Paper and Pulp,2015,3
+GA,Paper and Pulp,2020,1
+GA,Paper and Pulp,2025,0.888442211
+GA,Paper and Pulp,2030,0.814070352
+GA,Paper and Pulp,2035,0.735678392
+GA,Paper and Pulp,2040,0.654271357
+GA,Paper and Pulp,2045,0.572864322
+GA,Paper and Pulp,2050,0.493467337
+GA,Paper and Pulp,2055,0.419095477
+GA,Paper and Pulp,2060,0.353768844
+GA,Paper and Pulp,2065,0.331658291
+GA,Paper and Pulp,2070,0.312562814
+GA,Paper and Pulp,2075,0.293467337
+GA,Paper and Pulp,2080,0.27638191
+GA,Paper and Pulp,2085,0.260301508
+GA,Paper and Pulp,2090,0.257286432
+GA,Paper and Pulp,2095,0.253266332
+GA,Paper and Pulp,2100,0.249246231
+GJ,Paper and Pulp,2015,2
+GJ,Paper and Pulp,2020,1
+GJ,Paper and Pulp,2025,0.888442211
+GJ,Paper and Pulp,2030,0.814070352
+GJ,Paper and Pulp,2035,0.735678392
+GJ,Paper and Pulp,2040,0.654271357
+GJ,Paper and Pulp,2045,0.572864322
+GJ,Paper and Pulp,2050,0.493467337
+GJ,Paper and Pulp,2055,0.419095477
+GJ,Paper and Pulp,2060,0.353768844
+GJ,Paper and Pulp,2065,0.331658291
+GJ,Paper and Pulp,2070,0.312562814
+GJ,Paper and Pulp,2075,0.293467337
+GJ,Paper and Pulp,2080,0.27638191
+GJ,Paper and Pulp,2085,0.260301508
+GJ,Paper and Pulp,2090,0.257286432
+GJ,Paper and Pulp,2095,0.253266332
+GJ,Paper and Pulp,2100,0.249246231
+HP,Paper and Pulp,2015,3
+HP,Paper and Pulp,2020,1
+HP,Paper and Pulp,2025,0.888442211
+HP,Paper and Pulp,2030,0.814070352
+HP,Paper and Pulp,2035,0.735678392
+HP,Paper and Pulp,2040,0.654271357
+HP,Paper and Pulp,2045,0.572864322
+HP,Paper and Pulp,2050,0.493467337
+HP,Paper and Pulp,2055,0.419095477
+HP,Paper and Pulp,2060,0.353768844
+HP,Paper and Pulp,2065,0.331658291
+HP,Paper and Pulp,2070,0.312562814
+HP,Paper and Pulp,2075,0.293467337
+HP,Paper and Pulp,2080,0.27638191
+HP,Paper and Pulp,2085,0.260301508
+HP,Paper and Pulp,2090,0.257286432
+HP,Paper and Pulp,2095,0.253266332
+HP,Paper and Pulp,2100,0.249246231
+HR,Paper and Pulp,2015,3
+HR,Paper and Pulp,2020,1
+HR,Paper and Pulp,2025,0.888442211
+HR,Paper and Pulp,2030,0.814070352
+HR,Paper and Pulp,2035,0.735678392
+HR,Paper and Pulp,2040,0.654271357
+HR,Paper and Pulp,2045,0.572864322
+HR,Paper and Pulp,2050,0.493467337
+HR,Paper and Pulp,2055,0.419095477
+HR,Paper and Pulp,2060,0.353768844
+HR,Paper and Pulp,2065,0.331658291
+HR,Paper and Pulp,2070,0.312562814
+HR,Paper and Pulp,2075,0.293467337
+HR,Paper and Pulp,2080,0.27638191
+HR,Paper and Pulp,2085,0.260301508
+HR,Paper and Pulp,2090,0.257286432
+HR,Paper and Pulp,2095,0.253266332
+HR,Paper and Pulp,2100,0.249246231
+JH,Paper and Pulp,2015,3
+JH,Paper and Pulp,2020,1
+JH,Paper and Pulp,2025,0.888442211
+JH,Paper and Pulp,2030,0.814070352
+JH,Paper and Pulp,2035,0.735678392
+JH,Paper and Pulp,2040,0.654271357
+JH,Paper and Pulp,2045,0.572864322
+JH,Paper and Pulp,2050,0.493467337
+JH,Paper and Pulp,2055,0.419095477
+JH,Paper and Pulp,2060,0.353768844
+JH,Paper and Pulp,2065,0.331658291
+JH,Paper and Pulp,2070,0.312562814
+JH,Paper and Pulp,2075,0.293467337
+JH,Paper and Pulp,2080,0.27638191
+JH,Paper and Pulp,2085,0.260301508
+JH,Paper and Pulp,2090,0.257286432
+JH,Paper and Pulp,2095,0.253266332
+JH,Paper and Pulp,2100,0.249246231
+JK,Paper and Pulp,2015,3
+JK,Paper and Pulp,2020,1
+JK,Paper and Pulp,2025,0.888442211
+JK,Paper and Pulp,2030,0.814070352
+JK,Paper and Pulp,2035,0.735678392
+JK,Paper and Pulp,2040,0.654271357
+JK,Paper and Pulp,2045,0.572864322
+JK,Paper and Pulp,2050,0.493467337
+JK,Paper and Pulp,2055,0.419095477
+JK,Paper and Pulp,2060,0.353768844
+JK,Paper and Pulp,2065,0.331658291
+JK,Paper and Pulp,2070,0.312562814
+JK,Paper and Pulp,2075,0.293467337
+JK,Paper and Pulp,2080,0.27638191
+JK,Paper and Pulp,2085,0.260301508
+JK,Paper and Pulp,2090,0.257286432
+JK,Paper and Pulp,2095,0.253266332
+JK,Paper and Pulp,2100,0.249246231
+KA,Paper and Pulp,2015,3
+KA,Paper and Pulp,2020,1
+KA,Paper and Pulp,2025,0.888442211
+KA,Paper and Pulp,2030,0.814070352
+KA,Paper and Pulp,2035,0.735678392
+KA,Paper and Pulp,2040,0.654271357
+KA,Paper and Pulp,2045,0.572864322
+KA,Paper and Pulp,2050,0.493467337
+KA,Paper and Pulp,2055,0.419095477
+KA,Paper and Pulp,2060,0.353768844
+KA,Paper and Pulp,2065,0.331658291
+KA,Paper and Pulp,2070,0.312562814
+KA,Paper and Pulp,2075,0.293467337
+KA,Paper and Pulp,2080,0.27638191
+KA,Paper and Pulp,2085,0.260301508
+KA,Paper and Pulp,2090,0.257286432
+KA,Paper and Pulp,2095,0.253266332
+KA,Paper and Pulp,2100,0.249246231
+KL,Paper and Pulp,2015,3
+KL,Paper and Pulp,2020,1
+KL,Paper and Pulp,2025,0.888442211
+KL,Paper and Pulp,2030,0.814070352
+KL,Paper and Pulp,2035,0.735678392
+KL,Paper and Pulp,2040,0.654271357
+KL,Paper and Pulp,2045,0.572864322
+KL,Paper and Pulp,2050,0.493467337
+KL,Paper and Pulp,2055,0.419095477
+KL,Paper and Pulp,2060,0.353768844
+KL,Paper and Pulp,2065,0.331658291
+KL,Paper and Pulp,2070,0.312562814
+KL,Paper and Pulp,2075,0.293467337
+KL,Paper and Pulp,2080,0.27638191
+KL,Paper and Pulp,2085,0.260301508
+KL,Paper and Pulp,2090,0.257286432
+KL,Paper and Pulp,2095,0.253266332
+KL,Paper and Pulp,2100,0.249246231
+LA,Paper and Pulp,2015,3
+LA,Paper and Pulp,2020,1
+LA,Paper and Pulp,2025,0.888442211
+LA,Paper and Pulp,2030,0.814070352
+LA,Paper and Pulp,2035,0.735678392
+LA,Paper and Pulp,2040,0.654271357
+LA,Paper and Pulp,2045,0.572864322
+LA,Paper and Pulp,2050,0.493467337
+LA,Paper and Pulp,2055,0.419095477
+LA,Paper and Pulp,2060,0.353768844
+LA,Paper and Pulp,2065,0.331658291
+LA,Paper and Pulp,2070,0.312562814
+LA,Paper and Pulp,2075,0.293467337
+LA,Paper and Pulp,2080,0.27638191
+LA,Paper and Pulp,2085,0.260301508
+LA,Paper and Pulp,2090,0.257286432
+LA,Paper and Pulp,2095,0.253266332
+LA,Paper and Pulp,2100,0.249246231
+LD,Paper and Pulp,2015,3
+LD,Paper and Pulp,2020,1
+LD,Paper and Pulp,2025,0.888442211
+LD,Paper and Pulp,2030,0.814070352
+LD,Paper and Pulp,2035,0.735678392
+LD,Paper and Pulp,2040,0.654271357
+LD,Paper and Pulp,2045,0.572864322
+LD,Paper and Pulp,2050,0.493467337
+LD,Paper and Pulp,2055,0.419095477
+LD,Paper and Pulp,2060,0.353768844
+LD,Paper and Pulp,2065,0.331658291
+LD,Paper and Pulp,2070,0.312562814
+LD,Paper and Pulp,2075,0.293467337
+LD,Paper and Pulp,2080,0.27638191
+LD,Paper and Pulp,2085,0.260301508
+LD,Paper and Pulp,2090,0.257286432
+LD,Paper and Pulp,2095,0.253266332
+LD,Paper and Pulp,2100,0.249246231
+MH,Paper and Pulp,2015,4
+MH,Paper and Pulp,2020,1
+MH,Paper and Pulp,2025,0.888442211
+MH,Paper and Pulp,2030,0.814070352
+MH,Paper and Pulp,2035,0.735678392
+MH,Paper and Pulp,2040,0.654271357
+MH,Paper and Pulp,2045,0.572864322
+MH,Paper and Pulp,2050,0.493467337
+MH,Paper and Pulp,2055,0.419095477
+MH,Paper and Pulp,2060,0.353768844
+MH,Paper and Pulp,2065,0.331658291
+MH,Paper and Pulp,2070,0.312562814
+MH,Paper and Pulp,2075,0.293467337
+MH,Paper and Pulp,2080,0.27638191
+MH,Paper and Pulp,2085,0.260301508
+MH,Paper and Pulp,2090,0.257286432
+MH,Paper and Pulp,2095,0.253266332
+MH,Paper and Pulp,2100,0.249246231
+ML,Paper and Pulp,2015,3
+ML,Paper and Pulp,2020,1
+ML,Paper and Pulp,2025,0.888442211
+ML,Paper and Pulp,2030,0.814070352
+ML,Paper and Pulp,2035,0.735678392
+ML,Paper and Pulp,2040,0.654271357
+ML,Paper and Pulp,2045,0.572864322
+ML,Paper and Pulp,2050,0.493467337
+ML,Paper and Pulp,2055,0.419095477
+ML,Paper and Pulp,2060,0.353768844
+ML,Paper and Pulp,2065,0.331658291
+ML,Paper and Pulp,2070,0.312562814
+ML,Paper and Pulp,2075,0.293467337
+ML,Paper and Pulp,2080,0.27638191
+ML,Paper and Pulp,2085,0.260301508
+ML,Paper and Pulp,2090,0.257286432
+ML,Paper and Pulp,2095,0.253266332
+ML,Paper and Pulp,2100,0.249246231
+MN,Paper and Pulp,2015,3
+MN,Paper and Pulp,2020,1
+MN,Paper and Pulp,2025,0.888442211
+MN,Paper and Pulp,2030,0.814070352
+MN,Paper and Pulp,2035,0.735678392
+MN,Paper and Pulp,2040,0.654271357
+MN,Paper and Pulp,2045,0.572864322
+MN,Paper and Pulp,2050,0.493467337
+MN,Paper and Pulp,2055,0.419095477
+MN,Paper and Pulp,2060,0.353768844
+MN,Paper and Pulp,2065,0.331658291
+MN,Paper and Pulp,2070,0.312562814
+MN,Paper and Pulp,2075,0.293467337
+MN,Paper and Pulp,2080,0.27638191
+MN,Paper and Pulp,2085,0.260301508
+MN,Paper and Pulp,2090,0.257286432
+MN,Paper and Pulp,2095,0.253266332
+MN,Paper and Pulp,2100,0.249246231
+MP,Paper and Pulp,2015,3
+MP,Paper and Pulp,2020,1
+MP,Paper and Pulp,2025,0.888442211
+MP,Paper and Pulp,2030,0.814070352
+MP,Paper and Pulp,2035,0.735678392
+MP,Paper and Pulp,2040,0.654271357
+MP,Paper and Pulp,2045,0.572864322
+MP,Paper and Pulp,2050,0.493467337
+MP,Paper and Pulp,2055,0.419095477
+MP,Paper and Pulp,2060,0.353768844
+MP,Paper and Pulp,2065,0.331658291
+MP,Paper and Pulp,2070,0.312562814
+MP,Paper and Pulp,2075,0.293467337
+MP,Paper and Pulp,2080,0.27638191
+MP,Paper and Pulp,2085,0.260301508
+MP,Paper and Pulp,2090,0.257286432
+MP,Paper and Pulp,2095,0.253266332
+MP,Paper and Pulp,2100,0.249246231
+MZ,Paper and Pulp,2015,3
+MZ,Paper and Pulp,2020,1
+MZ,Paper and Pulp,2025,0.888442211
+MZ,Paper and Pulp,2030,0.814070352
+MZ,Paper and Pulp,2035,0.735678392
+MZ,Paper and Pulp,2040,0.654271357
+MZ,Paper and Pulp,2045,0.572864322
+MZ,Paper and Pulp,2050,0.493467337
+MZ,Paper and Pulp,2055,0.419095477
+MZ,Paper and Pulp,2060,0.353768844
+MZ,Paper and Pulp,2065,0.331658291
+MZ,Paper and Pulp,2070,0.312562814
+MZ,Paper and Pulp,2075,0.293467337
+MZ,Paper and Pulp,2080,0.27638191
+MZ,Paper and Pulp,2085,0.260301508
+MZ,Paper and Pulp,2090,0.257286432
+MZ,Paper and Pulp,2095,0.253266332
+MZ,Paper and Pulp,2100,0.249246231
+NL,Paper and Pulp,2015,3
+NL,Paper and Pulp,2020,1
+NL,Paper and Pulp,2025,0.888442211
+NL,Paper and Pulp,2030,0.814070352
+NL,Paper and Pulp,2035,0.735678392
+NL,Paper and Pulp,2040,0.654271357
+NL,Paper and Pulp,2045,0.572864322
+NL,Paper and Pulp,2050,0.493467337
+NL,Paper and Pulp,2055,0.419095477
+NL,Paper and Pulp,2060,0.353768844
+NL,Paper and Pulp,2065,0.331658291
+NL,Paper and Pulp,2070,0.312562814
+NL,Paper and Pulp,2075,0.293467337
+NL,Paper and Pulp,2080,0.27638191
+NL,Paper and Pulp,2085,0.260301508
+NL,Paper and Pulp,2090,0.257286432
+NL,Paper and Pulp,2095,0.253266332
+NL,Paper and Pulp,2100,0.249246231
+OD,Paper and Pulp,2015,4
+OD,Paper and Pulp,2020,1
+OD,Paper and Pulp,2025,0.888442211
+OD,Paper and Pulp,2030,0.814070352
+OD,Paper and Pulp,2035,0.735678392
+OD,Paper and Pulp,2040,0.654271357
+OD,Paper and Pulp,2045,0.572864322
+OD,Paper and Pulp,2050,0.493467337
+OD,Paper and Pulp,2055,0.419095477
+OD,Paper and Pulp,2060,0.353768844
+OD,Paper and Pulp,2065,0.331658291
+OD,Paper and Pulp,2070,0.312562814
+OD,Paper and Pulp,2075,0.293467337
+OD,Paper and Pulp,2080,0.27638191
+OD,Paper and Pulp,2085,0.260301508
+OD,Paper and Pulp,2090,0.257286432
+OD,Paper and Pulp,2095,0.253266332
+OD,Paper and Pulp,2100,0.249246231
+PB,Paper and Pulp,2015,4
+PB,Paper and Pulp,2020,1
+PB,Paper and Pulp,2025,0.888442211
+PB,Paper and Pulp,2030,0.814070352
+PB,Paper and Pulp,2035,0.735678392
+PB,Paper and Pulp,2040,0.654271357
+PB,Paper and Pulp,2045,0.572864322
+PB,Paper and Pulp,2050,0.493467337
+PB,Paper and Pulp,2055,0.419095477
+PB,Paper and Pulp,2060,0.353768844
+PB,Paper and Pulp,2065,0.331658291
+PB,Paper and Pulp,2070,0.312562814
+PB,Paper and Pulp,2075,0.293467337
+PB,Paper and Pulp,2080,0.27638191
+PB,Paper and Pulp,2085,0.260301508
+PB,Paper and Pulp,2090,0.257286432
+PB,Paper and Pulp,2095,0.253266332
+PB,Paper and Pulp,2100,0.249246231
+PC,Paper and Pulp,2015,3
+PC,Paper and Pulp,2020,1
+PC,Paper and Pulp,2025,0.888442211
+PC,Paper and Pulp,2030,0.814070352
+PC,Paper and Pulp,2035,0.735678392
+PC,Paper and Pulp,2040,0.654271357
+PC,Paper and Pulp,2045,0.572864322
+PC,Paper and Pulp,2050,0.493467337
+PC,Paper and Pulp,2055,0.419095477
+PC,Paper and Pulp,2060,0.353768844
+PC,Paper and Pulp,2065,0.331658291
+PC,Paper and Pulp,2070,0.312562814
+PC,Paper and Pulp,2075,0.293467337
+PC,Paper and Pulp,2080,0.27638191
+PC,Paper and Pulp,2085,0.260301508
+PC,Paper and Pulp,2090,0.257286432
+PC,Paper and Pulp,2095,0.253266332
+PC,Paper and Pulp,2100,0.249246231
+RJ,Paper and Pulp,2015,3
+RJ,Paper and Pulp,2020,1
+RJ,Paper and Pulp,2025,0.888442211
+RJ,Paper and Pulp,2030,0.814070352
+RJ,Paper and Pulp,2035,0.735678392
+RJ,Paper and Pulp,2040,0.654271357
+RJ,Paper and Pulp,2045,0.572864322
+RJ,Paper and Pulp,2050,0.493467337
+RJ,Paper and Pulp,2055,0.419095477
+RJ,Paper and Pulp,2060,0.353768844
+RJ,Paper and Pulp,2065,0.331658291
+RJ,Paper and Pulp,2070,0.312562814
+RJ,Paper and Pulp,2075,0.293467337
+RJ,Paper and Pulp,2080,0.27638191
+RJ,Paper and Pulp,2085,0.260301508
+RJ,Paper and Pulp,2090,0.257286432
+RJ,Paper and Pulp,2095,0.253266332
+RJ,Paper and Pulp,2100,0.249246231
+SK,Paper and Pulp,2015,3
+SK,Paper and Pulp,2020,1
+SK,Paper and Pulp,2025,0.888442211
+SK,Paper and Pulp,2030,0.814070352
+SK,Paper and Pulp,2035,0.735678392
+SK,Paper and Pulp,2040,0.654271357
+SK,Paper and Pulp,2045,0.572864322
+SK,Paper and Pulp,2050,0.493467337
+SK,Paper and Pulp,2055,0.419095477
+SK,Paper and Pulp,2060,0.353768844
+SK,Paper and Pulp,2065,0.331658291
+SK,Paper and Pulp,2070,0.312562814
+SK,Paper and Pulp,2075,0.293467337
+SK,Paper and Pulp,2080,0.27638191
+SK,Paper and Pulp,2085,0.260301508
+SK,Paper and Pulp,2090,0.257286432
+SK,Paper and Pulp,2095,0.253266332
+SK,Paper and Pulp,2100,0.249246231
+TN,Paper and Pulp,2015,2
+TN,Paper and Pulp,2020,1
+TN,Paper and Pulp,2025,0.888442211
+TN,Paper and Pulp,2030,0.814070352
+TN,Paper and Pulp,2035,0.735678392
+TN,Paper and Pulp,2040,0.654271357
+TN,Paper and Pulp,2045,0.572864322
+TN,Paper and Pulp,2050,0.493467337
+TN,Paper and Pulp,2055,0.419095477
+TN,Paper and Pulp,2060,0.353768844
+TN,Paper and Pulp,2065,0.331658291
+TN,Paper and Pulp,2070,0.312562814
+TN,Paper and Pulp,2075,0.293467337
+TN,Paper and Pulp,2080,0.27638191
+TN,Paper and Pulp,2085,0.260301508
+TN,Paper and Pulp,2090,0.257286432
+TN,Paper and Pulp,2095,0.253266332
+TN,Paper and Pulp,2100,0.249246231
+TR,Paper and Pulp,2015,3
+TR,Paper and Pulp,2020,1
+TR,Paper and Pulp,2025,0.888442211
+TR,Paper and Pulp,2030,0.814070352
+TR,Paper and Pulp,2035,0.735678392
+TR,Paper and Pulp,2040,0.654271357
+TR,Paper and Pulp,2045,0.572864322
+TR,Paper and Pulp,2050,0.493467337
+TR,Paper and Pulp,2055,0.419095477
+TR,Paper and Pulp,2060,0.353768844
+TR,Paper and Pulp,2065,0.331658291
+TR,Paper and Pulp,2070,0.312562814
+TR,Paper and Pulp,2075,0.293467337
+TR,Paper and Pulp,2080,0.27638191
+TR,Paper and Pulp,2085,0.260301508
+TR,Paper and Pulp,2090,0.257286432
+TR,Paper and Pulp,2095,0.253266332
+TR,Paper and Pulp,2100,0.249246231
+TS,Paper and Pulp,2015,2
+TS,Paper and Pulp,2020,1
+TS,Paper and Pulp,2025,0.888442211
+TS,Paper and Pulp,2030,0.814070352
+TS,Paper and Pulp,2035,0.735678392
+TS,Paper and Pulp,2040,0.654271357
+TS,Paper and Pulp,2045,0.572864322
+TS,Paper and Pulp,2050,0.493467337
+TS,Paper and Pulp,2055,0.419095477
+TS,Paper and Pulp,2060,0.353768844
+TS,Paper and Pulp,2065,0.331658291
+TS,Paper and Pulp,2070,0.312562814
+TS,Paper and Pulp,2075,0.293467337
+TS,Paper and Pulp,2080,0.27638191
+TS,Paper and Pulp,2085,0.260301508
+TS,Paper and Pulp,2090,0.257286432
+TS,Paper and Pulp,2095,0.253266332
+TS,Paper and Pulp,2100,0.249246231
+UK,Paper and Pulp,2015,3
+UK,Paper and Pulp,2020,1
+UK,Paper and Pulp,2025,0.888442211
+UK,Paper and Pulp,2030,0.814070352
+UK,Paper and Pulp,2035,0.735678392
+UK,Paper and Pulp,2040,0.654271357
+UK,Paper and Pulp,2045,0.572864322
+UK,Paper and Pulp,2050,0.493467337
+UK,Paper and Pulp,2055,0.419095477
+UK,Paper and Pulp,2060,0.353768844
+UK,Paper and Pulp,2065,0.331658291
+UK,Paper and Pulp,2070,0.312562814
+UK,Paper and Pulp,2075,0.293467337
+UK,Paper and Pulp,2080,0.27638191
+UK,Paper and Pulp,2085,0.260301508
+UK,Paper and Pulp,2090,0.257286432
+UK,Paper and Pulp,2095,0.253266332
+UK,Paper and Pulp,2100,0.249246231
+UP,Paper and Pulp,2015,4
+UP,Paper and Pulp,2020,1
+UP,Paper and Pulp,2025,0.888442211
+UP,Paper and Pulp,2030,0.814070352
+UP,Paper and Pulp,2035,0.735678392
+UP,Paper and Pulp,2040,0.654271357
+UP,Paper and Pulp,2045,0.572864322
+UP,Paper and Pulp,2050,0.493467337
+UP,Paper and Pulp,2055,0.419095477
+UP,Paper and Pulp,2060,0.353768844
+UP,Paper and Pulp,2065,0.331658291
+UP,Paper and Pulp,2070,0.312562814
+UP,Paper and Pulp,2075,0.293467337
+UP,Paper and Pulp,2080,0.27638191
+UP,Paper and Pulp,2085,0.260301508
+UP,Paper and Pulp,2090,0.257286432
+UP,Paper and Pulp,2095,0.253266332
+UP,Paper and Pulp,2100,0.249246231
+WB,Paper and Pulp,2015,4
+WB,Paper and Pulp,2020,1
+WB,Paper and Pulp,2025,0.888442211
+WB,Paper and Pulp,2030,0.814070352
+WB,Paper and Pulp,2035,0.735678392
+WB,Paper and Pulp,2040,0.654271357
+WB,Paper and Pulp,2045,0.572864322
+WB,Paper and Pulp,2050,0.493467337
+WB,Paper and Pulp,2055,0.419095477
+WB,Paper and Pulp,2060,0.353768844
+WB,Paper and Pulp,2065,0.331658291
+WB,Paper and Pulp,2070,0.312562814
+WB,Paper and Pulp,2075,0.293467337
+WB,Paper and Pulp,2080,0.27638191
+WB,Paper and Pulp,2085,0.260301508
+WB,Paper and Pulp,2090,0.257286432
+WB,Paper and Pulp,2095,0.253266332
+WB,Paper and Pulp,2100,0.249246231

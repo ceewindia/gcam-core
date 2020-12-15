@@ -1,0 +1,58 @@
+# File: A32.India_industry_globaltech_interp.csv
+# Title: Industry technology interpolation functions
+# Units: NA
+# Column types: ccccccc
+# ----------
+supplysector,subsector,technology,apply.to,from.year,to.year,interpolation.function
+Agriculture_enuse,refined liquids,refined liquids,share-weight,final-calibration-year,end-year,fixed
+Agriculture_enuse,refined liquids,refined liquids cogen,share-weight,final-calibration-year,end-year,fixed
+Cement_enuse,biomass,biomass,share-weight,final-calibration-year,end-year,fixed
+Cement_enuse,biomass,biomass cogen,share-weight,final-calibration-year,end-year,fixed
+Cement_enuse,coal,coal,share-weight,final-calibration-year,end-year,fixed
+Cement_enuse,coal,coal cogen,share-weight,final-calibration-year,end-year,fixed
+Cement_enuse,gas,gas,share-weight,final-calibration-year,end-year,fixed
+Cement_enuse,gas,gas cogen,share-weight,final-calibration-year,end-year,fixed
+Cement_enuse,refined liquids,refined liquids,share-weight,final-calibration-year,end-year,fixed
+Cement_enuse,refined liquids,refined liquids cogen,share-weight,final-calibration-year,end-year,fixed
+Chem_Fert_enuse,biomass,biomass,share-weight,final-calibration-year,end-year,fixed
+Chem_Fert_enuse,biomass,biomass cogen,share-weight,final-calibration-year,end-year,fixed
+Chem_Fert_enuse,coal,coal,share-weight,final-calibration-year,end-year,fixed
+Chem_Fert_enuse,coal,coal cogen,share-weight,final-calibration-year,end-year,fixed
+Chem_Fert_enuse,gas,gas,share-weight,final-calibration-year,end-year,fixed
+Chem_Fert_enuse,gas,gas cogen,share-weight,final-calibration-year,end-year,fixed
+Chem_Fert_enuse,refined liquids,refined liquids,share-weight,final-calibration-year,end-year,fixed
+Chem_Fert_enuse,refined liquids,refined liquids cogen,share-weight,final-calibration-year,end-year,fixed
+Fisheries_enuse,refined liquids,refined liquids,share-weight,final-calibration-year,end-year,fixed
+Fisheries_enuse,refined liquids,refined liquids cogen,share-weight,final-calibration-year,end-year,fixed
+Iron and Steel_enuse,biomass,biomass,share-weight,final-calibration-year,end-year,fixed
+Iron and Steel_enuse,biomass,biomass cogen,share-weight,final-calibration-year,end-year,fixed
+Iron and Steel_enuse,coal,coal,share-weight,final-calibration-year,end-year,fixed
+Iron and Steel_enuse,coal,coal cogen,share-weight,final-calibration-year,end-year,fixed
+Iron and Steel_enuse,gas,gas,share-weight,final-calibration-year,end-year,fixed
+Iron and Steel_enuse,gas,gas cogen,share-weight,final-calibration-year,end-year,fixed
+Iron and Steel_enuse,refined liquids,refined liquids,share-weight,final-calibration-year,end-year,fixed
+Iron and Steel_enuse,refined liquids,refined liquids cogen,share-weight,final-calibration-year,end-year,fixed
+Non-Ferrous Metals_enuse,biomass,biomass,share-weight,final-calibration-year,end-year,fixed
+Non-Ferrous Metals_enuse,biomass,biomass cogen,share-weight,final-calibration-year,end-year,fixed
+Non-Ferrous Metals_enuse,coal,coal,share-weight,final-calibration-year,end-year,fixed
+Non-Ferrous Metals_enuse,coal,coal cogen,share-weight,final-calibration-year,end-year,fixed
+Non-Ferrous Metals_enuse,gas,gas,share-weight,final-calibration-year,end-year,fixed
+Non-Ferrous Metals_enuse,gas,gas cogen,share-weight,final-calibration-year,end-year,fixed
+Non-Ferrous Metals_enuse,refined liquids,refined liquids,share-weight,final-calibration-year,end-year,fixed
+Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,share-weight,final-calibration-year,end-year,fixed
+Other Industries_enuse,biomass,biomass,share-weight,final-calibration-year,end-year,fixed
+Other Industries_enuse,biomass,biomass cogen,share-weight,final-calibration-year,end-year,fixed
+Other Industries_enuse,coal,coal,share-weight,final-calibration-year,end-year,fixed
+Other Industries_enuse,coal,coal cogen,share-weight,final-calibration-year,end-year,fixed
+Other Industries_enuse,gas,gas,share-weight,final-calibration-year,end-year,fixed
+Other Industries_enuse,gas,gas cogen,share-weight,final-calibration-year,end-year,fixed
+Other Industries_enuse,refined liquids,refined liquids,share-weight,final-calibration-year,end-year,fixed
+Other Industries_enuse,refined liquids,refined liquids cogen,share-weight,final-calibration-year,end-year,fixed
+Paper and Pulp_enuse,biomass,biomass,share-weight,final-calibration-year,end-year,fixed
+Paper and Pulp_enuse,biomass,biomass cogen,share-weight,final-calibration-year,end-year,fixed
+Paper and Pulp_enuse,coal,coal,share-weight,final-calibration-year,end-year,fixed
+Paper and Pulp_enuse,coal,coal cogen,share-weight,final-calibration-year,end-year,fixed
+Paper and Pulp_enuse,gas,gas,share-weight,final-calibration-year,end-year,fixed
+Paper and Pulp_enuse,gas,gas cogen,share-weight,final-calibration-year,end-year,fixed
+Paper and Pulp_enuse,refined liquids,refined liquids,share-weight,final-calibration-year,end-year,fixed
+Paper and Pulp_enuse,refined liquids,refined liquids cogen,share-weight,final-calibration-year,end-year,fixed

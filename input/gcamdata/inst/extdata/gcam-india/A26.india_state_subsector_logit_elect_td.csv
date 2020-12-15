@@ -1,0 +1,10 @@
+# File: A26.india_state_subsector_logit_elect_td.csv
+# Title: Subsector level logit exponent
+# Units: n/a
+# Column types: ccciic
+# ----------
+region,supplysector,subsector,logit.year.fillout,logit.exponent,logit.type
+India,elect_td_res,elect_td_res,1975,-6,
+India,elect_td_com,elect_td_com,1975,-6,
+India,elect_td_ind,elect_td_ind,1975,-6,
+India,elect_td_trn,elect_td_trn,1975,-6,

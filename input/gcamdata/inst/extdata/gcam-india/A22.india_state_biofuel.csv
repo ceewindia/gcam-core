@@ -1,0 +1,43 @@
+# File: A22.india_state_biofuel.csv
+# Title: Model biofuel
+# Units: Million gallons of biodiesel
+# Column types: ci
+# ----------
+state,Mgal.yr
+AN,46
+AP,2
+AR,58
+AS,59
+BR,8
+CG,14
+CH,6
+DD,0
+DL,167
+DN,104
+GA,290
+GJ,1
+HP,49
+HR,1
+JH,1
+JK,0
+KA,105
+KL,105
+LA,201
+LD,1
+MH,4
+ML,0
+MN,10
+MP,85
+MZ,64
+NL,52
+OD,17
+PB,51
+PC,2
+RJ,14
+SK,396
+TN,10
+TR,9
+TS,104
+UK,29
+UP,104
+WB,29

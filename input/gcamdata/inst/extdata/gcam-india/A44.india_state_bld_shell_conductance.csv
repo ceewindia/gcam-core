@@ -1,0 +1,10 @@
+# File: A44.india_state_bld_shell_conductance.csv
+# Title: Assumed USA shell efficiency trajectories
+# Units: Unitless
+# Source: Provided by the DOE EPSA office in 2015. Assumptions are simliar to the 2016 Annual Energy Outlook (Table 22;Building shell efficiency index; https://www.eia.gov/outlooks/aeo/data/browser/#/?id=30-AEO2016&cases=ref2016~ref_no_cpp&sourcekey=0)
+# Column types: cnnnnnnnnn
+# ----------
+gcam.consumer,1971,2010,2015,2020,2025,2030,2035,2040,2100
+resid rural,1.929,1.491,1.419,1.349,1.29,1.234,1.18,1.134,0.754
+resid urban,1.929,1.491,1.419,1.349,1.29,1.234,1.18,1.134,0.754
+comm,1.905,1.499,1.429,1.362,1.307,1.253,1.201,1.157,0.792

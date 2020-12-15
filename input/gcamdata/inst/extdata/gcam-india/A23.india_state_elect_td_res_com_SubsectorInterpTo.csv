@@ -1,0 +1,8 @@
+# File: A23.india_state_elect_td_res_com_SubsectorInterpTo.csv
+# Title: Elect_td_sectors
+# Units: Unitless
+# Column types: ccccciic
+# ----------
+region,supplysector,subsector,apply.to,from.year,to.year,to.value,interpolation.function
+India,elect_td_res,rooftop_pv,share-weight,final-calibration-year,2100,1,linear
+India,elect_td_com,rooftop_pv,share-weight,final-calibration-year,2100,1,linear

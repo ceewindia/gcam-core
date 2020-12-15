@@ -1,0 +1,7 @@
+# File: A23.india_state_subsector_shrwt_agg_elect_td_trn.csv
+# Title: Aggregate elect default subsector shareweights
+# Units: Unitless
+# Column types: cccin
+# ----------
+supplysector,subsector,year.fillout,year,share.weight
+elect_td_trn,elect_td_trn,start-year,,1

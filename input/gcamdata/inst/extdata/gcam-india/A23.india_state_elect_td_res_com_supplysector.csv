@@ -1,0 +1,8 @@
+# File: A23.india_state_elect_td_res_com_supplysector.csv
+# Title: Elect_td_sectors
+# Units: Unitless
+# Column types: ccccccnc
+# ----------
+region,supplysector,output.unit,input.unit,price.unit,logit.year.fillout,logit.exponent,logit.type
+India,elect_td_res,EJ,EJ,1975$/GJ,1975,-6,
+India,elect_td_com,EJ,EJ,1975$/GJ,1975,-6,

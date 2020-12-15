@@ -1,0 +1,8 @@
+# File: A42.india_state_subsector_shrwt_agg_tradbio.csv
+# Title: Building cooking subsector traditional biomass shareweights
+# Units: Unitless
+# Column types: cccin
+# ----------
+supplysector,subsector,year.fillout,year,share.weight
+resid rural cooking,traditional biomass,start-year,,1
+resid urban cooking,traditional biomass,start-year,,1

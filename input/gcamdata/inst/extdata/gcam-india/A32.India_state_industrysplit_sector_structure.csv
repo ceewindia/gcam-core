@@ -1,0 +1,25 @@
+# File: A32.India_state_industrysplit_sector_structure.csv
+# Title: Industry split supplysector information (units and logit exponents)
+# Units: Units-in-table
+# Column types: ccccicc
+# ----------
+supplysector,output.unit,input.unit,price.unit,logit.exponent,final.energy,logit.type
+Agriculture_enuse,EJ,EJ,1975$/GJ,-3,Agriculture,
+Cement_enuse,EJ,EJ,1975$/GJ,-3,Cement,
+Cement_fsuse,EJ,EJ,1975$/GJ,-1,Cement,
+Chem_Fert_enuse,EJ,EJ,1975$/GJ,-3,Chem_Fert,
+Chem_Fert_fsuse,EJ,EJ,1975$/GJ,-1,Chem_Fert,
+Fisheries_enuse,EJ,EJ,1975$/GJ,-3,Fisheries,
+Iron and Steel_enuse,EJ,EJ,1975$/GJ,-3,Iron and Steel,
+Non-Ferrous Metals_enuse,EJ,EJ,1975$/GJ,-3,Non-Ferrous Metals,
+Paper and Pulp_enuse,EJ,EJ,1975$/GJ,-3,Paper and Pulp,
+Other Industries_enuse,EJ,EJ,1975$/GJ,-3,Other Industries,
+Other Industries_fsuse,EJ,EJ,1975$/GJ,-1,Other Industries,
+Agriculture,EJ,EJ,1975$/GJ,-3,,
+Cement,EJ,EJ,1975$/GJ,-3,,
+Fisheries,EJ,EJ,1975$/GJ,-3,,
+Chem_Fert,EJ,EJ,1975$/GJ,-3,,
+Iron and Steel,EJ,EJ,1975$/GJ,-3,,
+Non-Ferrous Metals,EJ,EJ,1975$/GJ,-3,,
+Paper and Pulp,EJ,EJ,1975$/GJ,-3,,
+Other Industries,EJ,EJ,1975$/GJ,-3,,

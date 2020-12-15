@@ -1,0 +1,8 @@
+# File: A54.india_StubTech_nonmotor.csv
+# Title: Non motor transport Sub technology
+# Units: Unitless
+# Column types: cccc
+# ----------
+region,supplysector,tranSubsector,stub.technology
+India,trn_pass,Walk,Walk
+India,trn_pass,Cycle,Cycle

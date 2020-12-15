@@ -1,0 +1,27 @@
+# File: A23.india_elect_grid_coeff.csv
+# Title: India Grid coeff
+# Source: For calibration purpose
+# Units: NA
+# Column types: cnn
+# ----------
+grid_region,year,coefficient
+Eastern,1975,1.306655
+Eastern,1990,1.268697979
+Eastern,2005,1.382919453
+Eastern,2010,1.306759076
+North-Eastern,1975,1.306655
+North-Eastern,1990,1.268697979
+North-Eastern,2005,1.382919453
+North-Eastern,2010,1.306759076
+Northern,1975,1.306655
+Northern,1990,1.268697979
+Northern,2005,1.382919453
+Northern,2010,1.306759076
+Southern,1975,1.306655
+Southern,1990,1.268697979
+Southern,2005,1.382919453
+Southern,2010,1.306759076
+Western,1975,1.306655
+Western,1990,1.268697979
+Western,2005,1.382919453
+Western,2010,1.306759076

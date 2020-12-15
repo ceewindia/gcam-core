@@ -1,0 +1,8 @@
+# File: A23.india_state_elect_td_res_com_StubTech.csv
+# Title: Elect_td_sectors
+# Units: Unitless
+# Column types: cccc
+# ----------
+region,supplysector,subsector,stub.technology
+India,elect_td_res,rooftop_pv,rooftop_pv
+India,elect_td_com,rooftop_pv,rooftop_pv

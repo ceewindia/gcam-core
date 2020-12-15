@@ -1,0 +1,54 @@
+# File: A32.India_state_industry_subsector_interp.csv
+# Title: Industry split subsector shareweight interpolation
+# Units: NA
+# Column types: ccccccc
+# ----------
+supplysector,subsector,apply.to,from.year,to.year,to.value,interpolation.function
+Agriculture_enuse,electricity,share-weight,final-calibration-year,end-year,,fixed
+Agriculture_enuse,refined liquids,share-weight,final-calibration-year,end-year,,fixed
+Cement_enuse,biomass,share-weight,final-calibration-year,end-year,,fixed
+Cement_enuse,coal,share-weight,final-calibration-year,end-year,,fixed
+Cement_enuse,electricity,share-weight,final-calibration-year,end-year,,fixed
+Cement_enuse,gas,share-weight,final-calibration-year,end-year,,fixed
+Cement_enuse,hydrogen,share-weight,final-calibration-year,2050,,linear
+Cement_enuse,refined liquids,share-weight,final-calibration-year,end-year,,fixed
+Chem_Fert_enuse,biomass,share-weight,final-calibration-year,end-year,,fixed
+Chem_Fert_enuse,coal,share-weight,final-calibration-year,end-year,,fixed
+Chem_Fert_enuse,electricity,share-weight,final-calibration-year,end-year,,fixed
+Chem_Fert_enuse,gas,share-weight,final-calibration-year,end-year,,fixed
+Chem_Fert_enuse,hydrogen,share-weight,final-calibration-year,2050,,linear
+Chem_Fert_enuse,refined liquids,share-weight,final-calibration-year,end-year,,fixed
+Fisheries_enuse,refined liquids,share-weight,final-calibration-year,end-year,,fixed
+Iron and Steel_enuse,biomass,share-weight,final-calibration-year,end-year,,fixed
+Iron and Steel_enuse,coal,share-weight,final-calibration-year,end-year,,fixed
+Iron and Steel_enuse,electricity,share-weight,final-calibration-year,end-year,,fixed
+Iron and Steel_enuse,gas,share-weight,final-calibration-year,end-year,,fixed
+Iron and Steel_enuse,hydrogen,share-weight,final-calibration-year,2050,,linear
+Iron and Steel_enuse,refined liquids,share-weight,final-calibration-year,end-year,,fixed
+Non-Ferrous Metals_enuse,biomass,share-weight,final-calibration-year,end-year,,fixed
+Non-Ferrous Metals_enuse,coal,share-weight,final-calibration-year,end-year,,fixed
+Non-Ferrous Metals_enuse,electricity,share-weight,final-calibration-year,end-year,,fixed
+Non-Ferrous Metals_enuse,gas,share-weight,final-calibration-year,end-year,,fixed
+Non-Ferrous Metals_enuse,hydrogen,share-weight,final-calibration-year,2050,,linear
+Non-Ferrous Metals_enuse,refined liquids,share-weight,final-calibration-year,end-year,,fixed
+Other Industries_enuse,biomass,share-weight,final-calibration-year,end-year,,fixed
+Other Industries_enuse,coal,share-weight,final-calibration-year,end-year,,fixed
+Other Industries_enuse,electricity,share-weight,final-calibration-year,end-year,,fixed
+Other Industries_enuse,gas,share-weight,final-calibration-year,end-year,,fixed
+Other Industries_enuse,hydrogen,share-weight,final-calibration-year,2050,,linear
+Other Industries_enuse,refined liquids,share-weight,final-calibration-year,end-year,,fixed
+Paper and Pulp_enuse,biomass,share-weight,final-calibration-year,end-year,,fixed
+Paper and Pulp_enuse,coal,share-weight,final-calibration-year,end-year,,fixed
+Paper and Pulp_enuse,electricity,share-weight,final-calibration-year,end-year,,fixed
+Paper and Pulp_enuse,gas,share-weight,final-calibration-year,end-year,,fixed
+Paper and Pulp_enuse,hydrogen,share-weight,final-calibration-year,2050,,linear
+Paper and Pulp_enuse,refined liquids,share-weight,final-calibration-year,end-year,,fixed
+Cement_fsuse,coal,share-weight,final-calibration-year,end-year,,fixed
+Cement_fsuse,gas,share-weight,final-calibration-year,end-year,,fixed
+Cement_fsuse,refined liquids,share-weight,final-calibration-year,end-year,,fixed
+Chem_Fert_fsuse,coal,share-weight,final-calibration-year,end-year,,fixed
+Chem_Fert_fsuse,gas,share-weight,final-calibration-year,end-year,,fixed
+Chem_Fert_fsuse,refined liquids,share-weight,2015,end-year,,fixed
+Other Industries_fsuse,coal,share-weight,final-calibration-year,end-year,,fixed
+Other Industries_fsuse,gas,share-weight,final-calibration-year,end-year,,fixed
+Other Industries_fsuse,refined liquids,share-weight,final-calibration-year,end-year,,fixed

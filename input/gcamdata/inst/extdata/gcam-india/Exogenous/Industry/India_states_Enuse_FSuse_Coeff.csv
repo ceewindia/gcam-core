@@ -1,0 +1,11 @@
+INPUT_TABLE,,,,,,,
+Variable ID,,,,,,,
+StubTechCoef,,,,,,,
+,,,,,,,
+region,supplysector,subsector,stub.technology,year,minicam.energy.input,coefficient,market.name
+KA,Cement,Cement,Cement,2015,Cement_enuse,1,KA
+KA,Cement,Cement,Cement,2015,Cement_fsuse,0,KA
+MH,Cement,Cement,Cement,2015,Cement_enuse,0.98,MH
+MH,Cement,Cement,Cement,2015,Cement_fsuse,0.02,MH
+MP,Cement,Cement,Cement,2015,Cement_enuse,0.97,MP
+MP,Cement,Cement,Cement,2015,Cement_fsuse,0.03,MP

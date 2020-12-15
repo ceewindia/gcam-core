@@ -1,0 +1,227 @@
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+IndiaIndTechInterp_new,,,,,,,,
+,,,,,,,,
+region,supplysector,subsector,apply.to,from.year,to.year,from.value,to-value,interpolation.function
+AN,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AP,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AR,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AS,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+BR,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+CG,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+CH,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DD,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DL,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DN,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+GA,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+GJ,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+HP,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+HR,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+JH,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+JK,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+KA,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+KL,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+LA,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+LD,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MH,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+ML,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MN,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MP,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MZ,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+NL,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+OD,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+PB,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+PC,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+RJ,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+SK,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TN,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TR,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TS,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+UK,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+UP,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+WB,Cement_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AN,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AP,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AR,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AS,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+BR,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+CG,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+CH,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DD,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DL,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DN,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+GA,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+GJ,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+HP,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+HR,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+JH,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+JK,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+KA,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+KL,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+LA,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+LD,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MH,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+ML,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MN,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MP,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MZ,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+NL,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+OD,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+PB,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+PC,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+RJ,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+SK,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TN,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TR,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TS,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+UK,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+UP,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+WB,Iron and Steel_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AN,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AP,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AR,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AS,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+BR,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+CG,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+CH,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DD,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DL,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DN,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+GA,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+GJ,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+HP,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+HR,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+JH,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+JK,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+KA,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+KL,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+LA,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+LD,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MH,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+ML,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MN,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MP,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MZ,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+NL,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+OD,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+PB,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+PC,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+RJ,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+SK,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TN,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TR,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TS,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+UK,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+UP,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+WB,Paper and Pulp_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AS,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+BR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+CG,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+CH,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DD,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DL,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+GA,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+GJ,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+HP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+HR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+JH,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+JK,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+KA,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+KL,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+LA,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+LD,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MH,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+ML,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MZ,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+NL,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+OD,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+PB,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+PC,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+RJ,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+SK,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TN,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TR,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TS,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+UK,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+UP,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+WB,Non-Ferrous Metals_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AN,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AP,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AR,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AS,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+BR,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+CG,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+CH,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DD,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DL,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DN,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+GA,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+GJ,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+HP,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+HR,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+JH,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+JK,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+KA,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+KL,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+LA,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+LD,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MH,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+ML,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MN,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MP,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MZ,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+NL,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+OD,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+PB,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+PC,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+RJ,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+SK,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TN,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TR,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TS,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+UK,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+UP,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+WB,Other Industries_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AN,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AP,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AR,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+AS,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+BR,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+CG,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+CH,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DD,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DL,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+DN,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+GA,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+GJ,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+HP,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+HR,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+JH,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+JK,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+KA,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+KL,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+LA,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+LD,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MH,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+ML,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MN,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MP,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+MZ,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+NL,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+OD,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+PB,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+PC,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+RJ,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+SK,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TN,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TR,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+TS,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+UK,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+UP,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed
+WB,Chem_Fert_enuse,hydrogen,share-weight,2010,2100,0,0,fixed

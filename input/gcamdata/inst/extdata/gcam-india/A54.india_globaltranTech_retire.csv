@@ -1,0 +1,25 @@
+# File: A54.india_globaltranTech_retire.csv
+# Title: Transportation technology retirement parameters. Only applies to vintaged technologies
+# Units: Years for lifetime and half.life; Unitless for steepness
+# Comments: maximum lifetime of cohort. If no retirement function is used; the entire cohort is retired in this number of years.
+# half.life: number of years at which 50% of the cohort is retired; using the s-curve-shutdown-decider retirement function.
+# steepness: shape parameter used by the s-curve-shutdown-decider retirement function.
+# Column types: cccciin
+# ----------
+supplysector,tranSubsector,tranTechnology,year,lifetime,half.life,steepness
+trn_freight_road,Truck,Liquids,final-calibration-year,40,25,0.124
+trn_freight_road,Truck,NG,final-calibration-year,40,25,0.124
+trn_freight_road,Truck,Electric,final-calibration-year,40,25,0.124
+trn_freight_road,Truck,FCEV,final-calibration-year,40,25,0.124
+trn_pass_road_LDV_4W,LDV_4W,Electric,final-calibration-year,25,11,0.218
+trn_pass_road_LDV_4W,LDV_4W,FCEV,final-calibration-year,25,11,0.218
+trn_pass_road_LDV_4W,LDV_4W,NG,final-calibration-year,25,11,0.218
+trn_pass_road_LDV_4W,LDV_4W,Liquids,final-calibration-year,25,11,0.218
+trn_freight_road,Truck,Liquids,initial-future-year,40,20,0.122
+trn_freight_road,Truck,NG,initial-future-year,40,20,0.122
+trn_freight_road,Truck,Electric,initial-future-year,40,20,0.122
+trn_freight_road,Truck,FCEV,initial-future-year,40,20,0.122
+trn_pass_road_LDV_4W,LDV_4W,Electric,initial-future-year,25,12,0.193
+trn_pass_road_LDV_4W,LDV_4W,FCEV,initial-future-year,25,12,0.193
+trn_pass_road_LDV_4W,LDV_4W,NG,initial-future-year,25,12,0.193
+trn_pass_road_LDV_4W,LDV_4W,Liquids,initial-future-year,25,12,0.193

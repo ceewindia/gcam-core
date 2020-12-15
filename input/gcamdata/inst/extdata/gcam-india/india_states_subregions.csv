@@ -1,0 +1,46 @@
+# File: india_states_subregions.csv
+# Title: State codes-names-groupings mappings
+# Units: NA
+# Description: Mapping between state codes. Also GCAM-India related codings ae included
+# grid_region: electricity grid region (n=5); AN and LD are mapped to Southern region
+#grid_name: name of the grids
+# Column types: ccci
+# ----------
+state,state_name,grid_region,grid_name
+AN,Andaman and Nicobar Island,Southern,5
+AP,Andhra Pradesh,Southern,5
+AR,Arunachal Pradesh,North-Eastern,4
+AS,Assam,North-Eastern,4
+BR,Bihar,Eastern,3
+CG,Chhattisgarh,Western,2
+CH,Chandigarh,Northern,1
+DD,Daman and Diu,Western,2
+DL,Delhi,Northern,1
+DN,Dadra and Nagar Haveli,Western,2
+GA,Goa,Western,2
+GJ,Gujarat,Western,2
+HP,Himachal Pradesh,Northern,1
+HR,Haryana,Northern,1
+JH,Jharkhand,Eastern,3
+JK,Jammu and Kashmir,Northern,1
+KA,Karnataka,Southern,5
+KL,Kerala,Southern,5
+LA,Ladakh,Northern,1
+LD,Lakshadweep,Southern,5
+MH,Maharashtra,Western,2
+ML,Meghalaya,North-Eastern,4
+MN,Manipur,North-Eastern,4
+MP,Madhya Pradesh,Western,2
+MZ,Mizoram,North-Eastern,4
+NL,Nagaland,North-Eastern,4
+OD,Odisha,Eastern,3
+PB,Punjab,Northern,1
+PC,Puducherry,Southern,5
+RJ,Rajasthan,Northern,1
+SK,Sikkim,Eastern,3
+TN,Tamil Nadu,Southern,5
+TR,Tripura,North-Eastern,4
+TS,Telangana,Southern,5
+UK,Uttarakhand,Northern,1
+UP,Uttar Pradesh,Northern,1
+WB,West Bengal,Eastern,3

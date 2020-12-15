@@ -1,0 +1,10 @@
+# File: A23.india_state_elect_td_res_com_SubsectorShrwtFllt.csv
+# Title: Elect_td_sectors
+# Units: Unitless
+# Column types: ccccn
+# ----------
+region,supplysector,subsector,year.fillout,share.weight
+India,elect_td_res,rooftop_pv,1975,0
+India,elect_td_com,rooftop_pv,1975,0
+India,elect_td_res,rooftop_pv,2100,1
+India,elect_td_com,rooftop_pv,2100,1

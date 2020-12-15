@@ -1,0 +1,31 @@
+# File: A54.india_GlobalTech_Cost.csv
+# Title: Non-energy sub technology transport cost
+# Units: NA
+# Column types: cccccii
+# ----------
+region,supplysector,tranSubsector,stub.technology,minicam.non.energy.input,1971,2100
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,non-energy,100,100
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,non-energy,100,100
+India,trn_freight,Freight Rail,Coal,non-energy,100,100
+India,trn_freight,Freight Rail,Electric,non-energy,100,100
+India,trn_pass,HSR,Electric,non-energy,100,100
+India,trn_pass,Passenger Rail,Electric,non-energy,100,100
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,non-energy,100,100
+India,trn_freight,Freight Rail,Liquids,non-energy,100,100
+India,trn_freight,Domestic Ship,Liquids,non-energy,100,100
+India,trn_shipping_intl,International Ship,Liquids,non-energy,100,100
+India,trn_freight_road,Trucks,Liquids,non-energy,100,100
+India,trn_pass,Domestic Aviation,Liquids,non-energy,100,100
+India,trn_aviation_intl,International Aviation,Liquids,non-energy,100,100
+India,trn_pass_road,Bus,Liquids,non-energy,100,100
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,non-energy,100,100
+India,trn_pass_road_LDV,LDV_3W,Liquids,non-energy,100,100
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,non-energy,100,100
+India,trn_pass,Passenger Rail,Liquids,non-energy,100,100
+India,trn_freight_road,Trucks,NG,non-energy,100,100
+India,trn_pass_road,Bus,NG,non-energy,100,100
+India,trn_pass_road_LDV,LDV_3W,NG,non-energy,100,100
+India,trn_pass_road_LDV_4W,LDV_4W,NG,non-energy,100,100
+India,trn_freight_road,Trucks,Electric,non-energy,100,100
+India,trn_pass_road,Bus,Electric,non-energy,100,100
+India,trn_pass_road_LDV,LDV_3W,Electric,non-energy,100,100

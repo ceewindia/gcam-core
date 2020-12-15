@@ -1,0 +1,7 @@
+# File: A23.india_state_tech_shrwt_agg_elect_td_trn.csv
+# Title: elect_td default shareweights
+# Units: Unitless
+# Column types: ccciii
+# ----------
+supplysector,subsector,technology,1971,2010,2100
+elect_td_trn,elect_td_trn,elect_td_trn,1,1,1

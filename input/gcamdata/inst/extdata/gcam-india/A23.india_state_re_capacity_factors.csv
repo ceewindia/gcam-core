@@ -1,0 +1,47 @@
+# File: A23.india_state_re_capacity_factors.csv
+# Title: Capacity factors by state by renewable technology
+# Units: Unitless
+# Comments: The data as been collected from various sources. For utility scale solar PV  Performance of solar power plants report by Central Electricty Regulartory Commision has been refered to
+# The CUF for all the north-eastern states has been assumed same due to lack of data points. Literature states that the diff. between CUF of rooftop and utility scale solar is approx. 2% for the generation of a particualr capacity and thus  applied to each state
+# The data from CEEW's report on Wind Energy available at https://www.ceew.in/sites/default/files/CEEW-A-Second-Wind-for-India-Wind-Energy-Sector-17July19.pdf
+# There is only a few CSP plants in the state of UP,  RJ,  AP and GJ. The factors are calcualted from the information provided for capacity and generation at NREL website
+# Column types: cnnn
+# ----------
+state,utility_scale_PV,rooftop_PV,CSP
+AP,0.172,0.152,0.251
+AR,0.151,0.131,0.251
+AS,0.151,0.131,0.251
+BR,0.172,0.152,0.251
+CG,0.169,0.149,0.251
+DL,0.184,0.164,0.251
+GA,0.188,0.168,0.251
+GJ,0.193,0.173,0.251
+HR,0.195,0.175,0.251
+HP,0.19,0.17,0.251
+JK,0.174,0.154,0.251
+JH,0.169,0.149,0.251
+KA,0.18,0.16,0.251
+KL,0.181,0.161,0.251
+MP,0.187,0.167,0.251
+MH,0.179,0.159,0.251
+MN,0.151,0.131,0.251
+ML,0.172,0.152,0.251
+MZ,0.151,0.131,0.251
+NL,0.151,0.131,0.251
+OD,0.169,0.149,0.251
+PB,0.195,0.175,0.251
+RJ,0.188,0.168,0.251
+SK,0.151,0.131,0.251
+TN,0.173,0.153,0.251
+TS,0.195,0.175,0.251
+TR,0.151,0.131,0.251
+UP,0.188,0.168,0.251
+UK,0.21,0.19,0.251
+WB,0.177,0.157,0.251
+AN,0.175,0.155,0.251
+CH,0.175,0.155,0.251
+DD,0.175,0.155,0.251
+DN,0.175,0.155,0.251
+LA,0.175,0.155,0.251
+LD,0.175,0.155,0.251
+PC,0.175,0.155,0.251

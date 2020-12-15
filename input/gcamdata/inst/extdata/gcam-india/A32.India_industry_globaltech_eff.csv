@@ -1,0 +1,86 @@
+# File: A32.India_industry_globaltech_eff.csv
+# Title: Industry default efficiencies
+# Units: Unitless
+# Column types: cccccnnnnnnnnn
+# ----------
+supplysector,subsector,technology,minicam.energy.input,secondary.output,1971,2005,2020,2035,2050,2065,2080,2095,2100
+Agriculture_enuse,electricity,electricity,elect_td_ind,,0.934196861,1,1.015,1.03,1.046,1.062,1.078,1.094,1.094
+Agriculture_enuse,refined liquids,refined liquids,refined liquids industrial,,0.917381318,0.982,1.001,1.018,1.033,1.047,1.062,1.077,1.077
+Agriculture_enuse,refined liquids,refined liquids cogen,refined liquids industrial,electricity,0.565189101,0.605,0.614,0.623,0.632,0.642,0.652,0.662,0.662
+Cement_enuse,biomass,biomass,delivered biomass,,0.746423292,0.799,0.797,0.804,0.81,0.816,0.823,0.828,0.828
+Cement_enuse,biomass,biomass cogen,delivered biomass,electricity,0.515676667,0.552,0.56,0.568,0.577,0.586,0.595,0.604,0.604
+Cement_enuse,coal,coal,delivered coal,,0.808080285,0.865,0.891,0.901,0.909,0.917,0.926,0.936,0.936
+Cement_enuse,coal,coal cogen,delivered coal,electricity,0.582004645,0.623,0.629,0.636,0.644,0.652,0.661,0.67,0.67
+Cement_enuse,electricity,electricity,elect_td_ind,,0.934196861,1,1.015,1.03,1.046,1.062,1.078,1.094,1.094
+Cement_enuse,gas,gas,wholesale gas,,0.825830025,0.884,0.898,0.913,0.926,0.941,0.955,0.969,0.969
+Cement_enuse,gas,gas cogen,wholesale gas,electricity,0.563320707,0.603,0.612,0.621,0.63,0.64,0.649,0.659,0.659
+Cement_enuse,hydrogen,hydrogen,H2 enduse,,1,1,1,1.015,1.03,1.046,1.062,1.078,1.078
+Cement_enuse,hydrogen,hydrogen cogen,H2 enduse,electricity,0.457,0.457,0.457,0.464,0.471,0.478,0.485,0.492,0.492
+Cement_enuse,refined liquids,refined liquids,refined liquids industrial,,0.917381318,0.982,1.001,1.018,1.033,1.047,1.062,1.077,1.077
+Cement_enuse,refined liquids,refined liquids cogen,refined liquids industrial,electricity,0.565189101,0.605,0.614,0.623,0.632,0.642,0.652,0.662,0.662
+Chem_Fert_enuse,biomass,biomass,delivered biomass,,0.746423292,0.799,0.797,0.804,0.81,0.816,0.823,0.828,0.828
+Chem_Fert_enuse,biomass,biomass cogen,delivered biomass,electricity,0.515676667,0.552,0.56,0.568,0.577,0.586,0.595,0.604,0.604
+Chem_Fert_enuse,coal,coal,delivered coal,,0.808080285,0.865,0.891,0.901,0.909,0.917,0.926,0.936,0.936
+Chem_Fert_enuse,coal,coal cogen,delivered coal,electricity,0.582004645,0.623,0.629,0.636,0.644,0.652,0.661,0.67,0.67
+Chem_Fert_enuse,electricity,electricity,elect_td_ind,,0.934196861,1,1.015,1.03,1.046,1.062,1.078,1.094,1.094
+Chem_Fert_enuse,gas,gas,wholesale gas,,0.825830025,0.884,0.898,0.913,0.926,0.941,0.955,0.969,0.969
+Chem_Fert_enuse,gas,gas cogen,wholesale gas,electricity,0.563320707,0.603,0.612,0.621,0.63,0.64,0.649,0.659,0.659
+Chem_Fert_enuse,hydrogen,hydrogen,H2 enduse,,1,1,1,1.015,1.03,1.046,1.062,1.078,1.078
+Chem_Fert_enuse,hydrogen,hydrogen cogen,H2 enduse,electricity,0.457,0.457,0.457,0.464,0.471,0.478,0.485,0.492,0.492
+Chem_Fert_enuse,refined liquids,refined liquids,refined liquids industrial,,0.917381318,0.982,1.001,1.018,1.033,1.047,1.062,1.077,1.077
+Chem_Fert_enuse,refined liquids,refined liquids cogen,refined liquids industrial,electricity,0.565189101,0.605,0.614,0.623,0.632,0.642,0.652,0.662,0.662
+Fisheries_enuse,refined liquids,refined liquids,refined liquids industrial,,0.917381318,0.982,1.001,1.018,1.033,1.047,1.062,1.077,1.077
+Fisheries_enuse,refined liquids,refined liquids cogen,refined liquids industrial,electricity,0.565189101,0.605,0.614,0.623,0.632,0.642,0.652,0.662,0.662
+Iron and Steel_enuse,biomass,biomass,delivered biomass,,0.746423292,0.799,0.797,0.804,0.81,0.816,0.823,0.828,0.828
+Iron and Steel_enuse,biomass,biomass cogen,delivered biomass,electricity,0.515676667,0.552,0.56,0.568,0.577,0.586,0.595,0.604,0.604
+Iron and Steel_enuse,coal,coal,delivered coal,,0.808080285,0.865,0.891,0.901,0.909,0.917,0.926,0.936,0.936
+Iron and Steel_enuse,coal,coal cogen,delivered coal,electricity,0.582004645,0.623,0.629,0.636,0.644,0.652,0.661,0.67,0.67
+Iron and Steel_enuse,electricity,electricity,elect_td_ind,,0.934196861,1,1.015,1.03,1.046,1.062,1.078,1.094,1.094
+Iron and Steel_enuse,gas,gas,wholesale gas,,0.825830025,0.884,0.898,0.913,0.926,0.941,0.955,0.969,0.969
+Iron and Steel_enuse,gas,gas cogen,wholesale gas,electricity,0.563320707,0.603,0.612,0.621,0.63,0.64,0.649,0.659,0.659
+Iron and Steel_enuse,hydrogen,hydrogen,H2 enduse,,1,1,1,1.015,1.03,1.046,1.062,1.078,1.078
+Iron and Steel_enuse,hydrogen,hydrogen cogen,H2 enduse,electricity,0.457,0.457,0.457,0.464,0.471,0.478,0.485,0.492,0.492
+Iron and Steel_enuse,refined liquids,refined liquids,refined liquids industrial,,0.917381318,0.982,1.001,1.018,1.033,1.047,1.062,1.077,1.077
+Iron and Steel_enuse,refined liquids,refined liquids cogen,refined liquids industrial,electricity,0.565189101,0.605,0.614,0.623,0.632,0.642,0.652,0.662,0.662
+Non-Ferrous Metals_enuse,biomass,biomass,delivered biomass,,0.746423292,0.799,0.797,0.804,0.81,0.816,0.823,0.828,0.828
+Non-Ferrous Metals_enuse,biomass,biomass cogen,delivered biomass,electricity,0.515676667,0.552,0.56,0.568,0.577,0.586,0.595,0.604,0.604
+Non-Ferrous Metals_enuse,coal,coal,delivered coal,,0.808080285,0.865,0.891,0.901,0.909,0.917,0.926,0.936,0.936
+Non-Ferrous Metals_enuse,coal,coal cogen,delivered coal,electricity,0.582004645,0.623,0.629,0.636,0.644,0.652,0.661,0.67,0.67
+Non-Ferrous Metals_enuse,electricity,electricity,elect_td_ind,,0.934196861,1,1.015,1.03,1.046,1.062,1.078,1.094,1.094
+Non-Ferrous Metals_enuse,gas,gas,wholesale gas,,0.825830025,0.884,0.898,0.913,0.926,0.941,0.955,0.969,0.969
+Non-Ferrous Metals_enuse,gas,gas cogen,wholesale gas,electricity,0.563320707,0.603,0.612,0.621,0.63,0.64,0.649,0.659,0.659
+Non-Ferrous Metals_enuse,hydrogen,hydrogen,H2 enduse,,1,1,1,1.015,1.03,1.046,1.062,1.078,1.078
+Non-Ferrous Metals_enuse,hydrogen,hydrogen cogen,H2 enduse,electricity,0.457,0.457,0.457,0.464,0.471,0.478,0.485,0.492,0.492
+Non-Ferrous Metals_enuse,refined liquids,refined liquids,refined liquids industrial,,0.917381318,0.982,1.001,1.018,1.033,1.047,1.062,1.077,1.077
+Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,refined liquids industrial,electricity,0.565189101,0.605,0.614,0.623,0.632,0.642,0.652,0.662,0.662
+Other Industries_enuse,biomass,biomass,delivered biomass,,0.746423292,0.799,0.797,0.804,0.81,0.816,0.823,0.828,0.828
+Other Industries_enuse,biomass,biomass cogen,delivered biomass,electricity,0.515676667,0.552,0.56,0.568,0.577,0.586,0.595,0.604,0.604
+Other Industries_enuse,coal,coal,delivered coal,,0.808080285,0.865,0.891,0.901,0.909,0.917,0.926,0.936,0.936
+Other Industries_enuse,coal,coal cogen,delivered coal,electricity,0.582004645,0.623,0.629,0.636,0.644,0.652,0.661,0.67,0.67
+Other Industries_enuse,electricity,electricity,elect_td_ind,,0.934196861,1,1.015,1.03,1.046,1.062,1.078,1.094,1.094
+Other Industries_enuse,gas,gas,wholesale gas,,0.825830025,0.884,0.898,0.913,0.926,0.941,0.955,0.969,0.969
+Other Industries_enuse,gas,gas cogen,wholesale gas,electricity,0.563320707,0.603,0.612,0.621,0.63,0.64,0.649,0.659,0.659
+Other Industries_enuse,hydrogen,hydrogen,H2 enduse,,1,1,1,1.015,1.03,1.046,1.062,1.078,1.078
+Other Industries_enuse,hydrogen,hydrogen cogen,H2 enduse,electricity,0.457,0.457,0.457,0.464,0.471,0.478,0.485,0.492,0.492
+Other Industries_enuse,refined liquids,refined liquids,refined liquids industrial,,0.917381318,0.982,1.001,1.018,1.033,1.047,1.062,1.077,1.077
+Other Industries_enuse,refined liquids,refined liquids cogen,refined liquids industrial,electricity,0.565189101,0.605,0.614,0.623,0.632,0.642,0.652,0.662,0.662
+Paper and Pulp_enuse,biomass,biomass,delivered biomass,,0.746423292,0.799,0.797,0.804,0.81,0.816,0.823,0.828,0.828
+Paper and Pulp_enuse,biomass,biomass cogen,delivered biomass,electricity,0.515676667,0.552,0.56,0.568,0.577,0.586,0.595,0.604,0.604
+Paper and Pulp_enuse,coal,coal,delivered coal,,0.808080285,0.865,0.891,0.901,0.909,0.917,0.926,0.936,0.936
+Paper and Pulp_enuse,coal,coal cogen,delivered coal,electricity,0.582004645,0.623,0.629,0.636,0.644,0.652,0.661,0.67,0.67
+Paper and Pulp_enuse,electricity,electricity,elect_td_ind,,0.934196861,1,1.015,1.03,1.046,1.062,1.078,1.094,1.094
+Paper and Pulp_enuse,gas,gas,wholesale gas,,0.825830025,0.884,0.898,0.913,0.926,0.941,0.955,0.969,0.969
+Paper and Pulp_enuse,gas,gas cogen,wholesale gas,electricity,0.563320707,0.603,0.612,0.621,0.63,0.64,0.649,0.659,0.659
+Paper and Pulp_enuse,hydrogen,hydrogen,H2 enduse,,1,1,1,1.015,1.03,1.046,1.062,1.078,1.078
+Paper and Pulp_enuse,hydrogen,hydrogen cogen,H2 enduse,electricity,0.457,0.457,0.457,0.464,0.471,0.478,0.485,0.492,0.492
+Paper and Pulp_enuse,refined liquids,refined liquids,refined liquids industrial,,0.917381318,0.982,1.001,1.018,1.033,1.047,1.062,1.077,1.077
+Paper and Pulp_enuse,refined liquids,refined liquids cogen,refined liquids industrial,electricity,0.565189101,0.605,0.614,0.623,0.632,0.642,0.652,0.662,0.662
+Cement_fsuse,coal,coal,delivered coal,,1,1,1,1,1,1,1,1,1
+Cement_fsuse,gas,gas,wholesale gas,,1,1,1,1,1,1,1,1,1
+Cement_fsuse,refined liquids,refined liquids,refined liquids industrial,,1,1,1,1,1,1,1,1,1
+Chem_Fert_fsuse,coal,coal,delivered coal,,1,1,1,1,1,1,1,1,1
+Chem_Fert_fsuse,gas,gas,wholesale gas,,1,1,1,1,1,1,1,1,1
+Chem_Fert_fsuse,refined liquids,refined liquids,refined liquids industrial,,1,1,1,1,1,1,1,1,1
+Other Industries_fsuse,coal,coal,delivered coal,,1,1,1,1,1,1,1,1,1
+Other Industries_fsuse,gas,gas,wholesale gas,,1,1,1,1,1,1,1,1,1
+Other Industries_fsuse,refined liquids,refined liquids,refined liquids industrial,,1,1,1,1,1,1,1,1,1

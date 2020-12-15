@@ -1,0 +1,45 @@
+# File: A23.india_elect_td_ownuse_prices.csv
+# Title: India State Electricity Profiles
+# Description: Selected Electric Industry Summary Statistics by State
+# Source: Multiple sources
+# Units: In column names
+# Column types: cccnnnnnnnnnn
+# ----------
+State_name,State,Primary Fuel Source,NetCapacity_MW,NetGeneration_MWh,SO2_kt,NOx_kt,CO2_kt,RetailSales_MWh,FullServiceSales_MWh,Other_MWh,DirectUse_MWh,Price_c.kWh
+Andaman and Nicobar Island,AN,Coal,0,505837.38,0,0,0,0,0,0,480545.511,3.55
+Andhra Pradesh,AP,Coal,8.64,79296745.48,376.265636,227.879188,49285.4988,0,0,0,75331908.21,3.55
+Arunachal Pradesh,AR,Coal,0,647255.178,0,0,0,0,0,0,614892.4191,3.55
+Assam,AS,Coal,0.46,4494841.514,20.051891,12.144103,2626.5153,0,0,0,4270099.438,3.55
+Bihar,BR,Gas,0,17856365.07,0,0,0,0,0,0,16963546.82,7.11
+Chhattisgarh,CG,Gas,0,66471420.66,0,0,0,0,0,0,63147849.62,7.11
+Chandigarh,CH,Coal,0,7.78E+03,0,0,0,0,0,0,7.39E+03,3.55
+Daman and Diu,DD,Coal,0,3.47E+03,0,0,0,0,0,0,3.30E+03,3.55
+Delhi,DL,Gas,2.62,6212383.032,13.57451367,8.221184333,1778.0701,0,0,0,5901763.88,7.11
+Dadra and Nagar Haveli,DN,Coal,0,1.61E+04,0,0,0,0,0,0,1.53E+04,3.55
+Goa,GA,Gas,0,9.00E+04,0,0,0,0,0,0,8.55E+04,7.11
+Gujarat,GJ,Gas,5.84,91672316.71,30.28559433,18.34197967,3966.9863,0,0,0,87088700.87,7.11
+Himachal Pradesh,HP,Hydroelectric,12.26,14060001.37,0,0,0,0,0,0,13357001.3,2.96
+Haryana,HR,Hydroelectric,0,22470013.09,0,0,0,0,0,0,21346512.44,2.96
+Jharkhand,JH,Hydroelectric,0.1,17680808.11,0,0,0,0,0,0,16796767.71,2.96
+Jammu & Kashmir,JK,Hydroelectric,5.72,6634080.85,0,0,0,0,0,0,6302376.808,2.96
+Karnataka,KA,Hydroelectric,4.22,37439049.51,0,0,0,0,0,0,35567097.03,2.96
+Kerala,KL,Nuclear,0,11740732.81,0,0,0,0,0,0,11153696.17,5.92
+Ladakh,LA,Coal,0,2.46E+05,0,0,0,0,0,0,2.34E+05,3.55
+Lakshadweep,LD,Coal,0,1.17E+05,0,0,0,0,0,0,1.11E+05,3.55
+Maharashtra,MH,Nuclear,1.76,127530409.1,0,0,0,0,0,0,121153888.7,5.92
+Meghalaya,ML,Nuclear,0,3247220.422,0,0,0,0,0,0,3084859.401,5.92
+Manipur,MN,Nuclear,0,645727.388,0,0,0,0,0,0,613441.0186,5.92
+Madhya Pradesh,MP,Nuclear,0,62413415.97,0,0,0,0,0,0,59292745.17,5.92
+Mizoram,MZ,Nuclear,0,3.67E+03,0,0,0,0,0,0,3.48E+03,5.92
+Nagaland,NL,Nuclear,0,2.47E+03,0,0,0,0,0,0,2.35E+03,5.92
+Odisha,OD,Nuclear,0,48119384.95,0,0,0,0,0,0,45713415.7,5.92
+Punjab,PB,Coal,4.3,24378111.69,187.186246,113.366318,24518.7618,0,0,0,23159206.11,3.55
+Puducherry,PC,Coal,0,689616.628,0,0,0,0,0,0,655135.7966,3.55
+Rajasthan,RJ,Coal,7.61,34526220.65,331.399032,200.706456,43408.6056,0,0,0,32799909.62,3.55
+Sikkim,SK,Coal,0,17401722.55,0,0,0,0,0,0,16531636.42,3.55
+Tamil Nadu,TN,Coal,11.08,71597683.89,482.511243,292.225119,63202.1769,0,0,0,68017799.69,3.55
+Tripura,TR,Coal,0,2.00E+03,0,0,0,0,0,0,1.90E+03,3.55
+Telangana,TS,Coal,7.86,5129707.704,342.350782,207.339206,44843.1306,0,0,0,4873222.319,3.55
+Uttarakhand,UK,Coal,0,10287054.52,0,0,0,0,0,0,9772701.792,3.55
+Uttar Pradesh,UP,Coal,18.95,107422859.4,825.216528,499.779024,108091.7424,0,0,0,102051716.4,3.55
+West Bengal,WB,Coal,12.07,68863439.79,525.628975,318.338675,68849.9925,0,0,0,65420267.8,3.55

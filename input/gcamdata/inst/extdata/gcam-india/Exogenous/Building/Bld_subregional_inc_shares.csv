@@ -1,0 +1,2447 @@
+INPUT_TABLE,,,
+Variable ID,,,
+SubregionalIncShares,,,
+,,,
+region,gcam.consumer,inc.year.fillout,subregional.income.share
+AN,comm,1975,1
+AP,comm,1975,1
+AR,comm,1975,1
+AS,comm,1975,1
+BR,comm,1975,1
+CG,comm,1975,1
+CH,comm,1975,1
+DD,comm,1975,1
+DL,comm,1975,1
+DN,comm,1975,1
+GA,comm,1975,1
+GJ,comm,1975,1
+HP,comm,1975,1
+HR,comm,1975,1
+JH,comm,1975,1
+JK,comm,1975,1
+KA,comm,1975,1
+KL,comm,1975,1
+LA,comm,1975,1
+LD,comm,1975,1
+MH,comm,1975,1
+ML,comm,1975,1
+MN,comm,1975,1
+MP,comm,1975,1
+MZ,comm,1975,1
+NL,comm,1975,1
+OD,comm,1975,1
+PB,comm,1975,1
+PC,comm,1975,1
+RJ,comm,1975,1
+SK,comm,1975,1
+TN,comm,1975,1
+TR,comm,1975,1
+TS,comm,1975,1
+UK,comm,1975,1
+UP,comm,1975,1
+WB,comm,1975,1
+AN,comm,1990,1
+AP,comm,1990,1
+AR,comm,1990,1
+AS,comm,1990,1
+BR,comm,1990,1
+CG,comm,1990,1
+CH,comm,1990,1
+DD,comm,1990,1
+DL,comm,1990,1
+DN,comm,1990,1
+GA,comm,1990,1
+GJ,comm,1990,1
+HP,comm,1990,1
+HR,comm,1990,1
+JH,comm,1990,1
+JK,comm,1990,1
+KA,comm,1990,1
+KL,comm,1990,1
+LA,comm,1990,1
+LD,comm,1990,1
+MH,comm,1990,1
+ML,comm,1990,1
+MN,comm,1990,1
+MP,comm,1990,1
+MZ,comm,1990,1
+NL,comm,1990,1
+OD,comm,1990,1
+PB,comm,1990,1
+PC,comm,1990,1
+RJ,comm,1990,1
+SK,comm,1990,1
+TN,comm,1990,1
+TR,comm,1990,1
+TS,comm,1990,1
+UK,comm,1990,1
+UP,comm,1990,1
+WB,comm,1990,1
+AN,comm,2005,1
+AP,comm,2005,1
+AR,comm,2005,1
+AS,comm,2005,1
+BR,comm,2005,1
+CG,comm,2005,1
+CH,comm,2005,1
+DD,comm,2005,1
+DL,comm,2005,1
+DN,comm,2005,1
+GA,comm,2005,1
+GJ,comm,2005,1
+HP,comm,2005,1
+HR,comm,2005,1
+JH,comm,2005,1
+JK,comm,2005,1
+KA,comm,2005,1
+KL,comm,2005,1
+LA,comm,2005,1
+LD,comm,2005,1
+MH,comm,2005,1
+ML,comm,2005,1
+MN,comm,2005,1
+MP,comm,2005,1
+MZ,comm,2005,1
+NL,comm,2005,1
+OD,comm,2005,1
+PB,comm,2005,1
+PC,comm,2005,1
+RJ,comm,2005,1
+SK,comm,2005,1
+TN,comm,2005,1
+TR,comm,2005,1
+TS,comm,2005,1
+UK,comm,2005,1
+UP,comm,2005,1
+WB,comm,2005,1
+AN,comm,2010,1
+AP,comm,2010,1
+AR,comm,2010,1
+AS,comm,2010,1
+BR,comm,2010,1
+CG,comm,2010,1
+CH,comm,2010,1
+DD,comm,2010,1
+DL,comm,2010,1
+DN,comm,2010,1
+GA,comm,2010,1
+GJ,comm,2010,1
+HP,comm,2010,1
+HR,comm,2010,1
+JH,comm,2010,1
+JK,comm,2010,1
+KA,comm,2010,1
+KL,comm,2010,1
+LA,comm,2010,1
+LD,comm,2010,1
+MH,comm,2010,1
+ML,comm,2010,1
+MN,comm,2010,1
+MP,comm,2010,1
+MZ,comm,2010,1
+NL,comm,2010,1
+OD,comm,2010,1
+PB,comm,2010,1
+PC,comm,2010,1
+RJ,comm,2010,1
+SK,comm,2010,1
+TN,comm,2010,1
+TR,comm,2010,1
+TS,comm,2010,1
+UK,comm,2010,1
+UP,comm,2010,1
+WB,comm,2010,1
+AN,comm,2015,1
+AP,comm,2015,1
+AR,comm,2015,1
+AS,comm,2015,1
+BR,comm,2015,1
+CG,comm,2015,1
+CH,comm,2015,1
+DD,comm,2015,1
+DL,comm,2015,1
+DN,comm,2015,1
+GA,comm,2015,1
+GJ,comm,2015,1
+HP,comm,2015,1
+HR,comm,2015,1
+JH,comm,2015,1
+JK,comm,2015,1
+KA,comm,2015,1
+KL,comm,2015,1
+LA,comm,2015,1
+LD,comm,2015,1
+MH,comm,2015,1
+ML,comm,2015,1
+MN,comm,2015,1
+MP,comm,2015,1
+MZ,comm,2015,1
+NL,comm,2015,1
+OD,comm,2015,1
+PB,comm,2015,1
+PC,comm,2015,1
+RJ,comm,2015,1
+SK,comm,2015,1
+TN,comm,2015,1
+TR,comm,2015,1
+TS,comm,2015,1
+UK,comm,2015,1
+UP,comm,2015,1
+WB,comm,2015,1
+AN,comm,2020,1
+AP,comm,2020,1
+AR,comm,2020,1
+AS,comm,2020,1
+BR,comm,2020,1
+CG,comm,2020,1
+CH,comm,2020,1
+DD,comm,2020,1
+DL,comm,2020,1
+DN,comm,2020,1
+GA,comm,2020,1
+GJ,comm,2020,1
+HP,comm,2020,1
+HR,comm,2020,1
+JH,comm,2020,1
+JK,comm,2020,1
+KA,comm,2020,1
+KL,comm,2020,1
+LA,comm,2020,1
+LD,comm,2020,1
+MH,comm,2020,1
+ML,comm,2020,1
+MN,comm,2020,1
+MP,comm,2020,1
+MZ,comm,2020,1
+NL,comm,2020,1
+OD,comm,2020,1
+PB,comm,2020,1
+PC,comm,2020,1
+RJ,comm,2020,1
+SK,comm,2020,1
+TN,comm,2020,1
+TR,comm,2020,1
+TS,comm,2020,1
+UK,comm,2020,1
+UP,comm,2020,1
+WB,comm,2020,1
+AN,comm,2025,1
+AP,comm,2025,1
+AR,comm,2025,1
+AS,comm,2025,1
+BR,comm,2025,1
+CG,comm,2025,1
+CH,comm,2025,1
+DD,comm,2025,1
+DL,comm,2025,1
+DN,comm,2025,1
+GA,comm,2025,1
+GJ,comm,2025,1
+HP,comm,2025,1
+HR,comm,2025,1
+JH,comm,2025,1
+JK,comm,2025,1
+KA,comm,2025,1
+KL,comm,2025,1
+LA,comm,2025,1
+LD,comm,2025,1
+MH,comm,2025,1
+ML,comm,2025,1
+MN,comm,2025,1
+MP,comm,2025,1
+MZ,comm,2025,1
+NL,comm,2025,1
+OD,comm,2025,1
+PB,comm,2025,1
+PC,comm,2025,1
+RJ,comm,2025,1
+SK,comm,2025,1
+TN,comm,2025,1
+TR,comm,2025,1
+TS,comm,2025,1
+UK,comm,2025,1
+UP,comm,2025,1
+WB,comm,2025,1
+AN,comm,2030,1
+AP,comm,2030,1
+AR,comm,2030,1
+AS,comm,2030,1
+BR,comm,2030,1
+CG,comm,2030,1
+CH,comm,2030,1
+DD,comm,2030,1
+DL,comm,2030,1
+DN,comm,2030,1
+GA,comm,2030,1
+GJ,comm,2030,1
+HP,comm,2030,1
+HR,comm,2030,1
+JH,comm,2030,1
+JK,comm,2030,1
+KA,comm,2030,1
+KL,comm,2030,1
+LA,comm,2030,1
+LD,comm,2030,1
+MH,comm,2030,1
+ML,comm,2030,1
+MN,comm,2030,1
+MP,comm,2030,1
+MZ,comm,2030,1
+NL,comm,2030,1
+OD,comm,2030,1
+PB,comm,2030,1
+PC,comm,2030,1
+RJ,comm,2030,1
+SK,comm,2030,1
+TN,comm,2030,1
+TR,comm,2030,1
+TS,comm,2030,1
+UK,comm,2030,1
+UP,comm,2030,1
+WB,comm,2030,1
+AN,comm,2035,1
+AP,comm,2035,1
+AR,comm,2035,1
+AS,comm,2035,1
+BR,comm,2035,1
+CG,comm,2035,1
+CH,comm,2035,1
+DD,comm,2035,1
+DL,comm,2035,1
+DN,comm,2035,1
+GA,comm,2035,1
+GJ,comm,2035,1
+HP,comm,2035,1
+HR,comm,2035,1
+JH,comm,2035,1
+JK,comm,2035,1
+KA,comm,2035,1
+KL,comm,2035,1
+LA,comm,2035,1
+LD,comm,2035,1
+MH,comm,2035,1
+ML,comm,2035,1
+MN,comm,2035,1
+MP,comm,2035,1
+MZ,comm,2035,1
+NL,comm,2035,1
+OD,comm,2035,1
+PB,comm,2035,1
+PC,comm,2035,1
+RJ,comm,2035,1
+SK,comm,2035,1
+TN,comm,2035,1
+TR,comm,2035,1
+TS,comm,2035,1
+UK,comm,2035,1
+UP,comm,2035,1
+WB,comm,2035,1
+AN,comm,2040,1
+AP,comm,2040,1
+AR,comm,2040,1
+AS,comm,2040,1
+BR,comm,2040,1
+CG,comm,2040,1
+CH,comm,2040,1
+DD,comm,2040,1
+DL,comm,2040,1
+DN,comm,2040,1
+GA,comm,2040,1
+GJ,comm,2040,1
+HP,comm,2040,1
+HR,comm,2040,1
+JH,comm,2040,1
+JK,comm,2040,1
+KA,comm,2040,1
+KL,comm,2040,1
+LA,comm,2040,1
+LD,comm,2040,1
+MH,comm,2040,1
+ML,comm,2040,1
+MN,comm,2040,1
+MP,comm,2040,1
+MZ,comm,2040,1
+NL,comm,2040,1
+OD,comm,2040,1
+PB,comm,2040,1
+PC,comm,2040,1
+RJ,comm,2040,1
+SK,comm,2040,1
+TN,comm,2040,1
+TR,comm,2040,1
+TS,comm,2040,1
+UK,comm,2040,1
+UP,comm,2040,1
+WB,comm,2040,1
+AN,comm,2045,1
+AP,comm,2045,1
+AR,comm,2045,1
+AS,comm,2045,1
+BR,comm,2045,1
+CG,comm,2045,1
+CH,comm,2045,1
+DD,comm,2045,1
+DL,comm,2045,1
+DN,comm,2045,1
+GA,comm,2045,1
+GJ,comm,2045,1
+HP,comm,2045,1
+HR,comm,2045,1
+JH,comm,2045,1
+JK,comm,2045,1
+KA,comm,2045,1
+KL,comm,2045,1
+LA,comm,2045,1
+LD,comm,2045,1
+MH,comm,2045,1
+ML,comm,2045,1
+MN,comm,2045,1
+MP,comm,2045,1
+MZ,comm,2045,1
+NL,comm,2045,1
+OD,comm,2045,1
+PB,comm,2045,1
+PC,comm,2045,1
+RJ,comm,2045,1
+SK,comm,2045,1
+TN,comm,2045,1
+TR,comm,2045,1
+TS,comm,2045,1
+UK,comm,2045,1
+UP,comm,2045,1
+WB,comm,2045,1
+AN,comm,2050,1
+AP,comm,2050,1
+AR,comm,2050,1
+AS,comm,2050,1
+BR,comm,2050,1
+CG,comm,2050,1
+CH,comm,2050,1
+DD,comm,2050,1
+DL,comm,2050,1
+DN,comm,2050,1
+GA,comm,2050,1
+GJ,comm,2050,1
+HP,comm,2050,1
+HR,comm,2050,1
+JH,comm,2050,1
+JK,comm,2050,1
+KA,comm,2050,1
+KL,comm,2050,1
+LA,comm,2050,1
+LD,comm,2050,1
+MH,comm,2050,1
+ML,comm,2050,1
+MN,comm,2050,1
+MP,comm,2050,1
+MZ,comm,2050,1
+NL,comm,2050,1
+OD,comm,2050,1
+PB,comm,2050,1
+PC,comm,2050,1
+RJ,comm,2050,1
+SK,comm,2050,1
+TN,comm,2050,1
+TR,comm,2050,1
+TS,comm,2050,1
+UK,comm,2050,1
+UP,comm,2050,1
+WB,comm,2050,1
+AN,comm,2055,1
+AP,comm,2055,1
+AR,comm,2055,1
+AS,comm,2055,1
+BR,comm,2055,1
+CG,comm,2055,1
+CH,comm,2055,1
+DD,comm,2055,1
+DL,comm,2055,1
+DN,comm,2055,1
+GA,comm,2055,1
+GJ,comm,2055,1
+HP,comm,2055,1
+HR,comm,2055,1
+JH,comm,2055,1
+JK,comm,2055,1
+KA,comm,2055,1
+KL,comm,2055,1
+LA,comm,2055,1
+LD,comm,2055,1
+MH,comm,2055,1
+ML,comm,2055,1
+MN,comm,2055,1
+MP,comm,2055,1
+MZ,comm,2055,1
+NL,comm,2055,1
+OD,comm,2055,1
+PB,comm,2055,1
+PC,comm,2055,1
+RJ,comm,2055,1
+SK,comm,2055,1
+TN,comm,2055,1
+TR,comm,2055,1
+TS,comm,2055,1
+UK,comm,2055,1
+UP,comm,2055,1
+WB,comm,2055,1
+AN,comm,2060,1
+AP,comm,2060,1
+AR,comm,2060,1
+AS,comm,2060,1
+BR,comm,2060,1
+CG,comm,2060,1
+CH,comm,2060,1
+DD,comm,2060,1
+DL,comm,2060,1
+DN,comm,2060,1
+GA,comm,2060,1
+GJ,comm,2060,1
+HP,comm,2060,1
+HR,comm,2060,1
+JH,comm,2060,1
+JK,comm,2060,1
+KA,comm,2060,1
+KL,comm,2060,1
+LA,comm,2060,1
+LD,comm,2060,1
+MH,comm,2060,1
+ML,comm,2060,1
+MN,comm,2060,1
+MP,comm,2060,1
+MZ,comm,2060,1
+NL,comm,2060,1
+OD,comm,2060,1
+PB,comm,2060,1
+PC,comm,2060,1
+RJ,comm,2060,1
+SK,comm,2060,1
+TN,comm,2060,1
+TR,comm,2060,1
+TS,comm,2060,1
+UK,comm,2060,1
+UP,comm,2060,1
+WB,comm,2060,1
+AN,comm,2065,1
+AP,comm,2065,1
+AR,comm,2065,1
+AS,comm,2065,1
+BR,comm,2065,1
+CG,comm,2065,1
+CH,comm,2065,1
+DD,comm,2065,1
+DL,comm,2065,1
+DN,comm,2065,1
+GA,comm,2065,1
+GJ,comm,2065,1
+HP,comm,2065,1
+HR,comm,2065,1
+JH,comm,2065,1
+JK,comm,2065,1
+KA,comm,2065,1
+KL,comm,2065,1
+LA,comm,2065,1
+LD,comm,2065,1
+MH,comm,2065,1
+ML,comm,2065,1
+MN,comm,2065,1
+MP,comm,2065,1
+MZ,comm,2065,1
+NL,comm,2065,1
+OD,comm,2065,1
+PB,comm,2065,1
+PC,comm,2065,1
+RJ,comm,2065,1
+SK,comm,2065,1
+TN,comm,2065,1
+TR,comm,2065,1
+TS,comm,2065,1
+UK,comm,2065,1
+UP,comm,2065,1
+WB,comm,2065,1
+AN,comm,2070,1
+AP,comm,2070,1
+AR,comm,2070,1
+AS,comm,2070,1
+BR,comm,2070,1
+CG,comm,2070,1
+CH,comm,2070,1
+DD,comm,2070,1
+DL,comm,2070,1
+DN,comm,2070,1
+GA,comm,2070,1
+GJ,comm,2070,1
+HP,comm,2070,1
+HR,comm,2070,1
+JH,comm,2070,1
+JK,comm,2070,1
+KA,comm,2070,1
+KL,comm,2070,1
+LA,comm,2070,1
+LD,comm,2070,1
+MH,comm,2070,1
+ML,comm,2070,1
+MN,comm,2070,1
+MP,comm,2070,1
+MZ,comm,2070,1
+NL,comm,2070,1
+OD,comm,2070,1
+PB,comm,2070,1
+PC,comm,2070,1
+RJ,comm,2070,1
+SK,comm,2070,1
+TN,comm,2070,1
+TR,comm,2070,1
+TS,comm,2070,1
+UK,comm,2070,1
+UP,comm,2070,1
+WB,comm,2070,1
+AN,comm,2075,1
+AP,comm,2075,1
+AR,comm,2075,1
+AS,comm,2075,1
+BR,comm,2075,1
+CG,comm,2075,1
+CH,comm,2075,1
+DD,comm,2075,1
+DL,comm,2075,1
+DN,comm,2075,1
+GA,comm,2075,1
+GJ,comm,2075,1
+HP,comm,2075,1
+HR,comm,2075,1
+JH,comm,2075,1
+JK,comm,2075,1
+KA,comm,2075,1
+KL,comm,2075,1
+LA,comm,2075,1
+LD,comm,2075,1
+MH,comm,2075,1
+ML,comm,2075,1
+MN,comm,2075,1
+MP,comm,2075,1
+MZ,comm,2075,1
+NL,comm,2075,1
+OD,comm,2075,1
+PB,comm,2075,1
+PC,comm,2075,1
+RJ,comm,2075,1
+SK,comm,2075,1
+TN,comm,2075,1
+TR,comm,2075,1
+TS,comm,2075,1
+UK,comm,2075,1
+UP,comm,2075,1
+WB,comm,2075,1
+AN,comm,2080,1
+AP,comm,2080,1
+AR,comm,2080,1
+AS,comm,2080,1
+BR,comm,2080,1
+CG,comm,2080,1
+CH,comm,2080,1
+DD,comm,2080,1
+DL,comm,2080,1
+DN,comm,2080,1
+GA,comm,2080,1
+GJ,comm,2080,1
+HP,comm,2080,1
+HR,comm,2080,1
+JH,comm,2080,1
+JK,comm,2080,1
+KA,comm,2080,1
+KL,comm,2080,1
+LA,comm,2080,1
+LD,comm,2080,1
+MH,comm,2080,1
+ML,comm,2080,1
+MN,comm,2080,1
+MP,comm,2080,1
+MZ,comm,2080,1
+NL,comm,2080,1
+OD,comm,2080,1
+PB,comm,2080,1
+PC,comm,2080,1
+RJ,comm,2080,1
+SK,comm,2080,1
+TN,comm,2080,1
+TR,comm,2080,1
+TS,comm,2080,1
+UK,comm,2080,1
+UP,comm,2080,1
+WB,comm,2080,1
+AN,comm,2085,1
+AP,comm,2085,1
+AR,comm,2085,1
+AS,comm,2085,1
+BR,comm,2085,1
+CG,comm,2085,1
+CH,comm,2085,1
+DD,comm,2085,1
+DL,comm,2085,1
+DN,comm,2085,1
+GA,comm,2085,1
+GJ,comm,2085,1
+HP,comm,2085,1
+HR,comm,2085,1
+JH,comm,2085,1
+JK,comm,2085,1
+KA,comm,2085,1
+KL,comm,2085,1
+LA,comm,2085,1
+LD,comm,2085,1
+MH,comm,2085,1
+ML,comm,2085,1
+MN,comm,2085,1
+MP,comm,2085,1
+MZ,comm,2085,1
+NL,comm,2085,1
+OD,comm,2085,1
+PB,comm,2085,1
+PC,comm,2085,1
+RJ,comm,2085,1
+SK,comm,2085,1
+TN,comm,2085,1
+TR,comm,2085,1
+TS,comm,2085,1
+UK,comm,2085,1
+UP,comm,2085,1
+WB,comm,2085,1
+AN,comm,2090,1
+AP,comm,2090,1
+AR,comm,2090,1
+AS,comm,2090,1
+BR,comm,2090,1
+CG,comm,2090,1
+CH,comm,2090,1
+DD,comm,2090,1
+DL,comm,2090,1
+DN,comm,2090,1
+GA,comm,2090,1
+GJ,comm,2090,1
+HP,comm,2090,1
+HR,comm,2090,1
+JH,comm,2090,1
+JK,comm,2090,1
+KA,comm,2090,1
+KL,comm,2090,1
+LA,comm,2090,1
+LD,comm,2090,1
+MH,comm,2090,1
+ML,comm,2090,1
+MN,comm,2090,1
+MP,comm,2090,1
+MZ,comm,2090,1
+NL,comm,2090,1
+OD,comm,2090,1
+PB,comm,2090,1
+PC,comm,2090,1
+RJ,comm,2090,1
+SK,comm,2090,1
+TN,comm,2090,1
+TR,comm,2090,1
+TS,comm,2090,1
+UK,comm,2090,1
+UP,comm,2090,1
+WB,comm,2090,1
+AN,comm,2095,1
+AP,comm,2095,1
+AR,comm,2095,1
+AS,comm,2095,1
+BR,comm,2095,1
+CG,comm,2095,1
+CH,comm,2095,1
+DD,comm,2095,1
+DL,comm,2095,1
+DN,comm,2095,1
+GA,comm,2095,1
+GJ,comm,2095,1
+HP,comm,2095,1
+HR,comm,2095,1
+JH,comm,2095,1
+JK,comm,2095,1
+KA,comm,2095,1
+KL,comm,2095,1
+LA,comm,2095,1
+LD,comm,2095,1
+MH,comm,2095,1
+ML,comm,2095,1
+MN,comm,2095,1
+MP,comm,2095,1
+MZ,comm,2095,1
+NL,comm,2095,1
+OD,comm,2095,1
+PB,comm,2095,1
+PC,comm,2095,1
+RJ,comm,2095,1
+SK,comm,2095,1
+TN,comm,2095,1
+TR,comm,2095,1
+TS,comm,2095,1
+UK,comm,2095,1
+UP,comm,2095,1
+WB,comm,2095,1
+AN,comm,2100,1
+AP,comm,2100,1
+AR,comm,2100,1
+AS,comm,2100,1
+BR,comm,2100,1
+CG,comm,2100,1
+CH,comm,2100,1
+DD,comm,2100,1
+DL,comm,2100,1
+DN,comm,2100,1
+GA,comm,2100,1
+GJ,comm,2100,1
+HP,comm,2100,1
+HR,comm,2100,1
+JH,comm,2100,1
+JK,comm,2100,1
+KA,comm,2100,1
+KL,comm,2100,1
+LA,comm,2100,1
+LD,comm,2100,1
+MH,comm,2100,1
+ML,comm,2100,1
+MN,comm,2100,1
+MP,comm,2100,1
+MZ,comm,2100,1
+NL,comm,2100,1
+OD,comm,2100,1
+PB,comm,2100,1
+PC,comm,2100,1
+RJ,comm,2100,1
+SK,comm,2100,1
+TN,comm,2100,1
+TR,comm,2100,1
+TS,comm,2100,1
+UK,comm,2100,1
+UP,comm,2100,1
+WB,comm,2100,1
+AN,resid rural,1975,0.43
+AP,resid rural,1975,0.36
+AR,resid rural,1975,0.31
+AS,resid rural,1975,0.32
+BR,resid rural,1975,0.34
+CG,resid rural,1975,0.24
+CH,resid rural,1975,0.19
+DD,resid rural,1975,0.26
+DL,resid rural,1975,0.43
+DN,resid rural,1975,0.27
+GA,resid rural,1975,0.43
+GJ,resid rural,1975,0.38
+HP,resid rural,1975,0.34
+HR,resid rural,1975,0.33
+JH,resid rural,1975,0.36
+JK,resid rural,1975,0.3
+KA,resid rural,1975,0.52
+KL,resid rural,1975,0.35
+LA,resid rural,1975,0.25
+LD,resid rural,1975,0.27
+MH,resid rural,1975,0.44
+ML,resid rural,1975,0.38
+MN,resid rural,1975,0.29
+MP,resid rural,1975,0.33
+MZ,resid rural,1975,0.26
+NL,resid rural,1975,0.26
+OD,resid rural,1975,0.49
+PB,resid rural,1975,0.36
+PC,resid rural,1975,0.43
+RJ,resid rural,1975,0.44
+SK,resid rural,1975,0.43
+TN,resid rural,1975,0.35754
+TR,resid rural,1975,0.33
+TS,resid rural,1975,0.43
+UK,resid rural,1975,0.3
+UP,resid rural,1975,0.35
+WB,resid rural,1975,0.23
+AN,resid rural,1990,0.43
+AP,resid rural,1990,0.35754
+AR,resid rural,1990,0.3148
+AS,resid rural,1990,0.32352
+BR,resid rural,1990,0.33634
+CG,resid rural,1990,0.24
+CH,resid rural,1990,0.19
+DD,resid rural,1990,0.26
+DL,resid rural,1990,0.43
+DN,resid rural,1990,0.27
+GA,resid rural,1990,0.43
+GJ,resid rural,1990,0.38
+HP,resid rural,1990,0.34
+HR,resid rural,1990,0.33
+JH,resid rural,1990,0.36
+JK,resid rural,1990,0.3
+KA,resid rural,1990,0.52
+KL,resid rural,1990,0.35
+LA,resid rural,1990,0.25
+LD,resid rural,1990,0.27
+MH,resid rural,1990,0.44
+ML,resid rural,1990,0.38
+MN,resid rural,1990,0.29
+MP,resid rural,1990,0.33
+MZ,resid rural,1990,0.26
+NL,resid rural,1990,0.26
+OD,resid rural,1990,0.49
+PB,resid rural,1990,0.36
+PC,resid rural,1990,0.43
+RJ,resid rural,1990,0.44
+SK,resid rural,1990,0.43
+TN,resid rural,1990,0.35754
+TR,resid rural,1990,0.33
+TS,resid rural,1990,0.43
+UK,resid rural,1990,0.3
+UP,resid rural,1990,0.35
+WB,resid rural,1990,0.23
+AN,resid rural,2005,0.43
+AP,resid rural,2005,0.35754
+AR,resid rural,2005,0.3148
+AS,resid rural,2005,0.32352
+BR,resid rural,2005,0.33634
+CG,resid rural,2005,0.24
+CH,resid rural,2005,0.19
+DD,resid rural,2005,0.26
+DL,resid rural,2005,0.43
+DN,resid rural,2005,0.27
+GA,resid rural,2005,0.43
+GJ,resid rural,2005,0.38
+HP,resid rural,2005,0.34
+HR,resid rural,2005,0.33
+JH,resid rural,2005,0.36
+JK,resid rural,2005,0.3
+KA,resid rural,2005,0.52
+KL,resid rural,2005,0.35
+LA,resid rural,2005,0.25
+LD,resid rural,2005,0.27
+MH,resid rural,2005,0.44
+ML,resid rural,2005,0.38
+MN,resid rural,2005,0.29
+MP,resid rural,2005,0.33
+MZ,resid rural,2005,0.26
+NL,resid rural,2005,0.26
+OD,resid rural,2005,0.49
+PB,resid rural,2005,0.36
+PC,resid rural,2005,0.43
+RJ,resid rural,2005,0.44
+SK,resid rural,2005,0.43
+TN,resid rural,2005,0.35754
+TR,resid rural,2005,0.33
+TS,resid rural,2005,0.43
+UK,resid rural,2005,0.3
+UP,resid rural,2005,0.35
+WB,resid rural,2005,0.23
+AN,resid rural,2010,0.36888242
+AP,resid rural,2010,0.566767607
+AR,resid rural,2010,0.59798553
+AS,resid rural,2010,0.734684908
+BR,resid rural,2010,0.791450211
+CG,resid rural,2010,0.493957307
+CH,resid rural,2010,0.009150943
+DD,resid rural,2010,0.076866762
+DL,resid rural,2010,0.012547171
+DN,resid rural,2010,0.23336751
+GA,resid rural,2010,0.26297984
+GJ,resid rural,2010,0.40340672
+HP,resid rural,2010,0.79692092
+HR,resid rural,2010,0.371876492
+JH,resid rural,2010,0.575537213
+JK,resid rural,2010,0.48086645
+KA,resid rural,2010,0.414923776
+KL,resid rural,2010,0.522809023
+LA,resid rural,2010,0.466439373
+LD,resid rural,2010,0.167449703
+MH,resid rural,2010,0.365401643
+ML,resid rural,2010,0.593742625
+MN,resid rural,2010,0.503143406
+MP,resid rural,2010,0.386427143
+MZ,resid rural,2010,0.435349466
+NL,resid rural,2010,0.474060023
+OD,resid rural,2010,0.631716244
+PB,resid rural,2010,0.539294784
+PC,resid rural,2010,0.128612641
+RJ,resid rural,2010,0.604064707
+SK,resid rural,2010,0.587369799
+TN,resid rural,2010,0.424736284
+TR,resid rural,2010,0.496340571
+TS,resid rural,2010,0.404232186
+UK,resid rural,2010,0.398997625
+UP,resid rural,2010,0.593498577
+WB,resid rural,2010,0.443389289
+AN,resid rural,2015,0.363400993
+AP,resid rural,2015,0.539292227
+AR,resid rural,2015,0.580172079
+AS,resid rural,2015,0.718832783
+BR,resid rural,2015,0.78656002
+CG,resid rural,2015,0.482956163
+CH,resid rural,2015,0.009173743
+DD,resid rural,2015,0.073196389
+DL,resid rural,2015,0.01160516
+DN,resid rural,2015,0.217545285
+GA,resid rural,2015,0.239078077
+GJ,resid rural,2015,0.386649031
+HP,resid rural,2015,0.78547346
+HR,resid rural,2015,0.356800537
+JH,resid rural,2015,0.548374687
+JK,resid rural,2015,0.466507839
+KA,resid rural,2015,0.393755452
+KL,resid rural,2015,0.484148843
+LA,resid rural,2015,0.454169253
+LD,resid rural,2015,0.160777947
+MH,resid rural,2015,0.341562625
+ML,resid rural,2015,0.590180984
+MN,resid rural,2015,0.473979966
+MP,resid rural,2015,0.380175594
+MZ,resid rural,2015,0.408597049
+NL,resid rural,2015,0.453364913
+OD,resid rural,2015,0.613674784
+PB,resid rural,2015,0.517273629
+PC,resid rural,2015,0.120847842
+RJ,resid rural,2015,0.587816005
+SK,resid rural,2015,0.597178946
+TN,resid rural,2015,0.404248683
+TR,resid rural,2015,0.467895972
+TS,resid rural,2015,0.389059138
+UK,resid rural,2015,0.382552067
+UP,resid rural,2015,0.582824216
+WB,resid rural,2015,0.42268654
+AN,resid rural,2020,0.357768572
+AP,resid rural,2020,0.510564374
+AR,resid rural,2020,0.561724503
+AS,resid rural,2020,0.702187557
+BR,resid rural,2020,0.78156551
+CG,resid rural,2020,0.471641882
+CH,resid rural,2020,0.009192624
+DD,resid rural,2020,0.069252166
+DL,resid rural,2020,0.010663897
+DN,resid rural,2020,0.20116183
+GA,resid rural,2020,0.214765321
+GJ,resid rural,2020,0.369157966
+HP,resid rural,2020,0.773447723
+HR,resid rural,2020,0.341302959
+JH,resid rural,2020,0.519950143
+JK,resid rural,2020,0.451752323
+KA,resid rural,2020,0.372097587
+KL,resid rural,2020,0.442350468
+LA,resid rural,2020,0.44168993
+LD,resid rural,2020,0.154066388
+MH,resid rural,2020,0.31724925
+ML,resid rural,2020,0.586561906
+MN,resid rural,2020,0.443682071
+MP,resid rural,2020,0.373653608
+MZ,resid rural,2020,0.380726117
+NL,resid rural,2020,0.432040145
+OD,resid rural,2020,0.594919823
+PB,resid rural,2020,0.494382911
+PC,resid rural,2020,0.112789619
+RJ,resid rural,2020,0.571089202
+SK,resid rural,2020,0.606835023
+TN,resid rural,2020,0.383022546
+TR,resid rural,2020,0.438329995
+TS,resid rural,2020,0.373601567
+UK,resid rural,2020,0.365599546
+UP,resid rural,2020,0.571896646
+WB,resid rural,2020,0.401383031
+AN,resid rural,2025,0.35195699
+AP,resid rural,2025,0.48056591
+AR,resid rural,2025,0.542666971
+AS,resid rural,2025,0.684727659
+BR,resid rural,2025,0.776467389
+CG,resid rural,2025,0.459985332
+CH,resid rural,2025,0.009207467
+DD,resid rural,2025,0.065003356
+DL,resid rural,2025,0.009723403
+DN,resid rural,2025,0.184163027
+GA,resid rural,2025,0.190047137
+GJ,resid rural,2025,0.350853263
+HP,resid rural,2025,0.760833683
+HR,resid rural,2025,0.325347852
+JH,resid rural,2025,0.49028328
+JK,resid rural,2025,0.436596583
+KA,resid rural,2025,0.349950181
+KL,resid rural,2025,0.397159741
+LA,resid rural,2025,0.428991436
+LD,resid rural,2025,0.147316651
+MH,resid rural,2025,0.292464872
+ML,resid rural,2025,0.582888955
+MN,resid rural,2025,0.412276293
+MP,resid rural,2025,0.366843297
+MZ,resid rural,2025,0.351720881
+NL,resid rural,2025,0.410059928
+OD,resid rural,2025,0.575378089
+PB,resid rural,2025,0.470610355
+PC,resid rural,2025,0.104420926
+RJ,resid rural,2025,0.553875857
+SK,resid rural,2025,0.616332348
+TN,resid rural,2025,0.361011458
+TR,resid rural,2025,0.407640708
+TS,resid rural,2025,0.357847592
+UK,resid rural,2025,0.348123689
+UP,resid rural,2025,0.560718302
+WB,resid rural,2025,0.379473546
+AN,resid rural,2030,0.345972495
+AP,resid rural,2030,0.449304703
+AR,resid rural,2030,0.52299209
+AS,resid rural,2030,0.666423211
+BR,resid rural,2030,0.771271555
+CG,resid rural,2030,0.447975737
+CH,resid rural,2030,0.009214332
+DD,resid rural,2030,0.060441161
+DL,resid rural,2030,0.00877862
+DN,resid rural,2030,0.166508344
+GA,resid rural,2030,0.16496004
+GJ,resid rural,2030,0.331663898
+HP,resid rural,2030,0.747607387
+HR,resid rural,2030,0.308914065
+JH,resid rural,2030,0.459362797
+JK,resid rural,2030,0.421019022
+KA,resid rural,2030,0.327320746
+KL,resid rural,2030,0.348311311
+LA,resid rural,2030,0.416085457
+LD,resid rural,2030,0.140536892
+MH,resid rural,2030,0.267243674
+ML,resid rural,2030,0.57913747
+MN,resid rural,2030,0.379776385
+MP,resid rural,2030,0.359718259
+MZ,resid rural,2030,0.321544149
+NL,resid rural,2030,0.387419955
+OD,resid rural,2030,0.55505564
+PB,resid rural,2030,0.445938059
+PC,resid rural,2030,0.095723083
+RJ,resid rural,2030,0.536162713
+SK,resid rural,2030,0.625660182
+TN,resid rural,2030,0.338182725
+TR,resid rural,2030,0.375802738
+TS,resid rural,2030,0.341794006
+UK,resid rural,2030,0.330061855
+UP,resid rural,2030,0.549295209
+WB,resid rural,2030,0.356940417
+AN,resid rural,2035,0.339794266
+AP,resid rural,2035,0.4167965
+AR,resid rural,2035,0.502669234
+AS,resid rural,2035,0.64726733
+BR,resid rural,2035,0.765946716
+CG,resid rural,2035,0.435577642
+CH,resid rural,2035,0.009220355
+DD,resid rural,2035,0.055539384
+DL,resid rural,2035,0.007834587
+DN,resid rural,2035,0.148122283
+GA,resid rural,2035,0.139505123
+GJ,resid rural,2035,0.311533912
+HP,resid rural,2035,0.733731159
+HR,resid rural,2035,0.291976369
+JH,resid rural,2035,0.427213498
+JK,resid rural,2035,0.4049994
+KA,resid rural,2035,0.304211753
+KL,resid rural,2035,0.295511322
+LA,resid rural,2035,0.402955071
+LD,resid rural,2035,0.133719567
+MH,resid rural,2035,0.241587612
+ML,resid rural,2035,0.575323721
+MN,resid rural,2035,0.34621566
+MP,resid rural,2035,0.352247922
+MZ,resid rural,2035,0.290161185
+NL,resid rural,2035,0.364100986
+OD,resid rural,2035,0.533913356
+PB,resid rural,2035,0.42035003
+PC,resid rural,2035,0.08667657
+RJ,resid rural,2035,0.51796923
+SK,resid rural,2035,0.634826876
+TN,resid rural,2035,0.314507759
+TR,resid rural,2035,0.342825328
+TS,resid rural,2035,0.325449456
+UK,resid rural,2035,0.311402001
+UP,resid rural,2035,0.53759549
+WB,resid rural,2035,0.333772449
+AN,resid rural,2040,0.333431753
+AP,resid rural,2040,0.383080029
+AR,resid rural,2040,0.481720216
+AS,resid rural,2040,0.627221322
+BR,resid rural,2040,0.760528279
+CG,resid rural,2040,0.422775814
+CH,resid rural,2040,0.009221661
+DD,resid rural,2040,0.050270083
+DL,resid rural,2040,0.006891321
+DN,resid rural,2040,0.128948022
+GA,resid rural,2040,0.113704384
+GJ,resid rural,2040,0.290364329
+HP,resid rural,2040,0.719193085
+HR,resid rural,2040,0.274488421
+JH,resid rural,2040,0.393831864
+JK,resid rural,2040,0.388508838
+KA,resid rural,2040,0.280640852
+KL,resid rural,2040,0.238419942
+LA,resid rural,2040,0.389615968
+LD,resid rural,2040,0.126858127
+MH,resid rural,2040,0.215543222
+ML,resid rural,2040,0.571450055
+MN,resid rural,2040,0.31163423
+MP,resid rural,2040,0.344415988
+MZ,resid rural,2040,0.257552852
+NL,resid rural,2040,0.340076077
+OD,resid rural,2040,0.511933339
+PB,resid rural,2040,0.393834086
+PC,resid rural,2040,0.077260952
+RJ,resid rural,2040,0.499287357
+SK,resid rural,2040,0.64383834
+TN,resid rural,2040,0.289946937
+TR,resid rural,2040,0.308685114
+TS,resid rural,2040,0.308801207
+UK,resid rural,2040,0.292080349
+UP,resid rural,2040,0.52563521
+WB,resid rural,2040,0.309954942
+AN,resid rural,2045,0.326851629
+AP,resid rural,2045,0.348183029
+AR,resid rural,2045,0.46012597
+AS,resid rural,2045,0.606269147
+BR,resid rural,2045,0.755002145
+CG,resid rural,2045,0.409541502
+CH,resid rural,2045,0.009214077
+DD,resid rural,2045,0.044615098
+DL,resid rural,2045,0.005943784
+DN,resid rural,2045,0.108912873
+GA,resid rural,2045,0.087593794
+GJ,resid rural,2045,0.268049745
+HP,resid rural,2045,0.703984426
+HR,resid rural,2045,0.256430216
+JH,resid rural,2045,0.359258292
+JK,resid rural,2045,0.371532963
+KA,resid rural,2045,0.256596877
+KL,resid rural,2045,0.176710077
+LA,resid rural,2045,0.376058889
+LD,resid rural,2045,0.119969072
+MH,resid rural,2045,0.189125096
+ML,resid rural,2045,0.567491435
+MN,resid rural,2045,0.276058563
+MP,resid rural,2045,0.336192871
+MZ,resid rural,2045,0.22369587
+NL,resid rural,2045,0.315336685
+OD,resid rural,2045,0.489080523
+PB,resid rural,2045,0.366386754
+PC,resid rural,2045,0.067454069
+RJ,resid rural,2045,0.480126405
+SK,resid rural,2045,0.652685793
+TN,resid rural,2045,0.264450597
+TR,resid rural,2045,0.273367799
+TS,resid rural,2045,0.291843919
+UK,resid rural,2045,0.272055883
+UP,resid rural,2045,0.51341099
+WB,resid rural,2045,0.285471571
+AN,resid rural,2050,0.320061121
+AP,resid rural,2050,0.312156427
+AR,resid rural,2050,0.437883325
+AS,resid rural,2050,0.584419717
+BR,resid rural,2050,0.749357388
+CG,resid rural,2050,0.395850375
+CH,resid rural,2050,0.009205216
+DD,resid rural,2050,0.038542293
+DL,resid rural,2050,0.004997011
+DN,resid rural,2050,0.087929593
+GA,resid rural,2050,0.061176471
+GJ,resid rural,2050,0.244502936
+HP,resid rural,2050,0.688067984
+HR,resid rural,2050,0.237751445
+JH,resid rural,2050,0.323514233
+JK,resid rural,2050,0.354046962
+KA,resid rural,2050,0.232105027
+KL,resid rural,2050,0.110000061
+LA,resid rural,2050,0.362281843
+LD,resid rural,2050,0.113037607
+MH,resid rural,2050,0.162353463
+ML,resid rural,2050,0.563466265
+MN,resid rural,2050,0.239543398
+MP,resid rural,2050,0.327537468
+MZ,resid rural,2050,0.188545889
+NL,resid rural,2050,0.28985963
+OD,resid rural,2050,0.465307109
+PB,resid rural,2050,0.337991536
+PC,resid rural,2050,0.057232288
+RJ,resid rural,2050,0.460492937
+SK,resid rural,2050,0.661362435
+TN,resid rural,2050,0.237971166
+TR,resid rural,2050,0.236861054
+TS,resid rural,2050,0.274574753
+UK,resid rural,2050,0.251271089
+UP,resid rural,2050,0.500892383
+WB,resid rural,2050,0.260294968
+AN,resid rural,2055,0.323258061
+AP,resid rural,2055,0.304836808
+AR,resid rural,2055,0.43451875
+AS,resid rural,2055,0.579393807
+BR,resid rural,2055,0.747495084
+CG,resid rural,2055,0.396269539
+CH,resid rural,2055,0.008971055
+DD,resid rural,2055,0.037153197
+DL,resid rural,2055,0.004849074
+DN,resid rural,2055,0.086272876
+GA,resid rural,2055,0.058011626
+GJ,resid rural,2055,0.240937174
+HP,resid rural,2055,0.685745817
+HR,resid rural,2055,0.236394816
+JH,resid rural,2055,0.315342248
+JK,resid rural,2055,0.351629836
+KA,resid rural,2055,0.226037291
+KL,resid rural,2055,0.102030029
+LA,resid rural,2055,0.361323281
+LD,resid rural,2055,0.111037308
+MH,resid rural,2055,0.15530685
+ML,resid rural,2055,0.565506606
+MN,resid rural,2055,0.231004049
+MP,resid rural,2055,0.330334791
+MZ,resid rural,2055,0.180702892
+NL,resid rural,2055,0.284434258
+OD,resid rural,2055,0.463211107
+PB,resid rural,2055,0.330523381
+PC,resid rural,2055,0.055511469
+RJ,resid rural,2055,0.454466937
+SK,resid rural,2055,0.664213149
+TN,resid rural,2055,0.231144457
+TR,resid rural,2055,0.232296981
+TS,resid rural,2055,0.269401066
+UK,resid rural,2055,0.250109503
+UP,resid rural,2055,0.498038761
+WB,resid rural,2055,0.256973885
+AN,resid rural,2060,0.326455334
+AP,resid rural,2060,0.297466887
+AR,resid rural,2060,0.431125425
+AS,resid rural,2060,0.574308344
+BR,resid rural,2060,0.745611995
+CG,resid rural,2060,0.396613229
+CH,resid rural,2060,0.00871705
+DD,resid rural,2060,0.035615916
+DL,resid rural,2060,0.004701042
+DN,resid rural,2060,0.084443188
+GA,resid rural,2060,0.054834778
+GJ,resid rural,2060,0.237148528
+HP,resid rural,2060,0.683417053
+HR,resid rural,2060,0.234931466
+JH,resid rural,2060,0.307059177
+JK,resid rural,2060,0.349122734
+KA,resid rural,2060,0.219905107
+KL,resid rural,2060,0.093990011
+LA,resid rural,2060,0.360349846
+LD,resid rural,2060,0.109024165
+MH,resid rural,2060,0.148221372
+ML,resid rural,2060,0.567538632
+MN,resid rural,2060,0.222351874
+MP,resid rural,2060,0.333073779
+MZ,resid rural,2060,0.172806488
+NL,resid rural,2060,0.278873506
+OD,resid rural,2060,0.461044018
+PB,resid rural,2060,0.32298614
+PC,resid rural,2060,0.053685752
+RJ,resid rural,2060,0.448394963
+SK,resid rural,2060,0.667050993
+TN,resid rural,2060,0.224184498
+TR,resid rural,2060,0.227582858
+TS,resid rural,2060,0.264150447
+UK,resid rural,2060,0.24882166
+UP,resid rural,2060,0.495134872
+WB,resid rural,2060,0.253565283
+AN,resid rural,2065,0.329661252
+AP,resid rural,2065,0.29005901
+AR,resid rural,2065,0.427681392
+AS,resid rural,2065,0.569171464
+BR,resid rural,2065,0.743721973
+CG,resid rural,2065,0.396900971
+CH,resid rural,2065,0.008446761
+DD,resid rural,2065,0.033925138
+DL,resid rural,2065,0.00455287
+DN,resid rural,2065,0.082430364
+GA,resid rural,2065,0.051659526
+GJ,resid rural,2065,0.233128972
+HP,resid rural,2065,0.681050236
+HR,resid rural,2065,0.233357624
+JH,resid rural,2065,0.298652769
+JK,resid rural,2065,0.346520405
+KA,resid rural,2065,0.213708284
+KL,resid rural,2065,0.085869818
+LA,resid rural,2065,0.359368946
+LD,resid rural,2065,0.107014284
+MH,resid rural,2065,0.141083593
+ML,resid rural,2065,0.569563631
+MN,resid rural,2065,0.213579142
+MP,resid rural,2065,0.335743126
+MZ,resid rural,2065,0.164840027
+NL,resid rural,2065,0.273160743
+OD,resid rural,2065,0.458808597
+PB,resid rural,2065,0.315391334
+PC,resid rural,2065,0.051749559
+RJ,resid rural,2065,0.442279606
+SK,resid rural,2065,0.669876302
+TN,resid rural,2065,0.217087397
+TR,resid rural,2065,0.222708143
+TS,resid rural,2065,0.258833127
+UK,resid rural,2065,0.247403488
+UP,resid rural,2065,0.492214824
+WB,resid rural,2065,0.250050614
+AN,resid rural,2070,0.332875536
+AP,resid rural,2070,0.282613563
+AR,resid rural,2070,0.424207804
+AS,resid rural,2070,0.563962222
+BR,resid rural,2070,0.741812556
+CG,resid rural,2070,0.397103734
+CH,resid rural,2070,0.008159537
+DD,resid rural,2070,0.032070812
+DL,resid rural,2070,0.004404572
+DN,resid rural,2070,0.080223911
+GA,resid rural,2070,0.048484948
+GJ,resid rural,2070,0.228864669
+HP,resid rural,2070,0.678677801
+HR,resid rural,2070,0.231661287
+JH,resid rural,2070,0.290113415
+JK,resid rural,2070,0.343824079
+KA,resid rural,2070,0.20743241
+KL,resid rural,2070,0.077690018
+LA,resid rural,2070,0.358381372
+LD,resid rural,2070,0.104999128
+MH,resid rural,2070,0.133908278
+ML,resid rural,2070,0.571585059
+MN,resid rural,2070,0.204700383
+MP,resid rural,2070,0.338350426
+MZ,resid rural,2070,0.156812708
+NL,resid rural,2070,0.267298058
+OD,resid rural,2070,0.456502682
+PB,resid rural,2070,0.307724062
+PC,resid rural,2070,0.049699136
+RJ,resid rural,2070,0.436132589
+SK,resid rural,2070,0.672687356
+TN,resid rural,2070,0.209851138
+TR,resid rural,2070,0.217661842
+TS,resid rural,2070,0.253448954
+UK,resid rural,2070,0.245835437
+UP,resid rural,2070,0.489245662
+WB,resid rural,2070,0.246444484
+AN,resid rural,2075,0.336089955
+AP,resid rural,2075,0.275115892
+AR,resid rural,2075,0.42069617
+AS,resid rural,2075,0.558694471
+BR,resid rural,2075,0.739896947
+CG,resid rural,2075,0.397238664
+CH,resid rural,2075,0.007859167
+DD,resid rural,2075,0.030037938
+DL,resid rural,2075,0.00425618
+DN,resid rural,2075,0.077806907
+GA,resid rural,2075,0.0452992
+GJ,resid rural,2075,0.224338812
+HP,resid rural,2075,0.676268539
+HR,resid rural,2075,0.229855621
+JH,resid rural,2075,0.281455114
+JK,resid rural,2075,0.341030842
+KA,resid rural,2075,0.201086426
+KL,resid rural,2075,0.069419953
+LA,resid rural,2075,0.357377865
+LD,resid rural,2075,0.10298762
+MH,resid rural,2075,0.126690668
+ML,resid rural,2075,0.573588064
+MN,resid rural,2075,0.195692925
+MP,resid rural,2075,0.340882483
+MZ,resid rural,2075,0.148725265
+NL,resid rural,2075,0.261276071
+OD,resid rural,2075,0.45411582
+PB,resid rural,2075,0.300002283
+PC,resid rural,2075,0.047523909
+RJ,resid rural,2075,0.429934396
+SK,resid rural,2075,0.675483634
+TN,resid rural,2075,0.202463603
+TR,resid rural,2075,0.212438714
+TS,resid rural,2075,0.247980148
+UK,resid rural,2075,0.244120002
+UP,resid rural,2075,0.486238347
+WB,resid rural,2075,0.242736275
+AN,resid rural,2080,0.339320311
+AP,resid rural,2080,0.267587414
+AR,resid rural,2080,0.417144283
+AS,resid rural,2080,0.553366394
+BR,resid rural,2080,0.73796033
+CG,resid rural,2080,0.397293218
+CH,resid rural,2080,0.007531476
+DD,resid rural,2080,0.027814652
+DL,resid rural,2080,0.004107643
+DN,resid rural,2080,0.075172935
+GA,resid rural,2080,0.042114656
+GJ,resid rural,2080,0.219544276
+HP,resid rural,2080,0.673837642
+HR,resid rural,2080,0.227912884
+JH,resid rural,2080,0.272661529
+JK,resid rural,2080,0.338122586
+KA,resid rural,2080,0.194668315
+KL,resid rural,2080,0.06108994
+LA,resid rural,2080,0.356379499
+LD,resid rural,2080,0.10096313
+MH,resid rural,2080,0.119421053
+ML,resid rural,2080,0.57559936
+MN,resid rural,2080,0.186564953
+MP,resid rural,2080,0.34333731
+MZ,resid rural,2080,0.14056994
+NL,resid rural,2080,0.255080581
+OD,resid rural,2080,0.451647449
+PB,resid rural,2080,0.292217247
+PC,resid rural,2080,0.045228681
+RJ,resid rural,2080,0.423698599
+SK,resid rural,2080,0.678252902
+TN,resid rural,2080,0.194930823
+TR,resid rural,2080,0.207043598
+TS,resid rural,2080,0.2424448
+UK,resid rural,2080,0.242251232
+UP,resid rural,2080,0.483183047
+WB,resid rural,2080,0.23891694
+AN,resid rural,2085,0.342548764
+AP,resid rural,2085,0.260018906
+AR,resid rural,2085,0.413554938
+AS,resid rural,2085,0.547963322
+BR,resid rural,2085,0.736019503
+CG,resid rural,2085,0.397256576
+CH,resid rural,2085,0.00718928
+DD,resid rural,2085,0.025393136
+DL,resid rural,2085,0.003958983
+DN,resid rural,2085,0.072303455
+GA,resid rural,2085,0.038925659
+GJ,resid rural,2085,0.214459025
+HP,resid rural,2085,0.671388591
+HR,resid rural,2085,0.225837979
+JH,resid rural,2085,0.263728792
+JK,resid rural,2085,0.33511506
+KA,resid rural,2085,0.188173208
+KL,resid rural,2085,0.052679943
+LA,resid rural,2085,0.355362544
+LD,resid rural,2085,0.098942199
+MH,resid rural,2085,0.112111893
+ML,resid rural,2085,0.577589445
+MN,resid rural,2085,0.1773129
+MP,resid rural,2085,0.345702444
+MZ,resid rural,2085,0.132355978
+NL,resid rural,2085,0.248720183
+OD,resid rural,2085,0.449100132
+PB,resid rural,2085,0.284362895
+PC,resid rural,2085,0.04279772
+RJ,resid rural,2085,0.417415023
+SK,resid rural,2085,0.681009228
+TN,resid rural,2085,0.187249419
+TR,resid rural,2085,0.201448254
+TS,resid rural,2085,0.236834656
+UK,resid rural,2085,0.240223809
+UP,resid rural,2085,0.48010012
+WB,resid rural,2085,0.234984753
+AN,resid rural,2090,0.345785274
+AP,resid rural,2090,0.252405345
+AR,resid rural,2090,0.409916589
+AS,resid rural,2090,0.542503433
+BR,resid rural,2090,0.734057225
+CG,resid rural,2090,0.397150949
+CH,resid rural,2090,0.006827363
+DD,resid rural,2090,0.022755359
+DL,resid rural,2090,0.003810214
+DN,resid rural,2090,0.069183211
+GA,resid rural,2090,0.035731793
+GJ,resid rural,2090,0.20906081
+HP,resid rural,2090,0.668918438
+HR,resid rural,2090,0.223632276
+JH,resid rural,2090,0.254663195
+JK,resid rural,2090,0.331986831
+KA,resid rural,2090,0.181600535
+KL,resid rural,2090,0.044199971
+LA,resid rural,2090,0.354338831
+LD,resid rural,2090,0.096916291
+MH,resid rural,2090,0.104759814
+ML,resid rural,2090,0.579577645
+MN,resid rural,2090,0.167931533
+MP,resid rural,2090,0.347985011
+MZ,resid rural,2090,0.124076462
+NL,resid rural,2090,0.242172476
+OD,resid rural,2090,0.446469986
+PB,resid rural,2090,0.27645174
+PC,resid rural,2090,0.040230472
+RJ,resid rural,2090,0.411096437
+SK,resid rural,2090,0.68375074
+TN,resid rural,2090,0.179399245
+TR,resid rural,2090,0.195654663
+TS,resid rural,2090,0.231139764
+UK,resid rural,2090,0.238015923
+UP,resid rural,2090,0.476970655
+WB,resid rural,2090,0.230943223
+AN,resid rural,2095,0.349025927
+AP,resid rural,2095,0.244759608
+AR,resid rural,2095,0.40623987
+AS,resid rural,2095,0.536980457
+BR,resid rural,2095,0.732091225
+CG,resid rural,2095,0.396941286
+CH,resid rural,2095,0.006444976
+DD,resid rural,2095,0.019886771
+DL,resid rural,2095,0.003661312
+DN,resid rural,2095,0.065802791
+GA,resid rural,2095,0.032533676
+GJ,resid rural,2095,0.203340473
+HP,resid rural,2095,0.666414772
+HR,resid rural,2095,0.221273875
+JH,resid rural,2095,0.245454526
+JK,resid rural,2095,0.328746089
+KA,resid rural,2095,0.174950958
+KL,resid rural,2095,0.035640016
+LA,resid rural,2095,0.353311224
+LD,resid rural,2095,0.09489391
+MH,resid rural,2095,0.097358829
+ML,resid rural,2095,0.58155643
+MN,resid rural,2095,0.158414643
+MP,resid rural,2095,0.350179701
+MZ,resid rural,2095,0.11573096
+NL,resid rural,2095,0.235437253
+OD,resid rural,2095,0.443736837
+PB,resid rural,2095,0.26847223
+PC,resid rural,2095,0.037520444
+RJ,resid rural,2095,0.404744796
+SK,resid rural,2095,0.686477011
+TN,resid rural,2095,0.171382309
+TR,resid rural,2095,0.18965562
+TS,resid rural,2095,0.225368086
+UK,resid rural,2095,0.235628148
+UP,resid rural,2095,0.473803949
+WB,resid rural,2095,0.226782958
+AN,resid rural,2100,0.352265044
+AP,resid rural,2100,0.237072788
+AR,resid rural,2100,0.402524159
+AS,resid rural,2100,0.531392733
+BR,resid rural,2100,0.730104634
+CG,resid rural,2100,0.396646578
+CH,resid rural,2100,0.006036213
+DD,resid rural,2100,0.016776817
+DL,resid rural,2100,0.003512294
+DN,resid rural,2100,0.062134891
+GA,resid rural,2100,0.02933117
+GJ,resid rural,2100,0.197272246
+HP,resid rural,2100,0.663893148
+HR,resid rural,2100,0.218769169
+JH,resid rural,2100,0.236094704
+JK,resid rural,2100,0.325381096
+KA,resid rural,2100,0.168224084
+KL,resid rural,2100,0.027000027
+LA,resid rural,2100,0.352265044
+LD,resid rural,2100,0.092859242
+MH,resid rural,2100,0.089918382
+ML,resid rural,2100,0.583531099
+MN,resid rural,2100,0.148765078
+MP,resid rural,2100,0.352264674
+MZ,resid rural,2100,0.107321525
+NL,resid rural,2100,0.228501229
+OD,resid rural,2100,0.440923029
+PB,resid rural,2100,0.260430654
+PC,resid rural,2100,0.034661051
+RJ,resid rural,2100,0.398340716
+SK,resid rural,2100,0.689189189
+TN,resid rural,2100,0.163197224
+TR,resid rural,2100,0.183431953
+TS,resid rural,2100,0.219512195
+UK,resid rural,2100,0.233045513
+UP,resid rural,2100,0.470588601
+WB,resid rural,2100,0.222494124
+AN,resid urban,1975,0.57
+AP,resid urban,1975,0.64246
+AR,resid urban,1975,0.6852
+AS,resid urban,1975,0.67648
+BR,resid urban,1975,0.66366
+CG,resid urban,1975,0.76
+CH,resid urban,1975,0.81
+DD,resid urban,1975,0.74
+DL,resid urban,1975,0.57
+DN,resid urban,1975,0.73
+GA,resid urban,1975,0.57
+GJ,resid urban,1975,0.62
+HP,resid urban,1975,0.66
+HR,resid urban,1975,0.67
+JH,resid urban,1975,0.64
+JK,resid urban,1975,0.7
+KA,resid urban,1975,0.48
+KL,resid urban,1975,0.65
+LA,resid urban,1975,0.75
+LD,resid urban,1975,0.73
+MH,resid urban,1975,0.56
+ML,resid urban,1975,0.62
+MN,resid urban,1975,0.71
+MP,resid urban,1975,0.67
+MZ,resid urban,1975,0.74
+NL,resid urban,1975,0.74
+OD,resid urban,1975,0.51
+PB,resid urban,1975,0.64
+PC,resid urban,1975,0.57
+RJ,resid urban,1975,0.56
+SK,resid urban,1975,0.57
+TN,resid urban,1975,0.64246
+TR,resid urban,1975,0.67
+TS,resid urban,1975,0.57
+UK,resid urban,1975,0.7
+UP,resid urban,1975,0.65
+WB,resid urban,1975,0.77
+AN,resid urban,1990,0.57
+AP,resid urban,1990,0.64246
+AR,resid urban,1990,0.6852
+AS,resid urban,1990,0.67648
+BR,resid urban,1990,0.66366
+CG,resid urban,1990,0.76
+CH,resid urban,1990,0.81
+DD,resid urban,1990,0.74
+DL,resid urban,1990,0.57
+DN,resid urban,1990,0.73
+GA,resid urban,1990,0.57
+GJ,resid urban,1990,0.62
+HP,resid urban,1990,0.66
+HR,resid urban,1990,0.67
+JH,resid urban,1990,0.64
+JK,resid urban,1990,0.7
+KA,resid urban,1990,0.48
+KL,resid urban,1990,0.65
+LA,resid urban,1990,0.75
+LD,resid urban,1990,0.73
+MH,resid urban,1990,0.56
+ML,resid urban,1990,0.62
+MN,resid urban,1990,0.71
+MP,resid urban,1990,0.67
+MZ,resid urban,1990,0.74
+NL,resid urban,1990,0.74
+OD,resid urban,1990,0.51
+PB,resid urban,1990,0.64
+PC,resid urban,1990,0.57
+RJ,resid urban,1990,0.56
+SK,resid urban,1990,0.57
+TN,resid urban,1990,0.64246
+TR,resid urban,1990,0.67
+TS,resid urban,1990,0.57
+UK,resid urban,1990,0.7
+UP,resid urban,1990,0.65
+WB,resid urban,1990,0.77
+AN,resid urban,2005,0.57
+AP,resid urban,2005,0.64246
+AR,resid urban,2005,0.6852
+AS,resid urban,2005,0.67648
+BR,resid urban,2005,0.66366
+CG,resid urban,2005,0.76
+CH,resid urban,2005,0.81
+DD,resid urban,2005,0.74
+DL,resid urban,2005,0.57
+DN,resid urban,2005,0.73
+GA,resid urban,2005,0.57
+GJ,resid urban,2005,0.62
+HP,resid urban,2005,0.66
+HR,resid urban,2005,0.67
+JH,resid urban,2005,0.64
+JK,resid urban,2005,0.7
+KA,resid urban,2005,0.48
+KL,resid urban,2005,0.65
+LA,resid urban,2005,0.75
+LD,resid urban,2005,0.73
+MH,resid urban,2005,0.56
+ML,resid urban,2005,0.62
+MN,resid urban,2005,0.71
+MP,resid urban,2005,0.67
+MZ,resid urban,2005,0.74
+NL,resid urban,2005,0.74
+OD,resid urban,2005,0.51
+PB,resid urban,2005,0.64
+PC,resid urban,2005,0.57
+RJ,resid urban,2005,0.56
+SK,resid urban,2005,0.57
+TN,resid urban,2005,0.64246
+TR,resid urban,2005,0.67
+TS,resid urban,2005,0.57
+UK,resid urban,2005,0.7
+UP,resid urban,2005,0.65
+WB,resid urban,2005,0.77
+AN,resid urban,2010,0.63111758
+AP,resid urban,2010,0.433232393
+AR,resid urban,2010,0.40201447
+AS,resid urban,2010,0.265315092
+BR,resid urban,2010,0.208549789
+CG,resid urban,2010,0.506042693
+CH,resid urban,2010,0.990849057
+DD,resid urban,2010,0.923133238
+DL,resid urban,2010,0.987452829
+DN,resid urban,2010,0.76663249
+GA,resid urban,2010,0.73702016
+GJ,resid urban,2010,0.59659328
+HP,resid urban,2010,0.20307908
+HR,resid urban,2010,0.628123508
+JH,resid urban,2010,0.424462787
+JK,resid urban,2010,0.51913355
+KA,resid urban,2010,0.585076224
+KL,resid urban,2010,0.477190977
+LA,resid urban,2010,0.533560627
+LD,resid urban,2010,0.832550297
+MH,resid urban,2010,0.634598357
+ML,resid urban,2010,0.406257375
+MN,resid urban,2010,0.496856594
+MP,resid urban,2010,0.613572857
+MZ,resid urban,2010,0.564650534
+NL,resid urban,2010,0.525939977
+OD,resid urban,2010,0.368283756
+PB,resid urban,2010,0.460705216
+PC,resid urban,2010,0.871387359
+RJ,resid urban,2010,0.395935293
+SK,resid urban,2010,0.412630201
+TN,resid urban,2010,0.575263716
+TR,resid urban,2010,0.503659429
+TS,resid urban,2010,0.595767814
+UK,resid urban,2010,0.601002375
+UP,resid urban,2010,0.406501423
+WB,resid urban,2010,0.556610711
+AN,resid urban,2015,0.636599007
+AP,resid urban,2015,0.460707773
+AR,resid urban,2015,0.419827921
+AS,resid urban,2015,0.281167217
+BR,resid urban,2015,0.21343998
+CG,resid urban,2015,0.517043837
+CH,resid urban,2015,0.990826257
+DD,resid urban,2015,0.926803611
+DL,resid urban,2015,0.98839484
+DN,resid urban,2015,0.782454715
+GA,resid urban,2015,0.760921923
+GJ,resid urban,2015,0.613350969
+HP,resid urban,2015,0.21452654
+HR,resid urban,2015,0.643199463
+JH,resid urban,2015,0.451625313
+JK,resid urban,2015,0.533492161
+KA,resid urban,2015,0.606244548
+KL,resid urban,2015,0.515851157
+LA,resid urban,2015,0.545830747
+LD,resid urban,2015,0.839222053
+MH,resid urban,2015,0.658437375
+ML,resid urban,2015,0.409819016
+MN,resid urban,2015,0.526020034
+MP,resid urban,2015,0.619824406
+MZ,resid urban,2015,0.591402951
+NL,resid urban,2015,0.546635087
+OD,resid urban,2015,0.386325216
+PB,resid urban,2015,0.482726371
+PC,resid urban,2015,0.879152158
+RJ,resid urban,2015,0.412183995
+SK,resid urban,2015,0.402821054
+TN,resid urban,2015,0.595751317
+TR,resid urban,2015,0.532104028
+TS,resid urban,2015,0.610940862
+UK,resid urban,2015,0.617447933
+UP,resid urban,2015,0.417175784
+WB,resid urban,2015,0.57731346
+AN,resid urban,2020,0.642231428
+AP,resid urban,2020,0.489435626
+AR,resid urban,2020,0.438275497
+AS,resid urban,2020,0.297812443
+BR,resid urban,2020,0.21843449
+CG,resid urban,2020,0.528358118
+CH,resid urban,2020,0.990807376
+DD,resid urban,2020,0.930747834
+DL,resid urban,2020,0.989336103
+DN,resid urban,2020,0.79883817
+GA,resid urban,2020,0.785234679
+GJ,resid urban,2020,0.630842034
+HP,resid urban,2020,0.226552277
+HR,resid urban,2020,0.658697041
+JH,resid urban,2020,0.480049857
+JK,resid urban,2020,0.548247677
+KA,resid urban,2020,0.627902413
+KL,resid urban,2020,0.557649532
+LA,resid urban,2020,0.55831007
+LD,resid urban,2020,0.845933612
+MH,resid urban,2020,0.68275075
+ML,resid urban,2020,0.413438094
+MN,resid urban,2020,0.556317929
+MP,resid urban,2020,0.626346392
+MZ,resid urban,2020,0.619273883
+NL,resid urban,2020,0.567959855
+OD,resid urban,2020,0.405080177
+PB,resid urban,2020,0.505617089
+PC,resid urban,2020,0.887210381
+RJ,resid urban,2020,0.428910798
+SK,resid urban,2020,0.393164977
+TN,resid urban,2020,0.616977454
+TR,resid urban,2020,0.561670005
+TS,resid urban,2020,0.626398433
+UK,resid urban,2020,0.634400454
+UP,resid urban,2020,0.428103354
+WB,resid urban,2020,0.598616969
+AN,resid urban,2025,0.64804301
+AP,resid urban,2025,0.51943409
+AR,resid urban,2025,0.457333029
+AS,resid urban,2025,0.315272341
+BR,resid urban,2025,0.223532611
+CG,resid urban,2025,0.540014668
+CH,resid urban,2025,0.990792533
+DD,resid urban,2025,0.934996644
+DL,resid urban,2025,0.990276597
+DN,resid urban,2025,0.815836973
+GA,resid urban,2025,0.809952863
+GJ,resid urban,2025,0.649146737
+HP,resid urban,2025,0.239166317
+HR,resid urban,2025,0.674652148
+JH,resid urban,2025,0.50971672
+JK,resid urban,2025,0.563403417
+KA,resid urban,2025,0.650049819
+KL,resid urban,2025,0.602840259
+LA,resid urban,2025,0.571008564
+LD,resid urban,2025,0.852683349
+MH,resid urban,2025,0.707535128
+ML,resid urban,2025,0.417111045
+MN,resid urban,2025,0.587723707
+MP,resid urban,2025,0.633156703
+MZ,resid urban,2025,0.648279119
+NL,resid urban,2025,0.589940072
+OD,resid urban,2025,0.424621911
+PB,resid urban,2025,0.529389645
+PC,resid urban,2025,0.895579074
+RJ,resid urban,2025,0.446124143
+SK,resid urban,2025,0.383667652
+TN,resid urban,2025,0.638988542
+TR,resid urban,2025,0.592359292
+TS,resid urban,2025,0.642152408
+UK,resid urban,2025,0.651876311
+UP,resid urban,2025,0.439281698
+WB,resid urban,2025,0.620526454
+AN,resid urban,2030,0.654027505
+AP,resid urban,2030,0.550695297
+AR,resid urban,2030,0.47700791
+AS,resid urban,2030,0.333576789
+BR,resid urban,2030,0.228728445
+CG,resid urban,2030,0.552024263
+CH,resid urban,2030,0.990785668
+DD,resid urban,2030,0.939558839
+DL,resid urban,2030,0.99122138
+DN,resid urban,2030,0.833491656
+GA,resid urban,2030,0.83503996
+GJ,resid urban,2030,0.668336102
+HP,resid urban,2030,0.252392613
+HR,resid urban,2030,0.691085935
+JH,resid urban,2030,0.540637203
+JK,resid urban,2030,0.578980978
+KA,resid urban,2030,0.672679254
+KL,resid urban,2030,0.651688689
+LA,resid urban,2030,0.583914543
+LD,resid urban,2030,0.859463108
+MH,resid urban,2030,0.732756326
+ML,resid urban,2030,0.42086253
+MN,resid urban,2030,0.620223615
+MP,resid urban,2030,0.640281741
+MZ,resid urban,2030,0.678455851
+NL,resid urban,2030,0.612580045
+OD,resid urban,2030,0.44494436
+PB,resid urban,2030,0.554061941
+PC,resid urban,2030,0.904276917
+RJ,resid urban,2030,0.463837287
+SK,resid urban,2030,0.374339818
+TN,resid urban,2030,0.661817275
+TR,resid urban,2030,0.624197262
+TS,resid urban,2030,0.658205994
+UK,resid urban,2030,0.669938145
+UP,resid urban,2030,0.450704791
+WB,resid urban,2030,0.643059583
+AN,resid urban,2035,0.660205734
+AP,resid urban,2035,0.5832035
+AR,resid urban,2035,0.497330766
+AS,resid urban,2035,0.35273267
+BR,resid urban,2035,0.234053284
+CG,resid urban,2035,0.564422358
+CH,resid urban,2035,0.990779645
+DD,resid urban,2035,0.944460616
+DL,resid urban,2035,0.992165413
+DN,resid urban,2035,0.851877717
+GA,resid urban,2035,0.860494877
+GJ,resid urban,2035,0.688466088
+HP,resid urban,2035,0.266268841
+HR,resid urban,2035,0.708023631
+JH,resid urban,2035,0.572786502
+JK,resid urban,2035,0.5950006
+KA,resid urban,2035,0.695788247
+KL,resid urban,2035,0.704488678
+LA,resid urban,2035,0.597044929
+LD,resid urban,2035,0.866280433
+MH,resid urban,2035,0.758412388
+ML,resid urban,2035,0.424676279
+MN,resid urban,2035,0.65378434
+MP,resid urban,2035,0.647752078
+MZ,resid urban,2035,0.709838815
+NL,resid urban,2035,0.635899014
+OD,resid urban,2035,0.466086644
+PB,resid urban,2035,0.57964997
+PC,resid urban,2035,0.91332343
+RJ,resid urban,2035,0.48203077
+SK,resid urban,2035,0.365173124
+TN,resid urban,2035,0.685492241
+TR,resid urban,2035,0.657174672
+TS,resid urban,2035,0.674550544
+UK,resid urban,2035,0.688597999
+UP,resid urban,2035,0.46240451
+WB,resid urban,2035,0.666227551
+AN,resid urban,2040,0.666568247
+AP,resid urban,2040,0.616919971
+AR,resid urban,2040,0.518279784
+AS,resid urban,2040,0.372778678
+BR,resid urban,2040,0.239471721
+CG,resid urban,2040,0.577224186
+CH,resid urban,2040,0.990778339
+DD,resid urban,2040,0.949729917
+DL,resid urban,2040,0.993108679
+DN,resid urban,2040,0.871051978
+GA,resid urban,2040,0.886295616
+GJ,resid urban,2040,0.709635671
+HP,resid urban,2040,0.280806915
+HR,resid urban,2040,0.725511579
+JH,resid urban,2040,0.606168136
+JK,resid urban,2040,0.611491162
+KA,resid urban,2040,0.719359148
+KL,resid urban,2040,0.761580058
+LA,resid urban,2040,0.610384032
+LD,resid urban,2040,0.873141873
+MH,resid urban,2040,0.784456778
+ML,resid urban,2040,0.428549945
+MN,resid urban,2040,0.68836577
+MP,resid urban,2040,0.655584012
+MZ,resid urban,2040,0.742447148
+NL,resid urban,2040,0.659923923
+OD,resid urban,2040,0.488066661
+PB,resid urban,2040,0.606165914
+PC,resid urban,2040,0.922739048
+RJ,resid urban,2040,0.500712643
+SK,resid urban,2040,0.35616166
+TN,resid urban,2040,0.710053063
+TR,resid urban,2040,0.691314886
+TS,resid urban,2040,0.691198793
+UK,resid urban,2040,0.707919651
+UP,resid urban,2040,0.47436479
+WB,resid urban,2040,0.690045058
+AN,resid urban,2045,0.673148371
+AP,resid urban,2045,0.651816971
+AR,resid urban,2045,0.53987403
+AS,resid urban,2045,0.393730853
+BR,resid urban,2045,0.244997855
+CG,resid urban,2045,0.590458498
+CH,resid urban,2045,0.990785923
+DD,resid urban,2045,0.955384902
+DL,resid urban,2045,0.994056216
+DN,resid urban,2045,0.891087127
+GA,resid urban,2045,0.912406206
+GJ,resid urban,2045,0.731950255
+HP,resid urban,2045,0.296015574
+HR,resid urban,2045,0.743569784
+JH,resid urban,2045,0.640741708
+JK,resid urban,2045,0.628467037
+KA,resid urban,2045,0.743403123
+KL,resid urban,2045,0.823289923
+LA,resid urban,2045,0.623941111
+LD,resid urban,2045,0.880030928
+MH,resid urban,2045,0.810874904
+ML,resid urban,2045,0.432508565
+MN,resid urban,2045,0.723941437
+MP,resid urban,2045,0.663807129
+MZ,resid urban,2045,0.77630413
+NL,resid urban,2045,0.684663315
+OD,resid urban,2045,0.510919477
+PB,resid urban,2045,0.633613246
+PC,resid urban,2045,0.932545931
+RJ,resid urban,2045,0.519873595
+SK,resid urban,2045,0.347314207
+TN,resid urban,2045,0.735549403
+TR,resid urban,2045,0.726632201
+TS,resid urban,2045,0.708156081
+UK,resid urban,2045,0.727944117
+UP,resid urban,2045,0.48658901
+WB,resid urban,2045,0.714528429
+AN,resid urban,2050,0.679938879
+AP,resid urban,2050,0.687843573
+AR,resid urban,2050,0.562116675
+AS,resid urban,2050,0.415580283
+BR,resid urban,2050,0.250642612
+CG,resid urban,2050,0.604149625
+CH,resid urban,2050,0.990794784
+DD,resid urban,2050,0.961457707
+DL,resid urban,2050,0.995002989
+DN,resid urban,2050,0.912070407
+GA,resid urban,2050,0.938823529
+GJ,resid urban,2050,0.755497064
+HP,resid urban,2050,0.311932016
+HR,resid urban,2050,0.762248555
+JH,resid urban,2050,0.676485767
+JK,resid urban,2050,0.645953038
+KA,resid urban,2050,0.767894973
+KL,resid urban,2050,0.889999939
+LA,resid urban,2050,0.637718157
+LD,resid urban,2050,0.886962393
+MH,resid urban,2050,0.837646537
+ML,resid urban,2050,0.436533735
+MN,resid urban,2050,0.760456602
+MP,resid urban,2050,0.672462532
+MZ,resid urban,2050,0.811454111
+NL,resid urban,2050,0.71014037
+OD,resid urban,2050,0.534692891
+PB,resid urban,2050,0.662008464
+PC,resid urban,2050,0.942767712
+RJ,resid urban,2050,0.539507063
+SK,resid urban,2050,0.338637565
+TN,resid urban,2050,0.762028834
+TR,resid urban,2050,0.763138946
+TS,resid urban,2050,0.725425247
+UK,resid urban,2050,0.748728911
+UP,resid urban,2050,0.499107617
+WB,resid urban,2050,0.739705032
+AN,resid urban,2055,0.676741939
+AP,resid urban,2055,0.695163192
+AR,resid urban,2055,0.56548125
+AS,resid urban,2055,0.420606193
+BR,resid urban,2055,0.252504916
+CG,resid urban,2055,0.603730461
+CH,resid urban,2055,0.991028945
+DD,resid urban,2055,0.962846803
+DL,resid urban,2055,0.995150926
+DN,resid urban,2055,0.913727124
+GA,resid urban,2055,0.941988374
+GJ,resid urban,2055,0.759062826
+HP,resid urban,2055,0.314254183
+HR,resid urban,2055,0.763605184
+JH,resid urban,2055,0.684657752
+JK,resid urban,2055,0.648370164
+KA,resid urban,2055,0.773962709
+KL,resid urban,2055,0.897969971
+LA,resid urban,2055,0.638676719
+LD,resid urban,2055,0.888962692
+MH,resid urban,2055,0.84469315
+ML,resid urban,2055,0.434493394
+MN,resid urban,2055,0.768995951
+MP,resid urban,2055,0.669665209
+MZ,resid urban,2055,0.819297108
+NL,resid urban,2055,0.715565742
+OD,resid urban,2055,0.536788893
+PB,resid urban,2055,0.669476619
+PC,resid urban,2055,0.944488531
+RJ,resid urban,2055,0.545533063
+SK,resid urban,2055,0.335786851
+TN,resid urban,2055,0.768855543
+TR,resid urban,2055,0.767703019
+TS,resid urban,2055,0.730598934
+UK,resid urban,2055,0.749890497
+UP,resid urban,2055,0.501961239
+WB,resid urban,2055,0.743026115
+AN,resid urban,2060,0.673544666
+AP,resid urban,2060,0.702533113
+AR,resid urban,2060,0.568874575
+AS,resid urban,2060,0.425691656
+BR,resid urban,2060,0.254388005
+CG,resid urban,2060,0.603386771
+CH,resid urban,2060,0.99128295
+DD,resid urban,2060,0.964384084
+DL,resid urban,2060,0.995298958
+DN,resid urban,2060,0.915556812
+GA,resid urban,2060,0.945165222
+GJ,resid urban,2060,0.762851472
+HP,resid urban,2060,0.316582947
+HR,resid urban,2060,0.765068534
+JH,resid urban,2060,0.692940823
+JK,resid urban,2060,0.650877266
+KA,resid urban,2060,0.780094893
+KL,resid urban,2060,0.906009989
+LA,resid urban,2060,0.639650154
+LD,resid urban,2060,0.890975835
+MH,resid urban,2060,0.851778628
+ML,resid urban,2060,0.432461368
+MN,resid urban,2060,0.777648126
+MP,resid urban,2060,0.666926221
+MZ,resid urban,2060,0.827193512
+NL,resid urban,2060,0.721126494
+OD,resid urban,2060,0.538955982
+PB,resid urban,2060,0.67701386
+PC,resid urban,2060,0.946314248
+RJ,resid urban,2060,0.551605037
+SK,resid urban,2060,0.332949007
+TN,resid urban,2060,0.775815502
+TR,resid urban,2060,0.772417142
+TS,resid urban,2060,0.735849553
+UK,resid urban,2060,0.75117834
+UP,resid urban,2060,0.504865128
+WB,resid urban,2060,0.746434717
+AN,resid urban,2065,0.670338748
+AP,resid urban,2065,0.70994099
+AR,resid urban,2065,0.572318608
+AS,resid urban,2065,0.430828536
+BR,resid urban,2065,0.256278027
+CG,resid urban,2065,0.603099029
+CH,resid urban,2065,0.991553239
+DD,resid urban,2065,0.966074862
+DL,resid urban,2065,0.99544713
+DN,resid urban,2065,0.917569636
+GA,resid urban,2065,0.948340474
+GJ,resid urban,2065,0.766871028
+HP,resid urban,2065,0.318949764
+HR,resid urban,2065,0.766642376
+JH,resid urban,2065,0.701347231
+JK,resid urban,2065,0.653479595
+KA,resid urban,2065,0.786291716
+KL,resid urban,2065,0.914130182
+LA,resid urban,2065,0.640631054
+LD,resid urban,2065,0.892985716
+MH,resid urban,2065,0.858916407
+ML,resid urban,2065,0.430436369
+MN,resid urban,2065,0.786420858
+MP,resid urban,2065,0.664256874
+MZ,resid urban,2065,0.835159973
+NL,resid urban,2065,0.726839257
+OD,resid urban,2065,0.541191403
+PB,resid urban,2065,0.684608666
+PC,resid urban,2065,0.948250441
+RJ,resid urban,2065,0.557720394
+SK,resid urban,2065,0.330123698
+TN,resid urban,2065,0.782912603
+TR,resid urban,2065,0.777291857
+TS,resid urban,2065,0.741166873
+UK,resid urban,2065,0.752596512
+UP,resid urban,2065,0.507785176
+WB,resid urban,2065,0.749949386
+AN,resid urban,2070,0.667124464
+AP,resid urban,2070,0.717386437
+AR,resid urban,2070,0.575792196
+AS,resid urban,2070,0.436037778
+BR,resid urban,2070,0.258187444
+CG,resid urban,2070,0.602896266
+CH,resid urban,2070,0.991840463
+DD,resid urban,2070,0.967929188
+DL,resid urban,2070,0.995595428
+DN,resid urban,2070,0.919776089
+GA,resid urban,2070,0.951515052
+GJ,resid urban,2070,0.771135331
+HP,resid urban,2070,0.321322199
+HR,resid urban,2070,0.768338713
+JH,resid urban,2070,0.709886585
+JK,resid urban,2070,0.656175921
+KA,resid urban,2070,0.79256759
+KL,resid urban,2070,0.922309982
+LA,resid urban,2070,0.641618628
+LD,resid urban,2070,0.895000872
+MH,resid urban,2070,0.866091722
+ML,resid urban,2070,0.428414941
+MN,resid urban,2070,0.795299617
+MP,resid urban,2070,0.661649574
+MZ,resid urban,2070,0.843187292
+NL,resid urban,2070,0.732701942
+OD,resid urban,2070,0.543497318
+PB,resid urban,2070,0.692275938
+PC,resid urban,2070,0.950300864
+RJ,resid urban,2070,0.563867411
+SK,resid urban,2070,0.327312644
+TN,resid urban,2070,0.790148862
+TR,resid urban,2070,0.782338158
+TS,resid urban,2070,0.746551046
+UK,resid urban,2070,0.754164563
+UP,resid urban,2070,0.510754338
+WB,resid urban,2070,0.753555516
+AN,resid urban,2075,0.663910045
+AP,resid urban,2075,0.724884108
+AR,resid urban,2075,0.57930383
+AS,resid urban,2075,0.441305529
+BR,resid urban,2075,0.260103053
+CG,resid urban,2075,0.602761336
+CH,resid urban,2075,0.992140833
+DD,resid urban,2075,0.969962062
+DL,resid urban,2075,0.99574382
+DN,resid urban,2075,0.922193093
+GA,resid urban,2075,0.9547008
+GJ,resid urban,2075,0.775661188
+HP,resid urban,2075,0.323731461
+HR,resid urban,2075,0.770144379
+JH,resid urban,2075,0.718544886
+JK,resid urban,2075,0.658969158
+KA,resid urban,2075,0.798913574
+KL,resid urban,2075,0.930580047
+LA,resid urban,2075,0.642622135
+LD,resid urban,2075,0.89701238
+MH,resid urban,2075,0.873309332
+ML,resid urban,2075,0.426411936
+MN,resid urban,2075,0.804307075
+MP,resid urban,2075,0.659117517
+MZ,resid urban,2075,0.851274735
+NL,resid urban,2075,0.738723929
+OD,resid urban,2075,0.54588418
+PB,resid urban,2075,0.699997717
+PC,resid urban,2075,0.952476091
+RJ,resid urban,2075,0.570065604
+SK,resid urban,2075,0.324516366
+TN,resid urban,2075,0.797536397
+TR,resid urban,2075,0.787561286
+TS,resid urban,2075,0.752019852
+UK,resid urban,2075,0.755879998
+UP,resid urban,2075,0.513761653
+WB,resid urban,2075,0.757263725
+AN,resid urban,2080,0.660679689
+AP,resid urban,2080,0.732412586
+AR,resid urban,2080,0.582855717
+AS,resid urban,2080,0.446633606
+BR,resid urban,2080,0.26203967
+CG,resid urban,2080,0.602706782
+CH,resid urban,2080,0.992468524
+DD,resid urban,2080,0.972185348
+DL,resid urban,2080,0.995892357
+DN,resid urban,2080,0.924827065
+GA,resid urban,2080,0.957885344
+GJ,resid urban,2080,0.780455724
+HP,resid urban,2080,0.326162358
+HR,resid urban,2080,0.772087116
+JH,resid urban,2080,0.727338471
+JK,resid urban,2080,0.661877414
+KA,resid urban,2080,0.805331685
+KL,resid urban,2080,0.93891006
+LA,resid urban,2080,0.643620501
+LD,resid urban,2080,0.89903687
+MH,resid urban,2080,0.880578947
+ML,resid urban,2080,0.42440064
+MN,resid urban,2080,0.813435047
+MP,resid urban,2080,0.65666269
+MZ,resid urban,2080,0.85943006
+NL,resid urban,2080,0.744919419
+OD,resid urban,2080,0.548352551
+PB,resid urban,2080,0.707782753
+PC,resid urban,2080,0.954771319
+RJ,resid urban,2080,0.576301401
+SK,resid urban,2080,0.321747098
+TN,resid urban,2080,0.805069177
+TR,resid urban,2080,0.792956402
+TS,resid urban,2080,0.7575552
+UK,resid urban,2080,0.757748768
+UP,resid urban,2080,0.516816953
+WB,resid urban,2080,0.76108306
+AN,resid urban,2085,0.657451236
+AP,resid urban,2085,0.739981094
+AR,resid urban,2085,0.586445062
+AS,resid urban,2085,0.452036678
+BR,resid urban,2085,0.263980497
+CG,resid urban,2085,0.602743424
+CH,resid urban,2085,0.99281072
+DD,resid urban,2085,0.974606864
+DL,resid urban,2085,0.996041017
+DN,resid urban,2085,0.927696545
+GA,resid urban,2085,0.961074341
+GJ,resid urban,2085,0.785540975
+HP,resid urban,2085,0.328611409
+HR,resid urban,2085,0.774162021
+JH,resid urban,2085,0.736271208
+JK,resid urban,2085,0.66488494
+KA,resid urban,2085,0.811826792
+KL,resid urban,2085,0.947320057
+LA,resid urban,2085,0.644637456
+LD,resid urban,2085,0.901057801
+MH,resid urban,2085,0.887888107
+ML,resid urban,2085,0.422410555
+MN,resid urban,2085,0.8226871
+MP,resid urban,2085,0.654297556
+MZ,resid urban,2085,0.867644022
+NL,resid urban,2085,0.751279817
+OD,resid urban,2085,0.550899868
+PB,resid urban,2085,0.715637105
+PC,resid urban,2085,0.95720228
+RJ,resid urban,2085,0.582584977
+SK,resid urban,2085,0.318990772
+TN,resid urban,2085,0.812750581
+TR,resid urban,2085,0.798551746
+TS,resid urban,2085,0.763165344
+UK,resid urban,2085,0.759776191
+UP,resid urban,2085,0.51989988
+WB,resid urban,2085,0.765015247
+AN,resid urban,2090,0.654214726
+AP,resid urban,2090,0.747594655
+AR,resid urban,2090,0.590083411
+AS,resid urban,2090,0.457496567
+BR,resid urban,2090,0.265942775
+CG,resid urban,2090,0.602849051
+CH,resid urban,2090,0.993172637
+DD,resid urban,2090,0.977244641
+DL,resid urban,2090,0.996189786
+DN,resid urban,2090,0.930816789
+GA,resid urban,2090,0.964268207
+GJ,resid urban,2090,0.79093919
+HP,resid urban,2090,0.331081562
+HR,resid urban,2090,0.776367724
+JH,resid urban,2090,0.745336805
+JK,resid urban,2090,0.668013169
+KA,resid urban,2090,0.818399465
+KL,resid urban,2090,0.955800029
+LA,resid urban,2090,0.645661169
+LD,resid urban,2090,0.903083709
+MH,resid urban,2090,0.895240186
+ML,resid urban,2090,0.420422355
+MN,resid urban,2090,0.832068467
+MP,resid urban,2090,0.652014989
+MZ,resid urban,2090,0.875923538
+NL,resid urban,2090,0.757827524
+OD,resid urban,2090,0.553530014
+PB,resid urban,2090,0.72354826
+PC,resid urban,2090,0.959769528
+RJ,resid urban,2090,0.588903563
+SK,resid urban,2090,0.31624926
+TN,resid urban,2090,0.820600755
+TR,resid urban,2090,0.804345337
+TS,resid urban,2090,0.768860236
+UK,resid urban,2090,0.761984077
+UP,resid urban,2090,0.523029345
+WB,resid urban,2090,0.769056777
+AN,resid urban,2095,0.650974073
+AP,resid urban,2095,0.755240392
+AR,resid urban,2095,0.59376013
+AS,resid urban,2095,0.463019543
+BR,resid urban,2095,0.267908775
+CG,resid urban,2095,0.603058714
+CH,resid urban,2095,0.993555024
+DD,resid urban,2095,0.980113229
+DL,resid urban,2095,0.996338688
+DN,resid urban,2095,0.934197209
+GA,resid urban,2095,0.967466324
+GJ,resid urban,2095,0.796659527
+HP,resid urban,2095,0.333585228
+HR,resid urban,2095,0.778726125
+JH,resid urban,2095,0.754545474
+JK,resid urban,2095,0.671253911
+KA,resid urban,2095,0.825049042
+KL,resid urban,2095,0.964359984
+LA,resid urban,2095,0.646688776
+LD,resid urban,2095,0.90510609
+MH,resid urban,2095,0.902641171
+ML,resid urban,2095,0.41844357
+MN,resid urban,2095,0.841585357
+MP,resid urban,2095,0.649820299
+MZ,resid urban,2095,0.88426904
+NL,resid urban,2095,0.764562747
+OD,resid urban,2095,0.556263163
+PB,resid urban,2095,0.73152777
+PC,resid urban,2095,0.962479556
+RJ,resid urban,2095,0.595255204
+SK,resid urban,2095,0.313522989
+TN,resid urban,2095,0.828617691
+TR,resid urban,2095,0.81034438
+TS,resid urban,2095,0.774631914
+UK,resid urban,2095,0.764371852
+UP,resid urban,2095,0.526196051
+WB,resid urban,2095,0.773217042
+AN,resid urban,2100,0.647734956
+AP,resid urban,2100,0.762927212
+AR,resid urban,2100,0.597475841
+AS,resid urban,2100,0.468607267
+BR,resid urban,2100,0.269895366
+CG,resid urban,2100,0.603353422
+CH,resid urban,2100,0.993963787
+DD,resid urban,2100,0.983223183
+DL,resid urban,2100,0.996487706
+DN,resid urban,2100,0.937865109
+GA,resid urban,2100,0.97066883
+GJ,resid urban,2100,0.802727754
+HP,resid urban,2100,0.336106852
+HR,resid urban,2100,0.781230831
+JH,resid urban,2100,0.763905296
+JK,resid urban,2100,0.674618904
+KA,resid urban,2100,0.831775916
+KL,resid urban,2100,0.972999973
+LA,resid urban,2100,0.647734956
+LD,resid urban,2100,0.907140758
+MH,resid urban,2100,0.910081618
+ML,resid urban,2100,0.416468901
+MN,resid urban,2100,0.851234922
+MP,resid urban,2100,0.647735326
+MZ,resid urban,2100,0.892678475
+NL,resid urban,2100,0.771498771
+OD,resid urban,2100,0.559076971
+PB,resid urban,2100,0.739569346
+PC,resid urban,2100,0.965338949
+RJ,resid urban,2100,0.601659284
+SK,resid urban,2100,0.310810811
+TN,resid urban,2100,0.836802776
+TR,resid urban,2100,0.816568047
+TS,resid urban,2100,0.780487805
+UK,resid urban,2100,0.766954487
+UP,resid urban,2100,0.529411399
+WB,resid urban,2100,0.777505876

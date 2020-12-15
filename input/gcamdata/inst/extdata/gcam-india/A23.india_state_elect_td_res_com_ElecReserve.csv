@@ -1,0 +1,8 @@
+# File: A23.india_state_elect_td_res_com_ElecReserve.csv
+# Title: Elect_td_sectors
+# Units: Unitless
+# Column types: ccnn
+# ----------
+region,supplysector,electricity.reserve.margin,average.grid.capacity.factor
+India,elect_td_res,0.15,0.6
+India,elect_td_com,0.15,0.6

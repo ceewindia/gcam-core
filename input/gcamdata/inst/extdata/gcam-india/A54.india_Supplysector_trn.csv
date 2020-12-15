@@ -1,0 +1,15 @@
+# File: A54.india_Supplysector_trn.csv
+# Title: India transport structure
+# Units: NA
+# Column types: cccccinc
+# ----------
+region,supplysector,output.unit,input.unit,price.unit,logit.year.fillout,logit.exponent,logit.type
+India,trn_aviation_intl,million pass-km,EJ,1990$/pass-km,1975,-3,NA
+India,trn_freight,million ton-km,EJ,1990$/ton-km,1975,-2,NA
+India,trn_freight_road,million ton-km,EJ,1990$/ton-km,1975,-1,NA
+India,trn_pass,million pass-km,EJ,1990$/pass-km,1975,-2,NA
+India,trn_pass_road,million pass-km,EJ,1990$/pass-km,1975,-4,NA
+India,trn_pass_road_LDV,million pass-km,EJ,1990$/pass-km,1975,-4,NA
+India,trn_pass_road_LDV_2W,million pass-km,EJ,1990$/pass-km,1975,-6,NA
+India,trn_pass_road_LDV_4W,million pass-km,EJ,1990$/pass-km,1975,-6,absolute-cost-logit
+India,trn_shipping_intl,million ton-km,EJ,1990$/ton-km,1975,-3,NA

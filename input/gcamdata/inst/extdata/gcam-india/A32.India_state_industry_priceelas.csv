@@ -1,0 +1,5334 @@
+# File: A32.India_state_industry_priceelas.csv
+# Title: Price Elasticity of different industries
+# Units: NA
+# Column types: ccni
+# ----------
+region,energy.final.demand,year,price.elasticity
+AN,Agriculture,2015,-1
+AN,Cement,2015,-1
+AN,Chem_Fert,2015,-1
+AN,Fisheries,2015,-1
+AN,Iron and Steel,2015,-1
+AN,Non-Ferrous Metals,2015,-1
+AN,Other Industries,2015,-1
+AN,Paper and Pulp,2015,-1
+AP,Agriculture,2015,-1
+AP,Cement,2015,-1
+AP,Chem_Fert,2015,-1
+AP,Fisheries,2015,-1
+AP,Iron and Steel,2015,-1
+AP,Non-Ferrous Metals,2015,-1
+AP,Other Industries,2015,-1
+AP,Paper and Pulp,2015,-1
+AR,Agriculture,2015,-1
+AR,Cement,2015,-1
+AR,Chem_Fert,2015,-1
+AR,Fisheries,2015,-1
+AR,Iron and Steel,2015,-1
+AR,Non-Ferrous Metals,2015,-1
+AR,Other Industries,2015,-1
+AR,Paper and Pulp,2015,-1
+AS,Agriculture,2015,-1
+AS,Cement,2015,-1
+AS,Chem_Fert,2015,-1
+AS,Fisheries,2015,-1
+AS,Iron and Steel,2015,-1
+AS,Non-Ferrous Metals,2015,-1
+AS,Other Industries,2015,-1
+AS,Paper and Pulp,2015,-1
+BR,Agriculture,2015,-1
+BR,Cement,2015,-1
+BR,Chem_Fert,2015,-1
+BR,Fisheries,2015,-1
+BR,Iron and Steel,2015,-1
+BR,Non-Ferrous Metals,2015,-1
+BR,Other Industries,2015,-1
+BR,Paper and Pulp,2015,-1
+CG,Agriculture,2015,-1
+CG,Cement,2015,-1
+CG,Chem_Fert,2015,-1
+CG,Fisheries,2015,-1
+CG,Iron and Steel,2015,-1
+CG,Non-Ferrous Metals,2015,-1
+CG,Other Industries,2015,-1
+CG,Paper and Pulp,2015,-1
+CH,Agriculture,2015,-1
+CH,Cement,2015,-1
+CH,Chem_Fert,2015,-1
+CH,Fisheries,2015,-1
+CH,Iron and Steel,2015,-1
+CH,Non-Ferrous Metals,2015,-1
+CH,Other Industries,2015,-1
+CH,Paper and Pulp,2015,-1
+DD,Agriculture,2015,-1
+DD,Cement,2015,-1
+DD,Chem_Fert,2015,-1
+DD,Fisheries,2015,-1
+DD,Iron and Steel,2015,-1
+DD,Non-Ferrous Metals,2015,-1
+DD,Other Industries,2015,-1
+DD,Paper and Pulp,2015,-1
+DL,Agriculture,2015,-1
+DL,Cement,2015,-1
+DL,Chem_Fert,2015,-1
+DL,Fisheries,2015,-1
+DL,Iron and Steel,2015,-1
+DL,Non-Ferrous Metals,2015,-1
+DL,Other Industries,2015,-1
+DL,Paper and Pulp,2015,-1
+DN,Agriculture,2015,-1
+DN,Cement,2015,-1
+DN,Chem_Fert,2015,-1
+DN,Fisheries,2015,-1
+DN,Iron and Steel,2015,-1
+DN,Non-Ferrous Metals,2015,-1
+DN,Other Industries,2015,-1
+DN,Paper and Pulp,2015,-1
+GA,Agriculture,2015,-1
+GA,Cement,2015,-1
+GA,Chem_Fert,2015,-1
+GA,Fisheries,2015,-1
+GA,Iron and Steel,2015,-1
+GA,Non-Ferrous Metals,2015,-1
+GA,Other Industries,2015,-1
+GA,Paper and Pulp,2015,-1
+GJ,Agriculture,2015,-1
+GJ,Cement,2015,-1
+GJ,Chem_Fert,2015,-1
+GJ,Fisheries,2015,-1
+GJ,Iron and Steel,2015,-1
+GJ,Non-Ferrous Metals,2015,-1
+GJ,Other Industries,2015,-1
+GJ,Paper and Pulp,2015,-1
+HP,Agriculture,2015,-1
+HP,Cement,2015,-1
+HP,Chem_Fert,2015,-1
+HP,Fisheries,2015,-1
+HP,Iron and Steel,2015,-1
+HP,Non-Ferrous Metals,2015,-1
+HP,Other Industries,2015,-1
+HP,Paper and Pulp,2015,-1
+HR,Agriculture,2015,-1
+HR,Cement,2015,-1
+HR,Chem_Fert,2015,-1
+HR,Fisheries,2015,-1
+HR,Iron and Steel,2015,-1
+HR,Non-Ferrous Metals,2015,-1
+HR,Other Industries,2015,-1
+HR,Paper and Pulp,2015,-1
+JH,Agriculture,2015,-1
+JH,Cement,2015,-1
+JH,Chem_Fert,2015,-1
+JH,Fisheries,2015,-1
+JH,Iron and Steel,2015,-1
+JH,Non-Ferrous Metals,2015,-1
+JH,Other Industries,2015,-1
+JH,Paper and Pulp,2015,-1
+JK,Agriculture,2015,-1
+JK,Cement,2015,-1
+JK,Chem_Fert,2015,-1
+JK,Fisheries,2015,-1
+JK,Iron and Steel,2015,-1
+JK,Non-Ferrous Metals,2015,-1
+JK,Other Industries,2015,-1
+JK,Paper and Pulp,2015,-1
+KA,Agriculture,2015,-1
+KA,Cement,2015,-1
+KA,Chem_Fert,2015,-1
+KA,Fisheries,2015,-1
+KA,Iron and Steel,2015,-1
+KA,Non-Ferrous Metals,2015,-1
+KA,Other Industries,2015,-1
+KA,Paper and Pulp,2015,-1
+KL,Agriculture,2015,-1
+KL,Cement,2015,-1
+KL,Chem_Fert,2015,-1
+KL,Fisheries,2015,-1
+KL,Iron and Steel,2015,-1
+KL,Non-Ferrous Metals,2015,-1
+KL,Other Industries,2015,-1
+KL,Paper and Pulp,2015,-1
+LA,Agriculture,2015,-1
+LA,Cement,2015,-1
+LA,Chem_Fert,2015,-1
+LA,Fisheries,2015,-1
+LA,Iron and Steel,2015,-1
+LA,Non-Ferrous Metals,2015,-1
+LA,Other Industries,2015,-1
+LA,Paper and Pulp,2015,-1
+LD,Agriculture,2015,-1
+LD,Cement,2015,-1
+LD,Chem_Fert,2015,-1
+LD,Fisheries,2015,-1
+LD,Iron and Steel,2015,-1
+LD,Non-Ferrous Metals,2015,-1
+LD,Other Industries,2015,-1
+LD,Paper and Pulp,2015,-1
+MH,Agriculture,2015,-1
+MH,Cement,2015,-1
+MH,Chem_Fert,2015,-1
+MH,Fisheries,2015,-1
+MH,Iron and Steel,2015,-1
+MH,Non-Ferrous Metals,2015,-1
+MH,Other Industries,2015,-1
+MH,Paper and Pulp,2015,-1
+ML,Agriculture,2015,-1
+ML,Cement,2015,-1
+ML,Chem_Fert,2015,-1
+ML,Fisheries,2015,-1
+ML,Iron and Steel,2015,-1
+ML,Non-Ferrous Metals,2015,-1
+ML,Other Industries,2015,-1
+ML,Paper and Pulp,2015,-1
+MN,Agriculture,2015,-1
+MN,Cement,2015,-1
+MN,Chem_Fert,2015,-1
+MN,Fisheries,2015,-1
+MN,Iron and Steel,2015,-1
+MN,Non-Ferrous Metals,2015,-1
+MN,Other Industries,2015,-1
+MN,Paper and Pulp,2015,-1
+MP,Agriculture,2015,-1
+MP,Cement,2015,-1
+MP,Chem_Fert,2015,-1
+MP,Fisheries,2015,-1
+MP,Iron and Steel,2015,-1
+MP,Non-Ferrous Metals,2015,-1
+MP,Other Industries,2015,-1
+MP,Paper and Pulp,2015,-1
+MZ,Agriculture,2015,-1
+MZ,Cement,2015,-1
+MZ,Chem_Fert,2015,-1
+MZ,Fisheries,2015,-1
+MZ,Iron and Steel,2015,-1
+MZ,Non-Ferrous Metals,2015,-1
+MZ,Other Industries,2015,-1
+MZ,Paper and Pulp,2015,-1
+NL,Agriculture,2015,-1
+NL,Cement,2015,-1
+NL,Chem_Fert,2015,-1
+NL,Fisheries,2015,-1
+NL,Iron and Steel,2015,-1
+NL,Non-Ferrous Metals,2015,-1
+NL,Other Industries,2015,-1
+NL,Paper and Pulp,2015,-1
+OD,Agriculture,2015,-1
+OD,Cement,2015,-1
+OD,Chem_Fert,2015,-1
+OD,Fisheries,2015,-1
+OD,Iron and Steel,2015,-1
+OD,Non-Ferrous Metals,2015,-1
+OD,Other Industries,2015,-1
+OD,Paper and Pulp,2015,-1
+PB,Agriculture,2015,-1
+PB,Cement,2015,-1
+PB,Chem_Fert,2015,-1
+PB,Fisheries,2015,-1
+PB,Iron and Steel,2015,-1
+PB,Non-Ferrous Metals,2015,-1
+PB,Other Industries,2015,-1
+PB,Paper and Pulp,2015,-1
+PC,Agriculture,2015,-1
+PC,Cement,2015,-1
+PC,Chem_Fert,2015,-1
+PC,Fisheries,2015,-1
+PC,Iron and Steel,2015,-1
+PC,Non-Ferrous Metals,2015,-1
+PC,Other Industries,2015,-1
+PC,Paper and Pulp,2015,-1
+RJ,Agriculture,2015,-1
+RJ,Cement,2015,-1
+RJ,Chem_Fert,2015,-1
+RJ,Fisheries,2015,-1
+RJ,Iron and Steel,2015,-1
+RJ,Non-Ferrous Metals,2015,-1
+RJ,Other Industries,2015,-1
+RJ,Paper and Pulp,2015,-1
+SK,Agriculture,2015,-1
+SK,Cement,2015,-1
+SK,Chem_Fert,2015,-1
+SK,Fisheries,2015,-1
+SK,Iron and Steel,2015,-1
+SK,Non-Ferrous Metals,2015,-1
+SK,Other Industries,2015,-1
+SK,Paper and Pulp,2015,-1
+TN,Agriculture,2015,-1
+TN,Cement,2015,-1
+TN,Chem_Fert,2015,-1
+TN,Fisheries,2015,-1
+TN,Iron and Steel,2015,-1
+TN,Non-Ferrous Metals,2015,-1
+TN,Other Industries,2015,-1
+TN,Paper and Pulp,2015,-1
+TR,Agriculture,2015,-1
+TR,Cement,2015,-1
+TR,Chem_Fert,2015,-1
+TR,Fisheries,2015,-1
+TR,Iron and Steel,2015,-1
+TR,Non-Ferrous Metals,2015,-1
+TR,Other Industries,2015,-1
+TR,Paper and Pulp,2015,-1
+TS,Agriculture,2015,-1
+TS,Cement,2015,-1
+TS,Chem_Fert,2015,-1
+TS,Fisheries,2015,-1
+TS,Iron and Steel,2015,-1
+TS,Non-Ferrous Metals,2015,-1
+TS,Other Industries,2015,-1
+TS,Paper and Pulp,2015,-1
+UK,Agriculture,2015,-1
+UK,Cement,2015,-1
+UK,Chem_Fert,2015,-1
+UK,Fisheries,2015,-1
+UK,Iron and Steel,2015,-1
+UK,Non-Ferrous Metals,2015,-1
+UK,Other Industries,2015,-1
+UK,Paper and Pulp,2015,-1
+UP,Agriculture,2015,-1
+UP,Cement,2015,-1
+UP,Chem_Fert,2015,-1
+UP,Fisheries,2015,-1
+UP,Iron and Steel,2015,-1
+UP,Non-Ferrous Metals,2015,-1
+UP,Other Industries,2015,-1
+UP,Paper and Pulp,2015,-1
+WB,Agriculture,2015,-1
+WB,Cement,2015,-1
+WB,Chem_Fert,2015,-1
+WB,Fisheries,2015,-1
+WB,Iron and Steel,2015,-1
+WB,Non-Ferrous Metals,2015,-1
+WB,Other Industries,2015,-1
+WB,Paper and Pulp,2015,-1
+AN,Agriculture,2020,-1
+AN,Cement,2020,-1
+AN,Chem_Fert,2020,-1
+AN,Fisheries,2020,-1
+AN,Iron and Steel,2020,-1
+AN,Non-Ferrous Metals,2020,-1
+AN,Other Industries,2020,-1
+AN,Paper and Pulp,2020,-1
+AP,Agriculture,2020,-1
+AP,Cement,2020,-1
+AP,Chem_Fert,2020,-1
+AP,Fisheries,2020,-1
+AP,Iron and Steel,2020,-1
+AP,Non-Ferrous Metals,2020,-1
+AP,Other Industries,2020,-1
+AP,Paper and Pulp,2020,-1
+AR,Agriculture,2020,-1
+AR,Cement,2020,-1
+AR,Chem_Fert,2020,-1
+AR,Fisheries,2020,-1
+AR,Iron and Steel,2020,-1
+AR,Non-Ferrous Metals,2020,-1
+AR,Other Industries,2020,-1
+AR,Paper and Pulp,2020,-1
+AS,Agriculture,2020,-1
+AS,Cement,2020,-1
+AS,Chem_Fert,2020,-1
+AS,Fisheries,2020,-1
+AS,Iron and Steel,2020,-1
+AS,Non-Ferrous Metals,2020,-1
+AS,Other Industries,2020,-1
+AS,Paper and Pulp,2020,-1
+BR,Agriculture,2020,-1
+BR,Cement,2020,-1
+BR,Chem_Fert,2020,-1
+BR,Fisheries,2020,-1
+BR,Iron and Steel,2020,-1
+BR,Non-Ferrous Metals,2020,-1
+BR,Other Industries,2020,-1
+BR,Paper and Pulp,2020,-1
+CG,Agriculture,2020,-1
+CG,Cement,2020,-1
+CG,Chem_Fert,2020,-1
+CG,Fisheries,2020,-1
+CG,Iron and Steel,2020,-1
+CG,Non-Ferrous Metals,2020,-1
+CG,Other Industries,2020,-1
+CG,Paper and Pulp,2020,-1
+CH,Agriculture,2020,-1
+CH,Cement,2020,-1
+CH,Chem_Fert,2020,-1
+CH,Fisheries,2020,-1
+CH,Iron and Steel,2020,-1
+CH,Non-Ferrous Metals,2020,-1
+CH,Other Industries,2020,-1
+CH,Paper and Pulp,2020,-1
+DD,Agriculture,2020,-1
+DD,Cement,2020,-1
+DD,Chem_Fert,2020,-1
+DD,Fisheries,2020,-1
+DD,Iron and Steel,2020,-1
+DD,Non-Ferrous Metals,2020,-1
+DD,Other Industries,2020,-1
+DD,Paper and Pulp,2020,-1
+DL,Agriculture,2020,-1
+DL,Cement,2020,-1
+DL,Chem_Fert,2020,-1
+DL,Fisheries,2020,-1
+DL,Iron and Steel,2020,-1
+DL,Non-Ferrous Metals,2020,-1
+DL,Other Industries,2020,-1
+DL,Paper and Pulp,2020,-1
+DN,Agriculture,2020,-1
+DN,Cement,2020,-1
+DN,Chem_Fert,2020,-1
+DN,Fisheries,2020,-1
+DN,Iron and Steel,2020,-1
+DN,Non-Ferrous Metals,2020,-1
+DN,Other Industries,2020,-1
+DN,Paper and Pulp,2020,-1
+GA,Agriculture,2020,-1
+GA,Cement,2020,-1
+GA,Chem_Fert,2020,-1
+GA,Fisheries,2020,-1
+GA,Iron and Steel,2020,-1
+GA,Non-Ferrous Metals,2020,-1
+GA,Other Industries,2020,-1
+GA,Paper and Pulp,2020,-1
+GJ,Agriculture,2020,-1
+GJ,Cement,2020,-1
+GJ,Chem_Fert,2020,-1
+GJ,Fisheries,2020,-1
+GJ,Iron and Steel,2020,-1
+GJ,Non-Ferrous Metals,2020,-1
+GJ,Other Industries,2020,-1
+GJ,Paper and Pulp,2020,-1
+HP,Agriculture,2020,-1
+HP,Cement,2020,-1
+HP,Chem_Fert,2020,-1
+HP,Fisheries,2020,-1
+HP,Iron and Steel,2020,-1
+HP,Non-Ferrous Metals,2020,-1
+HP,Other Industries,2020,-1
+HP,Paper and Pulp,2020,-1
+HR,Agriculture,2020,-1
+HR,Cement,2020,-1
+HR,Chem_Fert,2020,-1
+HR,Fisheries,2020,-1
+HR,Iron and Steel,2020,-1
+HR,Non-Ferrous Metals,2020,-1
+HR,Other Industries,2020,-1
+HR,Paper and Pulp,2020,-1
+JH,Agriculture,2020,-1
+JH,Cement,2020,-1
+JH,Chem_Fert,2020,-1
+JH,Fisheries,2020,-1
+JH,Iron and Steel,2020,-1
+JH,Non-Ferrous Metals,2020,-1
+JH,Other Industries,2020,-1
+JH,Paper and Pulp,2020,-1
+JK,Agriculture,2020,-1
+JK,Cement,2020,-1
+JK,Chem_Fert,2020,-1
+JK,Fisheries,2020,-1
+JK,Iron and Steel,2020,-1
+JK,Non-Ferrous Metals,2020,-1
+JK,Other Industries,2020,-1
+JK,Paper and Pulp,2020,-1
+KA,Agriculture,2020,-1
+KA,Cement,2020,-1
+KA,Chem_Fert,2020,-1
+KA,Fisheries,2020,-1
+KA,Iron and Steel,2020,-1
+KA,Non-Ferrous Metals,2020,-1
+KA,Other Industries,2020,-1
+KA,Paper and Pulp,2020,-1
+KL,Agriculture,2020,-1
+KL,Cement,2020,-1
+KL,Chem_Fert,2020,-1
+KL,Fisheries,2020,-1
+KL,Iron and Steel,2020,-1
+KL,Non-Ferrous Metals,2020,-1
+KL,Other Industries,2020,-1
+KL,Paper and Pulp,2020,-1
+LA,Agriculture,2020,-1
+LA,Cement,2020,-1
+LA,Chem_Fert,2020,-1
+LA,Fisheries,2020,-1
+LA,Iron and Steel,2020,-1
+LA,Non-Ferrous Metals,2020,-1
+LA,Other Industries,2020,-1
+LA,Paper and Pulp,2020,-1
+LD,Agriculture,2020,-1
+LD,Cement,2020,-1
+LD,Chem_Fert,2020,-1
+LD,Fisheries,2020,-1
+LD,Iron and Steel,2020,-1
+LD,Non-Ferrous Metals,2020,-1
+LD,Other Industries,2020,-1
+LD,Paper and Pulp,2020,-1
+MH,Agriculture,2020,-1
+MH,Cement,2020,-1
+MH,Chem_Fert,2020,-1
+MH,Fisheries,2020,-1
+MH,Iron and Steel,2020,-1
+MH,Non-Ferrous Metals,2020,-1
+MH,Other Industries,2020,-1
+MH,Paper and Pulp,2020,-1
+ML,Agriculture,2020,-1
+ML,Cement,2020,-1
+ML,Chem_Fert,2020,-1
+ML,Fisheries,2020,-1
+ML,Iron and Steel,2020,-1
+ML,Non-Ferrous Metals,2020,-1
+ML,Other Industries,2020,-1
+ML,Paper and Pulp,2020,-1
+MN,Agriculture,2020,-1
+MN,Cement,2020,-1
+MN,Chem_Fert,2020,-1
+MN,Fisheries,2020,-1
+MN,Iron and Steel,2020,-1
+MN,Non-Ferrous Metals,2020,-1
+MN,Other Industries,2020,-1
+MN,Paper and Pulp,2020,-1
+MP,Agriculture,2020,-1
+MP,Cement,2020,-1
+MP,Chem_Fert,2020,-1
+MP,Fisheries,2020,-1
+MP,Iron and Steel,2020,-1
+MP,Non-Ferrous Metals,2020,-1
+MP,Other Industries,2020,-1
+MP,Paper and Pulp,2020,-1
+MZ,Agriculture,2020,-1
+MZ,Cement,2020,-1
+MZ,Chem_Fert,2020,-1
+MZ,Fisheries,2020,-1
+MZ,Iron and Steel,2020,-1
+MZ,Non-Ferrous Metals,2020,-1
+MZ,Other Industries,2020,-1
+MZ,Paper and Pulp,2020,-1
+NL,Agriculture,2020,-1
+NL,Cement,2020,-1
+NL,Chem_Fert,2020,-1
+NL,Fisheries,2020,-1
+NL,Iron and Steel,2020,-1
+NL,Non-Ferrous Metals,2020,-1
+NL,Other Industries,2020,-1
+NL,Paper and Pulp,2020,-1
+OD,Agriculture,2020,-1
+OD,Cement,2020,-1
+OD,Chem_Fert,2020,-1
+OD,Fisheries,2020,-1
+OD,Iron and Steel,2020,-1
+OD,Non-Ferrous Metals,2020,-1
+OD,Other Industries,2020,-1
+OD,Paper and Pulp,2020,-1
+PB,Agriculture,2020,-1
+PB,Cement,2020,-1
+PB,Chem_Fert,2020,-1
+PB,Fisheries,2020,-1
+PB,Iron and Steel,2020,-1
+PB,Non-Ferrous Metals,2020,-1
+PB,Other Industries,2020,-1
+PB,Paper and Pulp,2020,-1
+PC,Agriculture,2020,-1
+PC,Cement,2020,-1
+PC,Chem_Fert,2020,-1
+PC,Fisheries,2020,-1
+PC,Iron and Steel,2020,-1
+PC,Non-Ferrous Metals,2020,-1
+PC,Other Industries,2020,-1
+PC,Paper and Pulp,2020,-1
+RJ,Agriculture,2020,-1
+RJ,Cement,2020,-1
+RJ,Chem_Fert,2020,-1
+RJ,Fisheries,2020,-1
+RJ,Iron and Steel,2020,-1
+RJ,Non-Ferrous Metals,2020,-1
+RJ,Other Industries,2020,-1
+RJ,Paper and Pulp,2020,-1
+SK,Agriculture,2020,-1
+SK,Cement,2020,-1
+SK,Chem_Fert,2020,-1
+SK,Fisheries,2020,-1
+SK,Iron and Steel,2020,-1
+SK,Non-Ferrous Metals,2020,-1
+SK,Other Industries,2020,-1
+SK,Paper and Pulp,2020,-1
+TN,Agriculture,2020,-1
+TN,Cement,2020,-1
+TN,Chem_Fert,2020,-1
+TN,Fisheries,2020,-1
+TN,Iron and Steel,2020,-1
+TN,Non-Ferrous Metals,2020,-1
+TN,Other Industries,2020,-1
+TN,Paper and Pulp,2020,-1
+TR,Agriculture,2020,-1
+TR,Cement,2020,-1
+TR,Chem_Fert,2020,-1
+TR,Fisheries,2020,-1
+TR,Iron and Steel,2020,-1
+TR,Non-Ferrous Metals,2020,-1
+TR,Other Industries,2020,-1
+TR,Paper and Pulp,2020,-1
+TS,Agriculture,2020,-1
+TS,Cement,2020,-1
+TS,Chem_Fert,2020,-1
+TS,Fisheries,2020,-1
+TS,Iron and Steel,2020,-1
+TS,Non-Ferrous Metals,2020,-1
+TS,Other Industries,2020,-1
+TS,Paper and Pulp,2020,-1
+UK,Agriculture,2020,-1
+UK,Cement,2020,-1
+UK,Chem_Fert,2020,-1
+UK,Fisheries,2020,-1
+UK,Iron and Steel,2020,-1
+UK,Non-Ferrous Metals,2020,-1
+UK,Other Industries,2020,-1
+UK,Paper and Pulp,2020,-1
+UP,Agriculture,2020,-1
+UP,Cement,2020,-1
+UP,Chem_Fert,2020,-1
+UP,Fisheries,2020,-1
+UP,Iron and Steel,2020,-1
+UP,Non-Ferrous Metals,2020,-1
+UP,Other Industries,2020,-1
+UP,Paper and Pulp,2020,-1
+WB,Agriculture,2020,-1
+WB,Cement,2020,-1
+WB,Chem_Fert,2020,-1
+WB,Fisheries,2020,-1
+WB,Iron and Steel,2020,-1
+WB,Non-Ferrous Metals,2020,-1
+WB,Other Industries,2020,-1
+WB,Paper and Pulp,2020,-1
+AN,Agriculture,2025,-1
+AN,Cement,2025,-1
+AN,Chem_Fert,2025,-1
+AN,Fisheries,2025,-1
+AN,Iron and Steel,2025,-1
+AN,Non-Ferrous Metals,2025,-1
+AN,Other Industries,2025,-1
+AN,Paper and Pulp,2025,-1
+AP,Agriculture,2025,-1
+AP,Cement,2025,-1
+AP,Chem_Fert,2025,-1
+AP,Fisheries,2025,-1
+AP,Iron and Steel,2025,-1
+AP,Non-Ferrous Metals,2025,-1
+AP,Other Industries,2025,-1
+AP,Paper and Pulp,2025,-1
+AR,Agriculture,2025,-1
+AR,Cement,2025,-1
+AR,Chem_Fert,2025,-1
+AR,Fisheries,2025,-1
+AR,Iron and Steel,2025,-1
+AR,Non-Ferrous Metals,2025,-1
+AR,Other Industries,2025,-1
+AR,Paper and Pulp,2025,-1
+AS,Agriculture,2025,-1
+AS,Cement,2025,-1
+AS,Chem_Fert,2025,-1
+AS,Fisheries,2025,-1
+AS,Iron and Steel,2025,-1
+AS,Non-Ferrous Metals,2025,-1
+AS,Other Industries,2025,-1
+AS,Paper and Pulp,2025,-1
+BR,Agriculture,2025,-1
+BR,Cement,2025,-1
+BR,Chem_Fert,2025,-1
+BR,Fisheries,2025,-1
+BR,Iron and Steel,2025,-1
+BR,Non-Ferrous Metals,2025,-1
+BR,Other Industries,2025,-1
+BR,Paper and Pulp,2025,-1
+CG,Agriculture,2025,-1
+CG,Cement,2025,-1
+CG,Chem_Fert,2025,-1
+CG,Fisheries,2025,-1
+CG,Iron and Steel,2025,-1
+CG,Non-Ferrous Metals,2025,-1
+CG,Other Industries,2025,-1
+CG,Paper and Pulp,2025,-1
+CH,Agriculture,2025,-1
+CH,Cement,2025,-1
+CH,Chem_Fert,2025,-1
+CH,Fisheries,2025,-1
+CH,Iron and Steel,2025,-1
+CH,Non-Ferrous Metals,2025,-1
+CH,Other Industries,2025,-1
+CH,Paper and Pulp,2025,-1
+DD,Agriculture,2025,-1
+DD,Cement,2025,-1
+DD,Chem_Fert,2025,-1
+DD,Fisheries,2025,-1
+DD,Iron and Steel,2025,-1
+DD,Non-Ferrous Metals,2025,-1
+DD,Other Industries,2025,-1
+DD,Paper and Pulp,2025,-1
+DL,Agriculture,2025,-1
+DL,Cement,2025,-1
+DL,Chem_Fert,2025,-1
+DL,Fisheries,2025,-1
+DL,Iron and Steel,2025,-1
+DL,Non-Ferrous Metals,2025,-1
+DL,Other Industries,2025,-1
+DL,Paper and Pulp,2025,-1
+DN,Agriculture,2025,-1
+DN,Cement,2025,-1
+DN,Chem_Fert,2025,-1
+DN,Fisheries,2025,-1
+DN,Iron and Steel,2025,-1
+DN,Non-Ferrous Metals,2025,-1
+DN,Other Industries,2025,-1
+DN,Paper and Pulp,2025,-1
+GA,Agriculture,2025,-1
+GA,Cement,2025,-1
+GA,Chem_Fert,2025,-1
+GA,Fisheries,2025,-1
+GA,Iron and Steel,2025,-1
+GA,Non-Ferrous Metals,2025,-1
+GA,Other Industries,2025,-1
+GA,Paper and Pulp,2025,-1
+GJ,Agriculture,2025,-1
+GJ,Cement,2025,-1
+GJ,Chem_Fert,2025,-1
+GJ,Fisheries,2025,-1
+GJ,Iron and Steel,2025,-1
+GJ,Non-Ferrous Metals,2025,-1
+GJ,Other Industries,2025,-1
+GJ,Paper and Pulp,2025,-1
+HP,Agriculture,2025,-1
+HP,Cement,2025,-1
+HP,Chem_Fert,2025,-1
+HP,Fisheries,2025,-1
+HP,Iron and Steel,2025,-1
+HP,Non-Ferrous Metals,2025,-1
+HP,Other Industries,2025,-1
+HP,Paper and Pulp,2025,-1
+HR,Agriculture,2025,-1
+HR,Cement,2025,-1
+HR,Chem_Fert,2025,-1
+HR,Fisheries,2025,-1
+HR,Iron and Steel,2025,-1
+HR,Non-Ferrous Metals,2025,-1
+HR,Other Industries,2025,-1
+HR,Paper and Pulp,2025,-1
+JH,Agriculture,2025,-1
+JH,Cement,2025,-1
+JH,Chem_Fert,2025,-1
+JH,Fisheries,2025,-1
+JH,Iron and Steel,2025,-1
+JH,Non-Ferrous Metals,2025,-1
+JH,Other Industries,2025,-1
+JH,Paper and Pulp,2025,-1
+JK,Agriculture,2025,-1
+JK,Cement,2025,-1
+JK,Chem_Fert,2025,-1
+JK,Fisheries,2025,-1
+JK,Iron and Steel,2025,-1
+JK,Non-Ferrous Metals,2025,-1
+JK,Other Industries,2025,-1
+JK,Paper and Pulp,2025,-1
+KA,Agriculture,2025,-1
+KA,Cement,2025,-1
+KA,Chem_Fert,2025,-1
+KA,Fisheries,2025,-1
+KA,Iron and Steel,2025,-1
+KA,Non-Ferrous Metals,2025,-1
+KA,Other Industries,2025,-1
+KA,Paper and Pulp,2025,-1
+KL,Agriculture,2025,-1
+KL,Cement,2025,-1
+KL,Chem_Fert,2025,-1
+KL,Fisheries,2025,-1
+KL,Iron and Steel,2025,-1
+KL,Non-Ferrous Metals,2025,-1
+KL,Other Industries,2025,-1
+KL,Paper and Pulp,2025,-1
+LA,Agriculture,2025,-1
+LA,Cement,2025,-1
+LA,Chem_Fert,2025,-1
+LA,Fisheries,2025,-1
+LA,Iron and Steel,2025,-1
+LA,Non-Ferrous Metals,2025,-1
+LA,Other Industries,2025,-1
+LA,Paper and Pulp,2025,-1
+LD,Agriculture,2025,-1
+LD,Cement,2025,-1
+LD,Chem_Fert,2025,-1
+LD,Fisheries,2025,-1
+LD,Iron and Steel,2025,-1
+LD,Non-Ferrous Metals,2025,-1
+LD,Other Industries,2025,-1
+LD,Paper and Pulp,2025,-1
+MH,Agriculture,2025,-1
+MH,Cement,2025,-1
+MH,Chem_Fert,2025,-1
+MH,Fisheries,2025,-1
+MH,Iron and Steel,2025,-1
+MH,Non-Ferrous Metals,2025,-1
+MH,Other Industries,2025,-1
+MH,Paper and Pulp,2025,-1
+ML,Agriculture,2025,-1
+ML,Cement,2025,-1
+ML,Chem_Fert,2025,-1
+ML,Fisheries,2025,-1
+ML,Iron and Steel,2025,-1
+ML,Non-Ferrous Metals,2025,-1
+ML,Other Industries,2025,-1
+ML,Paper and Pulp,2025,-1
+MN,Agriculture,2025,-1
+MN,Cement,2025,-1
+MN,Chem_Fert,2025,-1
+MN,Fisheries,2025,-1
+MN,Iron and Steel,2025,-1
+MN,Non-Ferrous Metals,2025,-1
+MN,Other Industries,2025,-1
+MN,Paper and Pulp,2025,-1
+MP,Agriculture,2025,-1
+MP,Cement,2025,-1
+MP,Chem_Fert,2025,-1
+MP,Fisheries,2025,-1
+MP,Iron and Steel,2025,-1
+MP,Non-Ferrous Metals,2025,-1
+MP,Other Industries,2025,-1
+MP,Paper and Pulp,2025,-1
+MZ,Agriculture,2025,-1
+MZ,Cement,2025,-1
+MZ,Chem_Fert,2025,-1
+MZ,Fisheries,2025,-1
+MZ,Iron and Steel,2025,-1
+MZ,Non-Ferrous Metals,2025,-1
+MZ,Other Industries,2025,-1
+MZ,Paper and Pulp,2025,-1
+NL,Agriculture,2025,-1
+NL,Cement,2025,-1
+NL,Chem_Fert,2025,-1
+NL,Fisheries,2025,-1
+NL,Iron and Steel,2025,-1
+NL,Non-Ferrous Metals,2025,-1
+NL,Other Industries,2025,-1
+NL,Paper and Pulp,2025,-1
+OD,Agriculture,2025,-1
+OD,Cement,2025,-1
+OD,Chem_Fert,2025,-1
+OD,Fisheries,2025,-1
+OD,Iron and Steel,2025,-1
+OD,Non-Ferrous Metals,2025,-1
+OD,Other Industries,2025,-1
+OD,Paper and Pulp,2025,-1
+PB,Agriculture,2025,-1
+PB,Cement,2025,-1
+PB,Chem_Fert,2025,-1
+PB,Fisheries,2025,-1
+PB,Iron and Steel,2025,-1
+PB,Non-Ferrous Metals,2025,-1
+PB,Other Industries,2025,-1
+PB,Paper and Pulp,2025,-1
+PC,Agriculture,2025,-1
+PC,Cement,2025,-1
+PC,Chem_Fert,2025,-1
+PC,Fisheries,2025,-1
+PC,Iron and Steel,2025,-1
+PC,Non-Ferrous Metals,2025,-1
+PC,Other Industries,2025,-1
+PC,Paper and Pulp,2025,-1
+RJ,Agriculture,2025,-1
+RJ,Cement,2025,-1
+RJ,Chem_Fert,2025,-1
+RJ,Fisheries,2025,-1
+RJ,Iron and Steel,2025,-1
+RJ,Non-Ferrous Metals,2025,-1
+RJ,Other Industries,2025,-1
+RJ,Paper and Pulp,2025,-1
+SK,Agriculture,2025,-1
+SK,Cement,2025,-1
+SK,Chem_Fert,2025,-1
+SK,Fisheries,2025,-1
+SK,Iron and Steel,2025,-1
+SK,Non-Ferrous Metals,2025,-1
+SK,Other Industries,2025,-1
+SK,Paper and Pulp,2025,-1
+TN,Agriculture,2025,-1
+TN,Cement,2025,-1
+TN,Chem_Fert,2025,-1
+TN,Fisheries,2025,-1
+TN,Iron and Steel,2025,-1
+TN,Non-Ferrous Metals,2025,-1
+TN,Other Industries,2025,-1
+TN,Paper and Pulp,2025,-1
+TR,Agriculture,2025,-1
+TR,Cement,2025,-1
+TR,Chem_Fert,2025,-1
+TR,Fisheries,2025,-1
+TR,Iron and Steel,2025,-1
+TR,Non-Ferrous Metals,2025,-1
+TR,Other Industries,2025,-1
+TR,Paper and Pulp,2025,-1
+TS,Agriculture,2025,-1
+TS,Cement,2025,-1
+TS,Chem_Fert,2025,-1
+TS,Fisheries,2025,-1
+TS,Iron and Steel,2025,-1
+TS,Non-Ferrous Metals,2025,-1
+TS,Other Industries,2025,-1
+TS,Paper and Pulp,2025,-1
+UK,Agriculture,2025,-1
+UK,Cement,2025,-1
+UK,Chem_Fert,2025,-1
+UK,Fisheries,2025,-1
+UK,Iron and Steel,2025,-1
+UK,Non-Ferrous Metals,2025,-1
+UK,Other Industries,2025,-1
+UK,Paper and Pulp,2025,-1
+UP,Agriculture,2025,-1
+UP,Cement,2025,-1
+UP,Chem_Fert,2025,-1
+UP,Fisheries,2025,-1
+UP,Iron and Steel,2025,-1
+UP,Non-Ferrous Metals,2025,-1
+UP,Other Industries,2025,-1
+UP,Paper and Pulp,2025,-1
+WB,Agriculture,2025,-1
+WB,Cement,2025,-1
+WB,Chem_Fert,2025,-1
+WB,Fisheries,2025,-1
+WB,Iron and Steel,2025,-1
+WB,Non-Ferrous Metals,2025,-1
+WB,Other Industries,2025,-1
+WB,Paper and Pulp,2025,-1
+AN,Agriculture,2030,-1
+AN,Cement,2030,-1
+AN,Chem_Fert,2030,-1
+AN,Fisheries,2030,-1
+AN,Iron and Steel,2030,-1
+AN,Non-Ferrous Metals,2030,-1
+AN,Other Industries,2030,-1
+AN,Paper and Pulp,2030,-1
+AP,Agriculture,2030,-1
+AP,Cement,2030,-1
+AP,Chem_Fert,2030,-1
+AP,Fisheries,2030,-1
+AP,Iron and Steel,2030,-1
+AP,Non-Ferrous Metals,2030,-1
+AP,Other Industries,2030,-1
+AP,Paper and Pulp,2030,-1
+AR,Agriculture,2030,-1
+AR,Cement,2030,-1
+AR,Chem_Fert,2030,-1
+AR,Fisheries,2030,-1
+AR,Iron and Steel,2030,-1
+AR,Non-Ferrous Metals,2030,-1
+AR,Other Industries,2030,-1
+AR,Paper and Pulp,2030,-1
+AS,Agriculture,2030,-1
+AS,Cement,2030,-1
+AS,Chem_Fert,2030,-1
+AS,Fisheries,2030,-1
+AS,Iron and Steel,2030,-1
+AS,Non-Ferrous Metals,2030,-1
+AS,Other Industries,2030,-1
+AS,Paper and Pulp,2030,-1
+BR,Agriculture,2030,-1
+BR,Cement,2030,-1
+BR,Chem_Fert,2030,-1
+BR,Fisheries,2030,-1
+BR,Iron and Steel,2030,-1
+BR,Non-Ferrous Metals,2030,-1
+BR,Other Industries,2030,-1
+BR,Paper and Pulp,2030,-1
+CG,Agriculture,2030,-1
+CG,Cement,2030,-1
+CG,Chem_Fert,2030,-1
+CG,Fisheries,2030,-1
+CG,Iron and Steel,2030,-1
+CG,Non-Ferrous Metals,2030,-1
+CG,Other Industries,2030,-1
+CG,Paper and Pulp,2030,-1
+CH,Agriculture,2030,-1
+CH,Cement,2030,-1
+CH,Chem_Fert,2030,-1
+CH,Fisheries,2030,-1
+CH,Iron and Steel,2030,-1
+CH,Non-Ferrous Metals,2030,-1
+CH,Other Industries,2030,-1
+CH,Paper and Pulp,2030,-1
+DD,Agriculture,2030,-1
+DD,Cement,2030,-1
+DD,Chem_Fert,2030,-1
+DD,Fisheries,2030,-1
+DD,Iron and Steel,2030,-1
+DD,Non-Ferrous Metals,2030,-1
+DD,Other Industries,2030,-1
+DD,Paper and Pulp,2030,-1
+DL,Agriculture,2030,-1
+DL,Cement,2030,-1
+DL,Chem_Fert,2030,-1
+DL,Fisheries,2030,-1
+DL,Iron and Steel,2030,-1
+DL,Non-Ferrous Metals,2030,-1
+DL,Other Industries,2030,-1
+DL,Paper and Pulp,2030,-1
+DN,Agriculture,2030,-1
+DN,Cement,2030,-1
+DN,Chem_Fert,2030,-1
+DN,Fisheries,2030,-1
+DN,Iron and Steel,2030,-1
+DN,Non-Ferrous Metals,2030,-1
+DN,Other Industries,2030,-1
+DN,Paper and Pulp,2030,-1
+GA,Agriculture,2030,-1
+GA,Cement,2030,-1
+GA,Chem_Fert,2030,-1
+GA,Fisheries,2030,-1
+GA,Iron and Steel,2030,-1
+GA,Non-Ferrous Metals,2030,-1
+GA,Other Industries,2030,-1
+GA,Paper and Pulp,2030,-1
+GJ,Agriculture,2030,-1
+GJ,Cement,2030,-1
+GJ,Chem_Fert,2030,-1
+GJ,Fisheries,2030,-1
+GJ,Iron and Steel,2030,-1
+GJ,Non-Ferrous Metals,2030,-1
+GJ,Other Industries,2030,-1
+GJ,Paper and Pulp,2030,-1
+HP,Agriculture,2030,-1
+HP,Cement,2030,-1
+HP,Chem_Fert,2030,-1
+HP,Fisheries,2030,-1
+HP,Iron and Steel,2030,-1
+HP,Non-Ferrous Metals,2030,-1
+HP,Other Industries,2030,-1
+HP,Paper and Pulp,2030,-1
+HR,Agriculture,2030,-1
+HR,Cement,2030,-1
+HR,Chem_Fert,2030,-1
+HR,Fisheries,2030,-1
+HR,Iron and Steel,2030,-1
+HR,Non-Ferrous Metals,2030,-1
+HR,Other Industries,2030,-1
+HR,Paper and Pulp,2030,-1
+JH,Agriculture,2030,-1
+JH,Cement,2030,-1
+JH,Chem_Fert,2030,-1
+JH,Fisheries,2030,-1
+JH,Iron and Steel,2030,-1
+JH,Non-Ferrous Metals,2030,-1
+JH,Other Industries,2030,-1
+JH,Paper and Pulp,2030,-1
+JK,Agriculture,2030,-1
+JK,Cement,2030,-1
+JK,Chem_Fert,2030,-1
+JK,Fisheries,2030,-1
+JK,Iron and Steel,2030,-1
+JK,Non-Ferrous Metals,2030,-1
+JK,Other Industries,2030,-1
+JK,Paper and Pulp,2030,-1
+KA,Agriculture,2030,-1
+KA,Cement,2030,-1
+KA,Chem_Fert,2030,-1
+KA,Fisheries,2030,-1
+KA,Iron and Steel,2030,-1
+KA,Non-Ferrous Metals,2030,-1
+KA,Other Industries,2030,-1
+KA,Paper and Pulp,2030,-1
+KL,Agriculture,2030,-1
+KL,Cement,2030,-1
+KL,Chem_Fert,2030,-1
+KL,Fisheries,2030,-1
+KL,Iron and Steel,2030,-1
+KL,Non-Ferrous Metals,2030,-1
+KL,Other Industries,2030,-1
+KL,Paper and Pulp,2030,-1
+LA,Agriculture,2030,-1
+LA,Cement,2030,-1
+LA,Chem_Fert,2030,-1
+LA,Fisheries,2030,-1
+LA,Iron and Steel,2030,-1
+LA,Non-Ferrous Metals,2030,-1
+LA,Other Industries,2030,-1
+LA,Paper and Pulp,2030,-1
+LD,Agriculture,2030,-1
+LD,Cement,2030,-1
+LD,Chem_Fert,2030,-1
+LD,Fisheries,2030,-1
+LD,Iron and Steel,2030,-1
+LD,Non-Ferrous Metals,2030,-1
+LD,Other Industries,2030,-1
+LD,Paper and Pulp,2030,-1
+MH,Agriculture,2030,-1
+MH,Cement,2030,-1
+MH,Chem_Fert,2030,-1
+MH,Fisheries,2030,-1
+MH,Iron and Steel,2030,-1
+MH,Non-Ferrous Metals,2030,-1
+MH,Other Industries,2030,-1
+MH,Paper and Pulp,2030,-1
+ML,Agriculture,2030,-1
+ML,Cement,2030,-1
+ML,Chem_Fert,2030,-1
+ML,Fisheries,2030,-1
+ML,Iron and Steel,2030,-1
+ML,Non-Ferrous Metals,2030,-1
+ML,Other Industries,2030,-1
+ML,Paper and Pulp,2030,-1
+MN,Agriculture,2030,-1
+MN,Cement,2030,-1
+MN,Chem_Fert,2030,-1
+MN,Fisheries,2030,-1
+MN,Iron and Steel,2030,-1
+MN,Non-Ferrous Metals,2030,-1
+MN,Other Industries,2030,-1
+MN,Paper and Pulp,2030,-1
+MP,Agriculture,2030,-1
+MP,Cement,2030,-1
+MP,Chem_Fert,2030,-1
+MP,Fisheries,2030,-1
+MP,Iron and Steel,2030,-1
+MP,Non-Ferrous Metals,2030,-1
+MP,Other Industries,2030,-1
+MP,Paper and Pulp,2030,-1
+MZ,Agriculture,2030,-1
+MZ,Cement,2030,-1
+MZ,Chem_Fert,2030,-1
+MZ,Fisheries,2030,-1
+MZ,Iron and Steel,2030,-1
+MZ,Non-Ferrous Metals,2030,-1
+MZ,Other Industries,2030,-1
+MZ,Paper and Pulp,2030,-1
+NL,Agriculture,2030,-1
+NL,Cement,2030,-1
+NL,Chem_Fert,2030,-1
+NL,Fisheries,2030,-1
+NL,Iron and Steel,2030,-1
+NL,Non-Ferrous Metals,2030,-1
+NL,Other Industries,2030,-1
+NL,Paper and Pulp,2030,-1
+OD,Agriculture,2030,-1
+OD,Cement,2030,-1
+OD,Chem_Fert,2030,-1
+OD,Fisheries,2030,-1
+OD,Iron and Steel,2030,-1
+OD,Non-Ferrous Metals,2030,-1
+OD,Other Industries,2030,-1
+OD,Paper and Pulp,2030,-1
+PB,Agriculture,2030,-1
+PB,Cement,2030,-1
+PB,Chem_Fert,2030,-1
+PB,Fisheries,2030,-1
+PB,Iron and Steel,2030,-1
+PB,Non-Ferrous Metals,2030,-1
+PB,Other Industries,2030,-1
+PB,Paper and Pulp,2030,-1
+PC,Agriculture,2030,-1
+PC,Cement,2030,-1
+PC,Chem_Fert,2030,-1
+PC,Fisheries,2030,-1
+PC,Iron and Steel,2030,-1
+PC,Non-Ferrous Metals,2030,-1
+PC,Other Industries,2030,-1
+PC,Paper and Pulp,2030,-1
+RJ,Agriculture,2030,-1
+RJ,Cement,2030,-1
+RJ,Chem_Fert,2030,-1
+RJ,Fisheries,2030,-1
+RJ,Iron and Steel,2030,-1
+RJ,Non-Ferrous Metals,2030,-1
+RJ,Other Industries,2030,-1
+RJ,Paper and Pulp,2030,-1
+SK,Agriculture,2030,-1
+SK,Cement,2030,-1
+SK,Chem_Fert,2030,-1
+SK,Fisheries,2030,-1
+SK,Iron and Steel,2030,-1
+SK,Non-Ferrous Metals,2030,-1
+SK,Other Industries,2030,-1
+SK,Paper and Pulp,2030,-1
+TN,Agriculture,2030,-1
+TN,Cement,2030,-1
+TN,Chem_Fert,2030,-1
+TN,Fisheries,2030,-1
+TN,Iron and Steel,2030,-1
+TN,Non-Ferrous Metals,2030,-1
+TN,Other Industries,2030,-1
+TN,Paper and Pulp,2030,-1
+TR,Agriculture,2030,-1
+TR,Cement,2030,-1
+TR,Chem_Fert,2030,-1
+TR,Fisheries,2030,-1
+TR,Iron and Steel,2030,-1
+TR,Non-Ferrous Metals,2030,-1
+TR,Other Industries,2030,-1
+TR,Paper and Pulp,2030,-1
+TS,Agriculture,2030,-1
+TS,Cement,2030,-1
+TS,Chem_Fert,2030,-1
+TS,Fisheries,2030,-1
+TS,Iron and Steel,2030,-1
+TS,Non-Ferrous Metals,2030,-1
+TS,Other Industries,2030,-1
+TS,Paper and Pulp,2030,-1
+UK,Agriculture,2030,-1
+UK,Cement,2030,-1
+UK,Chem_Fert,2030,-1
+UK,Fisheries,2030,-1
+UK,Iron and Steel,2030,-1
+UK,Non-Ferrous Metals,2030,-1
+UK,Other Industries,2030,-1
+UK,Paper and Pulp,2030,-1
+UP,Agriculture,2030,-1
+UP,Cement,2030,-1
+UP,Chem_Fert,2030,-1
+UP,Fisheries,2030,-1
+UP,Iron and Steel,2030,-1
+UP,Non-Ferrous Metals,2030,-1
+UP,Other Industries,2030,-1
+UP,Paper and Pulp,2030,-1
+WB,Agriculture,2030,-1
+WB,Cement,2030,-1
+WB,Chem_Fert,2030,-1
+WB,Fisheries,2030,-1
+WB,Iron and Steel,2030,-1
+WB,Non-Ferrous Metals,2030,-1
+WB,Other Industries,2030,-1
+WB,Paper and Pulp,2030,-1
+AN,Agriculture,2035,-1
+AN,Cement,2035,-1
+AN,Chem_Fert,2035,-1
+AN,Fisheries,2035,-1
+AN,Iron and Steel,2035,-1
+AN,Non-Ferrous Metals,2035,-1
+AN,Other Industries,2035,-1
+AN,Paper and Pulp,2035,-1
+AP,Agriculture,2035,-1
+AP,Cement,2035,-1
+AP,Chem_Fert,2035,-1
+AP,Fisheries,2035,-1
+AP,Iron and Steel,2035,-1
+AP,Non-Ferrous Metals,2035,-1
+AP,Other Industries,2035,-1
+AP,Paper and Pulp,2035,-1
+AR,Agriculture,2035,-1
+AR,Cement,2035,-1
+AR,Chem_Fert,2035,-1
+AR,Fisheries,2035,-1
+AR,Iron and Steel,2035,-1
+AR,Non-Ferrous Metals,2035,-1
+AR,Other Industries,2035,-1
+AR,Paper and Pulp,2035,-1
+AS,Agriculture,2035,-1
+AS,Cement,2035,-1
+AS,Chem_Fert,2035,-1
+AS,Fisheries,2035,-1
+AS,Iron and Steel,2035,-1
+AS,Non-Ferrous Metals,2035,-1
+AS,Other Industries,2035,-1
+AS,Paper and Pulp,2035,-1
+BR,Agriculture,2035,-1
+BR,Cement,2035,-1
+BR,Chem_Fert,2035,-1
+BR,Fisheries,2035,-1
+BR,Iron and Steel,2035,-1
+BR,Non-Ferrous Metals,2035,-1
+BR,Other Industries,2035,-1
+BR,Paper and Pulp,2035,-1
+CG,Agriculture,2035,-1
+CG,Cement,2035,-1
+CG,Chem_Fert,2035,-1
+CG,Fisheries,2035,-1
+CG,Iron and Steel,2035,-1
+CG,Non-Ferrous Metals,2035,-1
+CG,Other Industries,2035,-1
+CG,Paper and Pulp,2035,-1
+CH,Agriculture,2035,-1
+CH,Cement,2035,-1
+CH,Chem_Fert,2035,-1
+CH,Fisheries,2035,-1
+CH,Iron and Steel,2035,-1
+CH,Non-Ferrous Metals,2035,-1
+CH,Other Industries,2035,-1
+CH,Paper and Pulp,2035,-1
+DD,Agriculture,2035,-1
+DD,Cement,2035,-1
+DD,Chem_Fert,2035,-1
+DD,Fisheries,2035,-1
+DD,Iron and Steel,2035,-1
+DD,Non-Ferrous Metals,2035,-1
+DD,Other Industries,2035,-1
+DD,Paper and Pulp,2035,-1
+DL,Agriculture,2035,-1
+DL,Cement,2035,-1
+DL,Chem_Fert,2035,-1
+DL,Fisheries,2035,-1
+DL,Iron and Steel,2035,-1
+DL,Non-Ferrous Metals,2035,-1
+DL,Other Industries,2035,-1
+DL,Paper and Pulp,2035,-1
+DN,Agriculture,2035,-1
+DN,Cement,2035,-1
+DN,Chem_Fert,2035,-1
+DN,Fisheries,2035,-1
+DN,Iron and Steel,2035,-1
+DN,Non-Ferrous Metals,2035,-1
+DN,Other Industries,2035,-1
+DN,Paper and Pulp,2035,-1
+GA,Agriculture,2035,-1
+GA,Cement,2035,-1
+GA,Chem_Fert,2035,-1
+GA,Fisheries,2035,-1
+GA,Iron and Steel,2035,-1
+GA,Non-Ferrous Metals,2035,-1
+GA,Other Industries,2035,-1
+GA,Paper and Pulp,2035,-1
+GJ,Agriculture,2035,-1
+GJ,Cement,2035,-1
+GJ,Chem_Fert,2035,-1
+GJ,Fisheries,2035,-1
+GJ,Iron and Steel,2035,-1
+GJ,Non-Ferrous Metals,2035,-1
+GJ,Other Industries,2035,-1
+GJ,Paper and Pulp,2035,-1
+HP,Agriculture,2035,-1
+HP,Cement,2035,-1
+HP,Chem_Fert,2035,-1
+HP,Fisheries,2035,-1
+HP,Iron and Steel,2035,-1
+HP,Non-Ferrous Metals,2035,-1
+HP,Other Industries,2035,-1
+HP,Paper and Pulp,2035,-1
+HR,Agriculture,2035,-1
+HR,Cement,2035,-1
+HR,Chem_Fert,2035,-1
+HR,Fisheries,2035,-1
+HR,Iron and Steel,2035,-1
+HR,Non-Ferrous Metals,2035,-1
+HR,Other Industries,2035,-1
+HR,Paper and Pulp,2035,-1
+JH,Agriculture,2035,-1
+JH,Cement,2035,-1
+JH,Chem_Fert,2035,-1
+JH,Fisheries,2035,-1
+JH,Iron and Steel,2035,-1
+JH,Non-Ferrous Metals,2035,-1
+JH,Other Industries,2035,-1
+JH,Paper and Pulp,2035,-1
+JK,Agriculture,2035,-1
+JK,Cement,2035,-1
+JK,Chem_Fert,2035,-1
+JK,Fisheries,2035,-1
+JK,Iron and Steel,2035,-1
+JK,Non-Ferrous Metals,2035,-1
+JK,Other Industries,2035,-1
+JK,Paper and Pulp,2035,-1
+KA,Agriculture,2035,-1
+KA,Cement,2035,-1
+KA,Chem_Fert,2035,-1
+KA,Fisheries,2035,-1
+KA,Iron and Steel,2035,-1
+KA,Non-Ferrous Metals,2035,-1
+KA,Other Industries,2035,-1
+KA,Paper and Pulp,2035,-1
+KL,Agriculture,2035,-1
+KL,Cement,2035,-1
+KL,Chem_Fert,2035,-1
+KL,Fisheries,2035,-1
+KL,Iron and Steel,2035,-1
+KL,Non-Ferrous Metals,2035,-1
+KL,Other Industries,2035,-1
+KL,Paper and Pulp,2035,-1
+LA,Agriculture,2035,-1
+LA,Cement,2035,-1
+LA,Chem_Fert,2035,-1
+LA,Fisheries,2035,-1
+LA,Iron and Steel,2035,-1
+LA,Non-Ferrous Metals,2035,-1
+LA,Other Industries,2035,-1
+LA,Paper and Pulp,2035,-1
+LD,Agriculture,2035,-1
+LD,Cement,2035,-1
+LD,Chem_Fert,2035,-1
+LD,Fisheries,2035,-1
+LD,Iron and Steel,2035,-1
+LD,Non-Ferrous Metals,2035,-1
+LD,Other Industries,2035,-1
+LD,Paper and Pulp,2035,-1
+MH,Agriculture,2035,-1
+MH,Cement,2035,-1
+MH,Chem_Fert,2035,-1
+MH,Fisheries,2035,-1
+MH,Iron and Steel,2035,-1
+MH,Non-Ferrous Metals,2035,-1
+MH,Other Industries,2035,-1
+MH,Paper and Pulp,2035,-1
+ML,Agriculture,2035,-1
+ML,Cement,2035,-1
+ML,Chem_Fert,2035,-1
+ML,Fisheries,2035,-1
+ML,Iron and Steel,2035,-1
+ML,Non-Ferrous Metals,2035,-1
+ML,Other Industries,2035,-1
+ML,Paper and Pulp,2035,-1
+MN,Agriculture,2035,-1
+MN,Cement,2035,-1
+MN,Chem_Fert,2035,-1
+MN,Fisheries,2035,-1
+MN,Iron and Steel,2035,-1
+MN,Non-Ferrous Metals,2035,-1
+MN,Other Industries,2035,-1
+MN,Paper and Pulp,2035,-1
+MP,Agriculture,2035,-1
+MP,Cement,2035,-1
+MP,Chem_Fert,2035,-1
+MP,Fisheries,2035,-1
+MP,Iron and Steel,2035,-1
+MP,Non-Ferrous Metals,2035,-1
+MP,Other Industries,2035,-1
+MP,Paper and Pulp,2035,-1
+MZ,Agriculture,2035,-1
+MZ,Cement,2035,-1
+MZ,Chem_Fert,2035,-1
+MZ,Fisheries,2035,-1
+MZ,Iron and Steel,2035,-1
+MZ,Non-Ferrous Metals,2035,-1
+MZ,Other Industries,2035,-1
+MZ,Paper and Pulp,2035,-1
+NL,Agriculture,2035,-1
+NL,Cement,2035,-1
+NL,Chem_Fert,2035,-1
+NL,Fisheries,2035,-1
+NL,Iron and Steel,2035,-1
+NL,Non-Ferrous Metals,2035,-1
+NL,Other Industries,2035,-1
+NL,Paper and Pulp,2035,-1
+OD,Agriculture,2035,-1
+OD,Cement,2035,-1
+OD,Chem_Fert,2035,-1
+OD,Fisheries,2035,-1
+OD,Iron and Steel,2035,-1
+OD,Non-Ferrous Metals,2035,-1
+OD,Other Industries,2035,-1
+OD,Paper and Pulp,2035,-1
+PB,Agriculture,2035,-1
+PB,Cement,2035,-1
+PB,Chem_Fert,2035,-1
+PB,Fisheries,2035,-1
+PB,Iron and Steel,2035,-1
+PB,Non-Ferrous Metals,2035,-1
+PB,Other Industries,2035,-1
+PB,Paper and Pulp,2035,-1
+PC,Agriculture,2035,-1
+PC,Cement,2035,-1
+PC,Chem_Fert,2035,-1
+PC,Fisheries,2035,-1
+PC,Iron and Steel,2035,-1
+PC,Non-Ferrous Metals,2035,-1
+PC,Other Industries,2035,-1
+PC,Paper and Pulp,2035,-1
+RJ,Agriculture,2035,-1
+RJ,Cement,2035,-1
+RJ,Chem_Fert,2035,-1
+RJ,Fisheries,2035,-1
+RJ,Iron and Steel,2035,-1
+RJ,Non-Ferrous Metals,2035,-1
+RJ,Other Industries,2035,-1
+RJ,Paper and Pulp,2035,-1
+SK,Agriculture,2035,-1
+SK,Cement,2035,-1
+SK,Chem_Fert,2035,-1
+SK,Fisheries,2035,-1
+SK,Iron and Steel,2035,-1
+SK,Non-Ferrous Metals,2035,-1
+SK,Other Industries,2035,-1
+SK,Paper and Pulp,2035,-1
+TN,Agriculture,2035,-1
+TN,Cement,2035,-1
+TN,Chem_Fert,2035,-1
+TN,Fisheries,2035,-1
+TN,Iron and Steel,2035,-1
+TN,Non-Ferrous Metals,2035,-1
+TN,Other Industries,2035,-1
+TN,Paper and Pulp,2035,-1
+TR,Agriculture,2035,-1
+TR,Cement,2035,-1
+TR,Chem_Fert,2035,-1
+TR,Fisheries,2035,-1
+TR,Iron and Steel,2035,-1
+TR,Non-Ferrous Metals,2035,-1
+TR,Other Industries,2035,-1
+TR,Paper and Pulp,2035,-1
+TS,Agriculture,2035,-1
+TS,Cement,2035,-1
+TS,Chem_Fert,2035,-1
+TS,Fisheries,2035,-1
+TS,Iron and Steel,2035,-1
+TS,Non-Ferrous Metals,2035,-1
+TS,Other Industries,2035,-1
+TS,Paper and Pulp,2035,-1
+UK,Agriculture,2035,-1
+UK,Cement,2035,-1
+UK,Chem_Fert,2035,-1
+UK,Fisheries,2035,-1
+UK,Iron and Steel,2035,-1
+UK,Non-Ferrous Metals,2035,-1
+UK,Other Industries,2035,-1
+UK,Paper and Pulp,2035,-1
+UP,Agriculture,2035,-1
+UP,Cement,2035,-1
+UP,Chem_Fert,2035,-1
+UP,Fisheries,2035,-1
+UP,Iron and Steel,2035,-1
+UP,Non-Ferrous Metals,2035,-1
+UP,Other Industries,2035,-1
+UP,Paper and Pulp,2035,-1
+WB,Agriculture,2035,-1
+WB,Cement,2035,-1
+WB,Chem_Fert,2035,-1
+WB,Fisheries,2035,-1
+WB,Iron and Steel,2035,-1
+WB,Non-Ferrous Metals,2035,-1
+WB,Other Industries,2035,-1
+WB,Paper and Pulp,2035,-1
+AN,Agriculture,2040,-1
+AN,Cement,2040,-1
+AN,Chem_Fert,2040,-1
+AN,Fisheries,2040,-1
+AN,Iron and Steel,2040,-1
+AN,Non-Ferrous Metals,2040,-1
+AN,Other Industries,2040,-1
+AN,Paper and Pulp,2040,-1
+AP,Agriculture,2040,-1
+AP,Cement,2040,-1
+AP,Chem_Fert,2040,-1
+AP,Fisheries,2040,-1
+AP,Iron and Steel,2040,-1
+AP,Non-Ferrous Metals,2040,-1
+AP,Other Industries,2040,-1
+AP,Paper and Pulp,2040,-1
+AR,Agriculture,2040,-1
+AR,Cement,2040,-1
+AR,Chem_Fert,2040,-1
+AR,Fisheries,2040,-1
+AR,Iron and Steel,2040,-1
+AR,Non-Ferrous Metals,2040,-1
+AR,Other Industries,2040,-1
+AR,Paper and Pulp,2040,-1
+AS,Agriculture,2040,-1
+AS,Cement,2040,-1
+AS,Chem_Fert,2040,-1
+AS,Fisheries,2040,-1
+AS,Iron and Steel,2040,-1
+AS,Non-Ferrous Metals,2040,-1
+AS,Other Industries,2040,-1
+AS,Paper and Pulp,2040,-1
+BR,Agriculture,2040,-1
+BR,Cement,2040,-1
+BR,Chem_Fert,2040,-1
+BR,Fisheries,2040,-1
+BR,Iron and Steel,2040,-1
+BR,Non-Ferrous Metals,2040,-1
+BR,Other Industries,2040,-1
+BR,Paper and Pulp,2040,-1
+CG,Agriculture,2040,-1
+CG,Cement,2040,-1
+CG,Chem_Fert,2040,-1
+CG,Fisheries,2040,-1
+CG,Iron and Steel,2040,-1
+CG,Non-Ferrous Metals,2040,-1
+CG,Other Industries,2040,-1
+CG,Paper and Pulp,2040,-1
+CH,Agriculture,2040,-1
+CH,Cement,2040,-1
+CH,Chem_Fert,2040,-1
+CH,Fisheries,2040,-1
+CH,Iron and Steel,2040,-1
+CH,Non-Ferrous Metals,2040,-1
+CH,Other Industries,2040,-1
+CH,Paper and Pulp,2040,-1
+DD,Agriculture,2040,-1
+DD,Cement,2040,-1
+DD,Chem_Fert,2040,-1
+DD,Fisheries,2040,-1
+DD,Iron and Steel,2040,-1
+DD,Non-Ferrous Metals,2040,-1
+DD,Other Industries,2040,-1
+DD,Paper and Pulp,2040,-1
+DL,Agriculture,2040,-1
+DL,Cement,2040,-1
+DL,Chem_Fert,2040,-1
+DL,Fisheries,2040,-1
+DL,Iron and Steel,2040,-1
+DL,Non-Ferrous Metals,2040,-1
+DL,Other Industries,2040,-1
+DL,Paper and Pulp,2040,-1
+DN,Agriculture,2040,-1
+DN,Cement,2040,-1
+DN,Chem_Fert,2040,-1
+DN,Fisheries,2040,-1
+DN,Iron and Steel,2040,-1
+DN,Non-Ferrous Metals,2040,-1
+DN,Other Industries,2040,-1
+DN,Paper and Pulp,2040,-1
+GA,Agriculture,2040,-1
+GA,Cement,2040,-1
+GA,Chem_Fert,2040,-1
+GA,Fisheries,2040,-1
+GA,Iron and Steel,2040,-1
+GA,Non-Ferrous Metals,2040,-1
+GA,Other Industries,2040,-1
+GA,Paper and Pulp,2040,-1
+GJ,Agriculture,2040,-1
+GJ,Cement,2040,-1
+GJ,Chem_Fert,2040,-1
+GJ,Fisheries,2040,-1
+GJ,Iron and Steel,2040,-1
+GJ,Non-Ferrous Metals,2040,-1
+GJ,Other Industries,2040,-1
+GJ,Paper and Pulp,2040,-1
+HP,Agriculture,2040,-1
+HP,Cement,2040,-1
+HP,Chem_Fert,2040,-1
+HP,Fisheries,2040,-1
+HP,Iron and Steel,2040,-1
+HP,Non-Ferrous Metals,2040,-1
+HP,Other Industries,2040,-1
+HP,Paper and Pulp,2040,-1
+HR,Agriculture,2040,-1
+HR,Cement,2040,-1
+HR,Chem_Fert,2040,-1
+HR,Fisheries,2040,-1
+HR,Iron and Steel,2040,-1
+HR,Non-Ferrous Metals,2040,-1
+HR,Other Industries,2040,-1
+HR,Paper and Pulp,2040,-1
+JH,Agriculture,2040,-1
+JH,Cement,2040,-1
+JH,Chem_Fert,2040,-1
+JH,Fisheries,2040,-1
+JH,Iron and Steel,2040,-1
+JH,Non-Ferrous Metals,2040,-1
+JH,Other Industries,2040,-1
+JH,Paper and Pulp,2040,-1
+JK,Agriculture,2040,-1
+JK,Cement,2040,-1
+JK,Chem_Fert,2040,-1
+JK,Fisheries,2040,-1
+JK,Iron and Steel,2040,-1
+JK,Non-Ferrous Metals,2040,-1
+JK,Other Industries,2040,-1
+JK,Paper and Pulp,2040,-1
+KA,Agriculture,2040,-1
+KA,Cement,2040,-1
+KA,Chem_Fert,2040,-1
+KA,Fisheries,2040,-1
+KA,Iron and Steel,2040,-1
+KA,Non-Ferrous Metals,2040,-1
+KA,Other Industries,2040,-1
+KA,Paper and Pulp,2040,-1
+KL,Agriculture,2040,-1
+KL,Cement,2040,-1
+KL,Chem_Fert,2040,-1
+KL,Fisheries,2040,-1
+KL,Iron and Steel,2040,-1
+KL,Non-Ferrous Metals,2040,-1
+KL,Other Industries,2040,-1
+KL,Paper and Pulp,2040,-1
+LA,Agriculture,2040,-1
+LA,Cement,2040,-1
+LA,Chem_Fert,2040,-1
+LA,Fisheries,2040,-1
+LA,Iron and Steel,2040,-1
+LA,Non-Ferrous Metals,2040,-1
+LA,Other Industries,2040,-1
+LA,Paper and Pulp,2040,-1
+LD,Agriculture,2040,-1
+LD,Cement,2040,-1
+LD,Chem_Fert,2040,-1
+LD,Fisheries,2040,-1
+LD,Iron and Steel,2040,-1
+LD,Non-Ferrous Metals,2040,-1
+LD,Other Industries,2040,-1
+LD,Paper and Pulp,2040,-1
+MH,Agriculture,2040,-1
+MH,Cement,2040,-1
+MH,Chem_Fert,2040,-1
+MH,Fisheries,2040,-1
+MH,Iron and Steel,2040,-1
+MH,Non-Ferrous Metals,2040,-1
+MH,Other Industries,2040,-1
+MH,Paper and Pulp,2040,-1
+ML,Agriculture,2040,-1
+ML,Cement,2040,-1
+ML,Chem_Fert,2040,-1
+ML,Fisheries,2040,-1
+ML,Iron and Steel,2040,-1
+ML,Non-Ferrous Metals,2040,-1
+ML,Other Industries,2040,-1
+ML,Paper and Pulp,2040,-1
+MN,Agriculture,2040,-1
+MN,Cement,2040,-1
+MN,Chem_Fert,2040,-1
+MN,Fisheries,2040,-1
+MN,Iron and Steel,2040,-1
+MN,Non-Ferrous Metals,2040,-1
+MN,Other Industries,2040,-1
+MN,Paper and Pulp,2040,-1
+MP,Agriculture,2040,-1
+MP,Cement,2040,-1
+MP,Chem_Fert,2040,-1
+MP,Fisheries,2040,-1
+MP,Iron and Steel,2040,-1
+MP,Non-Ferrous Metals,2040,-1
+MP,Other Industries,2040,-1
+MP,Paper and Pulp,2040,-1
+MZ,Agriculture,2040,-1
+MZ,Cement,2040,-1
+MZ,Chem_Fert,2040,-1
+MZ,Fisheries,2040,-1
+MZ,Iron and Steel,2040,-1
+MZ,Non-Ferrous Metals,2040,-1
+MZ,Other Industries,2040,-1
+MZ,Paper and Pulp,2040,-1
+NL,Agriculture,2040,-1
+NL,Cement,2040,-1
+NL,Chem_Fert,2040,-1
+NL,Fisheries,2040,-1
+NL,Iron and Steel,2040,-1
+NL,Non-Ferrous Metals,2040,-1
+NL,Other Industries,2040,-1
+NL,Paper and Pulp,2040,-1
+OD,Agriculture,2040,-1
+OD,Cement,2040,-1
+OD,Chem_Fert,2040,-1
+OD,Fisheries,2040,-1
+OD,Iron and Steel,2040,-1
+OD,Non-Ferrous Metals,2040,-1
+OD,Other Industries,2040,-1
+OD,Paper and Pulp,2040,-1
+PB,Agriculture,2040,-1
+PB,Cement,2040,-1
+PB,Chem_Fert,2040,-1
+PB,Fisheries,2040,-1
+PB,Iron and Steel,2040,-1
+PB,Non-Ferrous Metals,2040,-1
+PB,Other Industries,2040,-1
+PB,Paper and Pulp,2040,-1
+PC,Agriculture,2040,-1
+PC,Cement,2040,-1
+PC,Chem_Fert,2040,-1
+PC,Fisheries,2040,-1
+PC,Iron and Steel,2040,-1
+PC,Non-Ferrous Metals,2040,-1
+PC,Other Industries,2040,-1
+PC,Paper and Pulp,2040,-1
+RJ,Agriculture,2040,-1
+RJ,Cement,2040,-1
+RJ,Chem_Fert,2040,-1
+RJ,Fisheries,2040,-1
+RJ,Iron and Steel,2040,-1
+RJ,Non-Ferrous Metals,2040,-1
+RJ,Other Industries,2040,-1
+RJ,Paper and Pulp,2040,-1
+SK,Agriculture,2040,-1
+SK,Cement,2040,-1
+SK,Chem_Fert,2040,-1
+SK,Fisheries,2040,-1
+SK,Iron and Steel,2040,-1
+SK,Non-Ferrous Metals,2040,-1
+SK,Other Industries,2040,-1
+SK,Paper and Pulp,2040,-1
+TN,Agriculture,2040,-1
+TN,Cement,2040,-1
+TN,Chem_Fert,2040,-1
+TN,Fisheries,2040,-1
+TN,Iron and Steel,2040,-1
+TN,Non-Ferrous Metals,2040,-1
+TN,Other Industries,2040,-1
+TN,Paper and Pulp,2040,-1
+TR,Agriculture,2040,-1
+TR,Cement,2040,-1
+TR,Chem_Fert,2040,-1
+TR,Fisheries,2040,-1
+TR,Iron and Steel,2040,-1
+TR,Non-Ferrous Metals,2040,-1
+TR,Other Industries,2040,-1
+TR,Paper and Pulp,2040,-1
+TS,Agriculture,2040,-1
+TS,Cement,2040,-1
+TS,Chem_Fert,2040,-1
+TS,Fisheries,2040,-1
+TS,Iron and Steel,2040,-1
+TS,Non-Ferrous Metals,2040,-1
+TS,Other Industries,2040,-1
+TS,Paper and Pulp,2040,-1
+UK,Agriculture,2040,-1
+UK,Cement,2040,-1
+UK,Chem_Fert,2040,-1
+UK,Fisheries,2040,-1
+UK,Iron and Steel,2040,-1
+UK,Non-Ferrous Metals,2040,-1
+UK,Other Industries,2040,-1
+UK,Paper and Pulp,2040,-1
+UP,Agriculture,2040,-1
+UP,Cement,2040,-1
+UP,Chem_Fert,2040,-1
+UP,Fisheries,2040,-1
+UP,Iron and Steel,2040,-1
+UP,Non-Ferrous Metals,2040,-1
+UP,Other Industries,2040,-1
+UP,Paper and Pulp,2040,-1
+WB,Agriculture,2040,-1
+WB,Cement,2040,-1
+WB,Chem_Fert,2040,-1
+WB,Fisheries,2040,-1
+WB,Iron and Steel,2040,-1
+WB,Non-Ferrous Metals,2040,-1
+WB,Other Industries,2040,-1
+WB,Paper and Pulp,2040,-1
+AN,Agriculture,2045,-1
+AN,Cement,2045,-1
+AN,Chem_Fert,2045,-1
+AN,Fisheries,2045,-1
+AN,Iron and Steel,2045,-1
+AN,Non-Ferrous Metals,2045,-1
+AN,Other Industries,2045,-1
+AN,Paper and Pulp,2045,-1
+AP,Agriculture,2045,-1
+AP,Cement,2045,-1
+AP,Chem_Fert,2045,-1
+AP,Fisheries,2045,-1
+AP,Iron and Steel,2045,-1
+AP,Non-Ferrous Metals,2045,-1
+AP,Other Industries,2045,-1
+AP,Paper and Pulp,2045,-1
+AR,Agriculture,2045,-1
+AR,Cement,2045,-1
+AR,Chem_Fert,2045,-1
+AR,Fisheries,2045,-1
+AR,Iron and Steel,2045,-1
+AR,Non-Ferrous Metals,2045,-1
+AR,Other Industries,2045,-1
+AR,Paper and Pulp,2045,-1
+AS,Agriculture,2045,-1
+AS,Cement,2045,-1
+AS,Chem_Fert,2045,-1
+AS,Fisheries,2045,-1
+AS,Iron and Steel,2045,-1
+AS,Non-Ferrous Metals,2045,-1
+AS,Other Industries,2045,-1
+AS,Paper and Pulp,2045,-1
+BR,Agriculture,2045,-1
+BR,Cement,2045,-1
+BR,Chem_Fert,2045,-1
+BR,Fisheries,2045,-1
+BR,Iron and Steel,2045,-1
+BR,Non-Ferrous Metals,2045,-1
+BR,Other Industries,2045,-1
+BR,Paper and Pulp,2045,-1
+CG,Agriculture,2045,-1
+CG,Cement,2045,-1
+CG,Chem_Fert,2045,-1
+CG,Fisheries,2045,-1
+CG,Iron and Steel,2045,-1
+CG,Non-Ferrous Metals,2045,-1
+CG,Other Industries,2045,-1
+CG,Paper and Pulp,2045,-1
+CH,Agriculture,2045,-1
+CH,Cement,2045,-1
+CH,Chem_Fert,2045,-1
+CH,Fisheries,2045,-1
+CH,Iron and Steel,2045,-1
+CH,Non-Ferrous Metals,2045,-1
+CH,Other Industries,2045,-1
+CH,Paper and Pulp,2045,-1
+DD,Agriculture,2045,-1
+DD,Cement,2045,-1
+DD,Chem_Fert,2045,-1
+DD,Fisheries,2045,-1
+DD,Iron and Steel,2045,-1
+DD,Non-Ferrous Metals,2045,-1
+DD,Other Industries,2045,-1
+DD,Paper and Pulp,2045,-1
+DL,Agriculture,2045,-1
+DL,Cement,2045,-1
+DL,Chem_Fert,2045,-1
+DL,Fisheries,2045,-1
+DL,Iron and Steel,2045,-1
+DL,Non-Ferrous Metals,2045,-1
+DL,Other Industries,2045,-1
+DL,Paper and Pulp,2045,-1
+DN,Agriculture,2045,-1
+DN,Cement,2045,-1
+DN,Chem_Fert,2045,-1
+DN,Fisheries,2045,-1
+DN,Iron and Steel,2045,-1
+DN,Non-Ferrous Metals,2045,-1
+DN,Other Industries,2045,-1
+DN,Paper and Pulp,2045,-1
+GA,Agriculture,2045,-1
+GA,Cement,2045,-1
+GA,Chem_Fert,2045,-1
+GA,Fisheries,2045,-1
+GA,Iron and Steel,2045,-1
+GA,Non-Ferrous Metals,2045,-1
+GA,Other Industries,2045,-1
+GA,Paper and Pulp,2045,-1
+GJ,Agriculture,2045,-1
+GJ,Cement,2045,-1
+GJ,Chem_Fert,2045,-1
+GJ,Fisheries,2045,-1
+GJ,Iron and Steel,2045,-1
+GJ,Non-Ferrous Metals,2045,-1
+GJ,Other Industries,2045,-1
+GJ,Paper and Pulp,2045,-1
+HP,Agriculture,2045,-1
+HP,Cement,2045,-1
+HP,Chem_Fert,2045,-1
+HP,Fisheries,2045,-1
+HP,Iron and Steel,2045,-1
+HP,Non-Ferrous Metals,2045,-1
+HP,Other Industries,2045,-1
+HP,Paper and Pulp,2045,-1
+HR,Agriculture,2045,-1
+HR,Cement,2045,-1
+HR,Chem_Fert,2045,-1
+HR,Fisheries,2045,-1
+HR,Iron and Steel,2045,-1
+HR,Non-Ferrous Metals,2045,-1
+HR,Other Industries,2045,-1
+HR,Paper and Pulp,2045,-1
+JH,Agriculture,2045,-1
+JH,Cement,2045,-1
+JH,Chem_Fert,2045,-1
+JH,Fisheries,2045,-1
+JH,Iron and Steel,2045,-1
+JH,Non-Ferrous Metals,2045,-1
+JH,Other Industries,2045,-1
+JH,Paper and Pulp,2045,-1
+JK,Agriculture,2045,-1
+JK,Cement,2045,-1
+JK,Chem_Fert,2045,-1
+JK,Fisheries,2045,-1
+JK,Iron and Steel,2045,-1
+JK,Non-Ferrous Metals,2045,-1
+JK,Other Industries,2045,-1
+JK,Paper and Pulp,2045,-1
+KA,Agriculture,2045,-1
+KA,Cement,2045,-1
+KA,Chem_Fert,2045,-1
+KA,Fisheries,2045,-1
+KA,Iron and Steel,2045,-1
+KA,Non-Ferrous Metals,2045,-1
+KA,Other Industries,2045,-1
+KA,Paper and Pulp,2045,-1
+KL,Agriculture,2045,-1
+KL,Cement,2045,-1
+KL,Chem_Fert,2045,-1
+KL,Fisheries,2045,-1
+KL,Iron and Steel,2045,-1
+KL,Non-Ferrous Metals,2045,-1
+KL,Other Industries,2045,-1
+KL,Paper and Pulp,2045,-1
+LA,Agriculture,2045,-1
+LA,Cement,2045,-1
+LA,Chem_Fert,2045,-1
+LA,Fisheries,2045,-1
+LA,Iron and Steel,2045,-1
+LA,Non-Ferrous Metals,2045,-1
+LA,Other Industries,2045,-1
+LA,Paper and Pulp,2045,-1
+LD,Agriculture,2045,-1
+LD,Cement,2045,-1
+LD,Chem_Fert,2045,-1
+LD,Fisheries,2045,-1
+LD,Iron and Steel,2045,-1
+LD,Non-Ferrous Metals,2045,-1
+LD,Other Industries,2045,-1
+LD,Paper and Pulp,2045,-1
+MH,Agriculture,2045,-1
+MH,Cement,2045,-1
+MH,Chem_Fert,2045,-1
+MH,Fisheries,2045,-1
+MH,Iron and Steel,2045,-1
+MH,Non-Ferrous Metals,2045,-1
+MH,Other Industries,2045,-1
+MH,Paper and Pulp,2045,-1
+ML,Agriculture,2045,-1
+ML,Cement,2045,-1
+ML,Chem_Fert,2045,-1
+ML,Fisheries,2045,-1
+ML,Iron and Steel,2045,-1
+ML,Non-Ferrous Metals,2045,-1
+ML,Other Industries,2045,-1
+ML,Paper and Pulp,2045,-1
+MN,Agriculture,2045,-1
+MN,Cement,2045,-1
+MN,Chem_Fert,2045,-1
+MN,Fisheries,2045,-1
+MN,Iron and Steel,2045,-1
+MN,Non-Ferrous Metals,2045,-1
+MN,Other Industries,2045,-1
+MN,Paper and Pulp,2045,-1
+MP,Agriculture,2045,-1
+MP,Cement,2045,-1
+MP,Chem_Fert,2045,-1
+MP,Fisheries,2045,-1
+MP,Iron and Steel,2045,-1
+MP,Non-Ferrous Metals,2045,-1
+MP,Other Industries,2045,-1
+MP,Paper and Pulp,2045,-1
+MZ,Agriculture,2045,-1
+MZ,Cement,2045,-1
+MZ,Chem_Fert,2045,-1
+MZ,Fisheries,2045,-1
+MZ,Iron and Steel,2045,-1
+MZ,Non-Ferrous Metals,2045,-1
+MZ,Other Industries,2045,-1
+MZ,Paper and Pulp,2045,-1
+NL,Agriculture,2045,-1
+NL,Cement,2045,-1
+NL,Chem_Fert,2045,-1
+NL,Fisheries,2045,-1
+NL,Iron and Steel,2045,-1
+NL,Non-Ferrous Metals,2045,-1
+NL,Other Industries,2045,-1
+NL,Paper and Pulp,2045,-1
+OD,Agriculture,2045,-1
+OD,Cement,2045,-1
+OD,Chem_Fert,2045,-1
+OD,Fisheries,2045,-1
+OD,Iron and Steel,2045,-1
+OD,Non-Ferrous Metals,2045,-1
+OD,Other Industries,2045,-1
+OD,Paper and Pulp,2045,-1
+PB,Agriculture,2045,-1
+PB,Cement,2045,-1
+PB,Chem_Fert,2045,-1
+PB,Fisheries,2045,-1
+PB,Iron and Steel,2045,-1
+PB,Non-Ferrous Metals,2045,-1
+PB,Other Industries,2045,-1
+PB,Paper and Pulp,2045,-1
+PC,Agriculture,2045,-1
+PC,Cement,2045,-1
+PC,Chem_Fert,2045,-1
+PC,Fisheries,2045,-1
+PC,Iron and Steel,2045,-1
+PC,Non-Ferrous Metals,2045,-1
+PC,Other Industries,2045,-1
+PC,Paper and Pulp,2045,-1
+RJ,Agriculture,2045,-1
+RJ,Cement,2045,-1
+RJ,Chem_Fert,2045,-1
+RJ,Fisheries,2045,-1
+RJ,Iron and Steel,2045,-1
+RJ,Non-Ferrous Metals,2045,-1
+RJ,Other Industries,2045,-1
+RJ,Paper and Pulp,2045,-1
+SK,Agriculture,2045,-1
+SK,Cement,2045,-1
+SK,Chem_Fert,2045,-1
+SK,Fisheries,2045,-1
+SK,Iron and Steel,2045,-1
+SK,Non-Ferrous Metals,2045,-1
+SK,Other Industries,2045,-1
+SK,Paper and Pulp,2045,-1
+TN,Agriculture,2045,-1
+TN,Cement,2045,-1
+TN,Chem_Fert,2045,-1
+TN,Fisheries,2045,-1
+TN,Iron and Steel,2045,-1
+TN,Non-Ferrous Metals,2045,-1
+TN,Other Industries,2045,-1
+TN,Paper and Pulp,2045,-1
+TR,Agriculture,2045,-1
+TR,Cement,2045,-1
+TR,Chem_Fert,2045,-1
+TR,Fisheries,2045,-1
+TR,Iron and Steel,2045,-1
+TR,Non-Ferrous Metals,2045,-1
+TR,Other Industries,2045,-1
+TR,Paper and Pulp,2045,-1
+TS,Agriculture,2045,-1
+TS,Cement,2045,-1
+TS,Chem_Fert,2045,-1
+TS,Fisheries,2045,-1
+TS,Iron and Steel,2045,-1
+TS,Non-Ferrous Metals,2045,-1
+TS,Other Industries,2045,-1
+TS,Paper and Pulp,2045,-1
+UK,Agriculture,2045,-1
+UK,Cement,2045,-1
+UK,Chem_Fert,2045,-1
+UK,Fisheries,2045,-1
+UK,Iron and Steel,2045,-1
+UK,Non-Ferrous Metals,2045,-1
+UK,Other Industries,2045,-1
+UK,Paper and Pulp,2045,-1
+UP,Agriculture,2045,-1
+UP,Cement,2045,-1
+UP,Chem_Fert,2045,-1
+UP,Fisheries,2045,-1
+UP,Iron and Steel,2045,-1
+UP,Non-Ferrous Metals,2045,-1
+UP,Other Industries,2045,-1
+UP,Paper and Pulp,2045,-1
+WB,Agriculture,2045,-1
+WB,Cement,2045,-1
+WB,Chem_Fert,2045,-1
+WB,Fisheries,2045,-1
+WB,Iron and Steel,2045,-1
+WB,Non-Ferrous Metals,2045,-1
+WB,Other Industries,2045,-1
+WB,Paper and Pulp,2045,-1
+AN,Agriculture,2050,-1
+AN,Cement,2050,-1
+AN,Chem_Fert,2050,-1
+AN,Fisheries,2050,-1
+AN,Iron and Steel,2050,-1
+AN,Non-Ferrous Metals,2050,-1
+AN,Other Industries,2050,-1
+AN,Paper and Pulp,2050,-1
+AP,Agriculture,2050,-1
+AP,Cement,2050,-1
+AP,Chem_Fert,2050,-1
+AP,Fisheries,2050,-1
+AP,Iron and Steel,2050,-1
+AP,Non-Ferrous Metals,2050,-1
+AP,Other Industries,2050,-1
+AP,Paper and Pulp,2050,-1
+AR,Agriculture,2050,-1
+AR,Cement,2050,-1
+AR,Chem_Fert,2050,-1
+AR,Fisheries,2050,-1
+AR,Iron and Steel,2050,-1
+AR,Non-Ferrous Metals,2050,-1
+AR,Other Industries,2050,-1
+AR,Paper and Pulp,2050,-1
+AS,Agriculture,2050,-1
+AS,Cement,2050,-1
+AS,Chem_Fert,2050,-1
+AS,Fisheries,2050,-1
+AS,Iron and Steel,2050,-1
+AS,Non-Ferrous Metals,2050,-1
+AS,Other Industries,2050,-1
+AS,Paper and Pulp,2050,-1
+BR,Agriculture,2050,-1
+BR,Cement,2050,-1
+BR,Chem_Fert,2050,-1
+BR,Fisheries,2050,-1
+BR,Iron and Steel,2050,-1
+BR,Non-Ferrous Metals,2050,-1
+BR,Other Industries,2050,-1
+BR,Paper and Pulp,2050,-1
+CG,Agriculture,2050,-1
+CG,Cement,2050,-1
+CG,Chem_Fert,2050,-1
+CG,Fisheries,2050,-1
+CG,Iron and Steel,2050,-1
+CG,Non-Ferrous Metals,2050,-1
+CG,Other Industries,2050,-1
+CG,Paper and Pulp,2050,-1
+CH,Agriculture,2050,-1
+CH,Cement,2050,-1
+CH,Chem_Fert,2050,-1
+CH,Fisheries,2050,-1
+CH,Iron and Steel,2050,-1
+CH,Non-Ferrous Metals,2050,-1
+CH,Other Industries,2050,-1
+CH,Paper and Pulp,2050,-1
+DD,Agriculture,2050,-1
+DD,Cement,2050,-1
+DD,Chem_Fert,2050,-1
+DD,Fisheries,2050,-1
+DD,Iron and Steel,2050,-1
+DD,Non-Ferrous Metals,2050,-1
+DD,Other Industries,2050,-1
+DD,Paper and Pulp,2050,-1
+DL,Agriculture,2050,-1
+DL,Cement,2050,-1
+DL,Chem_Fert,2050,-1
+DL,Fisheries,2050,-1
+DL,Iron and Steel,2050,-1
+DL,Non-Ferrous Metals,2050,-1
+DL,Other Industries,2050,-1
+DL,Paper and Pulp,2050,-1
+DN,Agriculture,2050,-1
+DN,Cement,2050,-1
+DN,Chem_Fert,2050,-1
+DN,Fisheries,2050,-1
+DN,Iron and Steel,2050,-1
+DN,Non-Ferrous Metals,2050,-1
+DN,Other Industries,2050,-1
+DN,Paper and Pulp,2050,-1
+GA,Agriculture,2050,-1
+GA,Cement,2050,-1
+GA,Chem_Fert,2050,-1
+GA,Fisheries,2050,-1
+GA,Iron and Steel,2050,-1
+GA,Non-Ferrous Metals,2050,-1
+GA,Other Industries,2050,-1
+GA,Paper and Pulp,2050,-1
+GJ,Agriculture,2050,-1
+GJ,Cement,2050,-1
+GJ,Chem_Fert,2050,-1
+GJ,Fisheries,2050,-1
+GJ,Iron and Steel,2050,-1
+GJ,Non-Ferrous Metals,2050,-1
+GJ,Other Industries,2050,-1
+GJ,Paper and Pulp,2050,-1
+HP,Agriculture,2050,-1
+HP,Cement,2050,-1
+HP,Chem_Fert,2050,-1
+HP,Fisheries,2050,-1
+HP,Iron and Steel,2050,-1
+HP,Non-Ferrous Metals,2050,-1
+HP,Other Industries,2050,-1
+HP,Paper and Pulp,2050,-1
+HR,Agriculture,2050,-1
+HR,Cement,2050,-1
+HR,Chem_Fert,2050,-1
+HR,Fisheries,2050,-1
+HR,Iron and Steel,2050,-1
+HR,Non-Ferrous Metals,2050,-1
+HR,Other Industries,2050,-1
+HR,Paper and Pulp,2050,-1
+JH,Agriculture,2050,-1
+JH,Cement,2050,-1
+JH,Chem_Fert,2050,-1
+JH,Fisheries,2050,-1
+JH,Iron and Steel,2050,-1
+JH,Non-Ferrous Metals,2050,-1
+JH,Other Industries,2050,-1
+JH,Paper and Pulp,2050,-1
+JK,Agriculture,2050,-1
+JK,Cement,2050,-1
+JK,Chem_Fert,2050,-1
+JK,Fisheries,2050,-1
+JK,Iron and Steel,2050,-1
+JK,Non-Ferrous Metals,2050,-1
+JK,Other Industries,2050,-1
+JK,Paper and Pulp,2050,-1
+KA,Agriculture,2050,-1
+KA,Cement,2050,-1
+KA,Chem_Fert,2050,-1
+KA,Fisheries,2050,-1
+KA,Iron and Steel,2050,-1
+KA,Non-Ferrous Metals,2050,-1
+KA,Other Industries,2050,-1
+KA,Paper and Pulp,2050,-1
+KL,Agriculture,2050,-1
+KL,Cement,2050,-1
+KL,Chem_Fert,2050,-1
+KL,Fisheries,2050,-1
+KL,Iron and Steel,2050,-1
+KL,Non-Ferrous Metals,2050,-1
+KL,Other Industries,2050,-1
+KL,Paper and Pulp,2050,-1
+LA,Agriculture,2050,-1
+LA,Cement,2050,-1
+LA,Chem_Fert,2050,-1
+LA,Fisheries,2050,-1
+LA,Iron and Steel,2050,-1
+LA,Non-Ferrous Metals,2050,-1
+LA,Other Industries,2050,-1
+LA,Paper and Pulp,2050,-1
+LD,Agriculture,2050,-1
+LD,Cement,2050,-1
+LD,Chem_Fert,2050,-1
+LD,Fisheries,2050,-1
+LD,Iron and Steel,2050,-1
+LD,Non-Ferrous Metals,2050,-1
+LD,Other Industries,2050,-1
+LD,Paper and Pulp,2050,-1
+MH,Agriculture,2050,-1
+MH,Cement,2050,-1
+MH,Chem_Fert,2050,-1
+MH,Fisheries,2050,-1
+MH,Iron and Steel,2050,-1
+MH,Non-Ferrous Metals,2050,-1
+MH,Other Industries,2050,-1
+MH,Paper and Pulp,2050,-1
+ML,Agriculture,2050,-1
+ML,Cement,2050,-1
+ML,Chem_Fert,2050,-1
+ML,Fisheries,2050,-1
+ML,Iron and Steel,2050,-1
+ML,Non-Ferrous Metals,2050,-1
+ML,Other Industries,2050,-1
+ML,Paper and Pulp,2050,-1
+MN,Agriculture,2050,-1
+MN,Cement,2050,-1
+MN,Chem_Fert,2050,-1
+MN,Fisheries,2050,-1
+MN,Iron and Steel,2050,-1
+MN,Non-Ferrous Metals,2050,-1
+MN,Other Industries,2050,-1
+MN,Paper and Pulp,2050,-1
+MP,Agriculture,2050,-1
+MP,Cement,2050,-1
+MP,Chem_Fert,2050,-1
+MP,Fisheries,2050,-1
+MP,Iron and Steel,2050,-1
+MP,Non-Ferrous Metals,2050,-1
+MP,Other Industries,2050,-1
+MP,Paper and Pulp,2050,-1
+MZ,Agriculture,2050,-1
+MZ,Cement,2050,-1
+MZ,Chem_Fert,2050,-1
+MZ,Fisheries,2050,-1
+MZ,Iron and Steel,2050,-1
+MZ,Non-Ferrous Metals,2050,-1
+MZ,Other Industries,2050,-1
+MZ,Paper and Pulp,2050,-1
+NL,Agriculture,2050,-1
+NL,Cement,2050,-1
+NL,Chem_Fert,2050,-1
+NL,Fisheries,2050,-1
+NL,Iron and Steel,2050,-1
+NL,Non-Ferrous Metals,2050,-1
+NL,Other Industries,2050,-1
+NL,Paper and Pulp,2050,-1
+OD,Agriculture,2050,-1
+OD,Cement,2050,-1
+OD,Chem_Fert,2050,-1
+OD,Fisheries,2050,-1
+OD,Iron and Steel,2050,-1
+OD,Non-Ferrous Metals,2050,-1
+OD,Other Industries,2050,-1
+OD,Paper and Pulp,2050,-1
+PB,Agriculture,2050,-1
+PB,Cement,2050,-1
+PB,Chem_Fert,2050,-1
+PB,Fisheries,2050,-1
+PB,Iron and Steel,2050,-1
+PB,Non-Ferrous Metals,2050,-1
+PB,Other Industries,2050,-1
+PB,Paper and Pulp,2050,-1
+PC,Agriculture,2050,-1
+PC,Cement,2050,-1
+PC,Chem_Fert,2050,-1
+PC,Fisheries,2050,-1
+PC,Iron and Steel,2050,-1
+PC,Non-Ferrous Metals,2050,-1
+PC,Other Industries,2050,-1
+PC,Paper and Pulp,2050,-1
+RJ,Agriculture,2050,-1
+RJ,Cement,2050,-1
+RJ,Chem_Fert,2050,-1
+RJ,Fisheries,2050,-1
+RJ,Iron and Steel,2050,-1
+RJ,Non-Ferrous Metals,2050,-1
+RJ,Other Industries,2050,-1
+RJ,Paper and Pulp,2050,-1
+SK,Agriculture,2050,-1
+SK,Cement,2050,-1
+SK,Chem_Fert,2050,-1
+SK,Fisheries,2050,-1
+SK,Iron and Steel,2050,-1
+SK,Non-Ferrous Metals,2050,-1
+SK,Other Industries,2050,-1
+SK,Paper and Pulp,2050,-1
+TN,Agriculture,2050,-1
+TN,Cement,2050,-1
+TN,Chem_Fert,2050,-1
+TN,Fisheries,2050,-1
+TN,Iron and Steel,2050,-1
+TN,Non-Ferrous Metals,2050,-1
+TN,Other Industries,2050,-1
+TN,Paper and Pulp,2050,-1
+TR,Agriculture,2050,-1
+TR,Cement,2050,-1
+TR,Chem_Fert,2050,-1
+TR,Fisheries,2050,-1
+TR,Iron and Steel,2050,-1
+TR,Non-Ferrous Metals,2050,-1
+TR,Other Industries,2050,-1
+TR,Paper and Pulp,2050,-1
+TS,Agriculture,2050,-1
+TS,Cement,2050,-1
+TS,Chem_Fert,2050,-1
+TS,Fisheries,2050,-1
+TS,Iron and Steel,2050,-1
+TS,Non-Ferrous Metals,2050,-1
+TS,Other Industries,2050,-1
+TS,Paper and Pulp,2050,-1
+UK,Agriculture,2050,-1
+UK,Cement,2050,-1
+UK,Chem_Fert,2050,-1
+UK,Fisheries,2050,-1
+UK,Iron and Steel,2050,-1
+UK,Non-Ferrous Metals,2050,-1
+UK,Other Industries,2050,-1
+UK,Paper and Pulp,2050,-1
+UP,Agriculture,2050,-1
+UP,Cement,2050,-1
+UP,Chem_Fert,2050,-1
+UP,Fisheries,2050,-1
+UP,Iron and Steel,2050,-1
+UP,Non-Ferrous Metals,2050,-1
+UP,Other Industries,2050,-1
+UP,Paper and Pulp,2050,-1
+WB,Agriculture,2050,-1
+WB,Cement,2050,-1
+WB,Chem_Fert,2050,-1
+WB,Fisheries,2050,-1
+WB,Iron and Steel,2050,-1
+WB,Non-Ferrous Metals,2050,-1
+WB,Other Industries,2050,-1
+WB,Paper and Pulp,2050,-1
+AN,Agriculture,2055,-1
+AN,Cement,2055,-1
+AN,Chem_Fert,2055,-1
+AN,Fisheries,2055,-1
+AN,Iron and Steel,2055,-1
+AN,Non-Ferrous Metals,2055,-1
+AN,Other Industries,2055,-1
+AN,Paper and Pulp,2055,-1
+AP,Agriculture,2055,-1
+AP,Cement,2055,-1
+AP,Chem_Fert,2055,-1
+AP,Fisheries,2055,-1
+AP,Iron and Steel,2055,-1
+AP,Non-Ferrous Metals,2055,-1
+AP,Other Industries,2055,-1
+AP,Paper and Pulp,2055,-1
+AR,Agriculture,2055,-1
+AR,Cement,2055,-1
+AR,Chem_Fert,2055,-1
+AR,Fisheries,2055,-1
+AR,Iron and Steel,2055,-1
+AR,Non-Ferrous Metals,2055,-1
+AR,Other Industries,2055,-1
+AR,Paper and Pulp,2055,-1
+AS,Agriculture,2055,-1
+AS,Cement,2055,-1
+AS,Chem_Fert,2055,-1
+AS,Fisheries,2055,-1
+AS,Iron and Steel,2055,-1
+AS,Non-Ferrous Metals,2055,-1
+AS,Other Industries,2055,-1
+AS,Paper and Pulp,2055,-1
+BR,Agriculture,2055,-1
+BR,Cement,2055,-1
+BR,Chem_Fert,2055,-1
+BR,Fisheries,2055,-1
+BR,Iron and Steel,2055,-1
+BR,Non-Ferrous Metals,2055,-1
+BR,Other Industries,2055,-1
+BR,Paper and Pulp,2055,-1
+CG,Agriculture,2055,-1
+CG,Cement,2055,-1
+CG,Chem_Fert,2055,-1
+CG,Fisheries,2055,-1
+CG,Iron and Steel,2055,-1
+CG,Non-Ferrous Metals,2055,-1
+CG,Other Industries,2055,-1
+CG,Paper and Pulp,2055,-1
+CH,Agriculture,2055,-1
+CH,Cement,2055,-1
+CH,Chem_Fert,2055,-1
+CH,Fisheries,2055,-1
+CH,Iron and Steel,2055,-1
+CH,Non-Ferrous Metals,2055,-1
+CH,Other Industries,2055,-1
+CH,Paper and Pulp,2055,-1
+DD,Agriculture,2055,-1
+DD,Cement,2055,-1
+DD,Chem_Fert,2055,-1
+DD,Fisheries,2055,-1
+DD,Iron and Steel,2055,-1
+DD,Non-Ferrous Metals,2055,-1
+DD,Other Industries,2055,-1
+DD,Paper and Pulp,2055,-1
+DL,Agriculture,2055,-1
+DL,Cement,2055,-1
+DL,Chem_Fert,2055,-1
+DL,Fisheries,2055,-1
+DL,Iron and Steel,2055,-1
+DL,Non-Ferrous Metals,2055,-1
+DL,Other Industries,2055,-1
+DL,Paper and Pulp,2055,-1
+DN,Agriculture,2055,-1
+DN,Cement,2055,-1
+DN,Chem_Fert,2055,-1
+DN,Fisheries,2055,-1
+DN,Iron and Steel,2055,-1
+DN,Non-Ferrous Metals,2055,-1
+DN,Other Industries,2055,-1
+DN,Paper and Pulp,2055,-1
+GA,Agriculture,2055,-1
+GA,Cement,2055,-1
+GA,Chem_Fert,2055,-1
+GA,Fisheries,2055,-1
+GA,Iron and Steel,2055,-1
+GA,Non-Ferrous Metals,2055,-1
+GA,Other Industries,2055,-1
+GA,Paper and Pulp,2055,-1
+GJ,Agriculture,2055,-1
+GJ,Cement,2055,-1
+GJ,Chem_Fert,2055,-1
+GJ,Fisheries,2055,-1
+GJ,Iron and Steel,2055,-1
+GJ,Non-Ferrous Metals,2055,-1
+GJ,Other Industries,2055,-1
+GJ,Paper and Pulp,2055,-1
+HP,Agriculture,2055,-1
+HP,Cement,2055,-1
+HP,Chem_Fert,2055,-1
+HP,Fisheries,2055,-1
+HP,Iron and Steel,2055,-1
+HP,Non-Ferrous Metals,2055,-1
+HP,Other Industries,2055,-1
+HP,Paper and Pulp,2055,-1
+HR,Agriculture,2055,-1
+HR,Cement,2055,-1
+HR,Chem_Fert,2055,-1
+HR,Fisheries,2055,-1
+HR,Iron and Steel,2055,-1
+HR,Non-Ferrous Metals,2055,-1
+HR,Other Industries,2055,-1
+HR,Paper and Pulp,2055,-1
+JH,Agriculture,2055,-1
+JH,Cement,2055,-1
+JH,Chem_Fert,2055,-1
+JH,Fisheries,2055,-1
+JH,Iron and Steel,2055,-1
+JH,Non-Ferrous Metals,2055,-1
+JH,Other Industries,2055,-1
+JH,Paper and Pulp,2055,-1
+JK,Agriculture,2055,-1
+JK,Cement,2055,-1
+JK,Chem_Fert,2055,-1
+JK,Fisheries,2055,-1
+JK,Iron and Steel,2055,-1
+JK,Non-Ferrous Metals,2055,-1
+JK,Other Industries,2055,-1
+JK,Paper and Pulp,2055,-1
+KA,Agriculture,2055,-1
+KA,Cement,2055,-1
+KA,Chem_Fert,2055,-1
+KA,Fisheries,2055,-1
+KA,Iron and Steel,2055,-1
+KA,Non-Ferrous Metals,2055,-1
+KA,Other Industries,2055,-1
+KA,Paper and Pulp,2055,-1
+KL,Agriculture,2055,-1
+KL,Cement,2055,-1
+KL,Chem_Fert,2055,-1
+KL,Fisheries,2055,-1
+KL,Iron and Steel,2055,-1
+KL,Non-Ferrous Metals,2055,-1
+KL,Other Industries,2055,-1
+KL,Paper and Pulp,2055,-1
+LA,Agriculture,2055,-1
+LA,Cement,2055,-1
+LA,Chem_Fert,2055,-1
+LA,Fisheries,2055,-1
+LA,Iron and Steel,2055,-1
+LA,Non-Ferrous Metals,2055,-1
+LA,Other Industries,2055,-1
+LA,Paper and Pulp,2055,-1
+LD,Agriculture,2055,-1
+LD,Cement,2055,-1
+LD,Chem_Fert,2055,-1
+LD,Fisheries,2055,-1
+LD,Iron and Steel,2055,-1
+LD,Non-Ferrous Metals,2055,-1
+LD,Other Industries,2055,-1
+LD,Paper and Pulp,2055,-1
+MH,Agriculture,2055,-1
+MH,Cement,2055,-1
+MH,Chem_Fert,2055,-1
+MH,Fisheries,2055,-1
+MH,Iron and Steel,2055,-1
+MH,Non-Ferrous Metals,2055,-1
+MH,Other Industries,2055,-1
+MH,Paper and Pulp,2055,-1
+ML,Agriculture,2055,-1
+ML,Cement,2055,-1
+ML,Chem_Fert,2055,-1
+ML,Fisheries,2055,-1
+ML,Iron and Steel,2055,-1
+ML,Non-Ferrous Metals,2055,-1
+ML,Other Industries,2055,-1
+ML,Paper and Pulp,2055,-1
+MN,Agriculture,2055,-1
+MN,Cement,2055,-1
+MN,Chem_Fert,2055,-1
+MN,Fisheries,2055,-1
+MN,Iron and Steel,2055,-1
+MN,Non-Ferrous Metals,2055,-1
+MN,Other Industries,2055,-1
+MN,Paper and Pulp,2055,-1
+MP,Agriculture,2055,-1
+MP,Cement,2055,-1
+MP,Chem_Fert,2055,-1
+MP,Fisheries,2055,-1
+MP,Iron and Steel,2055,-1
+MP,Non-Ferrous Metals,2055,-1
+MP,Other Industries,2055,-1
+MP,Paper and Pulp,2055,-1
+MZ,Agriculture,2055,-1
+MZ,Cement,2055,-1
+MZ,Chem_Fert,2055,-1
+MZ,Fisheries,2055,-1
+MZ,Iron and Steel,2055,-1
+MZ,Non-Ferrous Metals,2055,-1
+MZ,Other Industries,2055,-1
+MZ,Paper and Pulp,2055,-1
+NL,Agriculture,2055,-1
+NL,Cement,2055,-1
+NL,Chem_Fert,2055,-1
+NL,Fisheries,2055,-1
+NL,Iron and Steel,2055,-1
+NL,Non-Ferrous Metals,2055,-1
+NL,Other Industries,2055,-1
+NL,Paper and Pulp,2055,-1
+OD,Agriculture,2055,-1
+OD,Cement,2055,-1
+OD,Chem_Fert,2055,-1
+OD,Fisheries,2055,-1
+OD,Iron and Steel,2055,-1
+OD,Non-Ferrous Metals,2055,-1
+OD,Other Industries,2055,-1
+OD,Paper and Pulp,2055,-1
+PB,Agriculture,2055,-1
+PB,Cement,2055,-1
+PB,Chem_Fert,2055,-1
+PB,Fisheries,2055,-1
+PB,Iron and Steel,2055,-1
+PB,Non-Ferrous Metals,2055,-1
+PB,Other Industries,2055,-1
+PB,Paper and Pulp,2055,-1
+PC,Agriculture,2055,-1
+PC,Cement,2055,-1
+PC,Chem_Fert,2055,-1
+PC,Fisheries,2055,-1
+PC,Iron and Steel,2055,-1
+PC,Non-Ferrous Metals,2055,-1
+PC,Other Industries,2055,-1
+PC,Paper and Pulp,2055,-1
+RJ,Agriculture,2055,-1
+RJ,Cement,2055,-1
+RJ,Chem_Fert,2055,-1
+RJ,Fisheries,2055,-1
+RJ,Iron and Steel,2055,-1
+RJ,Non-Ferrous Metals,2055,-1
+RJ,Other Industries,2055,-1
+RJ,Paper and Pulp,2055,-1
+SK,Agriculture,2055,-1
+SK,Cement,2055,-1
+SK,Chem_Fert,2055,-1
+SK,Fisheries,2055,-1
+SK,Iron and Steel,2055,-1
+SK,Non-Ferrous Metals,2055,-1
+SK,Other Industries,2055,-1
+SK,Paper and Pulp,2055,-1
+TN,Agriculture,2055,-1
+TN,Cement,2055,-1
+TN,Chem_Fert,2055,-1
+TN,Fisheries,2055,-1
+TN,Iron and Steel,2055,-1
+TN,Non-Ferrous Metals,2055,-1
+TN,Other Industries,2055,-1
+TN,Paper and Pulp,2055,-1
+TR,Agriculture,2055,-1
+TR,Cement,2055,-1
+TR,Chem_Fert,2055,-1
+TR,Fisheries,2055,-1
+TR,Iron and Steel,2055,-1
+TR,Non-Ferrous Metals,2055,-1
+TR,Other Industries,2055,-1
+TR,Paper and Pulp,2055,-1
+TS,Agriculture,2055,-1
+TS,Cement,2055,-1
+TS,Chem_Fert,2055,-1
+TS,Fisheries,2055,-1
+TS,Iron and Steel,2055,-1
+TS,Non-Ferrous Metals,2055,-1
+TS,Other Industries,2055,-1
+TS,Paper and Pulp,2055,-1
+UK,Agriculture,2055,-1
+UK,Cement,2055,-1
+UK,Chem_Fert,2055,-1
+UK,Fisheries,2055,-1
+UK,Iron and Steel,2055,-1
+UK,Non-Ferrous Metals,2055,-1
+UK,Other Industries,2055,-1
+UK,Paper and Pulp,2055,-1
+UP,Agriculture,2055,-1
+UP,Cement,2055,-1
+UP,Chem_Fert,2055,-1
+UP,Fisheries,2055,-1
+UP,Iron and Steel,2055,-1
+UP,Non-Ferrous Metals,2055,-1
+UP,Other Industries,2055,-1
+UP,Paper and Pulp,2055,-1
+WB,Agriculture,2055,-1
+WB,Cement,2055,-1
+WB,Chem_Fert,2055,-1
+WB,Fisheries,2055,-1
+WB,Iron and Steel,2055,-1
+WB,Non-Ferrous Metals,2055,-1
+WB,Other Industries,2055,-1
+WB,Paper and Pulp,2055,-1
+AN,Agriculture,2060,-1
+AN,Cement,2060,-1
+AN,Chem_Fert,2060,-1
+AN,Fisheries,2060,-1
+AN,Iron and Steel,2060,-1
+AN,Non-Ferrous Metals,2060,-1
+AN,Other Industries,2060,-1
+AN,Paper and Pulp,2060,-1
+AP,Agriculture,2060,-1
+AP,Cement,2060,-1
+AP,Chem_Fert,2060,-1
+AP,Fisheries,2060,-1
+AP,Iron and Steel,2060,-1
+AP,Non-Ferrous Metals,2060,-1
+AP,Other Industries,2060,-1
+AP,Paper and Pulp,2060,-1
+AR,Agriculture,2060,-1
+AR,Cement,2060,-1
+AR,Chem_Fert,2060,-1
+AR,Fisheries,2060,-1
+AR,Iron and Steel,2060,-1
+AR,Non-Ferrous Metals,2060,-1
+AR,Other Industries,2060,-1
+AR,Paper and Pulp,2060,-1
+AS,Agriculture,2060,-1
+AS,Cement,2060,-1
+AS,Chem_Fert,2060,-1
+AS,Fisheries,2060,-1
+AS,Iron and Steel,2060,-1
+AS,Non-Ferrous Metals,2060,-1
+AS,Other Industries,2060,-1
+AS,Paper and Pulp,2060,-1
+BR,Agriculture,2060,-1
+BR,Cement,2060,-1
+BR,Chem_Fert,2060,-1
+BR,Fisheries,2060,-1
+BR,Iron and Steel,2060,-1
+BR,Non-Ferrous Metals,2060,-1
+BR,Other Industries,2060,-1
+BR,Paper and Pulp,2060,-1
+CG,Agriculture,2060,-1
+CG,Cement,2060,-1
+CG,Chem_Fert,2060,-1
+CG,Fisheries,2060,-1
+CG,Iron and Steel,2060,-1
+CG,Non-Ferrous Metals,2060,-1
+CG,Other Industries,2060,-1
+CG,Paper and Pulp,2060,-1
+CH,Agriculture,2060,-1
+CH,Cement,2060,-1
+CH,Chem_Fert,2060,-1
+CH,Fisheries,2060,-1
+CH,Iron and Steel,2060,-1
+CH,Non-Ferrous Metals,2060,-1
+CH,Other Industries,2060,-1
+CH,Paper and Pulp,2060,-1
+DD,Agriculture,2060,-1
+DD,Cement,2060,-1
+DD,Chem_Fert,2060,-1
+DD,Fisheries,2060,-1
+DD,Iron and Steel,2060,-1
+DD,Non-Ferrous Metals,2060,-1
+DD,Other Industries,2060,-1
+DD,Paper and Pulp,2060,-1
+DL,Agriculture,2060,-1
+DL,Cement,2060,-1
+DL,Chem_Fert,2060,-1
+DL,Fisheries,2060,-1
+DL,Iron and Steel,2060,-1
+DL,Non-Ferrous Metals,2060,-1
+DL,Other Industries,2060,-1
+DL,Paper and Pulp,2060,-1
+DN,Agriculture,2060,-1
+DN,Cement,2060,-1
+DN,Chem_Fert,2060,-1
+DN,Fisheries,2060,-1
+DN,Iron and Steel,2060,-1
+DN,Non-Ferrous Metals,2060,-1
+DN,Other Industries,2060,-1
+DN,Paper and Pulp,2060,-1
+GA,Agriculture,2060,-1
+GA,Cement,2060,-1
+GA,Chem_Fert,2060,-1
+GA,Fisheries,2060,-1
+GA,Iron and Steel,2060,-1
+GA,Non-Ferrous Metals,2060,-1
+GA,Other Industries,2060,-1
+GA,Paper and Pulp,2060,-1
+GJ,Agriculture,2060,-1
+GJ,Cement,2060,-1
+GJ,Chem_Fert,2060,-1
+GJ,Fisheries,2060,-1
+GJ,Iron and Steel,2060,-1
+GJ,Non-Ferrous Metals,2060,-1
+GJ,Other Industries,2060,-1
+GJ,Paper and Pulp,2060,-1
+HP,Agriculture,2060,-1
+HP,Cement,2060,-1
+HP,Chem_Fert,2060,-1
+HP,Fisheries,2060,-1
+HP,Iron and Steel,2060,-1
+HP,Non-Ferrous Metals,2060,-1
+HP,Other Industries,2060,-1
+HP,Paper and Pulp,2060,-1
+HR,Agriculture,2060,-1
+HR,Cement,2060,-1
+HR,Chem_Fert,2060,-1
+HR,Fisheries,2060,-1
+HR,Iron and Steel,2060,-1
+HR,Non-Ferrous Metals,2060,-1
+HR,Other Industries,2060,-1
+HR,Paper and Pulp,2060,-1
+JH,Agriculture,2060,-1
+JH,Cement,2060,-1
+JH,Chem_Fert,2060,-1
+JH,Fisheries,2060,-1
+JH,Iron and Steel,2060,-1
+JH,Non-Ferrous Metals,2060,-1
+JH,Other Industries,2060,-1
+JH,Paper and Pulp,2060,-1
+JK,Agriculture,2060,-1
+JK,Cement,2060,-1
+JK,Chem_Fert,2060,-1
+JK,Fisheries,2060,-1
+JK,Iron and Steel,2060,-1
+JK,Non-Ferrous Metals,2060,-1
+JK,Other Industries,2060,-1
+JK,Paper and Pulp,2060,-1
+KA,Agriculture,2060,-1
+KA,Cement,2060,-1
+KA,Chem_Fert,2060,-1
+KA,Fisheries,2060,-1
+KA,Iron and Steel,2060,-1
+KA,Non-Ferrous Metals,2060,-1
+KA,Other Industries,2060,-1
+KA,Paper and Pulp,2060,-1
+KL,Agriculture,2060,-1
+KL,Cement,2060,-1
+KL,Chem_Fert,2060,-1
+KL,Fisheries,2060,-1
+KL,Iron and Steel,2060,-1
+KL,Non-Ferrous Metals,2060,-1
+KL,Other Industries,2060,-1
+KL,Paper and Pulp,2060,-1
+LA,Agriculture,2060,-1
+LA,Cement,2060,-1
+LA,Chem_Fert,2060,-1
+LA,Fisheries,2060,-1
+LA,Iron and Steel,2060,-1
+LA,Non-Ferrous Metals,2060,-1
+LA,Other Industries,2060,-1
+LA,Paper and Pulp,2060,-1
+LD,Agriculture,2060,-1
+LD,Cement,2060,-1
+LD,Chem_Fert,2060,-1
+LD,Fisheries,2060,-1
+LD,Iron and Steel,2060,-1
+LD,Non-Ferrous Metals,2060,-1
+LD,Other Industries,2060,-1
+LD,Paper and Pulp,2060,-1
+MH,Agriculture,2060,-1
+MH,Cement,2060,-1
+MH,Chem_Fert,2060,-1
+MH,Fisheries,2060,-1
+MH,Iron and Steel,2060,-1
+MH,Non-Ferrous Metals,2060,-1
+MH,Other Industries,2060,-1
+MH,Paper and Pulp,2060,-1
+ML,Agriculture,2060,-1
+ML,Cement,2060,-1
+ML,Chem_Fert,2060,-1
+ML,Fisheries,2060,-1
+ML,Iron and Steel,2060,-1
+ML,Non-Ferrous Metals,2060,-1
+ML,Other Industries,2060,-1
+ML,Paper and Pulp,2060,-1
+MN,Agriculture,2060,-1
+MN,Cement,2060,-1
+MN,Chem_Fert,2060,-1
+MN,Fisheries,2060,-1
+MN,Iron and Steel,2060,-1
+MN,Non-Ferrous Metals,2060,-1
+MN,Other Industries,2060,-1
+MN,Paper and Pulp,2060,-1
+MP,Agriculture,2060,-1
+MP,Cement,2060,-1
+MP,Chem_Fert,2060,-1
+MP,Fisheries,2060,-1
+MP,Iron and Steel,2060,-1
+MP,Non-Ferrous Metals,2060,-1
+MP,Other Industries,2060,-1
+MP,Paper and Pulp,2060,-1
+MZ,Agriculture,2060,-1
+MZ,Cement,2060,-1
+MZ,Chem_Fert,2060,-1
+MZ,Fisheries,2060,-1
+MZ,Iron and Steel,2060,-1
+MZ,Non-Ferrous Metals,2060,-1
+MZ,Other Industries,2060,-1
+MZ,Paper and Pulp,2060,-1
+NL,Agriculture,2060,-1
+NL,Cement,2060,-1
+NL,Chem_Fert,2060,-1
+NL,Fisheries,2060,-1
+NL,Iron and Steel,2060,-1
+NL,Non-Ferrous Metals,2060,-1
+NL,Other Industries,2060,-1
+NL,Paper and Pulp,2060,-1
+OD,Agriculture,2060,-1
+OD,Cement,2060,-1
+OD,Chem_Fert,2060,-1
+OD,Fisheries,2060,-1
+OD,Iron and Steel,2060,-1
+OD,Non-Ferrous Metals,2060,-1
+OD,Other Industries,2060,-1
+OD,Paper and Pulp,2060,-1
+PB,Agriculture,2060,-1
+PB,Cement,2060,-1
+PB,Chem_Fert,2060,-1
+PB,Fisheries,2060,-1
+PB,Iron and Steel,2060,-1
+PB,Non-Ferrous Metals,2060,-1
+PB,Other Industries,2060,-1
+PB,Paper and Pulp,2060,-1
+PC,Agriculture,2060,-1
+PC,Cement,2060,-1
+PC,Chem_Fert,2060,-1
+PC,Fisheries,2060,-1
+PC,Iron and Steel,2060,-1
+PC,Non-Ferrous Metals,2060,-1
+PC,Other Industries,2060,-1
+PC,Paper and Pulp,2060,-1
+RJ,Agriculture,2060,-1
+RJ,Cement,2060,-1
+RJ,Chem_Fert,2060,-1
+RJ,Fisheries,2060,-1
+RJ,Iron and Steel,2060,-1
+RJ,Non-Ferrous Metals,2060,-1
+RJ,Other Industries,2060,-1
+RJ,Paper and Pulp,2060,-1
+SK,Agriculture,2060,-1
+SK,Cement,2060,-1
+SK,Chem_Fert,2060,-1
+SK,Fisheries,2060,-1
+SK,Iron and Steel,2060,-1
+SK,Non-Ferrous Metals,2060,-1
+SK,Other Industries,2060,-1
+SK,Paper and Pulp,2060,-1
+TN,Agriculture,2060,-1
+TN,Cement,2060,-1
+TN,Chem_Fert,2060,-1
+TN,Fisheries,2060,-1
+TN,Iron and Steel,2060,-1
+TN,Non-Ferrous Metals,2060,-1
+TN,Other Industries,2060,-1
+TN,Paper and Pulp,2060,-1
+TR,Agriculture,2060,-1
+TR,Cement,2060,-1
+TR,Chem_Fert,2060,-1
+TR,Fisheries,2060,-1
+TR,Iron and Steel,2060,-1
+TR,Non-Ferrous Metals,2060,-1
+TR,Other Industries,2060,-1
+TR,Paper and Pulp,2060,-1
+TS,Agriculture,2060,-1
+TS,Cement,2060,-1
+TS,Chem_Fert,2060,-1
+TS,Fisheries,2060,-1
+TS,Iron and Steel,2060,-1
+TS,Non-Ferrous Metals,2060,-1
+TS,Other Industries,2060,-1
+TS,Paper and Pulp,2060,-1
+UK,Agriculture,2060,-1
+UK,Cement,2060,-1
+UK,Chem_Fert,2060,-1
+UK,Fisheries,2060,-1
+UK,Iron and Steel,2060,-1
+UK,Non-Ferrous Metals,2060,-1
+UK,Other Industries,2060,-1
+UK,Paper and Pulp,2060,-1
+UP,Agriculture,2060,-1
+UP,Cement,2060,-1
+UP,Chem_Fert,2060,-1
+UP,Fisheries,2060,-1
+UP,Iron and Steel,2060,-1
+UP,Non-Ferrous Metals,2060,-1
+UP,Other Industries,2060,-1
+UP,Paper and Pulp,2060,-1
+WB,Agriculture,2060,-1
+WB,Cement,2060,-1
+WB,Chem_Fert,2060,-1
+WB,Fisheries,2060,-1
+WB,Iron and Steel,2060,-1
+WB,Non-Ferrous Metals,2060,-1
+WB,Other Industries,2060,-1
+WB,Paper and Pulp,2060,-1
+AN,Agriculture,2065,-1
+AN,Cement,2065,-1
+AN,Chem_Fert,2065,-1
+AN,Fisheries,2065,-1
+AN,Iron and Steel,2065,-1
+AN,Non-Ferrous Metals,2065,-1
+AN,Other Industries,2065,-1
+AN,Paper and Pulp,2065,-1
+AP,Agriculture,2065,-1
+AP,Cement,2065,-1
+AP,Chem_Fert,2065,-1
+AP,Fisheries,2065,-1
+AP,Iron and Steel,2065,-1
+AP,Non-Ferrous Metals,2065,-1
+AP,Other Industries,2065,-1
+AP,Paper and Pulp,2065,-1
+AR,Agriculture,2065,-1
+AR,Cement,2065,-1
+AR,Chem_Fert,2065,-1
+AR,Fisheries,2065,-1
+AR,Iron and Steel,2065,-1
+AR,Non-Ferrous Metals,2065,-1
+AR,Other Industries,2065,-1
+AR,Paper and Pulp,2065,-1
+AS,Agriculture,2065,-1
+AS,Cement,2065,-1
+AS,Chem_Fert,2065,-1
+AS,Fisheries,2065,-1
+AS,Iron and Steel,2065,-1
+AS,Non-Ferrous Metals,2065,-1
+AS,Other Industries,2065,-1
+AS,Paper and Pulp,2065,-1
+BR,Agriculture,2065,-1
+BR,Cement,2065,-1
+BR,Chem_Fert,2065,-1
+BR,Fisheries,2065,-1
+BR,Iron and Steel,2065,-1
+BR,Non-Ferrous Metals,2065,-1
+BR,Other Industries,2065,-1
+BR,Paper and Pulp,2065,-1
+CG,Agriculture,2065,-1
+CG,Cement,2065,-1
+CG,Chem_Fert,2065,-1
+CG,Fisheries,2065,-1
+CG,Iron and Steel,2065,-1
+CG,Non-Ferrous Metals,2065,-1
+CG,Other Industries,2065,-1
+CG,Paper and Pulp,2065,-1
+CH,Agriculture,2065,-1
+CH,Cement,2065,-1
+CH,Chem_Fert,2065,-1
+CH,Fisheries,2065,-1
+CH,Iron and Steel,2065,-1
+CH,Non-Ferrous Metals,2065,-1
+CH,Other Industries,2065,-1
+CH,Paper and Pulp,2065,-1
+DD,Agriculture,2065,-1
+DD,Cement,2065,-1
+DD,Chem_Fert,2065,-1
+DD,Fisheries,2065,-1
+DD,Iron and Steel,2065,-1
+DD,Non-Ferrous Metals,2065,-1
+DD,Other Industries,2065,-1
+DD,Paper and Pulp,2065,-1
+DL,Agriculture,2065,-1
+DL,Cement,2065,-1
+DL,Chem_Fert,2065,-1
+DL,Fisheries,2065,-1
+DL,Iron and Steel,2065,-1
+DL,Non-Ferrous Metals,2065,-1
+DL,Other Industries,2065,-1
+DL,Paper and Pulp,2065,-1
+DN,Agriculture,2065,-1
+DN,Cement,2065,-1
+DN,Chem_Fert,2065,-1
+DN,Fisheries,2065,-1
+DN,Iron and Steel,2065,-1
+DN,Non-Ferrous Metals,2065,-1
+DN,Other Industries,2065,-1
+DN,Paper and Pulp,2065,-1
+GA,Agriculture,2065,-1
+GA,Cement,2065,-1
+GA,Chem_Fert,2065,-1
+GA,Fisheries,2065,-1
+GA,Iron and Steel,2065,-1
+GA,Non-Ferrous Metals,2065,-1
+GA,Other Industries,2065,-1
+GA,Paper and Pulp,2065,-1
+GJ,Agriculture,2065,-1
+GJ,Cement,2065,-1
+GJ,Chem_Fert,2065,-1
+GJ,Fisheries,2065,-1
+GJ,Iron and Steel,2065,-1
+GJ,Non-Ferrous Metals,2065,-1
+GJ,Other Industries,2065,-1
+GJ,Paper and Pulp,2065,-1
+HP,Agriculture,2065,-1
+HP,Cement,2065,-1
+HP,Chem_Fert,2065,-1
+HP,Fisheries,2065,-1
+HP,Iron and Steel,2065,-1
+HP,Non-Ferrous Metals,2065,-1
+HP,Other Industries,2065,-1
+HP,Paper and Pulp,2065,-1
+HR,Agriculture,2065,-1
+HR,Cement,2065,-1
+HR,Chem_Fert,2065,-1
+HR,Fisheries,2065,-1
+HR,Iron and Steel,2065,-1
+HR,Non-Ferrous Metals,2065,-1
+HR,Other Industries,2065,-1
+HR,Paper and Pulp,2065,-1
+JH,Agriculture,2065,-1
+JH,Cement,2065,-1
+JH,Chem_Fert,2065,-1
+JH,Fisheries,2065,-1
+JH,Iron and Steel,2065,-1
+JH,Non-Ferrous Metals,2065,-1
+JH,Other Industries,2065,-1
+JH,Paper and Pulp,2065,-1
+JK,Agriculture,2065,-1
+JK,Cement,2065,-1
+JK,Chem_Fert,2065,-1
+JK,Fisheries,2065,-1
+JK,Iron and Steel,2065,-1
+JK,Non-Ferrous Metals,2065,-1
+JK,Other Industries,2065,-1
+JK,Paper and Pulp,2065,-1
+KA,Agriculture,2065,-1
+KA,Cement,2065,-1
+KA,Chem_Fert,2065,-1
+KA,Fisheries,2065,-1
+KA,Iron and Steel,2065,-1
+KA,Non-Ferrous Metals,2065,-1
+KA,Other Industries,2065,-1
+KA,Paper and Pulp,2065,-1
+KL,Agriculture,2065,-1
+KL,Cement,2065,-1
+KL,Chem_Fert,2065,-1
+KL,Fisheries,2065,-1
+KL,Iron and Steel,2065,-1
+KL,Non-Ferrous Metals,2065,-1
+KL,Other Industries,2065,-1
+KL,Paper and Pulp,2065,-1
+LA,Agriculture,2065,-1
+LA,Cement,2065,-1
+LA,Chem_Fert,2065,-1
+LA,Fisheries,2065,-1
+LA,Iron and Steel,2065,-1
+LA,Non-Ferrous Metals,2065,-1
+LA,Other Industries,2065,-1
+LA,Paper and Pulp,2065,-1
+LD,Agriculture,2065,-1
+LD,Cement,2065,-1
+LD,Chem_Fert,2065,-1
+LD,Fisheries,2065,-1
+LD,Iron and Steel,2065,-1
+LD,Non-Ferrous Metals,2065,-1
+LD,Other Industries,2065,-1
+LD,Paper and Pulp,2065,-1
+MH,Agriculture,2065,-1
+MH,Cement,2065,-1
+MH,Chem_Fert,2065,-1
+MH,Fisheries,2065,-1
+MH,Iron and Steel,2065,-1
+MH,Non-Ferrous Metals,2065,-1
+MH,Other Industries,2065,-1
+MH,Paper and Pulp,2065,-1
+ML,Agriculture,2065,-1
+ML,Cement,2065,-1
+ML,Chem_Fert,2065,-1
+ML,Fisheries,2065,-1
+ML,Iron and Steel,2065,-1
+ML,Non-Ferrous Metals,2065,-1
+ML,Other Industries,2065,-1
+ML,Paper and Pulp,2065,-1
+MN,Agriculture,2065,-1
+MN,Cement,2065,-1
+MN,Chem_Fert,2065,-1
+MN,Fisheries,2065,-1
+MN,Iron and Steel,2065,-1
+MN,Non-Ferrous Metals,2065,-1
+MN,Other Industries,2065,-1
+MN,Paper and Pulp,2065,-1
+MP,Agriculture,2065,-1
+MP,Cement,2065,-1
+MP,Chem_Fert,2065,-1
+MP,Fisheries,2065,-1
+MP,Iron and Steel,2065,-1
+MP,Non-Ferrous Metals,2065,-1
+MP,Other Industries,2065,-1
+MP,Paper and Pulp,2065,-1
+MZ,Agriculture,2065,-1
+MZ,Cement,2065,-1
+MZ,Chem_Fert,2065,-1
+MZ,Fisheries,2065,-1
+MZ,Iron and Steel,2065,-1
+MZ,Non-Ferrous Metals,2065,-1
+MZ,Other Industries,2065,-1
+MZ,Paper and Pulp,2065,-1
+NL,Agriculture,2065,-1
+NL,Cement,2065,-1
+NL,Chem_Fert,2065,-1
+NL,Fisheries,2065,-1
+NL,Iron and Steel,2065,-1
+NL,Non-Ferrous Metals,2065,-1
+NL,Other Industries,2065,-1
+NL,Paper and Pulp,2065,-1
+OD,Agriculture,2065,-1
+OD,Cement,2065,-1
+OD,Chem_Fert,2065,-1
+OD,Fisheries,2065,-1
+OD,Iron and Steel,2065,-1
+OD,Non-Ferrous Metals,2065,-1
+OD,Other Industries,2065,-1
+OD,Paper and Pulp,2065,-1
+PB,Agriculture,2065,-1
+PB,Cement,2065,-1
+PB,Chem_Fert,2065,-1
+PB,Fisheries,2065,-1
+PB,Iron and Steel,2065,-1
+PB,Non-Ferrous Metals,2065,-1
+PB,Other Industries,2065,-1
+PB,Paper and Pulp,2065,-1
+PC,Agriculture,2065,-1
+PC,Cement,2065,-1
+PC,Chem_Fert,2065,-1
+PC,Fisheries,2065,-1
+PC,Iron and Steel,2065,-1
+PC,Non-Ferrous Metals,2065,-1
+PC,Other Industries,2065,-1
+PC,Paper and Pulp,2065,-1
+RJ,Agriculture,2065,-1
+RJ,Cement,2065,-1
+RJ,Chem_Fert,2065,-1
+RJ,Fisheries,2065,-1
+RJ,Iron and Steel,2065,-1
+RJ,Non-Ferrous Metals,2065,-1
+RJ,Other Industries,2065,-1
+RJ,Paper and Pulp,2065,-1
+SK,Agriculture,2065,-1
+SK,Cement,2065,-1
+SK,Chem_Fert,2065,-1
+SK,Fisheries,2065,-1
+SK,Iron and Steel,2065,-1
+SK,Non-Ferrous Metals,2065,-1
+SK,Other Industries,2065,-1
+SK,Paper and Pulp,2065,-1
+TN,Agriculture,2065,-1
+TN,Cement,2065,-1
+TN,Chem_Fert,2065,-1
+TN,Fisheries,2065,-1
+TN,Iron and Steel,2065,-1
+TN,Non-Ferrous Metals,2065,-1
+TN,Other Industries,2065,-1
+TN,Paper and Pulp,2065,-1
+TR,Agriculture,2065,-1
+TR,Cement,2065,-1
+TR,Chem_Fert,2065,-1
+TR,Fisheries,2065,-1
+TR,Iron and Steel,2065,-1
+TR,Non-Ferrous Metals,2065,-1
+TR,Other Industries,2065,-1
+TR,Paper and Pulp,2065,-1
+TS,Agriculture,2065,-1
+TS,Cement,2065,-1
+TS,Chem_Fert,2065,-1
+TS,Fisheries,2065,-1
+TS,Iron and Steel,2065,-1
+TS,Non-Ferrous Metals,2065,-1
+TS,Other Industries,2065,-1
+TS,Paper and Pulp,2065,-1
+UK,Agriculture,2065,-1
+UK,Cement,2065,-1
+UK,Chem_Fert,2065,-1
+UK,Fisheries,2065,-1
+UK,Iron and Steel,2065,-1
+UK,Non-Ferrous Metals,2065,-1
+UK,Other Industries,2065,-1
+UK,Paper and Pulp,2065,-1
+UP,Agriculture,2065,-1
+UP,Cement,2065,-1
+UP,Chem_Fert,2065,-1
+UP,Fisheries,2065,-1
+UP,Iron and Steel,2065,-1
+UP,Non-Ferrous Metals,2065,-1
+UP,Other Industries,2065,-1
+UP,Paper and Pulp,2065,-1
+WB,Agriculture,2065,-1
+WB,Cement,2065,-1
+WB,Chem_Fert,2065,-1
+WB,Fisheries,2065,-1
+WB,Iron and Steel,2065,-1
+WB,Non-Ferrous Metals,2065,-1
+WB,Other Industries,2065,-1
+WB,Paper and Pulp,2065,-1
+AN,Agriculture,2070,-1
+AN,Cement,2070,-1
+AN,Chem_Fert,2070,-1
+AN,Fisheries,2070,-1
+AN,Iron and Steel,2070,-1
+AN,Non-Ferrous Metals,2070,-1
+AN,Other Industries,2070,-1
+AN,Paper and Pulp,2070,-1
+AP,Agriculture,2070,-1
+AP,Cement,2070,-1
+AP,Chem_Fert,2070,-1
+AP,Fisheries,2070,-1
+AP,Iron and Steel,2070,-1
+AP,Non-Ferrous Metals,2070,-1
+AP,Other Industries,2070,-1
+AP,Paper and Pulp,2070,-1
+AR,Agriculture,2070,-1
+AR,Cement,2070,-1
+AR,Chem_Fert,2070,-1
+AR,Fisheries,2070,-1
+AR,Iron and Steel,2070,-1
+AR,Non-Ferrous Metals,2070,-1
+AR,Other Industries,2070,-1
+AR,Paper and Pulp,2070,-1
+AS,Agriculture,2070,-1
+AS,Cement,2070,-1
+AS,Chem_Fert,2070,-1
+AS,Fisheries,2070,-1
+AS,Iron and Steel,2070,-1
+AS,Non-Ferrous Metals,2070,-1
+AS,Other Industries,2070,-1
+AS,Paper and Pulp,2070,-1
+BR,Agriculture,2070,-1
+BR,Cement,2070,-1
+BR,Chem_Fert,2070,-1
+BR,Fisheries,2070,-1
+BR,Iron and Steel,2070,-1
+BR,Non-Ferrous Metals,2070,-1
+BR,Other Industries,2070,-1
+BR,Paper and Pulp,2070,-1
+CG,Agriculture,2070,-1
+CG,Cement,2070,-1
+CG,Chem_Fert,2070,-1
+CG,Fisheries,2070,-1
+CG,Iron and Steel,2070,-1
+CG,Non-Ferrous Metals,2070,-1
+CG,Other Industries,2070,-1
+CG,Paper and Pulp,2070,-1
+CH,Agriculture,2070,-1
+CH,Cement,2070,-1
+CH,Chem_Fert,2070,-1
+CH,Fisheries,2070,-1
+CH,Iron and Steel,2070,-1
+CH,Non-Ferrous Metals,2070,-1
+CH,Other Industries,2070,-1
+CH,Paper and Pulp,2070,-1
+DD,Agriculture,2070,-1
+DD,Cement,2070,-1
+DD,Chem_Fert,2070,-1
+DD,Fisheries,2070,-1
+DD,Iron and Steel,2070,-1
+DD,Non-Ferrous Metals,2070,-1
+DD,Other Industries,2070,-1
+DD,Paper and Pulp,2070,-1
+DL,Agriculture,2070,-1
+DL,Cement,2070,-1
+DL,Chem_Fert,2070,-1
+DL,Fisheries,2070,-1
+DL,Iron and Steel,2070,-1
+DL,Non-Ferrous Metals,2070,-1
+DL,Other Industries,2070,-1
+DL,Paper and Pulp,2070,-1
+DN,Agriculture,2070,-1
+DN,Cement,2070,-1
+DN,Chem_Fert,2070,-1
+DN,Fisheries,2070,-1
+DN,Iron and Steel,2070,-1
+DN,Non-Ferrous Metals,2070,-1
+DN,Other Industries,2070,-1
+DN,Paper and Pulp,2070,-1
+GA,Agriculture,2070,-1
+GA,Cement,2070,-1
+GA,Chem_Fert,2070,-1
+GA,Fisheries,2070,-1
+GA,Iron and Steel,2070,-1
+GA,Non-Ferrous Metals,2070,-1
+GA,Other Industries,2070,-1
+GA,Paper and Pulp,2070,-1
+GJ,Agriculture,2070,-1
+GJ,Cement,2070,-1
+GJ,Chem_Fert,2070,-1
+GJ,Fisheries,2070,-1
+GJ,Iron and Steel,2070,-1
+GJ,Non-Ferrous Metals,2070,-1
+GJ,Other Industries,2070,-1
+GJ,Paper and Pulp,2070,-1
+HP,Agriculture,2070,-1
+HP,Cement,2070,-1
+HP,Chem_Fert,2070,-1
+HP,Fisheries,2070,-1
+HP,Iron and Steel,2070,-1
+HP,Non-Ferrous Metals,2070,-1
+HP,Other Industries,2070,-1
+HP,Paper and Pulp,2070,-1
+HR,Agriculture,2070,-1
+HR,Cement,2070,-1
+HR,Chem_Fert,2070,-1
+HR,Fisheries,2070,-1
+HR,Iron and Steel,2070,-1
+HR,Non-Ferrous Metals,2070,-1
+HR,Other Industries,2070,-1
+HR,Paper and Pulp,2070,-1
+JH,Agriculture,2070,-1
+JH,Cement,2070,-1
+JH,Chem_Fert,2070,-1
+JH,Fisheries,2070,-1
+JH,Iron and Steel,2070,-1
+JH,Non-Ferrous Metals,2070,-1
+JH,Other Industries,2070,-1
+JH,Paper and Pulp,2070,-1
+JK,Agriculture,2070,-1
+JK,Cement,2070,-1
+JK,Chem_Fert,2070,-1
+JK,Fisheries,2070,-1
+JK,Iron and Steel,2070,-1
+JK,Non-Ferrous Metals,2070,-1
+JK,Other Industries,2070,-1
+JK,Paper and Pulp,2070,-1
+KA,Agriculture,2070,-1
+KA,Cement,2070,-1
+KA,Chem_Fert,2070,-1
+KA,Fisheries,2070,-1
+KA,Iron and Steel,2070,-1
+KA,Non-Ferrous Metals,2070,-1
+KA,Other Industries,2070,-1
+KA,Paper and Pulp,2070,-1
+KL,Agriculture,2070,-1
+KL,Cement,2070,-1
+KL,Chem_Fert,2070,-1
+KL,Fisheries,2070,-1
+KL,Iron and Steel,2070,-1
+KL,Non-Ferrous Metals,2070,-1
+KL,Other Industries,2070,-1
+KL,Paper and Pulp,2070,-1
+LA,Agriculture,2070,-1
+LA,Cement,2070,-1
+LA,Chem_Fert,2070,-1
+LA,Fisheries,2070,-1
+LA,Iron and Steel,2070,-1
+LA,Non-Ferrous Metals,2070,-1
+LA,Other Industries,2070,-1
+LA,Paper and Pulp,2070,-1
+LD,Agriculture,2070,-1
+LD,Cement,2070,-1
+LD,Chem_Fert,2070,-1
+LD,Fisheries,2070,-1
+LD,Iron and Steel,2070,-1
+LD,Non-Ferrous Metals,2070,-1
+LD,Other Industries,2070,-1
+LD,Paper and Pulp,2070,-1
+MH,Agriculture,2070,-1
+MH,Cement,2070,-1
+MH,Chem_Fert,2070,-1
+MH,Fisheries,2070,-1
+MH,Iron and Steel,2070,-1
+MH,Non-Ferrous Metals,2070,-1
+MH,Other Industries,2070,-1
+MH,Paper and Pulp,2070,-1
+ML,Agriculture,2070,-1
+ML,Cement,2070,-1
+ML,Chem_Fert,2070,-1
+ML,Fisheries,2070,-1
+ML,Iron and Steel,2070,-1
+ML,Non-Ferrous Metals,2070,-1
+ML,Other Industries,2070,-1
+ML,Paper and Pulp,2070,-1
+MN,Agriculture,2070,-1
+MN,Cement,2070,-1
+MN,Chem_Fert,2070,-1
+MN,Fisheries,2070,-1
+MN,Iron and Steel,2070,-1
+MN,Non-Ferrous Metals,2070,-1
+MN,Other Industries,2070,-1
+MN,Paper and Pulp,2070,-1
+MP,Agriculture,2070,-1
+MP,Cement,2070,-1
+MP,Chem_Fert,2070,-1
+MP,Fisheries,2070,-1
+MP,Iron and Steel,2070,-1
+MP,Non-Ferrous Metals,2070,-1
+MP,Other Industries,2070,-1
+MP,Paper and Pulp,2070,-1
+MZ,Agriculture,2070,-1
+MZ,Cement,2070,-1
+MZ,Chem_Fert,2070,-1
+MZ,Fisheries,2070,-1
+MZ,Iron and Steel,2070,-1
+MZ,Non-Ferrous Metals,2070,-1
+MZ,Other Industries,2070,-1
+MZ,Paper and Pulp,2070,-1
+NL,Agriculture,2070,-1
+NL,Cement,2070,-1
+NL,Chem_Fert,2070,-1
+NL,Fisheries,2070,-1
+NL,Iron and Steel,2070,-1
+NL,Non-Ferrous Metals,2070,-1
+NL,Other Industries,2070,-1
+NL,Paper and Pulp,2070,-1
+OD,Agriculture,2070,-1
+OD,Cement,2070,-1
+OD,Chem_Fert,2070,-1
+OD,Fisheries,2070,-1
+OD,Iron and Steel,2070,-1
+OD,Non-Ferrous Metals,2070,-1
+OD,Other Industries,2070,-1
+OD,Paper and Pulp,2070,-1
+PB,Agriculture,2070,-1
+PB,Cement,2070,-1
+PB,Chem_Fert,2070,-1
+PB,Fisheries,2070,-1
+PB,Iron and Steel,2070,-1
+PB,Non-Ferrous Metals,2070,-1
+PB,Other Industries,2070,-1
+PB,Paper and Pulp,2070,-1
+PC,Agriculture,2070,-1
+PC,Cement,2070,-1
+PC,Chem_Fert,2070,-1
+PC,Fisheries,2070,-1
+PC,Iron and Steel,2070,-1
+PC,Non-Ferrous Metals,2070,-1
+PC,Other Industries,2070,-1
+PC,Paper and Pulp,2070,-1
+RJ,Agriculture,2070,-1
+RJ,Cement,2070,-1
+RJ,Chem_Fert,2070,-1
+RJ,Fisheries,2070,-1
+RJ,Iron and Steel,2070,-1
+RJ,Non-Ferrous Metals,2070,-1
+RJ,Other Industries,2070,-1
+RJ,Paper and Pulp,2070,-1
+SK,Agriculture,2070,-1
+SK,Cement,2070,-1
+SK,Chem_Fert,2070,-1
+SK,Fisheries,2070,-1
+SK,Iron and Steel,2070,-1
+SK,Non-Ferrous Metals,2070,-1
+SK,Other Industries,2070,-1
+SK,Paper and Pulp,2070,-1
+TN,Agriculture,2070,-1
+TN,Cement,2070,-1
+TN,Chem_Fert,2070,-1
+TN,Fisheries,2070,-1
+TN,Iron and Steel,2070,-1
+TN,Non-Ferrous Metals,2070,-1
+TN,Other Industries,2070,-1
+TN,Paper and Pulp,2070,-1
+TR,Agriculture,2070,-1
+TR,Cement,2070,-1
+TR,Chem_Fert,2070,-1
+TR,Fisheries,2070,-1
+TR,Iron and Steel,2070,-1
+TR,Non-Ferrous Metals,2070,-1
+TR,Other Industries,2070,-1
+TR,Paper and Pulp,2070,-1
+TS,Agriculture,2070,-1
+TS,Cement,2070,-1
+TS,Chem_Fert,2070,-1
+TS,Fisheries,2070,-1
+TS,Iron and Steel,2070,-1
+TS,Non-Ferrous Metals,2070,-1
+TS,Other Industries,2070,-1
+TS,Paper and Pulp,2070,-1
+UK,Agriculture,2070,-1
+UK,Cement,2070,-1
+UK,Chem_Fert,2070,-1
+UK,Fisheries,2070,-1
+UK,Iron and Steel,2070,-1
+UK,Non-Ferrous Metals,2070,-1
+UK,Other Industries,2070,-1
+UK,Paper and Pulp,2070,-1
+UP,Agriculture,2070,-1
+UP,Cement,2070,-1
+UP,Chem_Fert,2070,-1
+UP,Fisheries,2070,-1
+UP,Iron and Steel,2070,-1
+UP,Non-Ferrous Metals,2070,-1
+UP,Other Industries,2070,-1
+UP,Paper and Pulp,2070,-1
+WB,Agriculture,2070,-1
+WB,Cement,2070,-1
+WB,Chem_Fert,2070,-1
+WB,Fisheries,2070,-1
+WB,Iron and Steel,2070,-1
+WB,Non-Ferrous Metals,2070,-1
+WB,Other Industries,2070,-1
+WB,Paper and Pulp,2070,-1
+AN,Agriculture,2075,-1
+AN,Cement,2075,-1
+AN,Chem_Fert,2075,-1
+AN,Fisheries,2075,-1
+AN,Iron and Steel,2075,-1
+AN,Non-Ferrous Metals,2075,-1
+AN,Other Industries,2075,-1
+AN,Paper and Pulp,2075,-1
+AP,Agriculture,2075,-1
+AP,Cement,2075,-1
+AP,Chem_Fert,2075,-1
+AP,Fisheries,2075,-1
+AP,Iron and Steel,2075,-1
+AP,Non-Ferrous Metals,2075,-1
+AP,Other Industries,2075,-1
+AP,Paper and Pulp,2075,-1
+AR,Agriculture,2075,-1
+AR,Cement,2075,-1
+AR,Chem_Fert,2075,-1
+AR,Fisheries,2075,-1
+AR,Iron and Steel,2075,-1
+AR,Non-Ferrous Metals,2075,-1
+AR,Other Industries,2075,-1
+AR,Paper and Pulp,2075,-1
+AS,Agriculture,2075,-1
+AS,Cement,2075,-1
+AS,Chem_Fert,2075,-1
+AS,Fisheries,2075,-1
+AS,Iron and Steel,2075,-1
+AS,Non-Ferrous Metals,2075,-1
+AS,Other Industries,2075,-1
+AS,Paper and Pulp,2075,-1
+BR,Agriculture,2075,-1
+BR,Cement,2075,-1
+BR,Chem_Fert,2075,-1
+BR,Fisheries,2075,-1
+BR,Iron and Steel,2075,-1
+BR,Non-Ferrous Metals,2075,-1
+BR,Other Industries,2075,-1
+BR,Paper and Pulp,2075,-1
+CG,Agriculture,2075,-1
+CG,Cement,2075,-1
+CG,Chem_Fert,2075,-1
+CG,Fisheries,2075,-1
+CG,Iron and Steel,2075,-1
+CG,Non-Ferrous Metals,2075,-1
+CG,Other Industries,2075,-1
+CG,Paper and Pulp,2075,-1
+CH,Agriculture,2075,-1
+CH,Cement,2075,-1
+CH,Chem_Fert,2075,-1
+CH,Fisheries,2075,-1
+CH,Iron and Steel,2075,-1
+CH,Non-Ferrous Metals,2075,-1
+CH,Other Industries,2075,-1
+CH,Paper and Pulp,2075,-1
+DD,Agriculture,2075,-1
+DD,Cement,2075,-1
+DD,Chem_Fert,2075,-1
+DD,Fisheries,2075,-1
+DD,Iron and Steel,2075,-1
+DD,Non-Ferrous Metals,2075,-1
+DD,Other Industries,2075,-1
+DD,Paper and Pulp,2075,-1
+DL,Agriculture,2075,-1
+DL,Cement,2075,-1
+DL,Chem_Fert,2075,-1
+DL,Fisheries,2075,-1
+DL,Iron and Steel,2075,-1
+DL,Non-Ferrous Metals,2075,-1
+DL,Other Industries,2075,-1
+DL,Paper and Pulp,2075,-1
+DN,Agriculture,2075,-1
+DN,Cement,2075,-1
+DN,Chem_Fert,2075,-1
+DN,Fisheries,2075,-1
+DN,Iron and Steel,2075,-1
+DN,Non-Ferrous Metals,2075,-1
+DN,Other Industries,2075,-1
+DN,Paper and Pulp,2075,-1
+GA,Agriculture,2075,-1
+GA,Cement,2075,-1
+GA,Chem_Fert,2075,-1
+GA,Fisheries,2075,-1
+GA,Iron and Steel,2075,-1
+GA,Non-Ferrous Metals,2075,-1
+GA,Other Industries,2075,-1
+GA,Paper and Pulp,2075,-1
+GJ,Agriculture,2075,-1
+GJ,Cement,2075,-1
+GJ,Chem_Fert,2075,-1
+GJ,Fisheries,2075,-1
+GJ,Iron and Steel,2075,-1
+GJ,Non-Ferrous Metals,2075,-1
+GJ,Other Industries,2075,-1
+GJ,Paper and Pulp,2075,-1
+HP,Agriculture,2075,-1
+HP,Cement,2075,-1
+HP,Chem_Fert,2075,-1
+HP,Fisheries,2075,-1
+HP,Iron and Steel,2075,-1
+HP,Non-Ferrous Metals,2075,-1
+HP,Other Industries,2075,-1
+HP,Paper and Pulp,2075,-1
+HR,Agriculture,2075,-1
+HR,Cement,2075,-1
+HR,Chem_Fert,2075,-1
+HR,Fisheries,2075,-1
+HR,Iron and Steel,2075,-1
+HR,Non-Ferrous Metals,2075,-1
+HR,Other Industries,2075,-1
+HR,Paper and Pulp,2075,-1
+JH,Agriculture,2075,-1
+JH,Cement,2075,-1
+JH,Chem_Fert,2075,-1
+JH,Fisheries,2075,-1
+JH,Iron and Steel,2075,-1
+JH,Non-Ferrous Metals,2075,-1
+JH,Other Industries,2075,-1
+JH,Paper and Pulp,2075,-1
+JK,Agriculture,2075,-1
+JK,Cement,2075,-1
+JK,Chem_Fert,2075,-1
+JK,Fisheries,2075,-1
+JK,Iron and Steel,2075,-1
+JK,Non-Ferrous Metals,2075,-1
+JK,Other Industries,2075,-1
+JK,Paper and Pulp,2075,-1
+KA,Agriculture,2075,-1
+KA,Cement,2075,-1
+KA,Chem_Fert,2075,-1
+KA,Fisheries,2075,-1
+KA,Iron and Steel,2075,-1
+KA,Non-Ferrous Metals,2075,-1
+KA,Other Industries,2075,-1
+KA,Paper and Pulp,2075,-1
+KL,Agriculture,2075,-1
+KL,Cement,2075,-1
+KL,Chem_Fert,2075,-1
+KL,Fisheries,2075,-1
+KL,Iron and Steel,2075,-1
+KL,Non-Ferrous Metals,2075,-1
+KL,Other Industries,2075,-1
+KL,Paper and Pulp,2075,-1
+LA,Agriculture,2075,-1
+LA,Cement,2075,-1
+LA,Chem_Fert,2075,-1
+LA,Fisheries,2075,-1
+LA,Iron and Steel,2075,-1
+LA,Non-Ferrous Metals,2075,-1
+LA,Other Industries,2075,-1
+LA,Paper and Pulp,2075,-1
+LD,Agriculture,2075,-1
+LD,Cement,2075,-1
+LD,Chem_Fert,2075,-1
+LD,Fisheries,2075,-1
+LD,Iron and Steel,2075,-1
+LD,Non-Ferrous Metals,2075,-1
+LD,Other Industries,2075,-1
+LD,Paper and Pulp,2075,-1
+MH,Agriculture,2075,-1
+MH,Cement,2075,-1
+MH,Chem_Fert,2075,-1
+MH,Fisheries,2075,-1
+MH,Iron and Steel,2075,-1
+MH,Non-Ferrous Metals,2075,-1
+MH,Other Industries,2075,-1
+MH,Paper and Pulp,2075,-1
+ML,Agriculture,2075,-1
+ML,Cement,2075,-1
+ML,Chem_Fert,2075,-1
+ML,Fisheries,2075,-1
+ML,Iron and Steel,2075,-1
+ML,Non-Ferrous Metals,2075,-1
+ML,Other Industries,2075,-1
+ML,Paper and Pulp,2075,-1
+MN,Agriculture,2075,-1
+MN,Cement,2075,-1
+MN,Chem_Fert,2075,-1
+MN,Fisheries,2075,-1
+MN,Iron and Steel,2075,-1
+MN,Non-Ferrous Metals,2075,-1
+MN,Other Industries,2075,-1
+MN,Paper and Pulp,2075,-1
+MP,Agriculture,2075,-1
+MP,Cement,2075,-1
+MP,Chem_Fert,2075,-1
+MP,Fisheries,2075,-1
+MP,Iron and Steel,2075,-1
+MP,Non-Ferrous Metals,2075,-1
+MP,Other Industries,2075,-1
+MP,Paper and Pulp,2075,-1
+MZ,Agriculture,2075,-1
+MZ,Cement,2075,-1
+MZ,Chem_Fert,2075,-1
+MZ,Fisheries,2075,-1
+MZ,Iron and Steel,2075,-1
+MZ,Non-Ferrous Metals,2075,-1
+MZ,Other Industries,2075,-1
+MZ,Paper and Pulp,2075,-1
+NL,Agriculture,2075,-1
+NL,Cement,2075,-1
+NL,Chem_Fert,2075,-1
+NL,Fisheries,2075,-1
+NL,Iron and Steel,2075,-1
+NL,Non-Ferrous Metals,2075,-1
+NL,Other Industries,2075,-1
+NL,Paper and Pulp,2075,-1
+OD,Agriculture,2075,-1
+OD,Cement,2075,-1
+OD,Chem_Fert,2075,-1
+OD,Fisheries,2075,-1
+OD,Iron and Steel,2075,-1
+OD,Non-Ferrous Metals,2075,-1
+OD,Other Industries,2075,-1
+OD,Paper and Pulp,2075,-1
+PB,Agriculture,2075,-1
+PB,Cement,2075,-1
+PB,Chem_Fert,2075,-1
+PB,Fisheries,2075,-1
+PB,Iron and Steel,2075,-1
+PB,Non-Ferrous Metals,2075,-1
+PB,Other Industries,2075,-1
+PB,Paper and Pulp,2075,-1
+PC,Agriculture,2075,-1
+PC,Cement,2075,-1
+PC,Chem_Fert,2075,-1
+PC,Fisheries,2075,-1
+PC,Iron and Steel,2075,-1
+PC,Non-Ferrous Metals,2075,-1
+PC,Other Industries,2075,-1
+PC,Paper and Pulp,2075,-1
+RJ,Agriculture,2075,-1
+RJ,Cement,2075,-1
+RJ,Chem_Fert,2075,-1
+RJ,Fisheries,2075,-1
+RJ,Iron and Steel,2075,-1
+RJ,Non-Ferrous Metals,2075,-1
+RJ,Other Industries,2075,-1
+RJ,Paper and Pulp,2075,-1
+SK,Agriculture,2075,-1
+SK,Cement,2075,-1
+SK,Chem_Fert,2075,-1
+SK,Fisheries,2075,-1
+SK,Iron and Steel,2075,-1
+SK,Non-Ferrous Metals,2075,-1
+SK,Other Industries,2075,-1
+SK,Paper and Pulp,2075,-1
+TN,Agriculture,2075,-1
+TN,Cement,2075,-1
+TN,Chem_Fert,2075,-1
+TN,Fisheries,2075,-1
+TN,Iron and Steel,2075,-1
+TN,Non-Ferrous Metals,2075,-1
+TN,Other Industries,2075,-1
+TN,Paper and Pulp,2075,-1
+TR,Agriculture,2075,-1
+TR,Cement,2075,-1
+TR,Chem_Fert,2075,-1
+TR,Fisheries,2075,-1
+TR,Iron and Steel,2075,-1
+TR,Non-Ferrous Metals,2075,-1
+TR,Other Industries,2075,-1
+TR,Paper and Pulp,2075,-1
+TS,Agriculture,2075,-1
+TS,Cement,2075,-1
+TS,Chem_Fert,2075,-1
+TS,Fisheries,2075,-1
+TS,Iron and Steel,2075,-1
+TS,Non-Ferrous Metals,2075,-1
+TS,Other Industries,2075,-1
+TS,Paper and Pulp,2075,-1
+UK,Agriculture,2075,-1
+UK,Cement,2075,-1
+UK,Chem_Fert,2075,-1
+UK,Fisheries,2075,-1
+UK,Iron and Steel,2075,-1
+UK,Non-Ferrous Metals,2075,-1
+UK,Other Industries,2075,-1
+UK,Paper and Pulp,2075,-1
+UP,Agriculture,2075,-1
+UP,Cement,2075,-1
+UP,Chem_Fert,2075,-1
+UP,Fisheries,2075,-1
+UP,Iron and Steel,2075,-1
+UP,Non-Ferrous Metals,2075,-1
+UP,Other Industries,2075,-1
+UP,Paper and Pulp,2075,-1
+WB,Agriculture,2075,-1
+WB,Cement,2075,-1
+WB,Chem_Fert,2075,-1
+WB,Fisheries,2075,-1
+WB,Iron and Steel,2075,-1
+WB,Non-Ferrous Metals,2075,-1
+WB,Other Industries,2075,-1
+WB,Paper and Pulp,2075,-1
+AN,Agriculture,2080,-1
+AN,Cement,2080,-1
+AN,Chem_Fert,2080,-1
+AN,Fisheries,2080,-1
+AN,Iron and Steel,2080,-1
+AN,Non-Ferrous Metals,2080,-1
+AN,Other Industries,2080,-1
+AN,Paper and Pulp,2080,-1
+AP,Agriculture,2080,-1
+AP,Cement,2080,-1
+AP,Chem_Fert,2080,-1
+AP,Fisheries,2080,-1
+AP,Iron and Steel,2080,-1
+AP,Non-Ferrous Metals,2080,-1
+AP,Other Industries,2080,-1
+AP,Paper and Pulp,2080,-1
+AR,Agriculture,2080,-1
+AR,Cement,2080,-1
+AR,Chem_Fert,2080,-1
+AR,Fisheries,2080,-1
+AR,Iron and Steel,2080,-1
+AR,Non-Ferrous Metals,2080,-1
+AR,Other Industries,2080,-1
+AR,Paper and Pulp,2080,-1
+AS,Agriculture,2080,-1
+AS,Cement,2080,-1
+AS,Chem_Fert,2080,-1
+AS,Fisheries,2080,-1
+AS,Iron and Steel,2080,-1
+AS,Non-Ferrous Metals,2080,-1
+AS,Other Industries,2080,-1
+AS,Paper and Pulp,2080,-1
+BR,Agriculture,2080,-1
+BR,Cement,2080,-1
+BR,Chem_Fert,2080,-1
+BR,Fisheries,2080,-1
+BR,Iron and Steel,2080,-1
+BR,Non-Ferrous Metals,2080,-1
+BR,Other Industries,2080,-1
+BR,Paper and Pulp,2080,-1
+CG,Agriculture,2080,-1
+CG,Cement,2080,-1
+CG,Chem_Fert,2080,-1
+CG,Fisheries,2080,-1
+CG,Iron and Steel,2080,-1
+CG,Non-Ferrous Metals,2080,-1
+CG,Other Industries,2080,-1
+CG,Paper and Pulp,2080,-1
+CH,Agriculture,2080,-1
+CH,Cement,2080,-1
+CH,Chem_Fert,2080,-1
+CH,Fisheries,2080,-1
+CH,Iron and Steel,2080,-1
+CH,Non-Ferrous Metals,2080,-1
+CH,Other Industries,2080,-1
+CH,Paper and Pulp,2080,-1
+DD,Agriculture,2080,-1
+DD,Cement,2080,-1
+DD,Chem_Fert,2080,-1
+DD,Fisheries,2080,-1
+DD,Iron and Steel,2080,-1
+DD,Non-Ferrous Metals,2080,-1
+DD,Other Industries,2080,-1
+DD,Paper and Pulp,2080,-1
+DL,Agriculture,2080,-1
+DL,Cement,2080,-1
+DL,Chem_Fert,2080,-1
+DL,Fisheries,2080,-1
+DL,Iron and Steel,2080,-1
+DL,Non-Ferrous Metals,2080,-1
+DL,Other Industries,2080,-1
+DL,Paper and Pulp,2080,-1
+DN,Agriculture,2080,-1
+DN,Cement,2080,-1
+DN,Chem_Fert,2080,-1
+DN,Fisheries,2080,-1
+DN,Iron and Steel,2080,-1
+DN,Non-Ferrous Metals,2080,-1
+DN,Other Industries,2080,-1
+DN,Paper and Pulp,2080,-1
+GA,Agriculture,2080,-1
+GA,Cement,2080,-1
+GA,Chem_Fert,2080,-1
+GA,Fisheries,2080,-1
+GA,Iron and Steel,2080,-1
+GA,Non-Ferrous Metals,2080,-1
+GA,Other Industries,2080,-1
+GA,Paper and Pulp,2080,-1
+GJ,Agriculture,2080,-1
+GJ,Cement,2080,-1
+GJ,Chem_Fert,2080,-1
+GJ,Fisheries,2080,-1
+GJ,Iron and Steel,2080,-1
+GJ,Non-Ferrous Metals,2080,-1
+GJ,Other Industries,2080,-1
+GJ,Paper and Pulp,2080,-1
+HP,Agriculture,2080,-1
+HP,Cement,2080,-1
+HP,Chem_Fert,2080,-1
+HP,Fisheries,2080,-1
+HP,Iron and Steel,2080,-1
+HP,Non-Ferrous Metals,2080,-1
+HP,Other Industries,2080,-1
+HP,Paper and Pulp,2080,-1
+HR,Agriculture,2080,-1
+HR,Cement,2080,-1
+HR,Chem_Fert,2080,-1
+HR,Fisheries,2080,-1
+HR,Iron and Steel,2080,-1
+HR,Non-Ferrous Metals,2080,-1
+HR,Other Industries,2080,-1
+HR,Paper and Pulp,2080,-1
+JH,Agriculture,2080,-1
+JH,Cement,2080,-1
+JH,Chem_Fert,2080,-1
+JH,Fisheries,2080,-1
+JH,Iron and Steel,2080,-1
+JH,Non-Ferrous Metals,2080,-1
+JH,Other Industries,2080,-1
+JH,Paper and Pulp,2080,-1
+JK,Agriculture,2080,-1
+JK,Cement,2080,-1
+JK,Chem_Fert,2080,-1
+JK,Fisheries,2080,-1
+JK,Iron and Steel,2080,-1
+JK,Non-Ferrous Metals,2080,-1
+JK,Other Industries,2080,-1
+JK,Paper and Pulp,2080,-1
+KA,Agriculture,2080,-1
+KA,Cement,2080,-1
+KA,Chem_Fert,2080,-1
+KA,Fisheries,2080,-1
+KA,Iron and Steel,2080,-1
+KA,Non-Ferrous Metals,2080,-1
+KA,Other Industries,2080,-1
+KA,Paper and Pulp,2080,-1
+KL,Agriculture,2080,-1
+KL,Cement,2080,-1
+KL,Chem_Fert,2080,-1
+KL,Fisheries,2080,-1
+KL,Iron and Steel,2080,-1
+KL,Non-Ferrous Metals,2080,-1
+KL,Other Industries,2080,-1
+KL,Paper and Pulp,2080,-1
+LA,Agriculture,2080,-1
+LA,Cement,2080,-1
+LA,Chem_Fert,2080,-1
+LA,Fisheries,2080,-1
+LA,Iron and Steel,2080,-1
+LA,Non-Ferrous Metals,2080,-1
+LA,Other Industries,2080,-1
+LA,Paper and Pulp,2080,-1
+LD,Agriculture,2080,-1
+LD,Cement,2080,-1
+LD,Chem_Fert,2080,-1
+LD,Fisheries,2080,-1
+LD,Iron and Steel,2080,-1
+LD,Non-Ferrous Metals,2080,-1
+LD,Other Industries,2080,-1
+LD,Paper and Pulp,2080,-1
+MH,Agriculture,2080,-1
+MH,Cement,2080,-1
+MH,Chem_Fert,2080,-1
+MH,Fisheries,2080,-1
+MH,Iron and Steel,2080,-1
+MH,Non-Ferrous Metals,2080,-1
+MH,Other Industries,2080,-1
+MH,Paper and Pulp,2080,-1
+ML,Agriculture,2080,-1
+ML,Cement,2080,-1
+ML,Chem_Fert,2080,-1
+ML,Fisheries,2080,-1
+ML,Iron and Steel,2080,-1
+ML,Non-Ferrous Metals,2080,-1
+ML,Other Industries,2080,-1
+ML,Paper and Pulp,2080,-1
+MN,Agriculture,2080,-1
+MN,Cement,2080,-1
+MN,Chem_Fert,2080,-1
+MN,Fisheries,2080,-1
+MN,Iron and Steel,2080,-1
+MN,Non-Ferrous Metals,2080,-1
+MN,Other Industries,2080,-1
+MN,Paper and Pulp,2080,-1
+MP,Agriculture,2080,-1
+MP,Cement,2080,-1
+MP,Chem_Fert,2080,-1
+MP,Fisheries,2080,-1
+MP,Iron and Steel,2080,-1
+MP,Non-Ferrous Metals,2080,-1
+MP,Other Industries,2080,-1
+MP,Paper and Pulp,2080,-1
+MZ,Agriculture,2080,-1
+MZ,Cement,2080,-1
+MZ,Chem_Fert,2080,-1
+MZ,Fisheries,2080,-1
+MZ,Iron and Steel,2080,-1
+MZ,Non-Ferrous Metals,2080,-1
+MZ,Other Industries,2080,-1
+MZ,Paper and Pulp,2080,-1
+NL,Agriculture,2080,-1
+NL,Cement,2080,-1
+NL,Chem_Fert,2080,-1
+NL,Fisheries,2080,-1
+NL,Iron and Steel,2080,-1
+NL,Non-Ferrous Metals,2080,-1
+NL,Other Industries,2080,-1
+NL,Paper and Pulp,2080,-1
+OD,Agriculture,2080,-1
+OD,Cement,2080,-1
+OD,Chem_Fert,2080,-1
+OD,Fisheries,2080,-1
+OD,Iron and Steel,2080,-1
+OD,Non-Ferrous Metals,2080,-1
+OD,Other Industries,2080,-1
+OD,Paper and Pulp,2080,-1
+PB,Agriculture,2080,-1
+PB,Cement,2080,-1
+PB,Chem_Fert,2080,-1
+PB,Fisheries,2080,-1
+PB,Iron and Steel,2080,-1
+PB,Non-Ferrous Metals,2080,-1
+PB,Other Industries,2080,-1
+PB,Paper and Pulp,2080,-1
+PC,Agriculture,2080,-1
+PC,Cement,2080,-1
+PC,Chem_Fert,2080,-1
+PC,Fisheries,2080,-1
+PC,Iron and Steel,2080,-1
+PC,Non-Ferrous Metals,2080,-1
+PC,Other Industries,2080,-1
+PC,Paper and Pulp,2080,-1
+RJ,Agriculture,2080,-1
+RJ,Cement,2080,-1
+RJ,Chem_Fert,2080,-1
+RJ,Fisheries,2080,-1
+RJ,Iron and Steel,2080,-1
+RJ,Non-Ferrous Metals,2080,-1
+RJ,Other Industries,2080,-1
+RJ,Paper and Pulp,2080,-1
+SK,Agriculture,2080,-1
+SK,Cement,2080,-1
+SK,Chem_Fert,2080,-1
+SK,Fisheries,2080,-1
+SK,Iron and Steel,2080,-1
+SK,Non-Ferrous Metals,2080,-1
+SK,Other Industries,2080,-1
+SK,Paper and Pulp,2080,-1
+TN,Agriculture,2080,-1
+TN,Cement,2080,-1
+TN,Chem_Fert,2080,-1
+TN,Fisheries,2080,-1
+TN,Iron and Steel,2080,-1
+TN,Non-Ferrous Metals,2080,-1
+TN,Other Industries,2080,-1
+TN,Paper and Pulp,2080,-1
+TR,Agriculture,2080,-1
+TR,Cement,2080,-1
+TR,Chem_Fert,2080,-1
+TR,Fisheries,2080,-1
+TR,Iron and Steel,2080,-1
+TR,Non-Ferrous Metals,2080,-1
+TR,Other Industries,2080,-1
+TR,Paper and Pulp,2080,-1
+TS,Agriculture,2080,-1
+TS,Cement,2080,-1
+TS,Chem_Fert,2080,-1
+TS,Fisheries,2080,-1
+TS,Iron and Steel,2080,-1
+TS,Non-Ferrous Metals,2080,-1
+TS,Other Industries,2080,-1
+TS,Paper and Pulp,2080,-1
+UK,Agriculture,2080,-1
+UK,Cement,2080,-1
+UK,Chem_Fert,2080,-1
+UK,Fisheries,2080,-1
+UK,Iron and Steel,2080,-1
+UK,Non-Ferrous Metals,2080,-1
+UK,Other Industries,2080,-1
+UK,Paper and Pulp,2080,-1
+UP,Agriculture,2080,-1
+UP,Cement,2080,-1
+UP,Chem_Fert,2080,-1
+UP,Fisheries,2080,-1
+UP,Iron and Steel,2080,-1
+UP,Non-Ferrous Metals,2080,-1
+UP,Other Industries,2080,-1
+UP,Paper and Pulp,2080,-1
+WB,Agriculture,2080,-1
+WB,Cement,2080,-1
+WB,Chem_Fert,2080,-1
+WB,Fisheries,2080,-1
+WB,Iron and Steel,2080,-1
+WB,Non-Ferrous Metals,2080,-1
+WB,Other Industries,2080,-1
+WB,Paper and Pulp,2080,-1
+AN,Agriculture,2085,-1
+AN,Cement,2085,-1
+AN,Chem_Fert,2085,-1
+AN,Fisheries,2085,-1
+AN,Iron and Steel,2085,-1
+AN,Non-Ferrous Metals,2085,-1
+AN,Other Industries,2085,-1
+AN,Paper and Pulp,2085,-1
+AP,Agriculture,2085,-1
+AP,Cement,2085,-1
+AP,Chem_Fert,2085,-1
+AP,Fisheries,2085,-1
+AP,Iron and Steel,2085,-1
+AP,Non-Ferrous Metals,2085,-1
+AP,Other Industries,2085,-1
+AP,Paper and Pulp,2085,-1
+AR,Agriculture,2085,-1
+AR,Cement,2085,-1
+AR,Chem_Fert,2085,-1
+AR,Fisheries,2085,-1
+AR,Iron and Steel,2085,-1
+AR,Non-Ferrous Metals,2085,-1
+AR,Other Industries,2085,-1
+AR,Paper and Pulp,2085,-1
+AS,Agriculture,2085,-1
+AS,Cement,2085,-1
+AS,Chem_Fert,2085,-1
+AS,Fisheries,2085,-1
+AS,Iron and Steel,2085,-1
+AS,Non-Ferrous Metals,2085,-1
+AS,Other Industries,2085,-1
+AS,Paper and Pulp,2085,-1
+BR,Agriculture,2085,-1
+BR,Cement,2085,-1
+BR,Chem_Fert,2085,-1
+BR,Fisheries,2085,-1
+BR,Iron and Steel,2085,-1
+BR,Non-Ferrous Metals,2085,-1
+BR,Other Industries,2085,-1
+BR,Paper and Pulp,2085,-1
+CG,Agriculture,2085,-1
+CG,Cement,2085,-1
+CG,Chem_Fert,2085,-1
+CG,Fisheries,2085,-1
+CG,Iron and Steel,2085,-1
+CG,Non-Ferrous Metals,2085,-1
+CG,Other Industries,2085,-1
+CG,Paper and Pulp,2085,-1
+CH,Agriculture,2085,-1
+CH,Cement,2085,-1
+CH,Chem_Fert,2085,-1
+CH,Fisheries,2085,-1
+CH,Iron and Steel,2085,-1
+CH,Non-Ferrous Metals,2085,-1
+CH,Other Industries,2085,-1
+CH,Paper and Pulp,2085,-1
+DD,Agriculture,2085,-1
+DD,Cement,2085,-1
+DD,Chem_Fert,2085,-1
+DD,Fisheries,2085,-1
+DD,Iron and Steel,2085,-1
+DD,Non-Ferrous Metals,2085,-1
+DD,Other Industries,2085,-1
+DD,Paper and Pulp,2085,-1
+DL,Agriculture,2085,-1
+DL,Cement,2085,-1
+DL,Chem_Fert,2085,-1
+DL,Fisheries,2085,-1
+DL,Iron and Steel,2085,-1
+DL,Non-Ferrous Metals,2085,-1
+DL,Other Industries,2085,-1
+DL,Paper and Pulp,2085,-1
+DN,Agriculture,2085,-1
+DN,Cement,2085,-1
+DN,Chem_Fert,2085,-1
+DN,Fisheries,2085,-1
+DN,Iron and Steel,2085,-1
+DN,Non-Ferrous Metals,2085,-1
+DN,Other Industries,2085,-1
+DN,Paper and Pulp,2085,-1
+GA,Agriculture,2085,-1
+GA,Cement,2085,-1
+GA,Chem_Fert,2085,-1
+GA,Fisheries,2085,-1
+GA,Iron and Steel,2085,-1
+GA,Non-Ferrous Metals,2085,-1
+GA,Other Industries,2085,-1
+GA,Paper and Pulp,2085,-1
+GJ,Agriculture,2085,-1
+GJ,Cement,2085,-1
+GJ,Chem_Fert,2085,-1
+GJ,Fisheries,2085,-1
+GJ,Iron and Steel,2085,-1
+GJ,Non-Ferrous Metals,2085,-1
+GJ,Other Industries,2085,-1
+GJ,Paper and Pulp,2085,-1
+HP,Agriculture,2085,-1
+HP,Cement,2085,-1
+HP,Chem_Fert,2085,-1
+HP,Fisheries,2085,-1
+HP,Iron and Steel,2085,-1
+HP,Non-Ferrous Metals,2085,-1
+HP,Other Industries,2085,-1
+HP,Paper and Pulp,2085,-1
+HR,Agriculture,2085,-1
+HR,Cement,2085,-1
+HR,Chem_Fert,2085,-1
+HR,Fisheries,2085,-1
+HR,Iron and Steel,2085,-1
+HR,Non-Ferrous Metals,2085,-1
+HR,Other Industries,2085,-1
+HR,Paper and Pulp,2085,-1
+JH,Agriculture,2085,-1
+JH,Cement,2085,-1
+JH,Chem_Fert,2085,-1
+JH,Fisheries,2085,-1
+JH,Iron and Steel,2085,-1
+JH,Non-Ferrous Metals,2085,-1
+JH,Other Industries,2085,-1
+JH,Paper and Pulp,2085,-1
+JK,Agriculture,2085,-1
+JK,Cement,2085,-1
+JK,Chem_Fert,2085,-1
+JK,Fisheries,2085,-1
+JK,Iron and Steel,2085,-1
+JK,Non-Ferrous Metals,2085,-1
+JK,Other Industries,2085,-1
+JK,Paper and Pulp,2085,-1
+KA,Agriculture,2085,-1
+KA,Cement,2085,-1
+KA,Chem_Fert,2085,-1
+KA,Fisheries,2085,-1
+KA,Iron and Steel,2085,-1
+KA,Non-Ferrous Metals,2085,-1
+KA,Other Industries,2085,-1
+KA,Paper and Pulp,2085,-1
+KL,Agriculture,2085,-1
+KL,Cement,2085,-1
+KL,Chem_Fert,2085,-1
+KL,Fisheries,2085,-1
+KL,Iron and Steel,2085,-1
+KL,Non-Ferrous Metals,2085,-1
+KL,Other Industries,2085,-1
+KL,Paper and Pulp,2085,-1
+LA,Agriculture,2085,-1
+LA,Cement,2085,-1
+LA,Chem_Fert,2085,-1
+LA,Fisheries,2085,-1
+LA,Iron and Steel,2085,-1
+LA,Non-Ferrous Metals,2085,-1
+LA,Other Industries,2085,-1
+LA,Paper and Pulp,2085,-1
+LD,Agriculture,2085,-1
+LD,Cement,2085,-1
+LD,Chem_Fert,2085,-1
+LD,Fisheries,2085,-1
+LD,Iron and Steel,2085,-1
+LD,Non-Ferrous Metals,2085,-1
+LD,Other Industries,2085,-1
+LD,Paper and Pulp,2085,-1
+MH,Agriculture,2085,-1
+MH,Cement,2085,-1
+MH,Chem_Fert,2085,-1
+MH,Fisheries,2085,-1
+MH,Iron and Steel,2085,-1
+MH,Non-Ferrous Metals,2085,-1
+MH,Other Industries,2085,-1
+MH,Paper and Pulp,2085,-1
+ML,Agriculture,2085,-1
+ML,Cement,2085,-1
+ML,Chem_Fert,2085,-1
+ML,Fisheries,2085,-1
+ML,Iron and Steel,2085,-1
+ML,Non-Ferrous Metals,2085,-1
+ML,Other Industries,2085,-1
+ML,Paper and Pulp,2085,-1
+MN,Agriculture,2085,-1
+MN,Cement,2085,-1
+MN,Chem_Fert,2085,-1
+MN,Fisheries,2085,-1
+MN,Iron and Steel,2085,-1
+MN,Non-Ferrous Metals,2085,-1
+MN,Other Industries,2085,-1
+MN,Paper and Pulp,2085,-1
+MP,Agriculture,2085,-1
+MP,Cement,2085,-1
+MP,Chem_Fert,2085,-1
+MP,Fisheries,2085,-1
+MP,Iron and Steel,2085,-1
+MP,Non-Ferrous Metals,2085,-1
+MP,Other Industries,2085,-1
+MP,Paper and Pulp,2085,-1
+MZ,Agriculture,2085,-1
+MZ,Cement,2085,-1
+MZ,Chem_Fert,2085,-1
+MZ,Fisheries,2085,-1
+MZ,Iron and Steel,2085,-1
+MZ,Non-Ferrous Metals,2085,-1
+MZ,Other Industries,2085,-1
+MZ,Paper and Pulp,2085,-1
+NL,Agriculture,2085,-1
+NL,Cement,2085,-1
+NL,Chem_Fert,2085,-1
+NL,Fisheries,2085,-1
+NL,Iron and Steel,2085,-1
+NL,Non-Ferrous Metals,2085,-1
+NL,Other Industries,2085,-1
+NL,Paper and Pulp,2085,-1
+OD,Agriculture,2085,-1
+OD,Cement,2085,-1
+OD,Chem_Fert,2085,-1
+OD,Fisheries,2085,-1
+OD,Iron and Steel,2085,-1
+OD,Non-Ferrous Metals,2085,-1
+OD,Other Industries,2085,-1
+OD,Paper and Pulp,2085,-1
+PB,Agriculture,2085,-1
+PB,Cement,2085,-1
+PB,Chem_Fert,2085,-1
+PB,Fisheries,2085,-1
+PB,Iron and Steel,2085,-1
+PB,Non-Ferrous Metals,2085,-1
+PB,Other Industries,2085,-1
+PB,Paper and Pulp,2085,-1
+PC,Agriculture,2085,-1
+PC,Cement,2085,-1
+PC,Chem_Fert,2085,-1
+PC,Fisheries,2085,-1
+PC,Iron and Steel,2085,-1
+PC,Non-Ferrous Metals,2085,-1
+PC,Other Industries,2085,-1
+PC,Paper and Pulp,2085,-1
+RJ,Agriculture,2085,-1
+RJ,Cement,2085,-1
+RJ,Chem_Fert,2085,-1
+RJ,Fisheries,2085,-1
+RJ,Iron and Steel,2085,-1
+RJ,Non-Ferrous Metals,2085,-1
+RJ,Other Industries,2085,-1
+RJ,Paper and Pulp,2085,-1
+SK,Agriculture,2085,-1
+SK,Cement,2085,-1
+SK,Chem_Fert,2085,-1
+SK,Fisheries,2085,-1
+SK,Iron and Steel,2085,-1
+SK,Non-Ferrous Metals,2085,-1
+SK,Other Industries,2085,-1
+SK,Paper and Pulp,2085,-1
+TN,Agriculture,2085,-1
+TN,Cement,2085,-1
+TN,Chem_Fert,2085,-1
+TN,Fisheries,2085,-1
+TN,Iron and Steel,2085,-1
+TN,Non-Ferrous Metals,2085,-1
+TN,Other Industries,2085,-1
+TN,Paper and Pulp,2085,-1
+TR,Agriculture,2085,-1
+TR,Cement,2085,-1
+TR,Chem_Fert,2085,-1
+TR,Fisheries,2085,-1
+TR,Iron and Steel,2085,-1
+TR,Non-Ferrous Metals,2085,-1
+TR,Other Industries,2085,-1
+TR,Paper and Pulp,2085,-1
+TS,Agriculture,2085,-1
+TS,Cement,2085,-1
+TS,Chem_Fert,2085,-1
+TS,Fisheries,2085,-1
+TS,Iron and Steel,2085,-1
+TS,Non-Ferrous Metals,2085,-1
+TS,Other Industries,2085,-1
+TS,Paper and Pulp,2085,-1
+UK,Agriculture,2085,-1
+UK,Cement,2085,-1
+UK,Chem_Fert,2085,-1
+UK,Fisheries,2085,-1
+UK,Iron and Steel,2085,-1
+UK,Non-Ferrous Metals,2085,-1
+UK,Other Industries,2085,-1
+UK,Paper and Pulp,2085,-1
+UP,Agriculture,2085,-1
+UP,Cement,2085,-1
+UP,Chem_Fert,2085,-1
+UP,Fisheries,2085,-1
+UP,Iron and Steel,2085,-1
+UP,Non-Ferrous Metals,2085,-1
+UP,Other Industries,2085,-1
+UP,Paper and Pulp,2085,-1
+WB,Agriculture,2085,-1
+WB,Cement,2085,-1
+WB,Chem_Fert,2085,-1
+WB,Fisheries,2085,-1
+WB,Iron and Steel,2085,-1
+WB,Non-Ferrous Metals,2085,-1
+WB,Other Industries,2085,-1
+WB,Paper and Pulp,2085,-1
+AN,Agriculture,2090,-1
+AN,Cement,2090,-1
+AN,Chem_Fert,2090,-1
+AN,Fisheries,2090,-1
+AN,Iron and Steel,2090,-1
+AN,Non-Ferrous Metals,2090,-1
+AN,Other Industries,2090,-1
+AN,Paper and Pulp,2090,-1
+AP,Agriculture,2090,-1
+AP,Cement,2090,-1
+AP,Chem_Fert,2090,-1
+AP,Fisheries,2090,-1
+AP,Iron and Steel,2090,-1
+AP,Non-Ferrous Metals,2090,-1
+AP,Other Industries,2090,-1
+AP,Paper and Pulp,2090,-1
+AR,Agriculture,2090,-1
+AR,Cement,2090,-1
+AR,Chem_Fert,2090,-1
+AR,Fisheries,2090,-1
+AR,Iron and Steel,2090,-1
+AR,Non-Ferrous Metals,2090,-1
+AR,Other Industries,2090,-1
+AR,Paper and Pulp,2090,-1
+AS,Agriculture,2090,-1
+AS,Cement,2090,-1
+AS,Chem_Fert,2090,-1
+AS,Fisheries,2090,-1
+AS,Iron and Steel,2090,-1
+AS,Non-Ferrous Metals,2090,-1
+AS,Other Industries,2090,-1
+AS,Paper and Pulp,2090,-1
+BR,Agriculture,2090,-1
+BR,Cement,2090,-1
+BR,Chem_Fert,2090,-1
+BR,Fisheries,2090,-1
+BR,Iron and Steel,2090,-1
+BR,Non-Ferrous Metals,2090,-1
+BR,Other Industries,2090,-1
+BR,Paper and Pulp,2090,-1
+CG,Agriculture,2090,-1
+CG,Cement,2090,-1
+CG,Chem_Fert,2090,-1
+CG,Fisheries,2090,-1
+CG,Iron and Steel,2090,-1
+CG,Non-Ferrous Metals,2090,-1
+CG,Other Industries,2090,-1
+CG,Paper and Pulp,2090,-1
+CH,Agriculture,2090,-1
+CH,Cement,2090,-1
+CH,Chem_Fert,2090,-1
+CH,Fisheries,2090,-1
+CH,Iron and Steel,2090,-1
+CH,Non-Ferrous Metals,2090,-1
+CH,Other Industries,2090,-1
+CH,Paper and Pulp,2090,-1
+DD,Agriculture,2090,-1
+DD,Cement,2090,-1
+DD,Chem_Fert,2090,-1
+DD,Fisheries,2090,-1
+DD,Iron and Steel,2090,-1
+DD,Non-Ferrous Metals,2090,-1
+DD,Other Industries,2090,-1
+DD,Paper and Pulp,2090,-1
+DL,Agriculture,2090,-1
+DL,Cement,2090,-1
+DL,Chem_Fert,2090,-1
+DL,Fisheries,2090,-1
+DL,Iron and Steel,2090,-1
+DL,Non-Ferrous Metals,2090,-1
+DL,Other Industries,2090,-1
+DL,Paper and Pulp,2090,-1
+DN,Agriculture,2090,-1
+DN,Cement,2090,-1
+DN,Chem_Fert,2090,-1
+DN,Fisheries,2090,-1
+DN,Iron and Steel,2090,-1
+DN,Non-Ferrous Metals,2090,-1
+DN,Other Industries,2090,-1
+DN,Paper and Pulp,2090,-1
+GA,Agriculture,2090,-1
+GA,Cement,2090,-1
+GA,Chem_Fert,2090,-1
+GA,Fisheries,2090,-1
+GA,Iron and Steel,2090,-1
+GA,Non-Ferrous Metals,2090,-1
+GA,Other Industries,2090,-1
+GA,Paper and Pulp,2090,-1
+GJ,Agriculture,2090,-1
+GJ,Cement,2090,-1
+GJ,Chem_Fert,2090,-1
+GJ,Fisheries,2090,-1
+GJ,Iron and Steel,2090,-1
+GJ,Non-Ferrous Metals,2090,-1
+GJ,Other Industries,2090,-1
+GJ,Paper and Pulp,2090,-1
+HP,Agriculture,2090,-1
+HP,Cement,2090,-1
+HP,Chem_Fert,2090,-1
+HP,Fisheries,2090,-1
+HP,Iron and Steel,2090,-1
+HP,Non-Ferrous Metals,2090,-1
+HP,Other Industries,2090,-1
+HP,Paper and Pulp,2090,-1
+HR,Agriculture,2090,-1
+HR,Cement,2090,-1
+HR,Chem_Fert,2090,-1
+HR,Fisheries,2090,-1
+HR,Iron and Steel,2090,-1
+HR,Non-Ferrous Metals,2090,-1
+HR,Other Industries,2090,-1
+HR,Paper and Pulp,2090,-1
+JH,Agriculture,2090,-1
+JH,Cement,2090,-1
+JH,Chem_Fert,2090,-1
+JH,Fisheries,2090,-1
+JH,Iron and Steel,2090,-1
+JH,Non-Ferrous Metals,2090,-1
+JH,Other Industries,2090,-1
+JH,Paper and Pulp,2090,-1
+JK,Agriculture,2090,-1
+JK,Cement,2090,-1
+JK,Chem_Fert,2090,-1
+JK,Fisheries,2090,-1
+JK,Iron and Steel,2090,-1
+JK,Non-Ferrous Metals,2090,-1
+JK,Other Industries,2090,-1
+JK,Paper and Pulp,2090,-1
+KA,Agriculture,2090,-1
+KA,Cement,2090,-1
+KA,Chem_Fert,2090,-1
+KA,Fisheries,2090,-1
+KA,Iron and Steel,2090,-1
+KA,Non-Ferrous Metals,2090,-1
+KA,Other Industries,2090,-1
+KA,Paper and Pulp,2090,-1
+KL,Agriculture,2090,-1
+KL,Cement,2090,-1
+KL,Chem_Fert,2090,-1
+KL,Fisheries,2090,-1
+KL,Iron and Steel,2090,-1
+KL,Non-Ferrous Metals,2090,-1
+KL,Other Industries,2090,-1
+KL,Paper and Pulp,2090,-1
+LA,Agriculture,2090,-1
+LA,Cement,2090,-1
+LA,Chem_Fert,2090,-1
+LA,Fisheries,2090,-1
+LA,Iron and Steel,2090,-1
+LA,Non-Ferrous Metals,2090,-1
+LA,Other Industries,2090,-1
+LA,Paper and Pulp,2090,-1
+LD,Agriculture,2090,-1
+LD,Cement,2090,-1
+LD,Chem_Fert,2090,-1
+LD,Fisheries,2090,-1
+LD,Iron and Steel,2090,-1
+LD,Non-Ferrous Metals,2090,-1
+LD,Other Industries,2090,-1
+LD,Paper and Pulp,2090,-1
+MH,Agriculture,2090,-1
+MH,Cement,2090,-1
+MH,Chem_Fert,2090,-1
+MH,Fisheries,2090,-1
+MH,Iron and Steel,2090,-1
+MH,Non-Ferrous Metals,2090,-1
+MH,Other Industries,2090,-1
+MH,Paper and Pulp,2090,-1
+ML,Agriculture,2090,-1
+ML,Cement,2090,-1
+ML,Chem_Fert,2090,-1
+ML,Fisheries,2090,-1
+ML,Iron and Steel,2090,-1
+ML,Non-Ferrous Metals,2090,-1
+ML,Other Industries,2090,-1
+ML,Paper and Pulp,2090,-1
+MN,Agriculture,2090,-1
+MN,Cement,2090,-1
+MN,Chem_Fert,2090,-1
+MN,Fisheries,2090,-1
+MN,Iron and Steel,2090,-1
+MN,Non-Ferrous Metals,2090,-1
+MN,Other Industries,2090,-1
+MN,Paper and Pulp,2090,-1
+MP,Agriculture,2090,-1
+MP,Cement,2090,-1
+MP,Chem_Fert,2090,-1
+MP,Fisheries,2090,-1
+MP,Iron and Steel,2090,-1
+MP,Non-Ferrous Metals,2090,-1
+MP,Other Industries,2090,-1
+MP,Paper and Pulp,2090,-1
+MZ,Agriculture,2090,-1
+MZ,Cement,2090,-1
+MZ,Chem_Fert,2090,-1
+MZ,Fisheries,2090,-1
+MZ,Iron and Steel,2090,-1
+MZ,Non-Ferrous Metals,2090,-1
+MZ,Other Industries,2090,-1
+MZ,Paper and Pulp,2090,-1
+NL,Agriculture,2090,-1
+NL,Cement,2090,-1
+NL,Chem_Fert,2090,-1
+NL,Fisheries,2090,-1
+NL,Iron and Steel,2090,-1
+NL,Non-Ferrous Metals,2090,-1
+NL,Other Industries,2090,-1
+NL,Paper and Pulp,2090,-1
+OD,Agriculture,2090,-1
+OD,Cement,2090,-1
+OD,Chem_Fert,2090,-1
+OD,Fisheries,2090,-1
+OD,Iron and Steel,2090,-1
+OD,Non-Ferrous Metals,2090,-1
+OD,Other Industries,2090,-1
+OD,Paper and Pulp,2090,-1
+PB,Agriculture,2090,-1
+PB,Cement,2090,-1
+PB,Chem_Fert,2090,-1
+PB,Fisheries,2090,-1
+PB,Iron and Steel,2090,-1
+PB,Non-Ferrous Metals,2090,-1
+PB,Other Industries,2090,-1
+PB,Paper and Pulp,2090,-1
+PC,Agriculture,2090,-1
+PC,Cement,2090,-1
+PC,Chem_Fert,2090,-1
+PC,Fisheries,2090,-1
+PC,Iron and Steel,2090,-1
+PC,Non-Ferrous Metals,2090,-1
+PC,Other Industries,2090,-1
+PC,Paper and Pulp,2090,-1
+RJ,Agriculture,2090,-1
+RJ,Cement,2090,-1
+RJ,Chem_Fert,2090,-1
+RJ,Fisheries,2090,-1
+RJ,Iron and Steel,2090,-1
+RJ,Non-Ferrous Metals,2090,-1
+RJ,Other Industries,2090,-1
+RJ,Paper and Pulp,2090,-1
+SK,Agriculture,2090,-1
+SK,Cement,2090,-1
+SK,Chem_Fert,2090,-1
+SK,Fisheries,2090,-1
+SK,Iron and Steel,2090,-1
+SK,Non-Ferrous Metals,2090,-1
+SK,Other Industries,2090,-1
+SK,Paper and Pulp,2090,-1
+TN,Agriculture,2090,-1
+TN,Cement,2090,-1
+TN,Chem_Fert,2090,-1
+TN,Fisheries,2090,-1
+TN,Iron and Steel,2090,-1
+TN,Non-Ferrous Metals,2090,-1
+TN,Other Industries,2090,-1
+TN,Paper and Pulp,2090,-1
+TR,Agriculture,2090,-1
+TR,Cement,2090,-1
+TR,Chem_Fert,2090,-1
+TR,Fisheries,2090,-1
+TR,Iron and Steel,2090,-1
+TR,Non-Ferrous Metals,2090,-1
+TR,Other Industries,2090,-1
+TR,Paper and Pulp,2090,-1
+TS,Agriculture,2090,-1
+TS,Cement,2090,-1
+TS,Chem_Fert,2090,-1
+TS,Fisheries,2090,-1
+TS,Iron and Steel,2090,-1
+TS,Non-Ferrous Metals,2090,-1
+TS,Other Industries,2090,-1
+TS,Paper and Pulp,2090,-1
+UK,Agriculture,2090,-1
+UK,Cement,2090,-1
+UK,Chem_Fert,2090,-1
+UK,Fisheries,2090,-1
+UK,Iron and Steel,2090,-1
+UK,Non-Ferrous Metals,2090,-1
+UK,Other Industries,2090,-1
+UK,Paper and Pulp,2090,-1
+UP,Agriculture,2090,-1
+UP,Cement,2090,-1
+UP,Chem_Fert,2090,-1
+UP,Fisheries,2090,-1
+UP,Iron and Steel,2090,-1
+UP,Non-Ferrous Metals,2090,-1
+UP,Other Industries,2090,-1
+UP,Paper and Pulp,2090,-1
+WB,Agriculture,2090,-1
+WB,Cement,2090,-1
+WB,Chem_Fert,2090,-1
+WB,Fisheries,2090,-1
+WB,Iron and Steel,2090,-1
+WB,Non-Ferrous Metals,2090,-1
+WB,Other Industries,2090,-1
+WB,Paper and Pulp,2090,-1
+AN,Agriculture,2095,-1
+AN,Cement,2095,-1
+AN,Chem_Fert,2095,-1
+AN,Fisheries,2095,-1
+AN,Iron and Steel,2095,-1
+AN,Non-Ferrous Metals,2095,-1
+AN,Other Industries,2095,-1
+AN,Paper and Pulp,2095,-1
+AP,Agriculture,2095,-1
+AP,Cement,2095,-1
+AP,Chem_Fert,2095,-1
+AP,Fisheries,2095,-1
+AP,Iron and Steel,2095,-1
+AP,Non-Ferrous Metals,2095,-1
+AP,Other Industries,2095,-1
+AP,Paper and Pulp,2095,-1
+AR,Agriculture,2095,-1
+AR,Cement,2095,-1
+AR,Chem_Fert,2095,-1
+AR,Fisheries,2095,-1
+AR,Iron and Steel,2095,-1
+AR,Non-Ferrous Metals,2095,-1
+AR,Other Industries,2095,-1
+AR,Paper and Pulp,2095,-1
+AS,Agriculture,2095,-1
+AS,Cement,2095,-1
+AS,Chem_Fert,2095,-1
+AS,Fisheries,2095,-1
+AS,Iron and Steel,2095,-1
+AS,Non-Ferrous Metals,2095,-1
+AS,Other Industries,2095,-1
+AS,Paper and Pulp,2095,-1
+BR,Agriculture,2095,-1
+BR,Cement,2095,-1
+BR,Chem_Fert,2095,-1
+BR,Fisheries,2095,-1
+BR,Iron and Steel,2095,-1
+BR,Non-Ferrous Metals,2095,-1
+BR,Other Industries,2095,-1
+BR,Paper and Pulp,2095,-1
+CG,Agriculture,2095,-1
+CG,Cement,2095,-1
+CG,Chem_Fert,2095,-1
+CG,Fisheries,2095,-1
+CG,Iron and Steel,2095,-1
+CG,Non-Ferrous Metals,2095,-1
+CG,Other Industries,2095,-1
+CG,Paper and Pulp,2095,-1
+CH,Agriculture,2095,-1
+CH,Cement,2095,-1
+CH,Chem_Fert,2095,-1
+CH,Fisheries,2095,-1
+CH,Iron and Steel,2095,-1
+CH,Non-Ferrous Metals,2095,-1
+CH,Other Industries,2095,-1
+CH,Paper and Pulp,2095,-1
+DD,Agriculture,2095,-1
+DD,Cement,2095,-1
+DD,Chem_Fert,2095,-1
+DD,Fisheries,2095,-1
+DD,Iron and Steel,2095,-1
+DD,Non-Ferrous Metals,2095,-1
+DD,Other Industries,2095,-1
+DD,Paper and Pulp,2095,-1
+DL,Agriculture,2095,-1
+DL,Cement,2095,-1
+DL,Chem_Fert,2095,-1
+DL,Fisheries,2095,-1
+DL,Iron and Steel,2095,-1
+DL,Non-Ferrous Metals,2095,-1
+DL,Other Industries,2095,-1
+DL,Paper and Pulp,2095,-1
+DN,Agriculture,2095,-1
+DN,Cement,2095,-1
+DN,Chem_Fert,2095,-1
+DN,Fisheries,2095,-1
+DN,Iron and Steel,2095,-1
+DN,Non-Ferrous Metals,2095,-1
+DN,Other Industries,2095,-1
+DN,Paper and Pulp,2095,-1
+GA,Agriculture,2095,-1
+GA,Cement,2095,-1
+GA,Chem_Fert,2095,-1
+GA,Fisheries,2095,-1
+GA,Iron and Steel,2095,-1
+GA,Non-Ferrous Metals,2095,-1
+GA,Other Industries,2095,-1
+GA,Paper and Pulp,2095,-1
+GJ,Agriculture,2095,-1
+GJ,Cement,2095,-1
+GJ,Chem_Fert,2095,-1
+GJ,Fisheries,2095,-1
+GJ,Iron and Steel,2095,-1
+GJ,Non-Ferrous Metals,2095,-1
+GJ,Other Industries,2095,-1
+GJ,Paper and Pulp,2095,-1
+HP,Agriculture,2095,-1
+HP,Cement,2095,-1
+HP,Chem_Fert,2095,-1
+HP,Fisheries,2095,-1
+HP,Iron and Steel,2095,-1
+HP,Non-Ferrous Metals,2095,-1
+HP,Other Industries,2095,-1
+HP,Paper and Pulp,2095,-1
+HR,Agriculture,2095,-1
+HR,Cement,2095,-1
+HR,Chem_Fert,2095,-1
+HR,Fisheries,2095,-1
+HR,Iron and Steel,2095,-1
+HR,Non-Ferrous Metals,2095,-1
+HR,Other Industries,2095,-1
+HR,Paper and Pulp,2095,-1
+JH,Agriculture,2095,-1
+JH,Cement,2095,-1
+JH,Chem_Fert,2095,-1
+JH,Fisheries,2095,-1
+JH,Iron and Steel,2095,-1
+JH,Non-Ferrous Metals,2095,-1
+JH,Other Industries,2095,-1
+JH,Paper and Pulp,2095,-1
+JK,Agriculture,2095,-1
+JK,Cement,2095,-1
+JK,Chem_Fert,2095,-1
+JK,Fisheries,2095,-1
+JK,Iron and Steel,2095,-1
+JK,Non-Ferrous Metals,2095,-1
+JK,Other Industries,2095,-1
+JK,Paper and Pulp,2095,-1
+KA,Agriculture,2095,-1
+KA,Cement,2095,-1
+KA,Chem_Fert,2095,-1
+KA,Fisheries,2095,-1
+KA,Iron and Steel,2095,-1
+KA,Non-Ferrous Metals,2095,-1
+KA,Other Industries,2095,-1
+KA,Paper and Pulp,2095,-1
+KL,Agriculture,2095,-1
+KL,Cement,2095,-1
+KL,Chem_Fert,2095,-1
+KL,Fisheries,2095,-1
+KL,Iron and Steel,2095,-1
+KL,Non-Ferrous Metals,2095,-1
+KL,Other Industries,2095,-1
+KL,Paper and Pulp,2095,-1
+LA,Agriculture,2095,-1
+LA,Cement,2095,-1
+LA,Chem_Fert,2095,-1
+LA,Fisheries,2095,-1
+LA,Iron and Steel,2095,-1
+LA,Non-Ferrous Metals,2095,-1
+LA,Other Industries,2095,-1
+LA,Paper and Pulp,2095,-1
+LD,Agriculture,2095,-1
+LD,Cement,2095,-1
+LD,Chem_Fert,2095,-1
+LD,Fisheries,2095,-1
+LD,Iron and Steel,2095,-1
+LD,Non-Ferrous Metals,2095,-1
+LD,Other Industries,2095,-1
+LD,Paper and Pulp,2095,-1
+MH,Agriculture,2095,-1
+MH,Cement,2095,-1
+MH,Chem_Fert,2095,-1
+MH,Fisheries,2095,-1
+MH,Iron and Steel,2095,-1
+MH,Non-Ferrous Metals,2095,-1
+MH,Other Industries,2095,-1
+MH,Paper and Pulp,2095,-1
+ML,Agriculture,2095,-1
+ML,Cement,2095,-1
+ML,Chem_Fert,2095,-1
+ML,Fisheries,2095,-1
+ML,Iron and Steel,2095,-1
+ML,Non-Ferrous Metals,2095,-1
+ML,Other Industries,2095,-1
+ML,Paper and Pulp,2095,-1
+MN,Agriculture,2095,-1
+MN,Cement,2095,-1
+MN,Chem_Fert,2095,-1
+MN,Fisheries,2095,-1
+MN,Iron and Steel,2095,-1
+MN,Non-Ferrous Metals,2095,-1
+MN,Other Industries,2095,-1
+MN,Paper and Pulp,2095,-1
+MP,Agriculture,2095,-1
+MP,Cement,2095,-1
+MP,Chem_Fert,2095,-1
+MP,Fisheries,2095,-1
+MP,Iron and Steel,2095,-1
+MP,Non-Ferrous Metals,2095,-1
+MP,Other Industries,2095,-1
+MP,Paper and Pulp,2095,-1
+MZ,Agriculture,2095,-1
+MZ,Cement,2095,-1
+MZ,Chem_Fert,2095,-1
+MZ,Fisheries,2095,-1
+MZ,Iron and Steel,2095,-1
+MZ,Non-Ferrous Metals,2095,-1
+MZ,Other Industries,2095,-1
+MZ,Paper and Pulp,2095,-1
+NL,Agriculture,2095,-1
+NL,Cement,2095,-1
+NL,Chem_Fert,2095,-1
+NL,Fisheries,2095,-1
+NL,Iron and Steel,2095,-1
+NL,Non-Ferrous Metals,2095,-1
+NL,Other Industries,2095,-1
+NL,Paper and Pulp,2095,-1
+OD,Agriculture,2095,-1
+OD,Cement,2095,-1
+OD,Chem_Fert,2095,-1
+OD,Fisheries,2095,-1
+OD,Iron and Steel,2095,-1
+OD,Non-Ferrous Metals,2095,-1
+OD,Other Industries,2095,-1
+OD,Paper and Pulp,2095,-1
+PB,Agriculture,2095,-1
+PB,Cement,2095,-1
+PB,Chem_Fert,2095,-1
+PB,Fisheries,2095,-1
+PB,Iron and Steel,2095,-1
+PB,Non-Ferrous Metals,2095,-1
+PB,Other Industries,2095,-1
+PB,Paper and Pulp,2095,-1
+PC,Agriculture,2095,-1
+PC,Cement,2095,-1
+PC,Chem_Fert,2095,-1
+PC,Fisheries,2095,-1
+PC,Iron and Steel,2095,-1
+PC,Non-Ferrous Metals,2095,-1
+PC,Other Industries,2095,-1
+PC,Paper and Pulp,2095,-1
+RJ,Agriculture,2095,-1
+RJ,Cement,2095,-1
+RJ,Chem_Fert,2095,-1
+RJ,Fisheries,2095,-1
+RJ,Iron and Steel,2095,-1
+RJ,Non-Ferrous Metals,2095,-1
+RJ,Other Industries,2095,-1
+RJ,Paper and Pulp,2095,-1
+SK,Agriculture,2095,-1
+SK,Cement,2095,-1
+SK,Chem_Fert,2095,-1
+SK,Fisheries,2095,-1
+SK,Iron and Steel,2095,-1
+SK,Non-Ferrous Metals,2095,-1
+SK,Other Industries,2095,-1
+SK,Paper and Pulp,2095,-1
+TN,Agriculture,2095,-1
+TN,Cement,2095,-1
+TN,Chem_Fert,2095,-1
+TN,Fisheries,2095,-1
+TN,Iron and Steel,2095,-1
+TN,Non-Ferrous Metals,2095,-1
+TN,Other Industries,2095,-1
+TN,Paper and Pulp,2095,-1
+TR,Agriculture,2095,-1
+TR,Cement,2095,-1
+TR,Chem_Fert,2095,-1
+TR,Fisheries,2095,-1
+TR,Iron and Steel,2095,-1
+TR,Non-Ferrous Metals,2095,-1
+TR,Other Industries,2095,-1
+TR,Paper and Pulp,2095,-1
+TS,Agriculture,2095,-1
+TS,Cement,2095,-1
+TS,Chem_Fert,2095,-1
+TS,Fisheries,2095,-1
+TS,Iron and Steel,2095,-1
+TS,Non-Ferrous Metals,2095,-1
+TS,Other Industries,2095,-1
+TS,Paper and Pulp,2095,-1
+UK,Agriculture,2095,-1
+UK,Cement,2095,-1
+UK,Chem_Fert,2095,-1
+UK,Fisheries,2095,-1
+UK,Iron and Steel,2095,-1
+UK,Non-Ferrous Metals,2095,-1
+UK,Other Industries,2095,-1
+UK,Paper and Pulp,2095,-1
+UP,Agriculture,2095,-1
+UP,Cement,2095,-1
+UP,Chem_Fert,2095,-1
+UP,Fisheries,2095,-1
+UP,Iron and Steel,2095,-1
+UP,Non-Ferrous Metals,2095,-1
+UP,Other Industries,2095,-1
+UP,Paper and Pulp,2095,-1
+WB,Agriculture,2095,-1
+WB,Cement,2095,-1
+WB,Chem_Fert,2095,-1
+WB,Fisheries,2095,-1
+WB,Iron and Steel,2095,-1
+WB,Non-Ferrous Metals,2095,-1
+WB,Other Industries,2095,-1
+WB,Paper and Pulp,2095,-1
+AN,Agriculture,2100,-1
+AN,Cement,2100,-1
+AN,Chem_Fert,2100,-1
+AN,Fisheries,2100,-1
+AN,Iron and Steel,2100,-1
+AN,Non-Ferrous Metals,2100,-1
+AN,Other Industries,2100,-1
+AN,Paper and Pulp,2100,-1
+AP,Agriculture,2100,-1
+AP,Cement,2100,-1
+AP,Chem_Fert,2100,-1
+AP,Fisheries,2100,-1
+AP,Iron and Steel,2100,-1
+AP,Non-Ferrous Metals,2100,-1
+AP,Other Industries,2100,-1
+AP,Paper and Pulp,2100,-1
+AR,Agriculture,2100,-1
+AR,Cement,2100,-1
+AR,Chem_Fert,2100,-1
+AR,Fisheries,2100,-1
+AR,Iron and Steel,2100,-1
+AR,Non-Ferrous Metals,2100,-1
+AR,Other Industries,2100,-1
+AR,Paper and Pulp,2100,-1
+AS,Agriculture,2100,-1
+AS,Cement,2100,-1
+AS,Chem_Fert,2100,-1
+AS,Fisheries,2100,-1
+AS,Iron and Steel,2100,-1
+AS,Non-Ferrous Metals,2100,-1
+AS,Other Industries,2100,-1
+AS,Paper and Pulp,2100,-1
+BR,Agriculture,2100,-1
+BR,Cement,2100,-1
+BR,Chem_Fert,2100,-1
+BR,Fisheries,2100,-1
+BR,Iron and Steel,2100,-1
+BR,Non-Ferrous Metals,2100,-1
+BR,Other Industries,2100,-1
+BR,Paper and Pulp,2100,-1
+CG,Agriculture,2100,-1
+CG,Cement,2100,-1
+CG,Chem_Fert,2100,-1
+CG,Fisheries,2100,-1
+CG,Iron and Steel,2100,-1
+CG,Non-Ferrous Metals,2100,-1
+CG,Other Industries,2100,-1
+CG,Paper and Pulp,2100,-1
+CH,Agriculture,2100,-1
+CH,Cement,2100,-1
+CH,Chem_Fert,2100,-1
+CH,Fisheries,2100,-1
+CH,Iron and Steel,2100,-1
+CH,Non-Ferrous Metals,2100,-1
+CH,Other Industries,2100,-1
+CH,Paper and Pulp,2100,-1
+DD,Agriculture,2100,-1
+DD,Cement,2100,-1
+DD,Chem_Fert,2100,-1
+DD,Fisheries,2100,-1
+DD,Iron and Steel,2100,-1
+DD,Non-Ferrous Metals,2100,-1
+DD,Other Industries,2100,-1
+DD,Paper and Pulp,2100,-1
+DL,Agriculture,2100,-1
+DL,Cement,2100,-1
+DL,Chem_Fert,2100,-1
+DL,Fisheries,2100,-1
+DL,Iron and Steel,2100,-1
+DL,Non-Ferrous Metals,2100,-1
+DL,Other Industries,2100,-1
+DL,Paper and Pulp,2100,-1
+DN,Agriculture,2100,-1
+DN,Cement,2100,-1
+DN,Chem_Fert,2100,-1
+DN,Fisheries,2100,-1
+DN,Iron and Steel,2100,-1
+DN,Non-Ferrous Metals,2100,-1
+DN,Other Industries,2100,-1
+DN,Paper and Pulp,2100,-1
+GA,Agriculture,2100,-1
+GA,Cement,2100,-1
+GA,Chem_Fert,2100,-1
+GA,Fisheries,2100,-1
+GA,Iron and Steel,2100,-1
+GA,Non-Ferrous Metals,2100,-1
+GA,Other Industries,2100,-1
+GA,Paper and Pulp,2100,-1
+GJ,Agriculture,2100,-1
+GJ,Cement,2100,-1
+GJ,Chem_Fert,2100,-1
+GJ,Fisheries,2100,-1
+GJ,Iron and Steel,2100,-1
+GJ,Non-Ferrous Metals,2100,-1
+GJ,Other Industries,2100,-1
+GJ,Paper and Pulp,2100,-1
+HP,Agriculture,2100,-1
+HP,Cement,2100,-1
+HP,Chem_Fert,2100,-1
+HP,Fisheries,2100,-1
+HP,Iron and Steel,2100,-1
+HP,Non-Ferrous Metals,2100,-1
+HP,Other Industries,2100,-1
+HP,Paper and Pulp,2100,-1
+HR,Agriculture,2100,-1
+HR,Cement,2100,-1
+HR,Chem_Fert,2100,-1
+HR,Fisheries,2100,-1
+HR,Iron and Steel,2100,-1
+HR,Non-Ferrous Metals,2100,-1
+HR,Other Industries,2100,-1
+HR,Paper and Pulp,2100,-1
+JH,Agriculture,2100,-1
+JH,Cement,2100,-1
+JH,Chem_Fert,2100,-1
+JH,Fisheries,2100,-1
+JH,Iron and Steel,2100,-1
+JH,Non-Ferrous Metals,2100,-1
+JH,Other Industries,2100,-1
+JH,Paper and Pulp,2100,-1
+JK,Agriculture,2100,-1
+JK,Cement,2100,-1
+JK,Chem_Fert,2100,-1
+JK,Fisheries,2100,-1
+JK,Iron and Steel,2100,-1
+JK,Non-Ferrous Metals,2100,-1
+JK,Other Industries,2100,-1
+JK,Paper and Pulp,2100,-1
+KA,Agriculture,2100,-1
+KA,Cement,2100,-1
+KA,Chem_Fert,2100,-1
+KA,Fisheries,2100,-1
+KA,Iron and Steel,2100,-1
+KA,Non-Ferrous Metals,2100,-1
+KA,Other Industries,2100,-1
+KA,Paper and Pulp,2100,-1
+KL,Agriculture,2100,-1
+KL,Cement,2100,-1
+KL,Chem_Fert,2100,-1
+KL,Fisheries,2100,-1
+KL,Iron and Steel,2100,-1
+KL,Non-Ferrous Metals,2100,-1
+KL,Other Industries,2100,-1
+KL,Paper and Pulp,2100,-1
+LA,Agriculture,2100,-1
+LA,Cement,2100,-1
+LA,Chem_Fert,2100,-1
+LA,Fisheries,2100,-1
+LA,Iron and Steel,2100,-1
+LA,Non-Ferrous Metals,2100,-1
+LA,Other Industries,2100,-1
+LA,Paper and Pulp,2100,-1
+LD,Agriculture,2100,-1
+LD,Cement,2100,-1
+LD,Chem_Fert,2100,-1
+LD,Fisheries,2100,-1
+LD,Iron and Steel,2100,-1
+LD,Non-Ferrous Metals,2100,-1
+LD,Other Industries,2100,-1
+LD,Paper and Pulp,2100,-1
+MH,Agriculture,2100,-1
+MH,Cement,2100,-1
+MH,Chem_Fert,2100,-1
+MH,Fisheries,2100,-1
+MH,Iron and Steel,2100,-1
+MH,Non-Ferrous Metals,2100,-1
+MH,Other Industries,2100,-1
+MH,Paper and Pulp,2100,-1
+ML,Agriculture,2100,-1
+ML,Cement,2100,-1
+ML,Chem_Fert,2100,-1
+ML,Fisheries,2100,-1
+ML,Iron and Steel,2100,-1
+ML,Non-Ferrous Metals,2100,-1
+ML,Other Industries,2100,-1
+ML,Paper and Pulp,2100,-1
+MN,Agriculture,2100,-1
+MN,Cement,2100,-1
+MN,Chem_Fert,2100,-1
+MN,Fisheries,2100,-1
+MN,Iron and Steel,2100,-1
+MN,Non-Ferrous Metals,2100,-1
+MN,Other Industries,2100,-1
+MN,Paper and Pulp,2100,-1
+MP,Agriculture,2100,-1
+MP,Cement,2100,-1
+MP,Chem_Fert,2100,-1
+MP,Fisheries,2100,-1
+MP,Iron and Steel,2100,-1
+MP,Non-Ferrous Metals,2100,-1
+MP,Other Industries,2100,-1
+MP,Paper and Pulp,2100,-1
+MZ,Agriculture,2100,-1
+MZ,Cement,2100,-1
+MZ,Chem_Fert,2100,-1
+MZ,Fisheries,2100,-1
+MZ,Iron and Steel,2100,-1
+MZ,Non-Ferrous Metals,2100,-1
+MZ,Other Industries,2100,-1
+MZ,Paper and Pulp,2100,-1
+NL,Agriculture,2100,-1
+NL,Cement,2100,-1
+NL,Chem_Fert,2100,-1
+NL,Fisheries,2100,-1
+NL,Iron and Steel,2100,-1
+NL,Non-Ferrous Metals,2100,-1
+NL,Other Industries,2100,-1
+NL,Paper and Pulp,2100,-1
+OD,Agriculture,2100,-1
+OD,Cement,2100,-1
+OD,Chem_Fert,2100,-1
+OD,Fisheries,2100,-1
+OD,Iron and Steel,2100,-1
+OD,Non-Ferrous Metals,2100,-1
+OD,Other Industries,2100,-1
+OD,Paper and Pulp,2100,-1
+PB,Agriculture,2100,-1
+PB,Cement,2100,-1
+PB,Chem_Fert,2100,-1
+PB,Fisheries,2100,-1
+PB,Iron and Steel,2100,-1
+PB,Non-Ferrous Metals,2100,-1
+PB,Other Industries,2100,-1
+PB,Paper and Pulp,2100,-1
+PC,Agriculture,2100,-1
+PC,Cement,2100,-1
+PC,Chem_Fert,2100,-1
+PC,Fisheries,2100,-1
+PC,Iron and Steel,2100,-1
+PC,Non-Ferrous Metals,2100,-1
+PC,Other Industries,2100,-1
+PC,Paper and Pulp,2100,-1
+RJ,Agriculture,2100,-1
+RJ,Cement,2100,-1
+RJ,Chem_Fert,2100,-1
+RJ,Fisheries,2100,-1
+RJ,Iron and Steel,2100,-1
+RJ,Non-Ferrous Metals,2100,-1
+RJ,Other Industries,2100,-1
+RJ,Paper and Pulp,2100,-1
+SK,Agriculture,2100,-1
+SK,Cement,2100,-1
+SK,Chem_Fert,2100,-1
+SK,Fisheries,2100,-1
+SK,Iron and Steel,2100,-1
+SK,Non-Ferrous Metals,2100,-1
+SK,Other Industries,2100,-1
+SK,Paper and Pulp,2100,-1
+TN,Agriculture,2100,-1
+TN,Cement,2100,-1
+TN,Chem_Fert,2100,-1
+TN,Fisheries,2100,-1
+TN,Iron and Steel,2100,-1
+TN,Non-Ferrous Metals,2100,-1
+TN,Other Industries,2100,-1
+TN,Paper and Pulp,2100,-1
+TR,Agriculture,2100,-1
+TR,Cement,2100,-1
+TR,Chem_Fert,2100,-1
+TR,Fisheries,2100,-1
+TR,Iron and Steel,2100,-1
+TR,Non-Ferrous Metals,2100,-1
+TR,Other Industries,2100,-1
+TR,Paper and Pulp,2100,-1
+TS,Agriculture,2100,-1
+TS,Cement,2100,-1
+TS,Chem_Fert,2100,-1
+TS,Fisheries,2100,-1
+TS,Iron and Steel,2100,-1
+TS,Non-Ferrous Metals,2100,-1
+TS,Other Industries,2100,-1
+TS,Paper and Pulp,2100,-1
+UK,Agriculture,2100,-1
+UK,Cement,2100,-1
+UK,Chem_Fert,2100,-1
+UK,Fisheries,2100,-1
+UK,Iron and Steel,2100,-1
+UK,Non-Ferrous Metals,2100,-1
+UK,Other Industries,2100,-1
+UK,Paper and Pulp,2100,-1
+UP,Agriculture,2100,-1
+UP,Cement,2100,-1
+UP,Chem_Fert,2100,-1
+UP,Fisheries,2100,-1
+UP,Iron and Steel,2100,-1
+UP,Non-Ferrous Metals,2100,-1
+UP,Other Industries,2100,-1
+UP,Paper and Pulp,2100,-1
+WB,Agriculture,2100,-1
+WB,Cement,2100,-1
+WB,Chem_Fert,2100,-1
+WB,Fisheries,2100,-1
+WB,Iron and Steel,2100,-1
+WB,Non-Ferrous Metals,2100,-1
+WB,Other Industries,2100,-1
+WB,Paper and Pulp,2100,-1

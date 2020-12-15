@@ -1,0 +1,44 @@
+# File: A10.india_state_pop_rural_urban_share.csv
+# Title: Rural Population Share by state
+# Units: Share
+# Source: IIASA
+# Column types: ccnnnn
+# ----------
+state,sector ,1975,1990,2005,2010
+AN,resid rural,0.64,0.64,0.64,0.64328
+AP,resid rural,0.7,0.7,0.7,0.7031
+AR,resid rural,0.77,0.77,0.77,0.77329
+AS,resid rural,0.86,0.86,0.86,0.8592
+BR,resid rural,0.89,0.89,0.89,0.887
+CG,resid rural,0.77,0.77,0.77,0.76756
+CH,resid rural,0.03,0.03,0.03,0.0275
+DD,resid rural,0.25,0.25,0.25,0.24837
+DL,resid rural,0.03,0.03,0.03,0.02503
+DN,resid rural,0.53,0.53,0.53,0.53383
+GA,resid rural,0.38,0.38,0.38,0.37827
+GJ,resid rural,0.57,0.57,0.57,0.57418
+HP,resid rural,0.9,0.9,0.9,0.89955
+HR,resid rural,0.65,0.65,0.65,0.65205
+JH,resid rural,0.76,0.76,0.76,0.75947
+JK,resid rural,0.73,0.73,0.73,0.72869
+KA,resid rural,0.61,0.61,0.61,0.6143
+KL,resid rural,0.52,0.52,0.52,0.52281
+LA,resid rural,0.66,0.66,0.66,0.65786
+LD,resid rural,0.22,0.22,0.22,0.21917
+MH,resid rural,0.55,0.55,0.55,0.54769
+ML,resid rural,0.8,0.8,0.8,0.79925
+MN,resid rural,0.7,0.7,0.7,0.69794
+MP,resid rural,0.72,0.72,0.72,0.7237
+MZ,resid rural,0.48,0.48,0.48,0.4849
+NL,resid rural,0.71,0.71,0.71,0.71032
+OD,resid rural,0.83,0.83,0.83,0.83322
+PB,resid rural,0.63,0.63,0.63,0.62506
+PC,resid rural,0.32,0.32,0.32,0.31688
+RJ,resid rural,0.75,0.75,0.75,0.75109
+SK,resid rural,0.75,0.75,0.75,0.75032
+TN,resid rural,0.52,0.52,0.52,0.51552
+TR,resid rural,0.74,0.74,0.74,0.73823
+TS,resid rural,0.61,0.61,0.61,0.61122
+UK,resid rural,0.69,0.69,0.69,0.69445
+UP,resid rural,0.78,0.78,0.78,0.77718
+WB,resid rural,0.68,0.68,0.68,0.68106

@@ -1,0 +1,115 @@
+# File: A22.india_state_calibrated_techs_transformation.csv
+# Title: Mapping from calibrated intermediate sectors and fuels to supplysector / subsector / technology / input in GCAM
+# Units: n/a
+# Column types: cccccccc
+# ----------
+sector,fuel,supplysector,subsector,technology,minicam.energy.input,calibration,secondary.output
+unconventional oil production,unconventional oil,unconventional oil production,unconventional oil production,unconventional oil production,unconventional oil,output,
+unconventional oil production,gas,unconventional oil production,unconventional oil production,unconventional oil production,regional natural gas,output,
+unconventional oil production,electricity,unconventional oil production,unconventional oil production,unconventional oil production,elect_td_ind,output,
+gas processing,coal,gas processing,coal gasification,coal gasification,regional coal,output,
+gas processing,gas,gas processing,natural gas,natural gas,regional natural gas,output,
+gas processing,biomass,gas processing,biomass gasification,biomass gasification,regional biomass,output,
+corn ethanol,corn,refining,biomass liquids,corn ethanol,regional corn for ethanol,output,
+corn ethanol,gas,refining,biomass liquids,corn ethanol,wholesale gas,output,
+corn ethanol,electricity,refining,biomass liquids,corn ethanol,elect_td_ind,output,
+sugar cane ethanol,sugar,refining,biomass liquids,sugar cane ethanol,regional sugar for ethanol,output,
+biodiesel,biomass oil,refining,biomass liquids,biodiesel,regional biomassOil,output,
+biodiesel,gas,refining,biomass liquids,biodiesel,wholesale gas,output,
+cellulosic ethanol,biomass,refining,biomass liquids,cellulosic ethanol,regional biomass,output,
+FT biofuels,biomass,refining,biomass liquids,FT biofuels,regional biomass,output,
+gtl,gas,refining,gas to liquids,gas to liquids,regional natural gas,output,
+ctl,coal,refining,coal to liquids,coal to liquids,regional coal,output,
+oil refining,oil,refining,oil refining,oil refining,regional oil,output,
+oil refining,gas,refining,oil refining,oil refining,wholesale gas,output,
+oil refining,electricity,refining,oil refining,oil refining,elect_td_ind,output,
+heat,biomass,district heat,biomass,biomass,delivered biomass,input,
+heat,coal,district heat,coal,coal,delivered coal,input,
+heat,electricity,district heat,electricity,electricity,elect_td_ind,input,
+heat,gas,district heat,gas,gas,wholesale gas,input,
+heat,refined liquids,district heat,refined liquids,refined liquids,refined liquids industrial,input,
+electricity ownuse,electricity,electricity_net_ownuse,electricity_net_ownuse,electricity_net_ownuse,electricity,coefficient,
+electricity distribution,electricity,elect_td_bld,elect_td_bld,elect_td_bld,electricity_net_ownuse,coefficient,
+electricity distribution,electricity,elect_td_ind,elect_td_ind,elect_td_ind,electricity_net_ownuse,coefficient,
+electricity distribution,electricity,elect_td_trn,elect_td_trn,elect_td_trn,electricity_net_ownuse,coefficient,
+gas pipeline,gas,gas pipeline,gas pipeline,gas pipeline,gas processing,coefficient,
+heat,biomass,district heat,biomass,biomass,delivered biomass,input,
+heat,coal,district heat,coal,coal,delivered coal,input,
+heat,gas,district heat,gas,gas,wholesale gas,input,
+heat,refined liquids,district heat,refined liquids,refined liquids,refined liquids industrial,input,
+Agriculture_enuse,electricity,Agriculture_enuse,electricity,electricity,elect_td_ind,input,
+Agriculture_enuse,refined liquids,Agriculture_enuse,refined liquids,refined liquids,refined liquids industrial,input,
+Cement_enuse,biomass,Cement_enuse,biomass,biomass,delivered biomass,input,
+Cement_enuse,coal,Cement_enuse,coal,coal,delivered coal,input,
+Cement_enuse,electricity,Cement_enuse,electricity,electricity,elect_td_ind,input,
+Cement_enuse,gas,Cement_enuse,gas,gas,wholesale gas,input,
+Cement_enuse,refined liquids,Cement_enuse,refined liquids,refined liquids,refined liquids industrial,input,
+Cement_fsuse,coal,industrial feedstocks,coal,coal,delivered coal,input,
+Cement_fsuse,gas,industrial feedstocks,gas,gas,wholesale gas,input,
+Cement_fsuse,refined liquids,industrial feedstocks,refined liquids,refined liquids,refined liquids industrial,input,
+Chem_Fert_enuse,biomass,Chem_Fert_enuse,biomass,biomass,delivered biomass,input,
+Chem_Fert_enuse,coal,Chem_Fert_enuse,coal,coal,delivered coal,input,
+Chem_Fert_enuse,electricity,Chem_Fert_enuse,electricity,electricity,elect_td_ind,input,
+Chem_Fert_enuse,gas,Chem_Fert_enuse,gas,gas,wholesale gas,input,
+Chem_Fert_enuse,refined liquids,Chem_Fert_enuse,refined liquids,refined liquids,refined liquids industrial,input,
+Chem_Fert_fsuse,coal,industrial feedstocks,coal,coal,delivered coal,input,
+Chem_Fert_fsuse,gas,industrial feedstocks,gas,gas,wholesale gas,input,
+Chem_Fert_fsuse,refined liquids,industrial feedstocks,refined liquids,refined liquids,refined liquids industrial,input,
+chp_elec,biomass,Cement_enuse,biomass,biomass cogen,delivered biomass,input,electricity
+chp_elec,coal,Cement_enuse,coal,coal cogen,delivered coal,input,electricity
+chp_elec,gas,Cement_enuse,gas,gas cogen,wholesale gas,input,electricity
+chp_elec,refined liquids,Cement_enuse,refined liquids,refined liquids cogen,refined liquids industrial,input,electricity
+chp_elec,biomass,Chem_Fert_enuse,biomass,biomass cogen,delivered biomass,input,electricity
+chp_elec,coal,Chem_Fert_enuse,coal,coal cogen,delivered coal,input,electricity
+chp_elec,gas,Chem_Fert_enuse,gas,gas cogen,wholesale gas,input,electricity
+chp_elec,refined liquids,Chem_Fert_enuse,refined liquids,refined liquids cogen,refined liquids industrial,input,electricity
+chp_elec,biomass,Iron and Steel_enuse,biomass,biomass cogen,delivered biomass,input,electricity
+chp_elec,coal,Iron and Steel_enuse,coal,coal cogen,delivered coal,input,electricity
+chp_elec,gas,Iron and Steel_enuse,gas,gas cogen,wholesale gas,input,electricity
+chp_elec,refined liquids,Iron and Steel_enuse,refined liquids,refined liquids cogen,refined liquids industrial,input,electricity
+chp_elec,biomass,Non-Ferrous Metals_enuse,biomass,biomass cogen,delivered biomass,input,electricity
+chp_elec,coal,Non-Ferrous Metals_enuse,coal,coal cogen,delivered coal,input,electricity
+chp_elec,gas,Non-Ferrous Metals_enuse,gas,gas cogen,wholesale gas,input,electricity
+chp_elec,refined liquids,Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,refined liquids industrial,input,electricity
+chp_elec,biomass,Other Industries_enuse,biomass,biomass cogen,delivered biomass,input,electricity
+chp_elec,coal,Other Industries_enuse,coal,coal cogen,delivered coal,input,electricity
+chp_elec,gas,Other Industries_enuse,gas,gas cogen,wholesale gas,input,electricity
+chp_elec,refined liquids,Other Industries_enuse,refined liquids,refined liquids cogen,refined liquids industrial,input,electricity
+chp_elec,biomass,Paper and Pulp_enuse,biomass,biomass cogen,delivered biomass,input,electricity
+chp_elec,coal,Paper and Pulp_enuse,coal,coal cogen,delivered coal,input,electricity
+chp_elec,gas,Paper and Pulp_enuse,gas,gas cogen,wholesale gas,input,electricity
+chp_elec,refined liquids,Paper and Pulp_enuse,refined liquids,refined liquids cogen,refined liquids industrial,input,electricity
+electricity generation,coal,electricity,coal,coal (conv pul),regional coal,input,heat
+electricity generation,gas,electricity,gas,gas (steam/CT),wholesale gas,input,heat
+electricity generation,gas,electricity,gas,gas (CC),wholesale gas,input,
+electricity generation,refined liquids,electricity,refined liquids,refined liquids (steam/CT),refined liquids industrial,input,heat
+electricity generation,biomass,electricity,biomass,biomass (conv),regional biomass,input,heat
+electricity generation,nuclear,electricity,nuclear,Gen_II_LWR,nuclearFuelGenII,output,
+electricity generation,hydro,electricity,hydro,hydro,,fixed output,
+electricity generation,wind,electricity,wind,wind,onshore wind resource,output,
+electricity generation,solar PV,electricity,solar,PV,global solar resource,output,
+electricity generation,solar CSP,electricity,solar,CSP,global solar resource,output,
+electricity generation,geothermal,electricity,geothermal,geothermal,geothermal,output,
+Iron and Steel_enuse,biomass,Iron and Steel_enuse,biomass,biomass,delivered biomass,input,
+Iron and Steel_enuse,coal,Iron and Steel_enuse,coal,coal,delivered coal,input,
+Iron and Steel_enuse,electricity,Iron and Steel_enuse,electricity,electricity,elect_td_ind,input,
+Iron and Steel_enuse,gas,Iron and Steel_enuse,gas,gas,wholesale gas,input,
+Iron and Steel_enuse,refined liquids,Iron and Steel_enuse,refined liquids,refined liquids,refined liquids industrial,input,
+Non-Ferrous Metals_enuse,biomass,Non-Ferrous Metals_enuse,biomass,biomass,delivered biomass,input,
+Non-Ferrous Metals_enuse,coal,Non-Ferrous Metals_enuse,coal,coal,delivered coal,input,
+Non-Ferrous Metals_enuse,electricity,Non-Ferrous Metals_enuse,electricity,electricity,elect_td_ind,input,
+Non-Ferrous Metals_enuse,gas,Non-Ferrous Metals_enuse,gas,gas,wholesale gas,input,
+Non-Ferrous Metals_enuse,refined liquids,Non-Ferrous Metals_enuse,refined liquids,refined liquids,refined liquids industrial,input,
+Other Industries_enuse,biomass,Other Industries_enuse,biomass,biomass,delivered biomass,input,
+Other Industries_enuse,coal,Other Industries_enuse,coal,coal,delivered coal,input,
+Other Industries_enuse,electricity,Other Industries_enuse,electricity,electricity,elect_td_ind,input,
+Other Industries_enuse,gas,Other Industries_enuse,gas,gas,wholesale gas,input,
+Other Industries_enuse,refined liquids,Other Industries_enuse,refined liquids,refined liquids,refined liquids industrial,input,
+Other Industries_fsuse,coal,industrial feedstocks,coal,coal,delivered coal,input,
+Other Industries_fsuse,gas,industrial feedstocks,gas,gas,wholesale gas,input,
+Other Industries_fsuse,refined liquids,industrial feedstocks,refined liquids,refined liquids,refined liquids industrial,input,
+Paper and Pulp_enuse,biomass,Paper and Pulp_enuse,biomass,biomass,delivered biomass,input,
+Paper and Pulp_enuse,coal,Paper and Pulp_enuse,coal,coal,delivered coal,input,
+Paper and Pulp_enuse,electricity,Paper and Pulp_enuse,electricity,electricity,elect_td_ind,input,
+Paper and Pulp_enuse,gas,Paper and Pulp_enuse,gas,gas,wholesale gas,input,
+Paper and Pulp_enuse,refined liquids,Paper and Pulp_enuse,refined liquids,refined liquids,refined liquids industrial,input,

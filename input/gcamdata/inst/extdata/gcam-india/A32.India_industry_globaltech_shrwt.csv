@@ -1,0 +1,94 @@
+# File: A32.India_industry_globaltech_shrwt.csv
+# Title: Industry (intermediate service) default shareweights
+# Units: Unitless
+# Column types: ccciiiii
+# ----------
+supplysector,subsector,technology,1971,2010,2019,2020,2100
+Agriculture_enuse,electricity,electricity,1,1,1,1,1
+Agriculture_enuse,refined liquids,refined liquids,1,1,1,1,1
+Agriculture_enuse,refined liquids,refined liquids cogen,1,1,1,1,1
+Cement_enuse,biomass,biomass,1,1,1,1,1
+Cement_enuse,biomass,biomass cogen,0,0,1,1,1
+Cement_enuse,coal,coal,1,1,1,1,1
+Cement_enuse,coal,coal cogen,1,1,1,1,1
+Cement_enuse,electricity,electricity,1,1,1,1,1
+Cement_enuse,gas,gas,1,1,1,1,1
+Cement_enuse,gas,gas cogen,1,1,1,1,1
+Cement_enuse,hydrogen,hydrogen,0,0,0,1,1
+Cement_enuse,hydrogen,hydrogen cogen,0,0,0,1,1
+Cement_enuse,refined liquids,refined liquids,1,1,1,1,1
+Cement_enuse,refined liquids,refined liquids cogen,1,1,1,1,1
+Chem_Fert_enuse,biomass,biomass,1,1,1,1,1
+Chem_Fert_enuse,biomass,biomass cogen,0,0,1,1,1
+Chem_Fert_enuse,coal,coal,1,1,1,1,1
+Chem_Fert_enuse,coal,coal cogen,1,1,1,1,1
+Chem_Fert_enuse,electricity,electricity,1,1,1,1,1
+Chem_Fert_enuse,gas,gas,1,1,1,1,1
+Chem_Fert_enuse,gas,gas cogen,1,1,1,1,1
+Chem_Fert_enuse,hydrogen,hydrogen,0,0,0,1,1
+Chem_Fert_enuse,hydrogen,hydrogen cogen,0,0,0,1,1
+Chem_Fert_enuse,refined liquids,refined liquids,1,1,1,1,1
+Chem_Fert_enuse,refined liquids,refined liquids cogen,1,1,1,1,1
+Fisheries_enuse,refined liquids,refined liquids,1,1,1,1,1
+Fisheries_enuse,refined liquids,refined liquids cogen,1,1,1,1,1
+Iron and Steel_enuse,biomass,biomass,1,1,1,1,1
+Iron and Steel_enuse,biomass,biomass cogen,0,0,1,1,1
+Iron and Steel_enuse,coal,coal,1,1,1,1,1
+Iron and Steel_enuse,coal,coal cogen,1,1,1,1,1
+Iron and Steel_enuse,electricity,electricity,1,1,1,1,1
+Iron and Steel_enuse,gas,gas,1,1,1,1,1
+Iron and Steel_enuse,gas,gas cogen,1,1,1,1,1
+Iron and Steel_enuse,hydrogen,hydrogen,0,0,0,1,1
+Iron and Steel_enuse,hydrogen,hydrogen cogen,0,0,0,1,1
+Iron and Steel_enuse,refined liquids,refined liquids,1,1,1,1,1
+Iron and Steel_enuse,refined liquids,refined liquids cogen,1,1,1,1,1
+Non-Ferrous Metals_enuse,biomass,biomass,1,1,1,1,1
+Non-Ferrous Metals_enuse,biomass,biomass cogen,0,0,1,1,1
+Non-Ferrous Metals_enuse,coal,coal,1,1,1,1,1
+Non-Ferrous Metals_enuse,coal,coal cogen,1,1,1,1,1
+Non-Ferrous Metals_enuse,electricity,electricity,1,1,1,1,1
+Non-Ferrous Metals_enuse,gas,gas,1,1,1,1,1
+Non-Ferrous Metals_enuse,gas,gas cogen,1,1,1,1,1
+Non-Ferrous Metals_enuse,hydrogen,hydrogen,0,0,0,1,1
+Non-Ferrous Metals_enuse,hydrogen,hydrogen cogen,0,0,0,1,1
+Non-Ferrous Metals_enuse,refined liquids,refined liquids,1,1,1,1,1
+Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen,1,1,1,1,1
+Other Industries_enuse,biomass,biomass,1,1,1,1,1
+Other Industries_enuse,biomass,biomass cogen,0,0,1,1,1
+Other Industries_enuse,coal,coal,1,1,1,1,1
+Other Industries_enuse,coal,coal cogen,1,1,1,1,1
+Other Industries_enuse,electricity,electricity,1,1,1,1,1
+Other Industries_enuse,gas,gas,1,1,1,1,1
+Other Industries_enuse,gas,gas cogen,1,1,1,1,1
+Other Industries_enuse,hydrogen,hydrogen,0,0,0,1,1
+Other Industries_enuse,hydrogen,hydrogen cogen,0,0,0,1,1
+Other Industries_enuse,refined liquids,refined liquids,1,1,1,1,1
+Other Industries_enuse,refined liquids,refined liquids cogen,1,1,1,1,1
+Paper and Pulp_enuse,biomass,biomass,1,1,1,1,1
+Paper and Pulp_enuse,biomass,biomass cogen,0,0,1,1,1
+Paper and Pulp_enuse,coal,coal,1,1,1,1,1
+Paper and Pulp_enuse,coal,coal cogen,1,1,1,1,1
+Paper and Pulp_enuse,electricity,electricity,1,1,1,1,1
+Paper and Pulp_enuse,gas,gas,1,1,1,1,1
+Paper and Pulp_enuse,gas,gas cogen,1,1,1,1,1
+Paper and Pulp_enuse,hydrogen,hydrogen,0,0,0,1,1
+Paper and Pulp_enuse,hydrogen,hydrogen cogen,0,0,0,1,1
+Paper and Pulp_enuse,refined liquids,refined liquids,1,1,1,1,1
+Paper and Pulp_enuse,refined liquids,refined liquids cogen,1,1,1,1,1
+Cement_fsuse,coal,coal,1,1,1,1,1
+Cement_fsuse,gas,gas,1,1,1,1,1
+Cement_fsuse,refined liquids,refined liquids,1,1,1,1,1
+Chem_Fert_fsuse,coal,coal,1,1,1,1,1
+Chem_Fert_fsuse,gas,gas,1,1,1,1,1
+Chem_Fert_fsuse,refined liquids,refined liquids,1,1,1,1,1
+Other Industries_fsuse,coal,coal,1,1,1,1,1
+Other Industries_fsuse,gas,gas,1,1,1,1,1
+Other Industries_fsuse,refined liquids,refined liquids,1,1,1,1,1
+Agriculture,Agriculture,Agriculture,1,1,1,1,1
+Cement,Cement,Cement,1,1,1,1,1
+Chem_Fert,Chem_Fert,Chem_Fert,1,1,1,1,1
+Fisheries,Fisheries,Fisheries,1,1,1,1,1
+Iron and Steel,Iron and Steel,Iron and Steel,1,1,1,1,1
+Non-Ferrous Metals,Non-Ferrous Metals,Non-Ferrous Metals,1,1,1,1,1
+Other Industries,Other Industries,Other Industries,1,1,1,1,1
+Paper and Pulp,Paper and Pulp,Paper and Pulp,1,1,1,1,1

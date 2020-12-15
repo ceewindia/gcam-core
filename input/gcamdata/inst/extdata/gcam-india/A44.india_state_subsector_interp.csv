@@ -1,0 +1,51 @@
+# File: A44.india_state_subsector_interp.csv
+# Title: Building subsector default shareweight interpolation
+# Units: NA
+# Source: None (GCAM assumptions)
+# Column types: cccccnc
+# ----------
+supplysector,subsector,apply.to,from.year,to.year,to.value,interpolation.function
+resid rural cooling,electricity,share-weight,final-calibration-year,end-year,1,fixed
+resid urban cooling,electricity,share-weight,final-calibration-year,end-year,1,fixed
+resid rural coolers,electricity,share-weight,final-calibration-year,end-year,1,fixed
+resid urban coolers,electricity,share-weight,final-calibration-year,end-year,1,fixed
+resid rural lighting,electricity,share-weight,final-calibration-year,end-year,1,fixed
+resid urban lighting,electricity,share-weight,final-calibration-year,end-year,1,fixed
+resid rural space heating,electricity,share-weight,final-calibration-year,end-year,1,fixed
+resid urban space heating,electricity,share-weight,final-calibration-year,end-year,1,fixed
+resid rural cooking,electricity,share-weight,final-calibration-year,end-year,1,fixed
+resid urban cooking,electricity,share-weight,final-calibration-year,end-year,1,fixed
+resid rural apploth,electricity,share-weight,final-calibration-year,end-year,1,fixed
+resid urban apploth,electricity,share-weight,final-calibration-year,end-year,1,fixed
+resid rural space heating,coal,share-weight,final-calibration-year,end-year,1,fixed
+resid urban space heating,coal,share-weight,final-calibration-year,end-year,1,fixed
+resid rural cooking,coal,share-weight,final-calibration-year,end-year,1,fixed
+resid urban cooking,coal,share-weight,final-calibration-year,end-year,1,fixed
+resid rural cooking,gas,share-weight,final-calibration-year,end-year,1,fixed
+resid urban cooking,gas,share-weight,final-calibration-year,end-year,1,fixed
+resid rural apploth,coal,share-weight,final-calibration-year,end-year,1,fixed
+resid urban apploth,coal,share-weight,final-calibration-year,end-year,1,fixed
+resid rural space heating,biomass,share-weight,final-calibration-year,end-year,1,fixed
+resid urban space heating,biomass,share-weight,final-calibration-year,end-year,1,fixed
+resid rural cooking,biomass,share-weight,final-calibration-year,end-year,1,fixed
+resid urban cooking,biomass,share-weight,final-calibration-year,end-year,1,fixed
+resid urban cooking,refined liquids,share-weight,final-calibration-year,end-year,1,fixed
+resid rural cooking,refined liquids,share-weight,final-calibration-year,end-year,1,fixed
+resid rural cooking,traditional biomass,share-weight,final-calibration-year,end-year,1,fixed
+resid urban cooking,traditional biomass,share-weight,final-calibration-year,end-year,1,fixed
+resid rural apploth,biomass,share-weight,final-calibration-year,end-year,1,fixed
+resid urban apploth,biomass,share-weight,final-calibration-year,end-year,1,fixed
+resid rural apploth,refined liquids,share-weight,final-calibration-year,end-year,1,fixed
+resid urban apploth,refined liquids,share-weight,final-calibration-year,end-year,1,fixed
+resid rural apploth,gas,share-weight,final-calibration-year,end-year,1,fixed
+resid urban apploth,gas,share-weight,final-calibration-year,end-year,1,fixed
+comm hvac,electricity,share-weight,final-calibration-year,end-year,1,fixed
+comm lighting,electricity,share-weight,final-calibration-year,end-year,1,fixed
+comm ref,electricity,share-weight,final-calibration-year,end-year,1,fixed
+comm others,electricity,share-weight,final-calibration-year,end-year,1,fixed
+comm others,coal,share-weight,final-calibration-year,end-year,1,fixed
+comm others,biomass,share-weight,final-calibration-year,end-year,1,fixed
+comm others,refined liquids,share-weight,final-calibration-year,end-year,1,fixed
+comm cooking,refined liquids,share-weight,final-calibration-year,end-year,1,fixed
+comm cooking,gas,share-weight,final-calibration-year,end-year,1,fixed
+comm cooking,electricity,share-weight,final-calibration-year,end-year,1,fixed

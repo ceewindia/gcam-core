@@ -1,0 +1,993 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionFuelAdder,,,,,,
+,,,,,,
+region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
+Eastern,delivered coal,delivered coal,delivered coal,2010,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2010,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2010,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2010,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2010,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2015,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2015,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2015,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2015,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2015,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2020,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2020,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2020,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2020,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2020,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2025,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2025,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2025,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2025,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2025,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2030,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2030,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2030,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2030,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2030,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2035,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2035,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2035,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2035,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2035,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2040,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2040,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2040,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2040,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2040,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2045,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2045,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2045,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2045,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2045,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2050,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2050,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2050,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2050,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2050,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2055,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2055,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2055,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2055,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2055,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2060,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2060,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2060,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2060,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2060,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2065,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2065,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2065,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2065,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2065,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2070,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2070,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2070,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2070,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2070,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2075,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2075,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2075,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2075,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2075,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2080,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2080,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2080,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2080,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2080,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2085,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2085,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2085,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2085,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2085,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2090,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2090,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2090,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2090,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2090,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2095,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2095,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2095,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2095,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2095,tax,0.092236992
+Eastern,delivered coal,delivered coal,delivered coal,2100,tax,0.633524092
+North-Eastern,delivered coal,delivered coal,delivered coal,2100,tax,0.844279005
+Northern,delivered coal,delivered coal,delivered coal,2100,tax,0.447712595
+Southern,delivered coal,delivered coal,delivered coal,2100,tax,-0.027908358
+Western,delivered coal,delivered coal,delivered coal,2100,tax,0.092236992
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2010,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2010,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2010,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2010,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2010,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2015,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2015,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2015,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2015,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2015,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2020,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2020,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2020,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2020,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2020,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2025,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2025,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2025,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2025,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2025,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2030,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2030,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2030,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2030,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2030,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2035,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2035,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2035,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2035,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2035,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2040,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2040,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2040,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2040,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2040,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2045,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2045,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2045,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2045,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2045,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2050,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2050,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2050,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2050,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2050,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2055,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2055,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2055,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2055,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2055,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2060,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2060,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2060,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2060,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2060,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2065,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2065,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2065,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2065,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2065,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2070,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2070,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2070,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2070,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2070,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2075,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2075,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2075,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2075,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2075,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2080,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2080,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2080,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2080,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2080,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2085,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2085,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2085,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2085,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2085,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2090,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2090,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2090,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2090,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2090,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2095,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2095,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2095,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2095,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2095,tax,-2.476766484
+Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2100,tax,-2.708366484
+North-Eastern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2100,tax,-2.648766484
+Northern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2100,tax,-2.584266484
+Southern,refined liquids industrial,refined liquids industrial,refined liquids industrial,2100,tax,-2.501566484
+Western,refined liquids industrial,refined liquids industrial,refined liquids industrial,2100,tax,-2.476766484
+Eastern,wholesale gas,wholesale gas,wholesale gas,2010,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2010,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2010,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2010,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2010,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2015,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2015,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2015,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2015,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2015,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2020,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2020,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2020,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2020,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2020,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2025,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2025,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2025,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2025,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2025,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2030,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2030,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2030,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2030,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2030,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2035,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2035,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2035,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2035,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2035,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2040,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2040,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2040,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2040,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2040,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2045,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2045,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2045,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2045,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2045,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2050,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2050,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2050,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2050,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2050,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2055,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2055,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2055,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2055,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2055,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2060,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2060,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2060,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2060,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2060,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2065,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2065,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2065,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2065,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2065,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2070,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2070,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2070,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2070,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2070,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2075,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2075,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2075,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2075,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2075,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2080,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2080,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2080,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2080,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2080,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2085,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2085,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2085,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2085,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2085,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2090,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2090,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2090,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2090,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2090,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2095,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2095,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2095,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2095,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2095,tax,1.81933475
+Eastern,wholesale gas,wholesale gas,wholesale gas,2100,tax,1.958304578
+North-Eastern,wholesale gas,wholesale gas,wholesale gas,2100,tax,2.209864778
+Northern,wholesale gas,wholesale gas,wholesale gas,2100,tax,2.028500365
+Southern,wholesale gas,wholesale gas,wholesale gas,2100,tax,1.743424924
+Western,wholesale gas,wholesale gas,wholesale gas,2100,tax,1.81933475
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-8.4259
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-8.669927957
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-12.10463666
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-5.410204184
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-4.074904184
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-8.672365494
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-7.685
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-8.2852
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-4.196441429
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-8.2852
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-9.64129651
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-8.165878826
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-8.831895495
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-7.158287376
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-6.959676074
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-11.77172028
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-6.787118823
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-8.064346072
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-7.685
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-8.4259
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-8.980661726
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-8.217902015
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-9.803425497
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-6.712482302
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-10.80538825
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-13.21670521
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-7.09180303
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-8.149239552
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-9.671890713
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-6.57472665
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-6.376115348
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-0.004601709
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-7.667373029
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-7.282594911
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-9.547583178
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-4.614843458
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-6.111861434
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-5.237372868
+AN,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-10.62299
+AP,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-10.86701592
+AR,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-11.29158332
+AS,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-4.597158368
+BR,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-3.200408368
+CG,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-13.54104098
+CH,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-10.67667
+DD,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-13.15387
+DL,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-7.188082858
+DN,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-13.15387
+GA,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-14.50997302
+GJ,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-13.03454766
+HP,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-11.823561
+HR,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-10.14995476
+JH,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-6.085192148
+JK,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-14.76339056
+KA,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-8.984207646
+KL,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-10.26144214
+LA,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-10.67667
+LD,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-10.62299
+MH,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-13.84933346
+ML,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-7.40485403
+MN,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-8.990370994
+MP,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-11.5811546
+MZ,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-9.992336502
+NL,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-12.40365042
+OD,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-6.21731606
+PB,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-11.1409091
+PC,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-11.86898142
+RJ,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-9.5663933
+SK,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-5.501630696
+TN,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-2.201603418
+TR,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-6.854326058
+TS,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-9.479689822
+UK,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-12.53924636
+UP,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-7.606486916
+WB,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-5.237372868

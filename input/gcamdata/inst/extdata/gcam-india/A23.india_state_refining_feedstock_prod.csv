@@ -1,0 +1,45 @@
+# File: A23.india_state_refining_feedstock_prod.csv
+# Title: Coal production; Natural gas marketed production
+# Units: Billion BTU
+# Comments: Coal production and Natural gas marketed production for 2015 in Billion BTU
+# Source:  MOPNG Statistics and Coal Directory
+# Column types: cii
+# ----------
+state,coal,natural_gas
+AP,17747,380598
+AR,331420,182959
+AS,1819,1031401
+BR,146450,99
+CG,0,265156
+DL,403605,1988142
+GA,0,0
+GJ,0,0
+HR,0,0
+HP,0,908
+JK,0,0
+JH,0,0
+KA,0,0
+KL,0,0
+MP,1252879,2212
+MH,776493,7446
+MN,4387,320981
+ML,1486019,98132
+MZ,46879,1890707
+NL,0,0
+OD,45587,28
+PB,0,0
+RJ,0,114232
+SK,0,0
+TN,3178,1
+TS,34528,60532
+TR,746222,61966
+UP,0,0
+UK,392183,664232
+WB,0,0
+AN,0,504
+CH,0,504
+DD,0,504
+DN,0,504
+LA,0,504
+LD,0,504
+PC,0,504

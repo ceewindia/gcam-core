@@ -1,0 +1,38 @@
+# File: A54.india_GlobalTech_Shrwt.csv
+# Title: Transport technology shareweight
+# Units: Unitless
+# Column types: ccccnnn
+# ----------
+region,supplysector,tranSubsector,stub.technology,1971,2010,2100
+India,trn_aviation_intl,International Aviation,Liquids,1,1,1
+India,trn_freight,Domestic Ship,Liquids,1,1,1
+India,trn_freight,Freight Rail,Coal,1,1,1
+India,trn_freight,Freight Rail,Electric,1,1,1
+India,trn_freight,Freight Rail,Liquids,1,1,1
+India,trn_pass,Cycle,Cycle,1,1,1
+India,trn_pass,Domestic Aviation,Liquids,1,1,1
+India,trn_pass,HSR,Electric,0.001,0.001,0.001
+India,trn_pass,Passenger Rail,Electric,1,1,1
+India,trn_pass,Passenger Rail,Liquids,1,1,1
+India,trn_pass,Walk,Walk,1,1,1
+India,trn_pass,road,road,1,1,1
+India,trn_pass,LDV,LDV,1,1,1
+India,trn_pass_road,Bus,Electric,1,1,1
+India,trn_pass_road,Bus,NG,1,1,1
+India,trn_pass_road,Bus,Liquids,1,1,1
+India,trn_pass_road_LDV,LDV_3W,Electric,1,1,1
+India,trn_pass_road_LDV,LDV_3W,NG,1,1,1
+India,trn_pass_road_LDV,LDV_3W,Liquids,1,1,1
+India,trn_pass_road_LDV,4W,4W,1,1,1
+India,trn_pass_road_LDV,2W,2W,1,1,1
+India,trn_shipping_intl,International Ship,Liquids,1,1,1
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,1,1,1
+India,trn_pass_road_LDV_4W,LDV_4W,NG,1,1,1
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,1,1,1
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,0,0,1
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,1,1,1
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,1,1,1
+India,trn_freight_road,Trucks,Liquids,1,1,1
+India,trn_freight_road,Trucks,Electric,1,1,1
+India,trn_freight_road,Trucks,NG,1,1,1
+India,trn_freight,road,road,1,1,1

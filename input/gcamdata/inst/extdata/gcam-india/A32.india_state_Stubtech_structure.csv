@@ -1,0 +1,86 @@
+# File: A32.india_state_Stubtech_structure.csv
+# Title: Industry supplysector, subsector, stubtechnology structure
+# Units: Unitless
+# Column types: ccc
+# ----------
+supplysector,subsector,technology
+Agriculture_enuse,electricity,electricity
+Agriculture_enuse,refined liquids,refined liquids
+Agriculture_enuse,refined liquids,refined liquids cogen
+Cement_enuse,biomass,biomass
+Cement_enuse,biomass,biomass cogen
+Cement_enuse,coal,coal
+Cement_enuse,coal,coal cogen
+Cement_enuse,electricity,electricity
+Cement_enuse,gas,gas
+Cement_enuse,gas,gas cogen
+Cement_enuse,hydrogen,hydrogen
+Cement_enuse,hydrogen,hydrogen cogen
+Cement_enuse,refined liquids,refined liquids
+Cement_enuse,refined liquids,refined liquids cogen
+Chem_Fert_enuse,biomass,biomass
+Chem_Fert_enuse,biomass,biomass cogen
+Chem_Fert_enuse,coal,coal
+Chem_Fert_enuse,coal,coal cogen
+Chem_Fert_enuse,electricity,electricity
+Chem_Fert_enuse,gas,gas
+Chem_Fert_enuse,gas,gas cogen
+Chem_Fert_enuse,hydrogen,hydrogen
+Chem_Fert_enuse,hydrogen,hydrogen cogen
+Chem_Fert_enuse,refined liquids,refined liquids
+Chem_Fert_enuse,refined liquids,refined liquids cogen
+Fisheries_enuse,refined liquids,refined liquids
+Fisheries_enuse,refined liquids,refined liquids cogen
+Iron and Steel_enuse,biomass,biomass
+Iron and Steel_enuse,biomass,biomass cogen
+Iron and Steel_enuse,coal,coal
+Iron and Steel_enuse,coal,coal cogen
+Iron and Steel_enuse,electricity,electricity
+Iron and Steel_enuse,gas,gas
+Iron and Steel_enuse,gas,gas cogen
+Iron and Steel_enuse,hydrogen,hydrogen
+Iron and Steel_enuse,hydrogen,hydrogen cogen
+Iron and Steel_enuse,refined liquids,refined liquids
+Iron and Steel_enuse,refined liquids,refined liquids cogen
+Non-Ferrous Metals_enuse,biomass,biomass
+Non-Ferrous Metals_enuse,biomass,biomass cogen
+Non-Ferrous Metals_enuse,coal,coal
+Non-Ferrous Metals_enuse,coal,coal cogen
+Non-Ferrous Metals_enuse,electricity,electricity
+Non-Ferrous Metals_enuse,gas,gas
+Non-Ferrous Metals_enuse,gas,gas cogen
+Non-Ferrous Metals_enuse,hydrogen,hydrogen
+Non-Ferrous Metals_enuse,hydrogen,hydrogen cogen
+Non-Ferrous Metals_enuse,refined liquids,refined liquids
+Non-Ferrous Metals_enuse,refined liquids,refined liquids cogen
+Other Industries_enuse,biomass,biomass
+Other Industries_enuse,biomass,biomass cogen
+Other Industries_enuse,coal,coal
+Other Industries_enuse,coal,coal cogen
+Other Industries_enuse,electricity,electricity
+Other Industries_enuse,gas,gas
+Other Industries_enuse,gas,gas cogen
+Other Industries_enuse,hydrogen,hydrogen
+Other Industries_enuse,hydrogen,hydrogen cogen
+Other Industries_enuse,refined liquids,refined liquids
+Other Industries_enuse,refined liquids,refined liquids cogen
+Paper and Pulp_enuse,biomass,biomass
+Paper and Pulp_enuse,biomass,biomass cogen
+Paper and Pulp_enuse,coal,coal
+Paper and Pulp_enuse,coal,coal cogen
+Paper and Pulp_enuse,electricity,electricity
+Paper and Pulp_enuse,gas,gas
+Paper and Pulp_enuse,gas,gas cogen
+Paper and Pulp_enuse,hydrogen,hydrogen
+Paper and Pulp_enuse,hydrogen,hydrogen cogen
+Paper and Pulp_enuse,refined liquids,refined liquids
+Paper and Pulp_enuse,refined liquids,refined liquids cogen
+Cement_fsuse,coal,coal
+Cement_fsuse,gas,gas
+Cement_fsuse,refined liquids,refined liquids
+Chem_Fert_fsuse,coal,coal
+Chem_Fert_fsuse,gas,gas
+Chem_Fert_fsuse,refined liquids,refined liquids
+Other Industries_fsuse,coal,coal
+Other Industries_fsuse,gas,gas
+Other Industries_fsuse,refined liquids,refined liquids

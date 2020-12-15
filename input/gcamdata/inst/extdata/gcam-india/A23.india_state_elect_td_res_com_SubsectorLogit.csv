@@ -1,0 +1,8 @@
+# File: A23.india_state_elect_td_res_com_SubsectorLogit.csv
+# Title: Elect_td_sectors
+# Units: Unitless
+# Column types: ccccic
+# ----------
+region,supplysector,subsector,logit.year.fillout,logit.exponent,logit.type
+India,elect_td_res,rooftop_pv,1975,-6,
+India,elect_td_com,rooftop_pv,1975,-6,

@@ -1,0 +1,8 @@
+# File: A42.india_state_subsector_logit_agg_tradbio.csv
+# Title: Building cooking subsector traditional biomass logit exponents
+# Units: Unitless
+# Column types: ccic
+# ----------
+supplysector,subsector,logit.exponent,logit.type
+resid rural cooking,traditional biomass,-6,
+resid urban cooking,traditional biomass,-6,

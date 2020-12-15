@@ -1,0 +1,15 @@
+# File: A54.india_FinalEnergyKeyword_trn.csv
+# Title: Final Energy keyword India
+# Units: Unitless
+# Column types: ccc
+# ----------
+region,supplysector,final.energy
+India,trn_aviation_intl,transportation
+India,trn_freight,transportation
+India,trn_freight_road,transportation
+India,trn_pass,transportation
+India,trn_pass_road,transportation
+India,trn_pass_road_LDV,transportation
+India,trn_pass_road_LDV_2W,transportation
+India,trn_pass_road_LDV_4W,transportation
+India,trn_shipping_intl,transportation

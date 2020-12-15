@@ -1,0 +1,17 @@
+# File: A32.India_industry_globaltech_coef.csv
+# Title: India Industry default coefficients
+# Units: unitless
+# Column types: ccccn
+# ----------
+supplysector,subsector,technology,minicam.energy.input,terminal_coef
+Agriculture,Agriculture,Agriculture,Agriculture_enuse,1
+Cement,Cement,Cement,Cement_enuse,0.989842701
+Cement,Cement,Cement,Cement_fsuse,0.010157299
+Chem_Fert,Chem_Fert,Chem_Fert,Chem_Fert_enuse,0.295654192
+Chem_Fert,Chem_Fert,Chem_Fert,Chem_Fert_fsuse,0.704345808
+Fisheries,Fisheries,Fisheries,Fisheries_enuse,1
+Iron and Steel,Iron and Steel,Iron and Steel,Iron and Steel_enuse,1
+Non-Ferrous Metals,Non-Ferrous Metals,Non-Ferrous Metals,Non-Ferrous Metals_enuse,1
+Other Industries,Other Industries,Other Industries,Other Industries_enuse,0.863727558
+Other Industries,Other Industries,Other Industries,Other Industries_fsuse,0.136272442
+Paper and Pulp,Paper and Pulp,Paper and Pulp,Paper and Pulp_enuse,1

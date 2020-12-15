@@ -1,0 +1,33 @@
+# File: A54.india_tranSubsectorFuelPref.csv
+# Title: Fuel preference elasticities for transport energy use
+# Units: Unitless
+# Column types: cccci
+# ----------
+region,supplysector,tranSubsector,stub.technology,fuelprefElasticity
+India,trn_aviation_intl,International Aviation,Liquids,1
+India,trn_freight,Domestic Ship,Liquids,1
+India,trn_freight,Freight Rail,Coal,1
+India,trn_freight,Freight Rail,Liquids,1
+India,trn_freight,Freight Rail,Electric,1
+India,trn_pass,Cycle,Cycle,1
+India,trn_pass,Domestic Aviation,Liquids,1
+India,trn_pass,HSR,Electric,1
+India,trn_pass,Passenger Rail,Electric,1
+India,trn_pass,Passenger Rail,Liquids,1
+India,trn_pass,Walk,Walk,1
+India,trn_pass_road,Bus,Electric,1
+India,trn_pass_road,Bus,Liquids,1
+India,trn_pass_road,Bus,NG,1
+India,trn_pass_road_LDV,LDV_3W,NG,1
+India,trn_pass_road_LDV,LDV_3W,Electric,1
+India,trn_pass_road_LDV,LDV_3W,Liquids,1
+India,trn_shipping_intl,International Ship,Liquids,1
+India,trn_pass_road_LDV,LDV_4W,Electric,1
+India,trn_pass_road_LDV,LDV_4W,NG,1
+India,trn_pass_road_LDV,LDV_4W,Liquids,1
+India,trn_pass_road_LDV,LDV_4W,FCEV,1
+India,trn_pass_road_LDV,LDV_2W,Electric,1
+India,trn_pass_road_LDV,LDV_2W,Liquids,1
+India,trn_freight,Truck,Electric,1
+India,trn_freight,Truck,Liquids,1
+India,trn_freight,Truck,NG,1

@@ -1,0 +1,2004 @@
+# File: A44.india_state_Floorspace.csv
+# Title:Flrspc
+# Units: billion m2
+# Column types: ccccnn
+# ----------
+region,gcam.consumer,nodeInput,building.node.input,year,base.building.size
+AN,resid rural,resid rural,resid rural_building,2015,0.307122903
+AN,resid rural,resid rural,resid rural_building,2020,0.341870968
+AN,resid rural,resid rural,resid rural_building,2025,0.363151613
+AN,resid rural,resid rural,resid rural_building,2030,0.386648387
+AN,resid rural,resid rural,resid rural_building,2035,0.409619355
+AN,resid rural,resid rural,resid rural_building,2040,0.438270968
+AN,resid rural,resid rural,resid rural_building,2045,0.463454839
+AN,resid rural,resid rural,resid rural_building,2050,0.488470968
+AN,resid rural,resid rural,resid rural_building,2055,0.494483871
+AN,resid rural,resid rural,resid rural_building,2060,0.49623871
+AN,resid rural,resid rural,resid rural_building,2065,0.509696774
+AN,resid rural,resid rural,resid rural_building,2070,0.516206452
+AN,resid rural,resid rural,resid rural_building,2075,0.511277419
+AN,resid rural,resid rural,resid rural_building,2080,0.496309677
+AN,resid rural,resid rural,resid rural_building,2085,0.480258065
+AN,resid rural,resid rural,resid rural_building,2090,0.460496774
+AN,resid rural,resid rural,resid rural_building,2095,0.438625806
+AN,resid rural,resid rural,resid rural_building,2100,0.415854839
+AN,resid urban,resid urban,resid urban_building,2015,0.175582258
+AN,resid urban,resid urban,resid urban_building,2020,0.218273226
+AN,resid urban,resid urban,resid urban_building,2025,0.272133871
+AN,resid urban,resid urban,resid urban_building,2030,0.338141935
+AN,resid urban,resid urban,resid urban_building,2035,0.418203226
+AN,resid urban,resid urban,resid urban_building,2040,0.50976129
+AN,resid urban,resid urban,resid urban_building,2045,0.61436129
+AN,resid urban,resid urban,resid urban_building,2050,0.724883871
+AN,resid urban,resid urban,resid urban_building,2055,0.844070968
+AN,resid urban,resid urban,resid urban_building,2060,0.969683871
+AN,resid urban,resid urban,resid urban_building,2065,1.072616129
+AN,resid urban,resid urban,resid urban_building,2070,1.163229032
+AN,resid urban,resid urban,resid urban_building,2075,1.2296
+AN,resid urban,resid urban,resid urban_building,2080,1.2786
+AN,resid urban,resid urban,resid urban_building,2085,1.31913871
+AN,resid urban,resid urban,resid urban_building,2090,1.353267742
+AN,resid urban,resid urban,resid urban_building,2095,1.377764516
+AN,resid urban,resid urban,resid urban_building,2100,1.396648387
+AN,comm,comm,comm_building,2015,0.027809581
+AN,comm,comm,comm_building,2020,0.038195161
+AN,comm,comm,comm_building,2025,0.052202258
+AN,comm,comm,comm_building,2030,0.071305161
+AN,comm,comm,comm_building,2035,0.095486129
+AN,comm,comm,comm_building,2040,0.126773548
+AN,comm,comm,comm_building,2045,0.163755161
+AN,comm,comm,comm_building,2050,0.206638065
+AN,comm,comm,comm_building,2055,0.250244516
+AN,comm,comm,comm_building,2060,0.300224516
+AN,comm,comm,comm_building,2065,0.352758065
+AN,comm,comm,comm_building,2070,0.403906452
+AN,comm,comm,comm_building,2075,0.443496774
+AN,comm,comm,comm_building,2080,0.471303226
+AN,comm,comm,comm_building,2085,0.498319355
+AN,comm,comm,comm_building,2090,0.522551613
+AN,comm,comm,comm_building,2095,0.543041935
+AN,comm,comm,comm_building,2100,0.559835484
+AP,resid rural,resid rural,resid rural_building,2015,0.307122903
+AP,resid rural,resid rural,resid rural_building,2020,0.341870968
+AP,resid rural,resid rural,resid rural_building,2025,0.363151613
+AP,resid rural,resid rural,resid rural_building,2030,0.386648387
+AP,resid rural,resid rural,resid rural_building,2035,0.409619355
+AP,resid rural,resid rural,resid rural_building,2040,0.438270968
+AP,resid rural,resid rural,resid rural_building,2045,0.463454839
+AP,resid rural,resid rural,resid rural_building,2050,0.488470968
+AP,resid rural,resid rural,resid rural_building,2055,0.494483871
+AP,resid rural,resid rural,resid rural_building,2060,0.49623871
+AP,resid rural,resid rural,resid rural_building,2065,0.509696774
+AP,resid rural,resid rural,resid rural_building,2070,0.516206452
+AP,resid rural,resid rural,resid rural_building,2075,0.511277419
+AP,resid rural,resid rural,resid rural_building,2080,0.496309677
+AP,resid rural,resid rural,resid rural_building,2085,0.480258065
+AP,resid rural,resid rural,resid rural_building,2090,0.460496774
+AP,resid rural,resid rural,resid rural_building,2095,0.438625806
+AP,resid rural,resid rural,resid rural_building,2100,0.415854839
+AP,resid urban,resid urban,resid urban_building,2015,0.175582258
+AP,resid urban,resid urban,resid urban_building,2020,0.218273226
+AP,resid urban,resid urban,resid urban_building,2025,0.272133871
+AP,resid urban,resid urban,resid urban_building,2030,0.338141935
+AP,resid urban,resid urban,resid urban_building,2035,0.418203226
+AP,resid urban,resid urban,resid urban_building,2040,0.50976129
+AP,resid urban,resid urban,resid urban_building,2045,0.61436129
+AP,resid urban,resid urban,resid urban_building,2050,0.724883871
+AP,resid urban,resid urban,resid urban_building,2055,0.844070968
+AP,resid urban,resid urban,resid urban_building,2060,0.969683871
+AP,resid urban,resid urban,resid urban_building,2065,1.072616129
+AP,resid urban,resid urban,resid urban_building,2070,1.163229032
+AP,resid urban,resid urban,resid urban_building,2075,1.2296
+AP,resid urban,resid urban,resid urban_building,2080,1.2786
+AP,resid urban,resid urban,resid urban_building,2085,1.31913871
+AP,resid urban,resid urban,resid urban_building,2090,1.353267742
+AP,resid urban,resid urban,resid urban_building,2095,1.377764516
+AP,resid urban,resid urban,resid urban_building,2100,1.396648387
+AP,comm,comm,comm_building,2015,0.027809581
+AP,comm,comm,comm_building,2020,0.038195161
+AP,comm,comm,comm_building,2025,0.052202258
+AP,comm,comm,comm_building,2030,0.071305161
+AP,comm,comm,comm_building,2035,0.095486129
+AP,comm,comm,comm_building,2040,0.126773548
+AP,comm,comm,comm_building,2045,0.163755161
+AP,comm,comm,comm_building,2050,0.206638065
+AP,comm,comm,comm_building,2055,0.250244516
+AP,comm,comm,comm_building,2060,0.300224516
+AP,comm,comm,comm_building,2065,0.352758065
+AP,comm,comm,comm_building,2070,0.403906452
+AP,comm,comm,comm_building,2075,0.443496774
+AP,comm,comm,comm_building,2080,0.471303226
+AP,comm,comm,comm_building,2085,0.498319355
+AP,comm,comm,comm_building,2090,0.522551613
+AP,comm,comm,comm_building,2095,0.543041935
+AP,comm,comm,comm_building,2100,0.559835484
+AR,resid rural,resid rural,resid rural_building,2015,0.307122903
+AR,resid rural,resid rural,resid rural_building,2020,0.341870968
+AR,resid rural,resid rural,resid rural_building,2025,0.363151613
+AR,resid rural,resid rural,resid rural_building,2030,0.386648387
+AR,resid rural,resid rural,resid rural_building,2035,0.409619355
+AR,resid rural,resid rural,resid rural_building,2040,0.438270968
+AR,resid rural,resid rural,resid rural_building,2045,0.463454839
+AR,resid rural,resid rural,resid rural_building,2050,0.488470968
+AR,resid rural,resid rural,resid rural_building,2055,0.494483871
+AR,resid rural,resid rural,resid rural_building,2060,0.49623871
+AR,resid rural,resid rural,resid rural_building,2065,0.509696774
+AR,resid rural,resid rural,resid rural_building,2070,0.516206452
+AR,resid rural,resid rural,resid rural_building,2075,0.511277419
+AR,resid rural,resid rural,resid rural_building,2080,0.496309677
+AR,resid rural,resid rural,resid rural_building,2085,0.480258065
+AR,resid rural,resid rural,resid rural_building,2090,0.460496774
+AR,resid rural,resid rural,resid rural_building,2095,0.438625806
+AR,resid rural,resid rural,resid rural_building,2100,0.415854839
+AR,resid urban,resid urban,resid urban_building,2015,0.175582258
+AR,resid urban,resid urban,resid urban_building,2020,0.218273226
+AR,resid urban,resid urban,resid urban_building,2025,0.272133871
+AR,resid urban,resid urban,resid urban_building,2030,0.338141935
+AR,resid urban,resid urban,resid urban_building,2035,0.418203226
+AR,resid urban,resid urban,resid urban_building,2040,0.50976129
+AR,resid urban,resid urban,resid urban_building,2045,0.61436129
+AR,resid urban,resid urban,resid urban_building,2050,0.724883871
+AR,resid urban,resid urban,resid urban_building,2055,0.844070968
+AR,resid urban,resid urban,resid urban_building,2060,0.969683871
+AR,resid urban,resid urban,resid urban_building,2065,1.072616129
+AR,resid urban,resid urban,resid urban_building,2070,1.163229032
+AR,resid urban,resid urban,resid urban_building,2075,1.2296
+AR,resid urban,resid urban,resid urban_building,2080,1.2786
+AR,resid urban,resid urban,resid urban_building,2085,1.31913871
+AR,resid urban,resid urban,resid urban_building,2090,1.353267742
+AR,resid urban,resid urban,resid urban_building,2095,1.377764516
+AR,resid urban,resid urban,resid urban_building,2100,1.396648387
+AR,comm,comm,comm_building,2015,0.027809581
+AR,comm,comm,comm_building,2020,0.038195161
+AR,comm,comm,comm_building,2025,0.052202258
+AR,comm,comm,comm_building,2030,0.071305161
+AR,comm,comm,comm_building,2035,0.095486129
+AR,comm,comm,comm_building,2040,0.126773548
+AR,comm,comm,comm_building,2045,0.163755161
+AR,comm,comm,comm_building,2050,0.206638065
+AR,comm,comm,comm_building,2055,0.250244516
+AR,comm,comm,comm_building,2060,0.300224516
+AR,comm,comm,comm_building,2065,0.352758065
+AR,comm,comm,comm_building,2070,0.403906452
+AR,comm,comm,comm_building,2075,0.443496774
+AR,comm,comm,comm_building,2080,0.471303226
+AR,comm,comm,comm_building,2085,0.498319355
+AR,comm,comm,comm_building,2090,0.522551613
+AR,comm,comm,comm_building,2095,0.543041935
+AR,comm,comm,comm_building,2100,0.559835484
+AS,resid rural,resid rural,resid rural_building,2015,0.307122903
+AS,resid rural,resid rural,resid rural_building,2020,0.341870968
+AS,resid rural,resid rural,resid rural_building,2025,0.363151613
+AS,resid rural,resid rural,resid rural_building,2030,0.386648387
+AS,resid rural,resid rural,resid rural_building,2035,0.409619355
+AS,resid rural,resid rural,resid rural_building,2040,0.438270968
+AS,resid rural,resid rural,resid rural_building,2045,0.463454839
+AS,resid rural,resid rural,resid rural_building,2050,0.488470968
+AS,resid rural,resid rural,resid rural_building,2055,0.494483871
+AS,resid rural,resid rural,resid rural_building,2060,0.49623871
+AS,resid rural,resid rural,resid rural_building,2065,0.509696774
+AS,resid rural,resid rural,resid rural_building,2070,0.516206452
+AS,resid rural,resid rural,resid rural_building,2075,0.511277419
+AS,resid rural,resid rural,resid rural_building,2080,0.496309677
+AS,resid rural,resid rural,resid rural_building,2085,0.480258065
+AS,resid rural,resid rural,resid rural_building,2090,0.460496774
+AS,resid rural,resid rural,resid rural_building,2095,0.438625806
+AS,resid rural,resid rural,resid rural_building,2100,0.415854839
+AS,resid urban,resid urban,resid urban_building,2015,0.175582258
+AS,resid urban,resid urban,resid urban_building,2020,0.218273226
+AS,resid urban,resid urban,resid urban_building,2025,0.272133871
+AS,resid urban,resid urban,resid urban_building,2030,0.338141935
+AS,resid urban,resid urban,resid urban_building,2035,0.418203226
+AS,resid urban,resid urban,resid urban_building,2040,0.50976129
+AS,resid urban,resid urban,resid urban_building,2045,0.61436129
+AS,resid urban,resid urban,resid urban_building,2050,0.724883871
+AS,resid urban,resid urban,resid urban_building,2055,0.844070968
+AS,resid urban,resid urban,resid urban_building,2060,0.969683871
+AS,resid urban,resid urban,resid urban_building,2065,1.072616129
+AS,resid urban,resid urban,resid urban_building,2070,1.163229032
+AS,resid urban,resid urban,resid urban_building,2075,1.2296
+AS,resid urban,resid urban,resid urban_building,2080,1.2786
+AS,resid urban,resid urban,resid urban_building,2085,1.31913871
+AS,resid urban,resid urban,resid urban_building,2090,1.353267742
+AS,resid urban,resid urban,resid urban_building,2095,1.377764516
+AS,resid urban,resid urban,resid urban_building,2100,1.396648387
+AS,comm,comm,comm_building,2015,0.027809581
+AS,comm,comm,comm_building,2020,0.038195161
+AS,comm,comm,comm_building,2025,0.052202258
+AS,comm,comm,comm_building,2030,0.071305161
+AS,comm,comm,comm_building,2035,0.095486129
+AS,comm,comm,comm_building,2040,0.126773548
+AS,comm,comm,comm_building,2045,0.163755161
+AS,comm,comm,comm_building,2050,0.206638065
+AS,comm,comm,comm_building,2055,0.250244516
+AS,comm,comm,comm_building,2060,0.300224516
+AS,comm,comm,comm_building,2065,0.352758065
+AS,comm,comm,comm_building,2070,0.403906452
+AS,comm,comm,comm_building,2075,0.443496774
+AS,comm,comm,comm_building,2080,0.471303226
+AS,comm,comm,comm_building,2085,0.498319355
+AS,comm,comm,comm_building,2090,0.522551613
+AS,comm,comm,comm_building,2095,0.543041935
+AS,comm,comm,comm_building,2100,0.559835484
+BR,resid rural,resid rural,resid rural_building,2015,0.307122903
+BR,resid rural,resid rural,resid rural_building,2020,0.341870968
+BR,resid rural,resid rural,resid rural_building,2025,0.363151613
+BR,resid rural,resid rural,resid rural_building,2030,0.386648387
+BR,resid rural,resid rural,resid rural_building,2035,0.409619355
+BR,resid rural,resid rural,resid rural_building,2040,0.438270968
+BR,resid rural,resid rural,resid rural_building,2045,0.463454839
+BR,resid rural,resid rural,resid rural_building,2050,0.488470968
+BR,resid rural,resid rural,resid rural_building,2055,0.494483871
+BR,resid rural,resid rural,resid rural_building,2060,0.49623871
+BR,resid rural,resid rural,resid rural_building,2065,0.509696774
+BR,resid rural,resid rural,resid rural_building,2070,0.516206452
+BR,resid rural,resid rural,resid rural_building,2075,0.511277419
+BR,resid rural,resid rural,resid rural_building,2080,0.496309677
+BR,resid rural,resid rural,resid rural_building,2085,0.480258065
+BR,resid rural,resid rural,resid rural_building,2090,0.460496774
+BR,resid rural,resid rural,resid rural_building,2095,0.438625806
+BR,resid rural,resid rural,resid rural_building,2100,0.415854839
+BR,resid urban,resid urban,resid urban_building,2015,0.175582258
+BR,resid urban,resid urban,resid urban_building,2020,0.218273226
+BR,resid urban,resid urban,resid urban_building,2025,0.272133871
+BR,resid urban,resid urban,resid urban_building,2030,0.338141935
+BR,resid urban,resid urban,resid urban_building,2035,0.418203226
+BR,resid urban,resid urban,resid urban_building,2040,0.50976129
+BR,resid urban,resid urban,resid urban_building,2045,0.61436129
+BR,resid urban,resid urban,resid urban_building,2050,0.724883871
+BR,resid urban,resid urban,resid urban_building,2055,0.844070968
+BR,resid urban,resid urban,resid urban_building,2060,0.969683871
+BR,resid urban,resid urban,resid urban_building,2065,1.072616129
+BR,resid urban,resid urban,resid urban_building,2070,1.163229032
+BR,resid urban,resid urban,resid urban_building,2075,1.2296
+BR,resid urban,resid urban,resid urban_building,2080,1.2786
+BR,resid urban,resid urban,resid urban_building,2085,1.31913871
+BR,resid urban,resid urban,resid urban_building,2090,1.353267742
+BR,resid urban,resid urban,resid urban_building,2095,1.377764516
+BR,resid urban,resid urban,resid urban_building,2100,1.396648387
+BR,comm,comm,comm_building,2015,0.027809581
+BR,comm,comm,comm_building,2020,0.038195161
+BR,comm,comm,comm_building,2025,0.052202258
+BR,comm,comm,comm_building,2030,0.071305161
+BR,comm,comm,comm_building,2035,0.095486129
+BR,comm,comm,comm_building,2040,0.126773548
+BR,comm,comm,comm_building,2045,0.163755161
+BR,comm,comm,comm_building,2050,0.206638065
+BR,comm,comm,comm_building,2055,0.250244516
+BR,comm,comm,comm_building,2060,0.300224516
+BR,comm,comm,comm_building,2065,0.352758065
+BR,comm,comm,comm_building,2070,0.403906452
+BR,comm,comm,comm_building,2075,0.443496774
+BR,comm,comm,comm_building,2080,0.471303226
+BR,comm,comm,comm_building,2085,0.498319355
+BR,comm,comm,comm_building,2090,0.522551613
+BR,comm,comm,comm_building,2095,0.543041935
+BR,comm,comm,comm_building,2100,0.559835484
+CG,resid rural,resid rural,resid rural_building,2015,0.307122903
+CG,resid rural,resid rural,resid rural_building,2020,0.341870968
+CG,resid rural,resid rural,resid rural_building,2025,0.363151613
+CG,resid rural,resid rural,resid rural_building,2030,0.386648387
+CG,resid rural,resid rural,resid rural_building,2035,0.409619355
+CG,resid rural,resid rural,resid rural_building,2040,0.438270968
+CG,resid rural,resid rural,resid rural_building,2045,0.463454839
+CG,resid rural,resid rural,resid rural_building,2050,0.488470968
+CG,resid rural,resid rural,resid rural_building,2055,0.494483871
+CG,resid rural,resid rural,resid rural_building,2060,0.49623871
+CG,resid rural,resid rural,resid rural_building,2065,0.509696774
+CG,resid rural,resid rural,resid rural_building,2070,0.516206452
+CG,resid rural,resid rural,resid rural_building,2075,0.511277419
+CG,resid rural,resid rural,resid rural_building,2080,0.496309677
+CG,resid rural,resid rural,resid rural_building,2085,0.480258065
+CG,resid rural,resid rural,resid rural_building,2090,0.460496774
+CG,resid rural,resid rural,resid rural_building,2095,0.438625806
+CG,resid rural,resid rural,resid rural_building,2100,0.415854839
+CG,resid urban,resid urban,resid urban_building,2015,0.175582258
+CG,resid urban,resid urban,resid urban_building,2020,0.218273226
+CG,resid urban,resid urban,resid urban_building,2025,0.272133871
+CG,resid urban,resid urban,resid urban_building,2030,0.338141935
+CG,resid urban,resid urban,resid urban_building,2035,0.418203226
+CG,resid urban,resid urban,resid urban_building,2040,0.50976129
+CG,resid urban,resid urban,resid urban_building,2045,0.61436129
+CG,resid urban,resid urban,resid urban_building,2050,0.724883871
+CG,resid urban,resid urban,resid urban_building,2055,0.844070968
+CG,resid urban,resid urban,resid urban_building,2060,0.969683871
+CG,resid urban,resid urban,resid urban_building,2065,1.072616129
+CG,resid urban,resid urban,resid urban_building,2070,1.163229032
+CG,resid urban,resid urban,resid urban_building,2075,1.2296
+CG,resid urban,resid urban,resid urban_building,2080,1.2786
+CG,resid urban,resid urban,resid urban_building,2085,1.31913871
+CG,resid urban,resid urban,resid urban_building,2090,1.353267742
+CG,resid urban,resid urban,resid urban_building,2095,1.377764516
+CG,resid urban,resid urban,resid urban_building,2100,1.396648387
+CG,comm,comm,comm_building,2015,0.027809581
+CG,comm,comm,comm_building,2020,0.038195161
+CG,comm,comm,comm_building,2025,0.052202258
+CG,comm,comm,comm_building,2030,0.071305161
+CG,comm,comm,comm_building,2035,0.095486129
+CG,comm,comm,comm_building,2040,0.126773548
+CG,comm,comm,comm_building,2045,0.163755161
+CG,comm,comm,comm_building,2050,0.206638065
+CG,comm,comm,comm_building,2055,0.250244516
+CG,comm,comm,comm_building,2060,0.300224516
+CG,comm,comm,comm_building,2065,0.352758065
+CG,comm,comm,comm_building,2070,0.403906452
+CG,comm,comm,comm_building,2075,0.443496774
+CG,comm,comm,comm_building,2080,0.471303226
+CG,comm,comm,comm_building,2085,0.498319355
+CG,comm,comm,comm_building,2090,0.522551613
+CG,comm,comm,comm_building,2095,0.543041935
+CG,comm,comm,comm_building,2100,0.559835484
+CH,resid rural,resid rural,resid rural_building,2015,0.307122903
+CH,resid rural,resid rural,resid rural_building,2020,0.341870968
+CH,resid rural,resid rural,resid rural_building,2025,0.363151613
+CH,resid rural,resid rural,resid rural_building,2030,0.386648387
+CH,resid rural,resid rural,resid rural_building,2035,0.409619355
+CH,resid rural,resid rural,resid rural_building,2040,0.438270968
+CH,resid rural,resid rural,resid rural_building,2045,0.463454839
+CH,resid rural,resid rural,resid rural_building,2050,0.488470968
+CH,resid rural,resid rural,resid rural_building,2055,0.494483871
+CH,resid rural,resid rural,resid rural_building,2060,0.49623871
+CH,resid rural,resid rural,resid rural_building,2065,0.509696774
+CH,resid rural,resid rural,resid rural_building,2070,0.516206452
+CH,resid rural,resid rural,resid rural_building,2075,0.511277419
+CH,resid rural,resid rural,resid rural_building,2080,0.496309677
+CH,resid rural,resid rural,resid rural_building,2085,0.480258065
+CH,resid rural,resid rural,resid rural_building,2090,0.460496774
+CH,resid rural,resid rural,resid rural_building,2095,0.438625806
+CH,resid rural,resid rural,resid rural_building,2100,0.415854839
+CH,resid urban,resid urban,resid urban_building,2015,0.175582258
+CH,resid urban,resid urban,resid urban_building,2020,0.218273226
+CH,resid urban,resid urban,resid urban_building,2025,0.272133871
+CH,resid urban,resid urban,resid urban_building,2030,0.338141935
+CH,resid urban,resid urban,resid urban_building,2035,0.418203226
+CH,resid urban,resid urban,resid urban_building,2040,0.50976129
+CH,resid urban,resid urban,resid urban_building,2045,0.61436129
+CH,resid urban,resid urban,resid urban_building,2050,0.724883871
+CH,resid urban,resid urban,resid urban_building,2055,0.844070968
+CH,resid urban,resid urban,resid urban_building,2060,0.969683871
+CH,resid urban,resid urban,resid urban_building,2065,1.072616129
+CH,resid urban,resid urban,resid urban_building,2070,1.163229032
+CH,resid urban,resid urban,resid urban_building,2075,1.2296
+CH,resid urban,resid urban,resid urban_building,2080,1.2786
+CH,resid urban,resid urban,resid urban_building,2085,1.31913871
+CH,resid urban,resid urban,resid urban_building,2090,1.353267742
+CH,resid urban,resid urban,resid urban_building,2095,1.377764516
+CH,resid urban,resid urban,resid urban_building,2100,1.396648387
+CH,comm,comm,comm_building,2015,0.027809581
+CH,comm,comm,comm_building,2020,0.038195161
+CH,comm,comm,comm_building,2025,0.052202258
+CH,comm,comm,comm_building,2030,0.071305161
+CH,comm,comm,comm_building,2035,0.095486129
+CH,comm,comm,comm_building,2040,0.126773548
+CH,comm,comm,comm_building,2045,0.163755161
+CH,comm,comm,comm_building,2050,0.206638065
+CH,comm,comm,comm_building,2055,0.250244516
+CH,comm,comm,comm_building,2060,0.300224516
+CH,comm,comm,comm_building,2065,0.352758065
+CH,comm,comm,comm_building,2070,0.403906452
+CH,comm,comm,comm_building,2075,0.443496774
+CH,comm,comm,comm_building,2080,0.471303226
+CH,comm,comm,comm_building,2085,0.498319355
+CH,comm,comm,comm_building,2090,0.522551613
+CH,comm,comm,comm_building,2095,0.543041935
+CH,comm,comm,comm_building,2100,0.559835484
+DL,resid rural,resid rural,resid rural_building,2015,0.307122903
+DL,resid rural,resid rural,resid rural_building,2020,0.341870968
+DL,resid rural,resid rural,resid rural_building,2025,0.363151613
+DL,resid rural,resid rural,resid rural_building,2030,0.386648387
+DL,resid rural,resid rural,resid rural_building,2035,0.409619355
+DL,resid rural,resid rural,resid rural_building,2040,0.438270968
+DL,resid rural,resid rural,resid rural_building,2045,0.463454839
+DL,resid rural,resid rural,resid rural_building,2050,0.488470968
+DL,resid rural,resid rural,resid rural_building,2055,0.494483871
+DL,resid rural,resid rural,resid rural_building,2060,0.49623871
+DL,resid rural,resid rural,resid rural_building,2065,0.509696774
+DL,resid rural,resid rural,resid rural_building,2070,0.516206452
+DL,resid rural,resid rural,resid rural_building,2075,0.511277419
+DL,resid rural,resid rural,resid rural_building,2080,0.496309677
+DL,resid rural,resid rural,resid rural_building,2085,0.480258065
+DL,resid rural,resid rural,resid rural_building,2090,0.460496774
+DL,resid rural,resid rural,resid rural_building,2095,0.438625806
+DL,resid rural,resid rural,resid rural_building,2100,0.415854839
+DL,resid urban,resid urban,resid urban_building,2015,0.175582258
+DL,resid urban,resid urban,resid urban_building,2020,0.218273226
+DL,resid urban,resid urban,resid urban_building,2025,0.272133871
+DL,resid urban,resid urban,resid urban_building,2030,0.338141935
+DL,resid urban,resid urban,resid urban_building,2035,0.418203226
+DL,resid urban,resid urban,resid urban_building,2040,0.50976129
+DL,resid urban,resid urban,resid urban_building,2045,0.61436129
+DL,resid urban,resid urban,resid urban_building,2050,0.724883871
+DL,resid urban,resid urban,resid urban_building,2055,0.844070968
+DL,resid urban,resid urban,resid urban_building,2060,0.969683871
+DL,resid urban,resid urban,resid urban_building,2065,1.072616129
+DL,resid urban,resid urban,resid urban_building,2070,1.163229032
+DL,resid urban,resid urban,resid urban_building,2075,1.2296
+DL,resid urban,resid urban,resid urban_building,2080,1.2786
+DL,resid urban,resid urban,resid urban_building,2085,1.31913871
+DL,resid urban,resid urban,resid urban_building,2090,1.353267742
+DL,resid urban,resid urban,resid urban_building,2095,1.377764516
+DL,resid urban,resid urban,resid urban_building,2100,1.396648387
+DL,comm,comm,comm_building,2015,0.027809581
+DL,comm,comm,comm_building,2020,0.038195161
+DL,comm,comm,comm_building,2025,0.052202258
+DL,comm,comm,comm_building,2030,0.071305161
+DL,comm,comm,comm_building,2035,0.095486129
+DL,comm,comm,comm_building,2040,0.126773548
+DL,comm,comm,comm_building,2045,0.163755161
+DL,comm,comm,comm_building,2050,0.206638065
+DL,comm,comm,comm_building,2055,0.250244516
+DL,comm,comm,comm_building,2060,0.300224516
+DL,comm,comm,comm_building,2065,0.352758065
+DL,comm,comm,comm_building,2070,0.403906452
+DL,comm,comm,comm_building,2075,0.443496774
+DL,comm,comm,comm_building,2080,0.471303226
+DL,comm,comm,comm_building,2085,0.498319355
+DL,comm,comm,comm_building,2090,0.522551613
+DL,comm,comm,comm_building,2095,0.543041935
+DL,comm,comm,comm_building,2100,0.559835484
+DD,resid rural,resid rural,resid rural_building,2015,0.307122903
+DD,resid rural,resid rural,resid rural_building,2020,0.341870968
+DD,resid rural,resid rural,resid rural_building,2025,0.363151613
+DD,resid rural,resid rural,resid rural_building,2030,0.386648387
+DD,resid rural,resid rural,resid rural_building,2035,0.409619355
+DD,resid rural,resid rural,resid rural_building,2040,0.438270968
+DD,resid rural,resid rural,resid rural_building,2045,0.463454839
+DD,resid rural,resid rural,resid rural_building,2050,0.488470968
+DD,resid rural,resid rural,resid rural_building,2055,0.494483871
+DD,resid rural,resid rural,resid rural_building,2060,0.49623871
+DD,resid rural,resid rural,resid rural_building,2065,0.509696774
+DD,resid rural,resid rural,resid rural_building,2070,0.516206452
+DD,resid rural,resid rural,resid rural_building,2075,0.511277419
+DD,resid rural,resid rural,resid rural_building,2080,0.496309677
+DD,resid rural,resid rural,resid rural_building,2085,0.480258065
+DD,resid rural,resid rural,resid rural_building,2090,0.460496774
+DD,resid rural,resid rural,resid rural_building,2095,0.438625806
+DD,resid rural,resid rural,resid rural_building,2100,0.415854839
+DD,resid urban,resid urban,resid urban_building,2015,0.175582258
+DD,resid urban,resid urban,resid urban_building,2020,0.218273226
+DD,resid urban,resid urban,resid urban_building,2025,0.272133871
+DD,resid urban,resid urban,resid urban_building,2030,0.338141935
+DD,resid urban,resid urban,resid urban_building,2035,0.418203226
+DD,resid urban,resid urban,resid urban_building,2040,0.50976129
+DD,resid urban,resid urban,resid urban_building,2045,0.61436129
+DD,resid urban,resid urban,resid urban_building,2050,0.724883871
+DD,resid urban,resid urban,resid urban_building,2055,0.844070968
+DD,resid urban,resid urban,resid urban_building,2060,0.969683871
+DD,resid urban,resid urban,resid urban_building,2065,1.072616129
+DD,resid urban,resid urban,resid urban_building,2070,1.163229032
+DD,resid urban,resid urban,resid urban_building,2075,1.2296
+DD,resid urban,resid urban,resid urban_building,2080,1.2786
+DD,resid urban,resid urban,resid urban_building,2085,1.31913871
+DD,resid urban,resid urban,resid urban_building,2090,1.353267742
+DD,resid urban,resid urban,resid urban_building,2095,1.377764516
+DD,resid urban,resid urban,resid urban_building,2100,1.396648387
+DD,comm,comm,comm_building,2015,0.027809581
+DD,comm,comm,comm_building,2020,0.038195161
+DD,comm,comm,comm_building,2025,0.052202258
+DD,comm,comm,comm_building,2030,0.071305161
+DD,comm,comm,comm_building,2035,0.095486129
+DD,comm,comm,comm_building,2040,0.126773548
+DD,comm,comm,comm_building,2045,0.163755161
+DD,comm,comm,comm_building,2050,0.206638065
+DD,comm,comm,comm_building,2055,0.250244516
+DD,comm,comm,comm_building,2060,0.300224516
+DD,comm,comm,comm_building,2065,0.352758065
+DD,comm,comm,comm_building,2070,0.403906452
+DD,comm,comm,comm_building,2075,0.443496774
+DD,comm,comm,comm_building,2080,0.471303226
+DD,comm,comm,comm_building,2085,0.498319355
+DD,comm,comm,comm_building,2090,0.522551613
+DD,comm,comm,comm_building,2095,0.543041935
+DD,comm,comm,comm_building,2100,0.559835484
+DN,resid rural,resid rural,resid rural_building,2015,0.307122903
+DN,resid rural,resid rural,resid rural_building,2020,0.341870968
+DN,resid rural,resid rural,resid rural_building,2025,0.363151613
+DN,resid rural,resid rural,resid rural_building,2030,0.386648387
+DN,resid rural,resid rural,resid rural_building,2035,0.409619355
+DN,resid rural,resid rural,resid rural_building,2040,0.438270968
+DN,resid rural,resid rural,resid rural_building,2045,0.463454839
+DN,resid rural,resid rural,resid rural_building,2050,0.488470968
+DN,resid rural,resid rural,resid rural_building,2055,0.494483871
+DN,resid rural,resid rural,resid rural_building,2060,0.49623871
+DN,resid rural,resid rural,resid rural_building,2065,0.509696774
+DN,resid rural,resid rural,resid rural_building,2070,0.516206452
+DN,resid rural,resid rural,resid rural_building,2075,0.511277419
+DN,resid rural,resid rural,resid rural_building,2080,0.496309677
+DN,resid rural,resid rural,resid rural_building,2085,0.480258065
+DN,resid rural,resid rural,resid rural_building,2090,0.460496774
+DN,resid rural,resid rural,resid rural_building,2095,0.438625806
+DN,resid rural,resid rural,resid rural_building,2100,0.415854839
+DN,resid urban,resid urban,resid urban_building,2015,0.175582258
+DN,resid urban,resid urban,resid urban_building,2020,0.218273226
+DN,resid urban,resid urban,resid urban_building,2025,0.272133871
+DN,resid urban,resid urban,resid urban_building,2030,0.338141935
+DN,resid urban,resid urban,resid urban_building,2035,0.418203226
+DN,resid urban,resid urban,resid urban_building,2040,0.50976129
+DN,resid urban,resid urban,resid urban_building,2045,0.61436129
+DN,resid urban,resid urban,resid urban_building,2050,0.724883871
+DN,resid urban,resid urban,resid urban_building,2055,0.844070968
+DN,resid urban,resid urban,resid urban_building,2060,0.969683871
+DN,resid urban,resid urban,resid urban_building,2065,1.072616129
+DN,resid urban,resid urban,resid urban_building,2070,1.163229032
+DN,resid urban,resid urban,resid urban_building,2075,1.2296
+DN,resid urban,resid urban,resid urban_building,2080,1.2786
+DN,resid urban,resid urban,resid urban_building,2085,1.31913871
+DN,resid urban,resid urban,resid urban_building,2090,1.353267742
+DN,resid urban,resid urban,resid urban_building,2095,1.377764516
+DN,resid urban,resid urban,resid urban_building,2100,1.396648387
+DN,comm,comm,comm_building,2015,0.027809581
+DN,comm,comm,comm_building,2020,0.038195161
+DN,comm,comm,comm_building,2025,0.052202258
+DN,comm,comm,comm_building,2030,0.071305161
+DN,comm,comm,comm_building,2035,0.095486129
+DN,comm,comm,comm_building,2040,0.126773548
+DN,comm,comm,comm_building,2045,0.163755161
+DN,comm,comm,comm_building,2050,0.206638065
+DN,comm,comm,comm_building,2055,0.250244516
+DN,comm,comm,comm_building,2060,0.300224516
+DN,comm,comm,comm_building,2065,0.352758065
+DN,comm,comm,comm_building,2070,0.403906452
+DN,comm,comm,comm_building,2075,0.443496774
+DN,comm,comm,comm_building,2080,0.471303226
+DN,comm,comm,comm_building,2085,0.498319355
+DN,comm,comm,comm_building,2090,0.522551613
+DN,comm,comm,comm_building,2095,0.543041935
+DN,comm,comm,comm_building,2100,0.559835484
+GA,resid rural,resid rural,resid rural_building,2015,0.307122903
+GA,resid rural,resid rural,resid rural_building,2020,0.341870968
+GA,resid rural,resid rural,resid rural_building,2025,0.363151613
+GA,resid rural,resid rural,resid rural_building,2030,0.386648387
+GA,resid rural,resid rural,resid rural_building,2035,0.409619355
+GA,resid rural,resid rural,resid rural_building,2040,0.438270968
+GA,resid rural,resid rural,resid rural_building,2045,0.463454839
+GA,resid rural,resid rural,resid rural_building,2050,0.488470968
+GA,resid rural,resid rural,resid rural_building,2055,0.494483871
+GA,resid rural,resid rural,resid rural_building,2060,0.49623871
+GA,resid rural,resid rural,resid rural_building,2065,0.509696774
+GA,resid rural,resid rural,resid rural_building,2070,0.516206452
+GA,resid rural,resid rural,resid rural_building,2075,0.511277419
+GA,resid rural,resid rural,resid rural_building,2080,0.496309677
+GA,resid rural,resid rural,resid rural_building,2085,0.480258065
+GA,resid rural,resid rural,resid rural_building,2090,0.460496774
+GA,resid rural,resid rural,resid rural_building,2095,0.438625806
+GA,resid rural,resid rural,resid rural_building,2100,0.415854839
+GA,resid urban,resid urban,resid urban_building,2015,0.175582258
+GA,resid urban,resid urban,resid urban_building,2020,0.218273226
+GA,resid urban,resid urban,resid urban_building,2025,0.272133871
+GA,resid urban,resid urban,resid urban_building,2030,0.338141935
+GA,resid urban,resid urban,resid urban_building,2035,0.418203226
+GA,resid urban,resid urban,resid urban_building,2040,0.50976129
+GA,resid urban,resid urban,resid urban_building,2045,0.61436129
+GA,resid urban,resid urban,resid urban_building,2050,0.724883871
+GA,resid urban,resid urban,resid urban_building,2055,0.844070968
+GA,resid urban,resid urban,resid urban_building,2060,0.969683871
+GA,resid urban,resid urban,resid urban_building,2065,1.072616129
+GA,resid urban,resid urban,resid urban_building,2070,1.163229032
+GA,resid urban,resid urban,resid urban_building,2075,1.2296
+GA,resid urban,resid urban,resid urban_building,2080,1.2786
+GA,resid urban,resid urban,resid urban_building,2085,1.31913871
+GA,resid urban,resid urban,resid urban_building,2090,1.353267742
+GA,resid urban,resid urban,resid urban_building,2095,1.377764516
+GA,resid urban,resid urban,resid urban_building,2100,1.396648387
+GA,comm,comm,comm_building,2015,0.027809581
+GA,comm,comm,comm_building,2020,0.038195161
+GA,comm,comm,comm_building,2025,0.052202258
+GA,comm,comm,comm_building,2030,0.071305161
+GA,comm,comm,comm_building,2035,0.095486129
+GA,comm,comm,comm_building,2040,0.126773548
+GA,comm,comm,comm_building,2045,0.163755161
+GA,comm,comm,comm_building,2050,0.206638065
+GA,comm,comm,comm_building,2055,0.250244516
+GA,comm,comm,comm_building,2060,0.300224516
+GA,comm,comm,comm_building,2065,0.352758065
+GA,comm,comm,comm_building,2070,0.403906452
+GA,comm,comm,comm_building,2075,0.443496774
+GA,comm,comm,comm_building,2080,0.471303226
+GA,comm,comm,comm_building,2085,0.498319355
+GA,comm,comm,comm_building,2090,0.522551613
+GA,comm,comm,comm_building,2095,0.543041935
+GA,comm,comm,comm_building,2100,0.559835484
+GJ,resid rural,resid rural,resid rural_building,2015,0.307122903
+GJ,resid rural,resid rural,resid rural_building,2020,0.341870968
+GJ,resid rural,resid rural,resid rural_building,2025,0.363151613
+GJ,resid rural,resid rural,resid rural_building,2030,0.386648387
+GJ,resid rural,resid rural,resid rural_building,2035,0.409619355
+GJ,resid rural,resid rural,resid rural_building,2040,0.438270968
+GJ,resid rural,resid rural,resid rural_building,2045,0.463454839
+GJ,resid rural,resid rural,resid rural_building,2050,0.488470968
+GJ,resid rural,resid rural,resid rural_building,2055,0.494483871
+GJ,resid rural,resid rural,resid rural_building,2060,0.49623871
+GJ,resid rural,resid rural,resid rural_building,2065,0.509696774
+GJ,resid rural,resid rural,resid rural_building,2070,0.516206452
+GJ,resid rural,resid rural,resid rural_building,2075,0.511277419
+GJ,resid rural,resid rural,resid rural_building,2080,0.496309677
+GJ,resid rural,resid rural,resid rural_building,2085,0.480258065
+GJ,resid rural,resid rural,resid rural_building,2090,0.460496774
+GJ,resid rural,resid rural,resid rural_building,2095,0.438625806
+GJ,resid rural,resid rural,resid rural_building,2100,0.415854839
+GJ,resid urban,resid urban,resid urban_building,2015,0.175582258
+GJ,resid urban,resid urban,resid urban_building,2020,0.218273226
+GJ,resid urban,resid urban,resid urban_building,2025,0.272133871
+GJ,resid urban,resid urban,resid urban_building,2030,0.338141935
+GJ,resid urban,resid urban,resid urban_building,2035,0.418203226
+GJ,resid urban,resid urban,resid urban_building,2040,0.50976129
+GJ,resid urban,resid urban,resid urban_building,2045,0.61436129
+GJ,resid urban,resid urban,resid urban_building,2050,0.724883871
+GJ,resid urban,resid urban,resid urban_building,2055,0.844070968
+GJ,resid urban,resid urban,resid urban_building,2060,0.969683871
+GJ,resid urban,resid urban,resid urban_building,2065,1.072616129
+GJ,resid urban,resid urban,resid urban_building,2070,1.163229032
+GJ,resid urban,resid urban,resid urban_building,2075,1.2296
+GJ,resid urban,resid urban,resid urban_building,2080,1.2786
+GJ,resid urban,resid urban,resid urban_building,2085,1.31913871
+GJ,resid urban,resid urban,resid urban_building,2090,1.353267742
+GJ,resid urban,resid urban,resid urban_building,2095,1.377764516
+GJ,resid urban,resid urban,resid urban_building,2100,1.396648387
+GJ,comm,comm,comm_building,2015,0.027809581
+GJ,comm,comm,comm_building,2020,0.038195161
+GJ,comm,comm,comm_building,2025,0.052202258
+GJ,comm,comm,comm_building,2030,0.071305161
+GJ,comm,comm,comm_building,2035,0.095486129
+GJ,comm,comm,comm_building,2040,0.126773548
+GJ,comm,comm,comm_building,2045,0.163755161
+GJ,comm,comm,comm_building,2050,0.206638065
+GJ,comm,comm,comm_building,2055,0.250244516
+GJ,comm,comm,comm_building,2060,0.300224516
+GJ,comm,comm,comm_building,2065,0.352758065
+GJ,comm,comm,comm_building,2070,0.403906452
+GJ,comm,comm,comm_building,2075,0.443496774
+GJ,comm,comm,comm_building,2080,0.471303226
+GJ,comm,comm,comm_building,2085,0.498319355
+GJ,comm,comm,comm_building,2090,0.522551613
+GJ,comm,comm,comm_building,2095,0.543041935
+GJ,comm,comm,comm_building,2100,0.559835484
+HR,resid rural,resid rural,resid rural_building,2015,0.307122903
+HR,resid rural,resid rural,resid rural_building,2020,0.341870968
+HR,resid rural,resid rural,resid rural_building,2025,0.363151613
+HR,resid rural,resid rural,resid rural_building,2030,0.386648387
+HR,resid rural,resid rural,resid rural_building,2035,0.409619355
+HR,resid rural,resid rural,resid rural_building,2040,0.438270968
+HR,resid rural,resid rural,resid rural_building,2045,0.463454839
+HR,resid rural,resid rural,resid rural_building,2050,0.488470968
+HR,resid rural,resid rural,resid rural_building,2055,0.494483871
+HR,resid rural,resid rural,resid rural_building,2060,0.49623871
+HR,resid rural,resid rural,resid rural_building,2065,0.509696774
+HR,resid rural,resid rural,resid rural_building,2070,0.516206452
+HR,resid rural,resid rural,resid rural_building,2075,0.511277419
+HR,resid rural,resid rural,resid rural_building,2080,0.496309677
+HR,resid rural,resid rural,resid rural_building,2085,0.480258065
+HR,resid rural,resid rural,resid rural_building,2090,0.460496774
+HR,resid rural,resid rural,resid rural_building,2095,0.438625806
+HR,resid rural,resid rural,resid rural_building,2100,0.415854839
+HR,resid urban,resid urban,resid urban_building,2015,0.175582258
+HR,resid urban,resid urban,resid urban_building,2020,0.218273226
+HR,resid urban,resid urban,resid urban_building,2025,0.272133871
+HR,resid urban,resid urban,resid urban_building,2030,0.338141935
+HR,resid urban,resid urban,resid urban_building,2035,0.418203226
+HR,resid urban,resid urban,resid urban_building,2040,0.50976129
+HR,resid urban,resid urban,resid urban_building,2045,0.61436129
+HR,resid urban,resid urban,resid urban_building,2050,0.724883871
+HR,resid urban,resid urban,resid urban_building,2055,0.844070968
+HR,resid urban,resid urban,resid urban_building,2060,0.969683871
+HR,resid urban,resid urban,resid urban_building,2065,1.072616129
+HR,resid urban,resid urban,resid urban_building,2070,1.163229032
+HR,resid urban,resid urban,resid urban_building,2075,1.2296
+HR,resid urban,resid urban,resid urban_building,2080,1.2786
+HR,resid urban,resid urban,resid urban_building,2085,1.31913871
+HR,resid urban,resid urban,resid urban_building,2090,1.353267742
+HR,resid urban,resid urban,resid urban_building,2095,1.377764516
+HR,resid urban,resid urban,resid urban_building,2100,1.396648387
+HR,comm,comm,comm_building,2015,0.027809581
+HR,comm,comm,comm_building,2020,0.038195161
+HR,comm,comm,comm_building,2025,0.052202258
+HR,comm,comm,comm_building,2030,0.071305161
+HR,comm,comm,comm_building,2035,0.095486129
+HR,comm,comm,comm_building,2040,0.126773548
+HR,comm,comm,comm_building,2045,0.163755161
+HR,comm,comm,comm_building,2050,0.206638065
+HR,comm,comm,comm_building,2055,0.250244516
+HR,comm,comm,comm_building,2060,0.300224516
+HR,comm,comm,comm_building,2065,0.352758065
+HR,comm,comm,comm_building,2070,0.403906452
+HR,comm,comm,comm_building,2075,0.443496774
+HR,comm,comm,comm_building,2080,0.471303226
+HR,comm,comm,comm_building,2085,0.498319355
+HR,comm,comm,comm_building,2090,0.522551613
+HR,comm,comm,comm_building,2095,0.543041935
+HR,comm,comm,comm_building,2100,0.559835484
+HP,resid rural,resid rural,resid rural_building,2015,0.307122903
+HP,resid rural,resid rural,resid rural_building,2020,0.341870968
+HP,resid rural,resid rural,resid rural_building,2025,0.363151613
+HP,resid rural,resid rural,resid rural_building,2030,0.386648387
+HP,resid rural,resid rural,resid rural_building,2035,0.409619355
+HP,resid rural,resid rural,resid rural_building,2040,0.438270968
+HP,resid rural,resid rural,resid rural_building,2045,0.463454839
+HP,resid rural,resid rural,resid rural_building,2050,0.488470968
+HP,resid rural,resid rural,resid rural_building,2055,0.494483871
+HP,resid rural,resid rural,resid rural_building,2060,0.49623871
+HP,resid rural,resid rural,resid rural_building,2065,0.509696774
+HP,resid rural,resid rural,resid rural_building,2070,0.516206452
+HP,resid rural,resid rural,resid rural_building,2075,0.511277419
+HP,resid rural,resid rural,resid rural_building,2080,0.496309677
+HP,resid rural,resid rural,resid rural_building,2085,0.480258065
+HP,resid rural,resid rural,resid rural_building,2090,0.460496774
+HP,resid rural,resid rural,resid rural_building,2095,0.438625806
+HP,resid rural,resid rural,resid rural_building,2100,0.415854839
+HP,resid urban,resid urban,resid urban_building,2015,0.175582258
+HP,resid urban,resid urban,resid urban_building,2020,0.218273226
+HP,resid urban,resid urban,resid urban_building,2025,0.272133871
+HP,resid urban,resid urban,resid urban_building,2030,0.338141935
+HP,resid urban,resid urban,resid urban_building,2035,0.418203226
+HP,resid urban,resid urban,resid urban_building,2040,0.50976129
+HP,resid urban,resid urban,resid urban_building,2045,0.61436129
+HP,resid urban,resid urban,resid urban_building,2050,0.724883871
+HP,resid urban,resid urban,resid urban_building,2055,0.844070968
+HP,resid urban,resid urban,resid urban_building,2060,0.969683871
+HP,resid urban,resid urban,resid urban_building,2065,1.072616129
+HP,resid urban,resid urban,resid urban_building,2070,1.163229032
+HP,resid urban,resid urban,resid urban_building,2075,1.2296
+HP,resid urban,resid urban,resid urban_building,2080,1.2786
+HP,resid urban,resid urban,resid urban_building,2085,1.31913871
+HP,resid urban,resid urban,resid urban_building,2090,1.353267742
+HP,resid urban,resid urban,resid urban_building,2095,1.377764516
+HP,resid urban,resid urban,resid urban_building,2100,1.396648387
+HP,comm,comm,comm_building,2015,0.027809581
+HP,comm,comm,comm_building,2020,0.038195161
+HP,comm,comm,comm_building,2025,0.052202258
+HP,comm,comm,comm_building,2030,0.071305161
+HP,comm,comm,comm_building,2035,0.095486129
+HP,comm,comm,comm_building,2040,0.126773548
+HP,comm,comm,comm_building,2045,0.163755161
+HP,comm,comm,comm_building,2050,0.206638065
+HP,comm,comm,comm_building,2055,0.250244516
+HP,comm,comm,comm_building,2060,0.300224516
+HP,comm,comm,comm_building,2065,0.352758065
+HP,comm,comm,comm_building,2070,0.403906452
+HP,comm,comm,comm_building,2075,0.443496774
+HP,comm,comm,comm_building,2080,0.471303226
+HP,comm,comm,comm_building,2085,0.498319355
+HP,comm,comm,comm_building,2090,0.522551613
+HP,comm,comm,comm_building,2095,0.543041935
+HP,comm,comm,comm_building,2100,0.559835484
+JH,resid rural,resid rural,resid rural_building,2015,0.307122903
+JH,resid rural,resid rural,resid rural_building,2020,0.341870968
+JH,resid rural,resid rural,resid rural_building,2025,0.363151613
+JH,resid rural,resid rural,resid rural_building,2030,0.386648387
+JH,resid rural,resid rural,resid rural_building,2035,0.409619355
+JH,resid rural,resid rural,resid rural_building,2040,0.438270968
+JH,resid rural,resid rural,resid rural_building,2045,0.463454839
+JH,resid rural,resid rural,resid rural_building,2050,0.488470968
+JH,resid rural,resid rural,resid rural_building,2055,0.494483871
+JH,resid rural,resid rural,resid rural_building,2060,0.49623871
+JH,resid rural,resid rural,resid rural_building,2065,0.509696774
+JH,resid rural,resid rural,resid rural_building,2070,0.516206452
+JH,resid rural,resid rural,resid rural_building,2075,0.511277419
+JH,resid rural,resid rural,resid rural_building,2080,0.496309677
+JH,resid rural,resid rural,resid rural_building,2085,0.480258065
+JH,resid rural,resid rural,resid rural_building,2090,0.460496774
+JH,resid rural,resid rural,resid rural_building,2095,0.438625806
+JH,resid rural,resid rural,resid rural_building,2100,0.415854839
+JH,resid urban,resid urban,resid urban_building,2015,0.175582258
+JH,resid urban,resid urban,resid urban_building,2020,0.218273226
+JH,resid urban,resid urban,resid urban_building,2025,0.272133871
+JH,resid urban,resid urban,resid urban_building,2030,0.338141935
+JH,resid urban,resid urban,resid urban_building,2035,0.418203226
+JH,resid urban,resid urban,resid urban_building,2040,0.50976129
+JH,resid urban,resid urban,resid urban_building,2045,0.61436129
+JH,resid urban,resid urban,resid urban_building,2050,0.724883871
+JH,resid urban,resid urban,resid urban_building,2055,0.844070968
+JH,resid urban,resid urban,resid urban_building,2060,0.969683871
+JH,resid urban,resid urban,resid urban_building,2065,1.072616129
+JH,resid urban,resid urban,resid urban_building,2070,1.163229032
+JH,resid urban,resid urban,resid urban_building,2075,1.2296
+JH,resid urban,resid urban,resid urban_building,2080,1.2786
+JH,resid urban,resid urban,resid urban_building,2085,1.31913871
+JH,resid urban,resid urban,resid urban_building,2090,1.353267742
+JH,resid urban,resid urban,resid urban_building,2095,1.377764516
+JH,resid urban,resid urban,resid urban_building,2100,1.396648387
+JH,comm,comm,comm_building,2015,0.027809581
+JH,comm,comm,comm_building,2020,0.038195161
+JH,comm,comm,comm_building,2025,0.052202258
+JH,comm,comm,comm_building,2030,0.071305161
+JH,comm,comm,comm_building,2035,0.095486129
+JH,comm,comm,comm_building,2040,0.126773548
+JH,comm,comm,comm_building,2045,0.163755161
+JH,comm,comm,comm_building,2050,0.206638065
+JH,comm,comm,comm_building,2055,0.250244516
+JH,comm,comm,comm_building,2060,0.300224516
+JH,comm,comm,comm_building,2065,0.352758065
+JH,comm,comm,comm_building,2070,0.403906452
+JH,comm,comm,comm_building,2075,0.443496774
+JH,comm,comm,comm_building,2080,0.471303226
+JH,comm,comm,comm_building,2085,0.498319355
+JH,comm,comm,comm_building,2090,0.522551613
+JH,comm,comm,comm_building,2095,0.543041935
+JH,comm,comm,comm_building,2100,0.559835484
+JK,resid rural,resid rural,resid rural_building,2015,0.307122903
+JK,resid rural,resid rural,resid rural_building,2020,0.341870968
+JK,resid rural,resid rural,resid rural_building,2025,0.363151613
+JK,resid rural,resid rural,resid rural_building,2030,0.386648387
+JK,resid rural,resid rural,resid rural_building,2035,0.409619355
+JK,resid rural,resid rural,resid rural_building,2040,0.438270968
+JK,resid rural,resid rural,resid rural_building,2045,0.463454839
+JK,resid rural,resid rural,resid rural_building,2050,0.488470968
+JK,resid rural,resid rural,resid rural_building,2055,0.494483871
+JK,resid rural,resid rural,resid rural_building,2060,0.49623871
+JK,resid rural,resid rural,resid rural_building,2065,0.509696774
+JK,resid rural,resid rural,resid rural_building,2070,0.516206452
+JK,resid rural,resid rural,resid rural_building,2075,0.511277419
+JK,resid rural,resid rural,resid rural_building,2080,0.496309677
+JK,resid rural,resid rural,resid rural_building,2085,0.480258065
+JK,resid rural,resid rural,resid rural_building,2090,0.460496774
+JK,resid rural,resid rural,resid rural_building,2095,0.438625806
+JK,resid rural,resid rural,resid rural_building,2100,0.415854839
+JK,resid urban,resid urban,resid urban_building,2015,0.175582258
+JK,resid urban,resid urban,resid urban_building,2020,0.218273226
+JK,resid urban,resid urban,resid urban_building,2025,0.272133871
+JK,resid urban,resid urban,resid urban_building,2030,0.338141935
+JK,resid urban,resid urban,resid urban_building,2035,0.418203226
+JK,resid urban,resid urban,resid urban_building,2040,0.50976129
+JK,resid urban,resid urban,resid urban_building,2045,0.61436129
+JK,resid urban,resid urban,resid urban_building,2050,0.724883871
+JK,resid urban,resid urban,resid urban_building,2055,0.844070968
+JK,resid urban,resid urban,resid urban_building,2060,0.969683871
+JK,resid urban,resid urban,resid urban_building,2065,1.072616129
+JK,resid urban,resid urban,resid urban_building,2070,1.163229032
+JK,resid urban,resid urban,resid urban_building,2075,1.2296
+JK,resid urban,resid urban,resid urban_building,2080,1.2786
+JK,resid urban,resid urban,resid urban_building,2085,1.31913871
+JK,resid urban,resid urban,resid urban_building,2090,1.353267742
+JK,resid urban,resid urban,resid urban_building,2095,1.377764516
+JK,resid urban,resid urban,resid urban_building,2100,1.396648387
+JK,comm,comm,comm_building,2015,0.027809581
+JK,comm,comm,comm_building,2020,0.038195161
+JK,comm,comm,comm_building,2025,0.052202258
+JK,comm,comm,comm_building,2030,0.071305161
+JK,comm,comm,comm_building,2035,0.095486129
+JK,comm,comm,comm_building,2040,0.126773548
+JK,comm,comm,comm_building,2045,0.163755161
+JK,comm,comm,comm_building,2050,0.206638065
+JK,comm,comm,comm_building,2055,0.250244516
+JK,comm,comm,comm_building,2060,0.300224516
+JK,comm,comm,comm_building,2065,0.352758065
+JK,comm,comm,comm_building,2070,0.403906452
+JK,comm,comm,comm_building,2075,0.443496774
+JK,comm,comm,comm_building,2080,0.471303226
+JK,comm,comm,comm_building,2085,0.498319355
+JK,comm,comm,comm_building,2090,0.522551613
+JK,comm,comm,comm_building,2095,0.543041935
+JK,comm,comm,comm_building,2100,0.559835484
+KA,resid rural,resid rural,resid rural_building,2015,0.307122903
+KA,resid rural,resid rural,resid rural_building,2020,0.341870968
+KA,resid rural,resid rural,resid rural_building,2025,0.363151613
+KA,resid rural,resid rural,resid rural_building,2030,0.386648387
+KA,resid rural,resid rural,resid rural_building,2035,0.409619355
+KA,resid rural,resid rural,resid rural_building,2040,0.438270968
+KA,resid rural,resid rural,resid rural_building,2045,0.463454839
+KA,resid rural,resid rural,resid rural_building,2050,0.488470968
+KA,resid rural,resid rural,resid rural_building,2055,0.494483871
+KA,resid rural,resid rural,resid rural_building,2060,0.49623871
+KA,resid rural,resid rural,resid rural_building,2065,0.509696774
+KA,resid rural,resid rural,resid rural_building,2070,0.516206452
+KA,resid rural,resid rural,resid rural_building,2075,0.511277419
+KA,resid rural,resid rural,resid rural_building,2080,0.496309677
+KA,resid rural,resid rural,resid rural_building,2085,0.480258065
+KA,resid rural,resid rural,resid rural_building,2090,0.460496774
+KA,resid rural,resid rural,resid rural_building,2095,0.438625806
+KA,resid rural,resid rural,resid rural_building,2100,0.415854839
+KA,resid urban,resid urban,resid urban_building,2015,0.175582258
+KA,resid urban,resid urban,resid urban_building,2020,0.218273226
+KA,resid urban,resid urban,resid urban_building,2025,0.272133871
+KA,resid urban,resid urban,resid urban_building,2030,0.338141935
+KA,resid urban,resid urban,resid urban_building,2035,0.418203226
+KA,resid urban,resid urban,resid urban_building,2040,0.50976129
+KA,resid urban,resid urban,resid urban_building,2045,0.61436129
+KA,resid urban,resid urban,resid urban_building,2050,0.724883871
+KA,resid urban,resid urban,resid urban_building,2055,0.844070968
+KA,resid urban,resid urban,resid urban_building,2060,0.969683871
+KA,resid urban,resid urban,resid urban_building,2065,1.072616129
+KA,resid urban,resid urban,resid urban_building,2070,1.163229032
+KA,resid urban,resid urban,resid urban_building,2075,1.2296
+KA,resid urban,resid urban,resid urban_building,2080,1.2786
+KA,resid urban,resid urban,resid urban_building,2085,1.31913871
+KA,resid urban,resid urban,resid urban_building,2090,1.353267742
+KA,resid urban,resid urban,resid urban_building,2095,1.377764516
+KA,resid urban,resid urban,resid urban_building,2100,1.396648387
+KA,comm,comm,comm_building,2015,0.027809581
+KA,comm,comm,comm_building,2020,0.038195161
+KA,comm,comm,comm_building,2025,0.052202258
+KA,comm,comm,comm_building,2030,0.071305161
+KA,comm,comm,comm_building,2035,0.095486129
+KA,comm,comm,comm_building,2040,0.126773548
+KA,comm,comm,comm_building,2045,0.163755161
+KA,comm,comm,comm_building,2050,0.206638065
+KA,comm,comm,comm_building,2055,0.250244516
+KA,comm,comm,comm_building,2060,0.300224516
+KA,comm,comm,comm_building,2065,0.352758065
+KA,comm,comm,comm_building,2070,0.403906452
+KA,comm,comm,comm_building,2075,0.443496774
+KA,comm,comm,comm_building,2080,0.471303226
+KA,comm,comm,comm_building,2085,0.498319355
+KA,comm,comm,comm_building,2090,0.522551613
+KA,comm,comm,comm_building,2095,0.543041935
+KA,comm,comm,comm_building,2100,0.559835484
+KL,resid rural,resid rural,resid rural_building,2015,0.307122903
+KL,resid rural,resid rural,resid rural_building,2020,0.341870968
+KL,resid rural,resid rural,resid rural_building,2025,0.363151613
+KL,resid rural,resid rural,resid rural_building,2030,0.386648387
+KL,resid rural,resid rural,resid rural_building,2035,0.409619355
+KL,resid rural,resid rural,resid rural_building,2040,0.438270968
+KL,resid rural,resid rural,resid rural_building,2045,0.463454839
+KL,resid rural,resid rural,resid rural_building,2050,0.488470968
+KL,resid rural,resid rural,resid rural_building,2055,0.494483871
+KL,resid rural,resid rural,resid rural_building,2060,0.49623871
+KL,resid rural,resid rural,resid rural_building,2065,0.509696774
+KL,resid rural,resid rural,resid rural_building,2070,0.516206452
+KL,resid rural,resid rural,resid rural_building,2075,0.511277419
+KL,resid rural,resid rural,resid rural_building,2080,0.496309677
+KL,resid rural,resid rural,resid rural_building,2085,0.480258065
+KL,resid rural,resid rural,resid rural_building,2090,0.460496774
+KL,resid rural,resid rural,resid rural_building,2095,0.438625806
+KL,resid rural,resid rural,resid rural_building,2100,0.415854839
+KL,resid urban,resid urban,resid urban_building,2015,0.175582258
+KL,resid urban,resid urban,resid urban_building,2020,0.218273226
+KL,resid urban,resid urban,resid urban_building,2025,0.272133871
+KL,resid urban,resid urban,resid urban_building,2030,0.338141935
+KL,resid urban,resid urban,resid urban_building,2035,0.418203226
+KL,resid urban,resid urban,resid urban_building,2040,0.50976129
+KL,resid urban,resid urban,resid urban_building,2045,0.61436129
+KL,resid urban,resid urban,resid urban_building,2050,0.724883871
+KL,resid urban,resid urban,resid urban_building,2055,0.844070968
+KL,resid urban,resid urban,resid urban_building,2060,0.969683871
+KL,resid urban,resid urban,resid urban_building,2065,1.072616129
+KL,resid urban,resid urban,resid urban_building,2070,1.163229032
+KL,resid urban,resid urban,resid urban_building,2075,1.2296
+KL,resid urban,resid urban,resid urban_building,2080,1.2786
+KL,resid urban,resid urban,resid urban_building,2085,1.31913871
+KL,resid urban,resid urban,resid urban_building,2090,1.353267742
+KL,resid urban,resid urban,resid urban_building,2095,1.377764516
+KL,resid urban,resid urban,resid urban_building,2100,1.396648387
+KL,comm,comm,comm_building,2015,0.027809581
+KL,comm,comm,comm_building,2020,0.038195161
+KL,comm,comm,comm_building,2025,0.052202258
+KL,comm,comm,comm_building,2030,0.071305161
+KL,comm,comm,comm_building,2035,0.095486129
+KL,comm,comm,comm_building,2040,0.126773548
+KL,comm,comm,comm_building,2045,0.163755161
+KL,comm,comm,comm_building,2050,0.206638065
+KL,comm,comm,comm_building,2055,0.250244516
+KL,comm,comm,comm_building,2060,0.300224516
+KL,comm,comm,comm_building,2065,0.352758065
+KL,comm,comm,comm_building,2070,0.403906452
+KL,comm,comm,comm_building,2075,0.443496774
+KL,comm,comm,comm_building,2080,0.471303226
+KL,comm,comm,comm_building,2085,0.498319355
+KL,comm,comm,comm_building,2090,0.522551613
+KL,comm,comm,comm_building,2095,0.543041935
+KL,comm,comm,comm_building,2100,0.559835484
+MP,resid rural,resid rural,resid rural_building,2015,0.307122903
+MP,resid rural,resid rural,resid rural_building,2020,0.341870968
+MP,resid rural,resid rural,resid rural_building,2025,0.363151613
+MP,resid rural,resid rural,resid rural_building,2030,0.386648387
+MP,resid rural,resid rural,resid rural_building,2035,0.409619355
+MP,resid rural,resid rural,resid rural_building,2040,0.438270968
+MP,resid rural,resid rural,resid rural_building,2045,0.463454839
+MP,resid rural,resid rural,resid rural_building,2050,0.488470968
+MP,resid rural,resid rural,resid rural_building,2055,0.494483871
+MP,resid rural,resid rural,resid rural_building,2060,0.49623871
+MP,resid rural,resid rural,resid rural_building,2065,0.509696774
+MP,resid rural,resid rural,resid rural_building,2070,0.516206452
+MP,resid rural,resid rural,resid rural_building,2075,0.511277419
+MP,resid rural,resid rural,resid rural_building,2080,0.496309677
+MP,resid rural,resid rural,resid rural_building,2085,0.480258065
+MP,resid rural,resid rural,resid rural_building,2090,0.460496774
+MP,resid rural,resid rural,resid rural_building,2095,0.438625806
+MP,resid rural,resid rural,resid rural_building,2100,0.415854839
+MP,resid urban,resid urban,resid urban_building,2015,0.175582258
+MP,resid urban,resid urban,resid urban_building,2020,0.218273226
+MP,resid urban,resid urban,resid urban_building,2025,0.272133871
+MP,resid urban,resid urban,resid urban_building,2030,0.338141935
+MP,resid urban,resid urban,resid urban_building,2035,0.418203226
+MP,resid urban,resid urban,resid urban_building,2040,0.50976129
+MP,resid urban,resid urban,resid urban_building,2045,0.61436129
+MP,resid urban,resid urban,resid urban_building,2050,0.724883871
+MP,resid urban,resid urban,resid urban_building,2055,0.844070968
+MP,resid urban,resid urban,resid urban_building,2060,0.969683871
+MP,resid urban,resid urban,resid urban_building,2065,1.072616129
+MP,resid urban,resid urban,resid urban_building,2070,1.163229032
+MP,resid urban,resid urban,resid urban_building,2075,1.2296
+MP,resid urban,resid urban,resid urban_building,2080,1.2786
+MP,resid urban,resid urban,resid urban_building,2085,1.31913871
+MP,resid urban,resid urban,resid urban_building,2090,1.353267742
+MP,resid urban,resid urban,resid urban_building,2095,1.377764516
+MP,resid urban,resid urban,resid urban_building,2100,1.396648387
+MP,comm,comm,comm_building,2015,0.027809581
+MP,comm,comm,comm_building,2020,0.038195161
+MP,comm,comm,comm_building,2025,0.052202258
+MP,comm,comm,comm_building,2030,0.071305161
+MP,comm,comm,comm_building,2035,0.095486129
+MP,comm,comm,comm_building,2040,0.126773548
+MP,comm,comm,comm_building,2045,0.163755161
+MP,comm,comm,comm_building,2050,0.206638065
+MP,comm,comm,comm_building,2055,0.250244516
+MP,comm,comm,comm_building,2060,0.300224516
+MP,comm,comm,comm_building,2065,0.352758065
+MP,comm,comm,comm_building,2070,0.403906452
+MP,comm,comm,comm_building,2075,0.443496774
+MP,comm,comm,comm_building,2080,0.471303226
+MP,comm,comm,comm_building,2085,0.498319355
+MP,comm,comm,comm_building,2090,0.522551613
+MP,comm,comm,comm_building,2095,0.543041935
+MP,comm,comm,comm_building,2100,0.559835484
+MN,resid rural,resid rural,resid rural_building,2015,0.307122903
+MN,resid rural,resid rural,resid rural_building,2020,0.341870968
+MN,resid rural,resid rural,resid rural_building,2025,0.363151613
+MN,resid rural,resid rural,resid rural_building,2030,0.386648387
+MN,resid rural,resid rural,resid rural_building,2035,0.409619355
+MN,resid rural,resid rural,resid rural_building,2040,0.438270968
+MN,resid rural,resid rural,resid rural_building,2045,0.463454839
+MN,resid rural,resid rural,resid rural_building,2050,0.488470968
+MN,resid rural,resid rural,resid rural_building,2055,0.494483871
+MN,resid rural,resid rural,resid rural_building,2060,0.49623871
+MN,resid rural,resid rural,resid rural_building,2065,0.509696774
+MN,resid rural,resid rural,resid rural_building,2070,0.516206452
+MN,resid rural,resid rural,resid rural_building,2075,0.511277419
+MN,resid rural,resid rural,resid rural_building,2080,0.496309677
+MN,resid rural,resid rural,resid rural_building,2085,0.480258065
+MN,resid rural,resid rural,resid rural_building,2090,0.460496774
+MN,resid rural,resid rural,resid rural_building,2095,0.438625806
+MN,resid rural,resid rural,resid rural_building,2100,0.415854839
+MN,resid urban,resid urban,resid urban_building,2015,0.175582258
+MN,resid urban,resid urban,resid urban_building,2020,0.218273226
+MN,resid urban,resid urban,resid urban_building,2025,0.272133871
+MN,resid urban,resid urban,resid urban_building,2030,0.338141935
+MN,resid urban,resid urban,resid urban_building,2035,0.418203226
+MN,resid urban,resid urban,resid urban_building,2040,0.50976129
+MN,resid urban,resid urban,resid urban_building,2045,0.61436129
+MN,resid urban,resid urban,resid urban_building,2050,0.724883871
+MN,resid urban,resid urban,resid urban_building,2055,0.844070968
+MN,resid urban,resid urban,resid urban_building,2060,0.969683871
+MN,resid urban,resid urban,resid urban_building,2065,1.072616129
+MN,resid urban,resid urban,resid urban_building,2070,1.163229032
+MN,resid urban,resid urban,resid urban_building,2075,1.2296
+MN,resid urban,resid urban,resid urban_building,2080,1.2786
+MN,resid urban,resid urban,resid urban_building,2085,1.31913871
+MN,resid urban,resid urban,resid urban_building,2090,1.353267742
+MN,resid urban,resid urban,resid urban_building,2095,1.377764516
+MN,resid urban,resid urban,resid urban_building,2100,1.396648387
+MN,comm,comm,comm_building,2015,0.027809581
+MN,comm,comm,comm_building,2020,0.038195161
+MN,comm,comm,comm_building,2025,0.052202258
+MN,comm,comm,comm_building,2030,0.071305161
+MN,comm,comm,comm_building,2035,0.095486129
+MN,comm,comm,comm_building,2040,0.126773548
+MN,comm,comm,comm_building,2045,0.163755161
+MN,comm,comm,comm_building,2050,0.206638065
+MN,comm,comm,comm_building,2055,0.250244516
+MN,comm,comm,comm_building,2060,0.300224516
+MN,comm,comm,comm_building,2065,0.352758065
+MN,comm,comm,comm_building,2070,0.403906452
+MN,comm,comm,comm_building,2075,0.443496774
+MN,comm,comm,comm_building,2080,0.471303226
+MN,comm,comm,comm_building,2085,0.498319355
+MN,comm,comm,comm_building,2090,0.522551613
+MN,comm,comm,comm_building,2095,0.543041935
+MN,comm,comm,comm_building,2100,0.559835484
+MH,resid rural,resid rural,resid rural_building,2015,0.307122903
+MH,resid rural,resid rural,resid rural_building,2020,0.341870968
+MH,resid rural,resid rural,resid rural_building,2025,0.363151613
+MH,resid rural,resid rural,resid rural_building,2030,0.386648387
+MH,resid rural,resid rural,resid rural_building,2035,0.409619355
+MH,resid rural,resid rural,resid rural_building,2040,0.438270968
+MH,resid rural,resid rural,resid rural_building,2045,0.463454839
+MH,resid rural,resid rural,resid rural_building,2050,0.488470968
+MH,resid rural,resid rural,resid rural_building,2055,0.494483871
+MH,resid rural,resid rural,resid rural_building,2060,0.49623871
+MH,resid rural,resid rural,resid rural_building,2065,0.509696774
+MH,resid rural,resid rural,resid rural_building,2070,0.516206452
+MH,resid rural,resid rural,resid rural_building,2075,0.511277419
+MH,resid rural,resid rural,resid rural_building,2080,0.496309677
+MH,resid rural,resid rural,resid rural_building,2085,0.480258065
+MH,resid rural,resid rural,resid rural_building,2090,0.460496774
+MH,resid rural,resid rural,resid rural_building,2095,0.438625806
+MH,resid rural,resid rural,resid rural_building,2100,0.415854839
+MH,resid urban,resid urban,resid urban_building,2015,0.175582258
+MH,resid urban,resid urban,resid urban_building,2020,0.218273226
+MH,resid urban,resid urban,resid urban_building,2025,0.272133871
+MH,resid urban,resid urban,resid urban_building,2030,0.338141935
+MH,resid urban,resid urban,resid urban_building,2035,0.418203226
+MH,resid urban,resid urban,resid urban_building,2040,0.50976129
+MH,resid urban,resid urban,resid urban_building,2045,0.61436129
+MH,resid urban,resid urban,resid urban_building,2050,0.724883871
+MH,resid urban,resid urban,resid urban_building,2055,0.844070968
+MH,resid urban,resid urban,resid urban_building,2060,0.969683871
+MH,resid urban,resid urban,resid urban_building,2065,1.072616129
+MH,resid urban,resid urban,resid urban_building,2070,1.163229032
+MH,resid urban,resid urban,resid urban_building,2075,1.2296
+MH,resid urban,resid urban,resid urban_building,2080,1.2786
+MH,resid urban,resid urban,resid urban_building,2085,1.31913871
+MH,resid urban,resid urban,resid urban_building,2090,1.353267742
+MH,resid urban,resid urban,resid urban_building,2095,1.377764516
+MH,resid urban,resid urban,resid urban_building,2100,1.396648387
+MH,comm,comm,comm_building,2015,0.027809581
+MH,comm,comm,comm_building,2020,0.038195161
+MH,comm,comm,comm_building,2025,0.052202258
+MH,comm,comm,comm_building,2030,0.071305161
+MH,comm,comm,comm_building,2035,0.095486129
+MH,comm,comm,comm_building,2040,0.126773548
+MH,comm,comm,comm_building,2045,0.163755161
+MH,comm,comm,comm_building,2050,0.206638065
+MH,comm,comm,comm_building,2055,0.250244516
+MH,comm,comm,comm_building,2060,0.300224516
+MH,comm,comm,comm_building,2065,0.352758065
+MH,comm,comm,comm_building,2070,0.403906452
+MH,comm,comm,comm_building,2075,0.443496774
+MH,comm,comm,comm_building,2080,0.471303226
+MH,comm,comm,comm_building,2085,0.498319355
+MH,comm,comm,comm_building,2090,0.522551613
+MH,comm,comm,comm_building,2095,0.543041935
+MH,comm,comm,comm_building,2100,0.559835484
+ML,resid rural,resid rural,resid rural_building,2015,0.307122903
+ML,resid rural,resid rural,resid rural_building,2020,0.341870968
+ML,resid rural,resid rural,resid rural_building,2025,0.363151613
+ML,resid rural,resid rural,resid rural_building,2030,0.386648387
+ML,resid rural,resid rural,resid rural_building,2035,0.409619355
+ML,resid rural,resid rural,resid rural_building,2040,0.438270968
+ML,resid rural,resid rural,resid rural_building,2045,0.463454839
+ML,resid rural,resid rural,resid rural_building,2050,0.488470968
+ML,resid rural,resid rural,resid rural_building,2055,0.494483871
+ML,resid rural,resid rural,resid rural_building,2060,0.49623871
+ML,resid rural,resid rural,resid rural_building,2065,0.509696774
+ML,resid rural,resid rural,resid rural_building,2070,0.516206452
+ML,resid rural,resid rural,resid rural_building,2075,0.511277419
+ML,resid rural,resid rural,resid rural_building,2080,0.496309677
+ML,resid rural,resid rural,resid rural_building,2085,0.480258065
+ML,resid rural,resid rural,resid rural_building,2090,0.460496774
+ML,resid rural,resid rural,resid rural_building,2095,0.438625806
+ML,resid rural,resid rural,resid rural_building,2100,0.415854839
+ML,resid urban,resid urban,resid urban_building,2015,0.175582258
+ML,resid urban,resid urban,resid urban_building,2020,0.218273226
+ML,resid urban,resid urban,resid urban_building,2025,0.272133871
+ML,resid urban,resid urban,resid urban_building,2030,0.338141935
+ML,resid urban,resid urban,resid urban_building,2035,0.418203226
+ML,resid urban,resid urban,resid urban_building,2040,0.50976129
+ML,resid urban,resid urban,resid urban_building,2045,0.61436129
+ML,resid urban,resid urban,resid urban_building,2050,0.724883871
+ML,resid urban,resid urban,resid urban_building,2055,0.844070968
+ML,resid urban,resid urban,resid urban_building,2060,0.969683871
+ML,resid urban,resid urban,resid urban_building,2065,1.072616129
+ML,resid urban,resid urban,resid urban_building,2070,1.163229032
+ML,resid urban,resid urban,resid urban_building,2075,1.2296
+ML,resid urban,resid urban,resid urban_building,2080,1.2786
+ML,resid urban,resid urban,resid urban_building,2085,1.31913871
+ML,resid urban,resid urban,resid urban_building,2090,1.353267742
+ML,resid urban,resid urban,resid urban_building,2095,1.377764516
+ML,resid urban,resid urban,resid urban_building,2100,1.396648387
+ML,comm,comm,comm_building,2015,0.027809581
+ML,comm,comm,comm_building,2020,0.038195161
+ML,comm,comm,comm_building,2025,0.052202258
+ML,comm,comm,comm_building,2030,0.071305161
+ML,comm,comm,comm_building,2035,0.095486129
+ML,comm,comm,comm_building,2040,0.126773548
+ML,comm,comm,comm_building,2045,0.163755161
+ML,comm,comm,comm_building,2050,0.206638065
+ML,comm,comm,comm_building,2055,0.250244516
+ML,comm,comm,comm_building,2060,0.300224516
+ML,comm,comm,comm_building,2065,0.352758065
+ML,comm,comm,comm_building,2070,0.403906452
+ML,comm,comm,comm_building,2075,0.443496774
+ML,comm,comm,comm_building,2080,0.471303226
+ML,comm,comm,comm_building,2085,0.498319355
+ML,comm,comm,comm_building,2090,0.522551613
+ML,comm,comm,comm_building,2095,0.543041935
+ML,comm,comm,comm_building,2100,0.559835484
+MZ,resid rural,resid rural,resid rural_building,2015,0.307122903
+MZ,resid rural,resid rural,resid rural_building,2020,0.341870968
+MZ,resid rural,resid rural,resid rural_building,2025,0.363151613
+MZ,resid rural,resid rural,resid rural_building,2030,0.386648387
+MZ,resid rural,resid rural,resid rural_building,2035,0.409619355
+MZ,resid rural,resid rural,resid rural_building,2040,0.438270968
+MZ,resid rural,resid rural,resid rural_building,2045,0.463454839
+MZ,resid rural,resid rural,resid rural_building,2050,0.488470968
+MZ,resid rural,resid rural,resid rural_building,2055,0.494483871
+MZ,resid rural,resid rural,resid rural_building,2060,0.49623871
+MZ,resid rural,resid rural,resid rural_building,2065,0.509696774
+MZ,resid rural,resid rural,resid rural_building,2070,0.516206452
+MZ,resid rural,resid rural,resid rural_building,2075,0.511277419
+MZ,resid rural,resid rural,resid rural_building,2080,0.496309677
+MZ,resid rural,resid rural,resid rural_building,2085,0.480258065
+MZ,resid rural,resid rural,resid rural_building,2090,0.460496774
+MZ,resid rural,resid rural,resid rural_building,2095,0.438625806
+MZ,resid rural,resid rural,resid rural_building,2100,0.415854839
+MZ,resid urban,resid urban,resid urban_building,2015,0.175582258
+MZ,resid urban,resid urban,resid urban_building,2020,0.218273226
+MZ,resid urban,resid urban,resid urban_building,2025,0.272133871
+MZ,resid urban,resid urban,resid urban_building,2030,0.338141935
+MZ,resid urban,resid urban,resid urban_building,2035,0.418203226
+MZ,resid urban,resid urban,resid urban_building,2040,0.50976129
+MZ,resid urban,resid urban,resid urban_building,2045,0.61436129
+MZ,resid urban,resid urban,resid urban_building,2050,0.724883871
+MZ,resid urban,resid urban,resid urban_building,2055,0.844070968
+MZ,resid urban,resid urban,resid urban_building,2060,0.969683871
+MZ,resid urban,resid urban,resid urban_building,2065,1.072616129
+MZ,resid urban,resid urban,resid urban_building,2070,1.163229032
+MZ,resid urban,resid urban,resid urban_building,2075,1.2296
+MZ,resid urban,resid urban,resid urban_building,2080,1.2786
+MZ,resid urban,resid urban,resid urban_building,2085,1.31913871
+MZ,resid urban,resid urban,resid urban_building,2090,1.353267742
+MZ,resid urban,resid urban,resid urban_building,2095,1.377764516
+MZ,resid urban,resid urban,resid urban_building,2100,1.396648387
+MZ,comm,comm,comm_building,2015,0.027809581
+MZ,comm,comm,comm_building,2020,0.038195161
+MZ,comm,comm,comm_building,2025,0.052202258
+MZ,comm,comm,comm_building,2030,0.071305161
+MZ,comm,comm,comm_building,2035,0.095486129
+MZ,comm,comm,comm_building,2040,0.126773548
+MZ,comm,comm,comm_building,2045,0.163755161
+MZ,comm,comm,comm_building,2050,0.206638065
+MZ,comm,comm,comm_building,2055,0.250244516
+MZ,comm,comm,comm_building,2060,0.300224516
+MZ,comm,comm,comm_building,2065,0.352758065
+MZ,comm,comm,comm_building,2070,0.403906452
+MZ,comm,comm,comm_building,2075,0.443496774
+MZ,comm,comm,comm_building,2080,0.471303226
+MZ,comm,comm,comm_building,2085,0.498319355
+MZ,comm,comm,comm_building,2090,0.522551613
+MZ,comm,comm,comm_building,2095,0.543041935
+MZ,comm,comm,comm_building,2100,0.559835484
+NL,resid rural,resid rural,resid rural_building,2015,0.307122903
+NL,resid rural,resid rural,resid rural_building,2020,0.341870968
+NL,resid rural,resid rural,resid rural_building,2025,0.363151613
+NL,resid rural,resid rural,resid rural_building,2030,0.386648387
+NL,resid rural,resid rural,resid rural_building,2035,0.409619355
+NL,resid rural,resid rural,resid rural_building,2040,0.438270968
+NL,resid rural,resid rural,resid rural_building,2045,0.463454839
+NL,resid rural,resid rural,resid rural_building,2050,0.488470968
+NL,resid rural,resid rural,resid rural_building,2055,0.494483871
+NL,resid rural,resid rural,resid rural_building,2060,0.49623871
+NL,resid rural,resid rural,resid rural_building,2065,0.509696774
+NL,resid rural,resid rural,resid rural_building,2070,0.516206452
+NL,resid rural,resid rural,resid rural_building,2075,0.511277419
+NL,resid rural,resid rural,resid rural_building,2080,0.496309677
+NL,resid rural,resid rural,resid rural_building,2085,0.480258065
+NL,resid rural,resid rural,resid rural_building,2090,0.460496774
+NL,resid rural,resid rural,resid rural_building,2095,0.438625806
+NL,resid rural,resid rural,resid rural_building,2100,0.415854839
+NL,resid urban,resid urban,resid urban_building,2015,0.175582258
+NL,resid urban,resid urban,resid urban_building,2020,0.218273226
+NL,resid urban,resid urban,resid urban_building,2025,0.272133871
+NL,resid urban,resid urban,resid urban_building,2030,0.338141935
+NL,resid urban,resid urban,resid urban_building,2035,0.418203226
+NL,resid urban,resid urban,resid urban_building,2040,0.50976129
+NL,resid urban,resid urban,resid urban_building,2045,0.61436129
+NL,resid urban,resid urban,resid urban_building,2050,0.724883871
+NL,resid urban,resid urban,resid urban_building,2055,0.844070968
+NL,resid urban,resid urban,resid urban_building,2060,0.969683871
+NL,resid urban,resid urban,resid urban_building,2065,1.072616129
+NL,resid urban,resid urban,resid urban_building,2070,1.163229032
+NL,resid urban,resid urban,resid urban_building,2075,1.2296
+NL,resid urban,resid urban,resid urban_building,2080,1.2786
+NL,resid urban,resid urban,resid urban_building,2085,1.31913871
+NL,resid urban,resid urban,resid urban_building,2090,1.353267742
+NL,resid urban,resid urban,resid urban_building,2095,1.377764516
+NL,resid urban,resid urban,resid urban_building,2100,1.396648387
+NL,comm,comm,comm_building,2015,0.027809581
+NL,comm,comm,comm_building,2020,0.038195161
+NL,comm,comm,comm_building,2025,0.052202258
+NL,comm,comm,comm_building,2030,0.071305161
+NL,comm,comm,comm_building,2035,0.095486129
+NL,comm,comm,comm_building,2040,0.126773548
+NL,comm,comm,comm_building,2045,0.163755161
+NL,comm,comm,comm_building,2050,0.206638065
+NL,comm,comm,comm_building,2055,0.250244516
+NL,comm,comm,comm_building,2060,0.300224516
+NL,comm,comm,comm_building,2065,0.352758065
+NL,comm,comm,comm_building,2070,0.403906452
+NL,comm,comm,comm_building,2075,0.443496774
+NL,comm,comm,comm_building,2080,0.471303226
+NL,comm,comm,comm_building,2085,0.498319355
+NL,comm,comm,comm_building,2090,0.522551613
+NL,comm,comm,comm_building,2095,0.543041935
+NL,comm,comm,comm_building,2100,0.559835484
+OD,resid rural,resid rural,resid rural_building,2015,0.307122903
+OD,resid rural,resid rural,resid rural_building,2020,0.341870968
+OD,resid rural,resid rural,resid rural_building,2025,0.363151613
+OD,resid rural,resid rural,resid rural_building,2030,0.386648387
+OD,resid rural,resid rural,resid rural_building,2035,0.409619355
+OD,resid rural,resid rural,resid rural_building,2040,0.438270968
+OD,resid rural,resid rural,resid rural_building,2045,0.463454839
+OD,resid rural,resid rural,resid rural_building,2050,0.488470968
+OD,resid rural,resid rural,resid rural_building,2055,0.494483871
+OD,resid rural,resid rural,resid rural_building,2060,0.49623871
+OD,resid rural,resid rural,resid rural_building,2065,0.509696774
+OD,resid rural,resid rural,resid rural_building,2070,0.516206452
+OD,resid rural,resid rural,resid rural_building,2075,0.511277419
+OD,resid rural,resid rural,resid rural_building,2080,0.496309677
+OD,resid rural,resid rural,resid rural_building,2085,0.480258065
+OD,resid rural,resid rural,resid rural_building,2090,0.460496774
+OD,resid rural,resid rural,resid rural_building,2095,0.438625806
+OD,resid rural,resid rural,resid rural_building,2100,0.415854839
+OD,resid urban,resid urban,resid urban_building,2015,0.175582258
+OD,resid urban,resid urban,resid urban_building,2020,0.218273226
+OD,resid urban,resid urban,resid urban_building,2025,0.272133871
+OD,resid urban,resid urban,resid urban_building,2030,0.338141935
+OD,resid urban,resid urban,resid urban_building,2035,0.418203226
+OD,resid urban,resid urban,resid urban_building,2040,0.50976129
+OD,resid urban,resid urban,resid urban_building,2045,0.61436129
+OD,resid urban,resid urban,resid urban_building,2050,0.724883871
+OD,resid urban,resid urban,resid urban_building,2055,0.844070968
+OD,resid urban,resid urban,resid urban_building,2060,0.969683871
+OD,resid urban,resid urban,resid urban_building,2065,1.072616129
+OD,resid urban,resid urban,resid urban_building,2070,1.163229032
+OD,resid urban,resid urban,resid urban_building,2075,1.2296
+OD,resid urban,resid urban,resid urban_building,2080,1.2786
+OD,resid urban,resid urban,resid urban_building,2085,1.31913871
+OD,resid urban,resid urban,resid urban_building,2090,1.353267742
+OD,resid urban,resid urban,resid urban_building,2095,1.377764516
+OD,resid urban,resid urban,resid urban_building,2100,1.396648387
+OD,comm,comm,comm_building,2015,0.027809581
+OD,comm,comm,comm_building,2020,0.038195161
+OD,comm,comm,comm_building,2025,0.052202258
+OD,comm,comm,comm_building,2030,0.071305161
+OD,comm,comm,comm_building,2035,0.095486129
+OD,comm,comm,comm_building,2040,0.126773548
+OD,comm,comm,comm_building,2045,0.163755161
+OD,comm,comm,comm_building,2050,0.206638065
+OD,comm,comm,comm_building,2055,0.250244516
+OD,comm,comm,comm_building,2060,0.300224516
+OD,comm,comm,comm_building,2065,0.352758065
+OD,comm,comm,comm_building,2070,0.403906452
+OD,comm,comm,comm_building,2075,0.443496774
+OD,comm,comm,comm_building,2080,0.471303226
+OD,comm,comm,comm_building,2085,0.498319355
+OD,comm,comm,comm_building,2090,0.522551613
+OD,comm,comm,comm_building,2095,0.543041935
+OD,comm,comm,comm_building,2100,0.559835484
+PB,resid rural,resid rural,resid rural_building,2015,0.307122903
+PB,resid rural,resid rural,resid rural_building,2020,0.341870968
+PB,resid rural,resid rural,resid rural_building,2025,0.363151613
+PB,resid rural,resid rural,resid rural_building,2030,0.386648387
+PB,resid rural,resid rural,resid rural_building,2035,0.409619355
+PB,resid rural,resid rural,resid rural_building,2040,0.438270968
+PB,resid rural,resid rural,resid rural_building,2045,0.463454839
+PB,resid rural,resid rural,resid rural_building,2050,0.488470968
+PB,resid rural,resid rural,resid rural_building,2055,0.494483871
+PB,resid rural,resid rural,resid rural_building,2060,0.49623871
+PB,resid rural,resid rural,resid rural_building,2065,0.509696774
+PB,resid rural,resid rural,resid rural_building,2070,0.516206452
+PB,resid rural,resid rural,resid rural_building,2075,0.511277419
+PB,resid rural,resid rural,resid rural_building,2080,0.496309677
+PB,resid rural,resid rural,resid rural_building,2085,0.480258065
+PB,resid rural,resid rural,resid rural_building,2090,0.460496774
+PB,resid rural,resid rural,resid rural_building,2095,0.438625806
+PB,resid rural,resid rural,resid rural_building,2100,0.415854839
+PB,resid urban,resid urban,resid urban_building,2015,0.175582258
+PB,resid urban,resid urban,resid urban_building,2020,0.218273226
+PB,resid urban,resid urban,resid urban_building,2025,0.272133871
+PB,resid urban,resid urban,resid urban_building,2030,0.338141935
+PB,resid urban,resid urban,resid urban_building,2035,0.418203226
+PB,resid urban,resid urban,resid urban_building,2040,0.50976129
+PB,resid urban,resid urban,resid urban_building,2045,0.61436129
+PB,resid urban,resid urban,resid urban_building,2050,0.724883871
+PB,resid urban,resid urban,resid urban_building,2055,0.844070968
+PB,resid urban,resid urban,resid urban_building,2060,0.969683871
+PB,resid urban,resid urban,resid urban_building,2065,1.072616129
+PB,resid urban,resid urban,resid urban_building,2070,1.163229032
+PB,resid urban,resid urban,resid urban_building,2075,1.2296
+PB,resid urban,resid urban,resid urban_building,2080,1.2786
+PB,resid urban,resid urban,resid urban_building,2085,1.31913871
+PB,resid urban,resid urban,resid urban_building,2090,1.353267742
+PB,resid urban,resid urban,resid urban_building,2095,1.377764516
+PB,resid urban,resid urban,resid urban_building,2100,1.396648387
+PB,comm,comm,comm_building,2015,0.027809581
+PB,comm,comm,comm_building,2020,0.038195161
+PB,comm,comm,comm_building,2025,0.052202258
+PB,comm,comm,comm_building,2030,0.071305161
+PB,comm,comm,comm_building,2035,0.095486129
+PB,comm,comm,comm_building,2040,0.126773548
+PB,comm,comm,comm_building,2045,0.163755161
+PB,comm,comm,comm_building,2050,0.206638065
+PB,comm,comm,comm_building,2055,0.250244516
+PB,comm,comm,comm_building,2060,0.300224516
+PB,comm,comm,comm_building,2065,0.352758065
+PB,comm,comm,comm_building,2070,0.403906452
+PB,comm,comm,comm_building,2075,0.443496774
+PB,comm,comm,comm_building,2080,0.471303226
+PB,comm,comm,comm_building,2085,0.498319355
+PB,comm,comm,comm_building,2090,0.522551613
+PB,comm,comm,comm_building,2095,0.543041935
+PB,comm,comm,comm_building,2100,0.559835484
+RJ,resid rural,resid rural,resid rural_building,2015,0.307122903
+RJ,resid rural,resid rural,resid rural_building,2020,0.341870968
+RJ,resid rural,resid rural,resid rural_building,2025,0.363151613
+RJ,resid rural,resid rural,resid rural_building,2030,0.386648387
+RJ,resid rural,resid rural,resid rural_building,2035,0.409619355
+RJ,resid rural,resid rural,resid rural_building,2040,0.438270968
+RJ,resid rural,resid rural,resid rural_building,2045,0.463454839
+RJ,resid rural,resid rural,resid rural_building,2050,0.488470968
+RJ,resid rural,resid rural,resid rural_building,2055,0.494483871
+RJ,resid rural,resid rural,resid rural_building,2060,0.49623871
+RJ,resid rural,resid rural,resid rural_building,2065,0.509696774
+RJ,resid rural,resid rural,resid rural_building,2070,0.516206452
+RJ,resid rural,resid rural,resid rural_building,2075,0.511277419
+RJ,resid rural,resid rural,resid rural_building,2080,0.496309677
+RJ,resid rural,resid rural,resid rural_building,2085,0.480258065
+RJ,resid rural,resid rural,resid rural_building,2090,0.460496774
+RJ,resid rural,resid rural,resid rural_building,2095,0.438625806
+RJ,resid rural,resid rural,resid rural_building,2100,0.415854839
+RJ,resid urban,resid urban,resid urban_building,2015,0.175582258
+RJ,resid urban,resid urban,resid urban_building,2020,0.218273226
+RJ,resid urban,resid urban,resid urban_building,2025,0.272133871
+RJ,resid urban,resid urban,resid urban_building,2030,0.338141935
+RJ,resid urban,resid urban,resid urban_building,2035,0.418203226
+RJ,resid urban,resid urban,resid urban_building,2040,0.50976129
+RJ,resid urban,resid urban,resid urban_building,2045,0.61436129
+RJ,resid urban,resid urban,resid urban_building,2050,0.724883871
+RJ,resid urban,resid urban,resid urban_building,2055,0.844070968
+RJ,resid urban,resid urban,resid urban_building,2060,0.969683871
+RJ,resid urban,resid urban,resid urban_building,2065,1.072616129
+RJ,resid urban,resid urban,resid urban_building,2070,1.163229032
+RJ,resid urban,resid urban,resid urban_building,2075,1.2296
+RJ,resid urban,resid urban,resid urban_building,2080,1.2786
+RJ,resid urban,resid urban,resid urban_building,2085,1.31913871
+RJ,resid urban,resid urban,resid urban_building,2090,1.353267742
+RJ,resid urban,resid urban,resid urban_building,2095,1.377764516
+RJ,resid urban,resid urban,resid urban_building,2100,1.396648387
+RJ,comm,comm,comm_building,2015,0.027809581
+RJ,comm,comm,comm_building,2020,0.038195161
+RJ,comm,comm,comm_building,2025,0.052202258
+RJ,comm,comm,comm_building,2030,0.071305161
+RJ,comm,comm,comm_building,2035,0.095486129
+RJ,comm,comm,comm_building,2040,0.126773548
+RJ,comm,comm,comm_building,2045,0.163755161
+RJ,comm,comm,comm_building,2050,0.206638065
+RJ,comm,comm,comm_building,2055,0.250244516
+RJ,comm,comm,comm_building,2060,0.300224516
+RJ,comm,comm,comm_building,2065,0.352758065
+RJ,comm,comm,comm_building,2070,0.403906452
+RJ,comm,comm,comm_building,2075,0.443496774
+RJ,comm,comm,comm_building,2080,0.471303226
+RJ,comm,comm,comm_building,2085,0.498319355
+RJ,comm,comm,comm_building,2090,0.522551613
+RJ,comm,comm,comm_building,2095,0.543041935
+RJ,comm,comm,comm_building,2100,0.559835484
+SK,resid rural,resid rural,resid rural_building,2015,0.307122903
+SK,resid rural,resid rural,resid rural_building,2020,0.341870968
+SK,resid rural,resid rural,resid rural_building,2025,0.363151613
+SK,resid rural,resid rural,resid rural_building,2030,0.386648387
+SK,resid rural,resid rural,resid rural_building,2035,0.409619355
+SK,resid rural,resid rural,resid rural_building,2040,0.438270968
+SK,resid rural,resid rural,resid rural_building,2045,0.463454839
+SK,resid rural,resid rural,resid rural_building,2050,0.488470968
+SK,resid rural,resid rural,resid rural_building,2055,0.494483871
+SK,resid rural,resid rural,resid rural_building,2060,0.49623871
+SK,resid rural,resid rural,resid rural_building,2065,0.509696774
+SK,resid rural,resid rural,resid rural_building,2070,0.516206452
+SK,resid rural,resid rural,resid rural_building,2075,0.511277419
+SK,resid rural,resid rural,resid rural_building,2080,0.496309677
+SK,resid rural,resid rural,resid rural_building,2085,0.480258065
+SK,resid rural,resid rural,resid rural_building,2090,0.460496774
+SK,resid rural,resid rural,resid rural_building,2095,0.438625806
+SK,resid rural,resid rural,resid rural_building,2100,0.415854839
+SK,resid urban,resid urban,resid urban_building,2015,0.175582258
+SK,resid urban,resid urban,resid urban_building,2020,0.218273226
+SK,resid urban,resid urban,resid urban_building,2025,0.272133871
+SK,resid urban,resid urban,resid urban_building,2030,0.338141935
+SK,resid urban,resid urban,resid urban_building,2035,0.418203226
+SK,resid urban,resid urban,resid urban_building,2040,0.50976129
+SK,resid urban,resid urban,resid urban_building,2045,0.61436129
+SK,resid urban,resid urban,resid urban_building,2050,0.724883871
+SK,resid urban,resid urban,resid urban_building,2055,0.844070968
+SK,resid urban,resid urban,resid urban_building,2060,0.969683871
+SK,resid urban,resid urban,resid urban_building,2065,1.072616129
+SK,resid urban,resid urban,resid urban_building,2070,1.163229032
+SK,resid urban,resid urban,resid urban_building,2075,1.2296
+SK,resid urban,resid urban,resid urban_building,2080,1.2786
+SK,resid urban,resid urban,resid urban_building,2085,1.31913871
+SK,resid urban,resid urban,resid urban_building,2090,1.353267742
+SK,resid urban,resid urban,resid urban_building,2095,1.377764516
+SK,resid urban,resid urban,resid urban_building,2100,1.396648387
+SK,comm,comm,comm_building,2015,0.027809581
+SK,comm,comm,comm_building,2020,0.038195161
+SK,comm,comm,comm_building,2025,0.052202258
+SK,comm,comm,comm_building,2030,0.071305161
+SK,comm,comm,comm_building,2035,0.095486129
+SK,comm,comm,comm_building,2040,0.126773548
+SK,comm,comm,comm_building,2045,0.163755161
+SK,comm,comm,comm_building,2050,0.206638065
+SK,comm,comm,comm_building,2055,0.250244516
+SK,comm,comm,comm_building,2060,0.300224516
+SK,comm,comm,comm_building,2065,0.352758065
+SK,comm,comm,comm_building,2070,0.403906452
+SK,comm,comm,comm_building,2075,0.443496774
+SK,comm,comm,comm_building,2080,0.471303226
+SK,comm,comm,comm_building,2085,0.498319355
+SK,comm,comm,comm_building,2090,0.522551613
+SK,comm,comm,comm_building,2095,0.543041935
+SK,comm,comm,comm_building,2100,0.559835484
+TN,resid rural,resid rural,resid rural_building,2015,0.307122903
+TN,resid rural,resid rural,resid rural_building,2020,0.341870968
+TN,resid rural,resid rural,resid rural_building,2025,0.363151613
+TN,resid rural,resid rural,resid rural_building,2030,0.386648387
+TN,resid rural,resid rural,resid rural_building,2035,0.409619355
+TN,resid rural,resid rural,resid rural_building,2040,0.438270968
+TN,resid rural,resid rural,resid rural_building,2045,0.463454839
+TN,resid rural,resid rural,resid rural_building,2050,0.488470968
+TN,resid rural,resid rural,resid rural_building,2055,0.494483871
+TN,resid rural,resid rural,resid rural_building,2060,0.49623871
+TN,resid rural,resid rural,resid rural_building,2065,0.509696774
+TN,resid rural,resid rural,resid rural_building,2070,0.516206452
+TN,resid rural,resid rural,resid rural_building,2075,0.511277419
+TN,resid rural,resid rural,resid rural_building,2080,0.496309677
+TN,resid rural,resid rural,resid rural_building,2085,0.480258065
+TN,resid rural,resid rural,resid rural_building,2090,0.460496774
+TN,resid rural,resid rural,resid rural_building,2095,0.438625806
+TN,resid rural,resid rural,resid rural_building,2100,0.415854839
+TN,resid urban,resid urban,resid urban_building,2015,0.175582258
+TN,resid urban,resid urban,resid urban_building,2020,0.218273226
+TN,resid urban,resid urban,resid urban_building,2025,0.272133871
+TN,resid urban,resid urban,resid urban_building,2030,0.338141935
+TN,resid urban,resid urban,resid urban_building,2035,0.418203226
+TN,resid urban,resid urban,resid urban_building,2040,0.50976129
+TN,resid urban,resid urban,resid urban_building,2045,0.61436129
+TN,resid urban,resid urban,resid urban_building,2050,0.724883871
+TN,resid urban,resid urban,resid urban_building,2055,0.844070968
+TN,resid urban,resid urban,resid urban_building,2060,0.969683871
+TN,resid urban,resid urban,resid urban_building,2065,1.072616129
+TN,resid urban,resid urban,resid urban_building,2070,1.163229032
+TN,resid urban,resid urban,resid urban_building,2075,1.2296
+TN,resid urban,resid urban,resid urban_building,2080,1.2786
+TN,resid urban,resid urban,resid urban_building,2085,1.31913871
+TN,resid urban,resid urban,resid urban_building,2090,1.353267742
+TN,resid urban,resid urban,resid urban_building,2095,1.377764516
+TN,resid urban,resid urban,resid urban_building,2100,1.396648387
+TN,comm,comm,comm_building,2015,0.027809581
+TN,comm,comm,comm_building,2020,0.038195161
+TN,comm,comm,comm_building,2025,0.052202258
+TN,comm,comm,comm_building,2030,0.071305161
+TN,comm,comm,comm_building,2035,0.095486129
+TN,comm,comm,comm_building,2040,0.126773548
+TN,comm,comm,comm_building,2045,0.163755161
+TN,comm,comm,comm_building,2050,0.206638065
+TN,comm,comm,comm_building,2055,0.250244516
+TN,comm,comm,comm_building,2060,0.300224516
+TN,comm,comm,comm_building,2065,0.352758065
+TN,comm,comm,comm_building,2070,0.403906452
+TN,comm,comm,comm_building,2075,0.443496774
+TN,comm,comm,comm_building,2080,0.471303226
+TN,comm,comm,comm_building,2085,0.498319355
+TN,comm,comm,comm_building,2090,0.522551613
+TN,comm,comm,comm_building,2095,0.543041935
+TN,comm,comm,comm_building,2100,0.559835484
+TS,resid rural,resid rural,resid rural_building,2015,0.307122903
+TS,resid rural,resid rural,resid rural_building,2020,0.341870968
+TS,resid rural,resid rural,resid rural_building,2025,0.363151613
+TS,resid rural,resid rural,resid rural_building,2030,0.386648387
+TS,resid rural,resid rural,resid rural_building,2035,0.409619355
+TS,resid rural,resid rural,resid rural_building,2040,0.438270968
+TS,resid rural,resid rural,resid rural_building,2045,0.463454839
+TS,resid rural,resid rural,resid rural_building,2050,0.488470968
+TS,resid rural,resid rural,resid rural_building,2055,0.494483871
+TS,resid rural,resid rural,resid rural_building,2060,0.49623871
+TS,resid rural,resid rural,resid rural_building,2065,0.509696774
+TS,resid rural,resid rural,resid rural_building,2070,0.516206452
+TS,resid rural,resid rural,resid rural_building,2075,0.511277419
+TS,resid rural,resid rural,resid rural_building,2080,0.496309677
+TS,resid rural,resid rural,resid rural_building,2085,0.480258065
+TS,resid rural,resid rural,resid rural_building,2090,0.460496774
+TS,resid rural,resid rural,resid rural_building,2095,0.438625806
+TS,resid rural,resid rural,resid rural_building,2100,0.415854839
+TS,resid urban,resid urban,resid urban_building,2015,0.175582258
+TS,resid urban,resid urban,resid urban_building,2020,0.218273226
+TS,resid urban,resid urban,resid urban_building,2025,0.272133871
+TS,resid urban,resid urban,resid urban_building,2030,0.338141935
+TS,resid urban,resid urban,resid urban_building,2035,0.418203226
+TS,resid urban,resid urban,resid urban_building,2040,0.50976129
+TS,resid urban,resid urban,resid urban_building,2045,0.61436129
+TS,resid urban,resid urban,resid urban_building,2050,0.724883871
+TS,resid urban,resid urban,resid urban_building,2055,0.844070968
+TS,resid urban,resid urban,resid urban_building,2060,0.969683871
+TS,resid urban,resid urban,resid urban_building,2065,1.072616129
+TS,resid urban,resid urban,resid urban_building,2070,1.163229032
+TS,resid urban,resid urban,resid urban_building,2075,1.2296
+TS,resid urban,resid urban,resid urban_building,2080,1.2786
+TS,resid urban,resid urban,resid urban_building,2085,1.31913871
+TS,resid urban,resid urban,resid urban_building,2090,1.353267742
+TS,resid urban,resid urban,resid urban_building,2095,1.377764516
+TS,resid urban,resid urban,resid urban_building,2100,1.396648387
+TS,comm,comm,comm_building,2015,0.027809581
+TS,comm,comm,comm_building,2020,0.038195161
+TS,comm,comm,comm_building,2025,0.052202258
+TS,comm,comm,comm_building,2030,0.071305161
+TS,comm,comm,comm_building,2035,0.095486129
+TS,comm,comm,comm_building,2040,0.126773548
+TS,comm,comm,comm_building,2045,0.163755161
+TS,comm,comm,comm_building,2050,0.206638065
+TS,comm,comm,comm_building,2055,0.250244516
+TS,comm,comm,comm_building,2060,0.300224516
+TS,comm,comm,comm_building,2065,0.352758065
+TS,comm,comm,comm_building,2070,0.403906452
+TS,comm,comm,comm_building,2075,0.443496774
+TS,comm,comm,comm_building,2080,0.471303226
+TS,comm,comm,comm_building,2085,0.498319355
+TS,comm,comm,comm_building,2090,0.522551613
+TS,comm,comm,comm_building,2095,0.543041935
+TS,comm,comm,comm_building,2100,0.559835484
+TR,resid rural,resid rural,resid rural_building,2015,0.307122903
+TR,resid rural,resid rural,resid rural_building,2020,0.341870968
+TR,resid rural,resid rural,resid rural_building,2025,0.363151613
+TR,resid rural,resid rural,resid rural_building,2030,0.386648387
+TR,resid rural,resid rural,resid rural_building,2035,0.409619355
+TR,resid rural,resid rural,resid rural_building,2040,0.438270968
+TR,resid rural,resid rural,resid rural_building,2045,0.463454839
+TR,resid rural,resid rural,resid rural_building,2050,0.488470968
+TR,resid rural,resid rural,resid rural_building,2055,0.494483871
+TR,resid rural,resid rural,resid rural_building,2060,0.49623871
+TR,resid rural,resid rural,resid rural_building,2065,0.509696774
+TR,resid rural,resid rural,resid rural_building,2070,0.516206452
+TR,resid rural,resid rural,resid rural_building,2075,0.511277419
+TR,resid rural,resid rural,resid rural_building,2080,0.496309677
+TR,resid rural,resid rural,resid rural_building,2085,0.480258065
+TR,resid rural,resid rural,resid rural_building,2090,0.460496774
+TR,resid rural,resid rural,resid rural_building,2095,0.438625806
+TR,resid rural,resid rural,resid rural_building,2100,0.415854839
+TR,resid urban,resid urban,resid urban_building,2015,0.175582258
+TR,resid urban,resid urban,resid urban_building,2020,0.218273226
+TR,resid urban,resid urban,resid urban_building,2025,0.272133871
+TR,resid urban,resid urban,resid urban_building,2030,0.338141935
+TR,resid urban,resid urban,resid urban_building,2035,0.418203226
+TR,resid urban,resid urban,resid urban_building,2040,0.50976129
+TR,resid urban,resid urban,resid urban_building,2045,0.61436129
+TR,resid urban,resid urban,resid urban_building,2050,0.724883871
+TR,resid urban,resid urban,resid urban_building,2055,0.844070968
+TR,resid urban,resid urban,resid urban_building,2060,0.969683871
+TR,resid urban,resid urban,resid urban_building,2065,1.072616129
+TR,resid urban,resid urban,resid urban_building,2070,1.163229032
+TR,resid urban,resid urban,resid urban_building,2075,1.2296
+TR,resid urban,resid urban,resid urban_building,2080,1.2786
+TR,resid urban,resid urban,resid urban_building,2085,1.31913871
+TR,resid urban,resid urban,resid urban_building,2090,1.353267742
+TR,resid urban,resid urban,resid urban_building,2095,1.377764516
+TR,resid urban,resid urban,resid urban_building,2100,1.396648387
+TR,comm,comm,comm_building,2015,0.027809581
+TR,comm,comm,comm_building,2020,0.038195161
+TR,comm,comm,comm_building,2025,0.052202258
+TR,comm,comm,comm_building,2030,0.071305161
+TR,comm,comm,comm_building,2035,0.095486129
+TR,comm,comm,comm_building,2040,0.126773548
+TR,comm,comm,comm_building,2045,0.163755161
+TR,comm,comm,comm_building,2050,0.206638065
+TR,comm,comm,comm_building,2055,0.250244516
+TR,comm,comm,comm_building,2060,0.300224516
+TR,comm,comm,comm_building,2065,0.352758065
+TR,comm,comm,comm_building,2070,0.403906452
+TR,comm,comm,comm_building,2075,0.443496774
+TR,comm,comm,comm_building,2080,0.471303226
+TR,comm,comm,comm_building,2085,0.498319355
+TR,comm,comm,comm_building,2090,0.522551613
+TR,comm,comm,comm_building,2095,0.543041935
+TR,comm,comm,comm_building,2100,0.559835484
+UP,resid rural,resid rural,resid rural_building,2015,0.307122903
+UP,resid rural,resid rural,resid rural_building,2020,0.341870968
+UP,resid rural,resid rural,resid rural_building,2025,0.363151613
+UP,resid rural,resid rural,resid rural_building,2030,0.386648387
+UP,resid rural,resid rural,resid rural_building,2035,0.409619355
+UP,resid rural,resid rural,resid rural_building,2040,0.438270968
+UP,resid rural,resid rural,resid rural_building,2045,0.463454839
+UP,resid rural,resid rural,resid rural_building,2050,0.488470968
+UP,resid rural,resid rural,resid rural_building,2055,0.494483871
+UP,resid rural,resid rural,resid rural_building,2060,0.49623871
+UP,resid rural,resid rural,resid rural_building,2065,0.509696774
+UP,resid rural,resid rural,resid rural_building,2070,0.516206452
+UP,resid rural,resid rural,resid rural_building,2075,0.511277419
+UP,resid rural,resid rural,resid rural_building,2080,0.496309677
+UP,resid rural,resid rural,resid rural_building,2085,0.480258065
+UP,resid rural,resid rural,resid rural_building,2090,0.460496774
+UP,resid rural,resid rural,resid rural_building,2095,0.438625806
+UP,resid rural,resid rural,resid rural_building,2100,0.415854839
+UP,resid urban,resid urban,resid urban_building,2015,0.175582258
+UP,resid urban,resid urban,resid urban_building,2020,0.218273226
+UP,resid urban,resid urban,resid urban_building,2025,0.272133871
+UP,resid urban,resid urban,resid urban_building,2030,0.338141935
+UP,resid urban,resid urban,resid urban_building,2035,0.418203226
+UP,resid urban,resid urban,resid urban_building,2040,0.50976129
+UP,resid urban,resid urban,resid urban_building,2045,0.61436129
+UP,resid urban,resid urban,resid urban_building,2050,0.724883871
+UP,resid urban,resid urban,resid urban_building,2055,0.844070968
+UP,resid urban,resid urban,resid urban_building,2060,0.969683871
+UP,resid urban,resid urban,resid urban_building,2065,1.072616129
+UP,resid urban,resid urban,resid urban_building,2070,1.163229032
+UP,resid urban,resid urban,resid urban_building,2075,1.2296
+UP,resid urban,resid urban,resid urban_building,2080,1.2786
+UP,resid urban,resid urban,resid urban_building,2085,1.31913871
+UP,resid urban,resid urban,resid urban_building,2090,1.353267742
+UP,resid urban,resid urban,resid urban_building,2095,1.377764516
+UP,resid urban,resid urban,resid urban_building,2100,1.396648387
+UP,comm,comm,comm_building,2015,0.027809581
+UP,comm,comm,comm_building,2020,0.038195161
+UP,comm,comm,comm_building,2025,0.052202258
+UP,comm,comm,comm_building,2030,0.071305161
+UP,comm,comm,comm_building,2035,0.095486129
+UP,comm,comm,comm_building,2040,0.126773548
+UP,comm,comm,comm_building,2045,0.163755161
+UP,comm,comm,comm_building,2050,0.206638065
+UP,comm,comm,comm_building,2055,0.250244516
+UP,comm,comm,comm_building,2060,0.300224516
+UP,comm,comm,comm_building,2065,0.352758065
+UP,comm,comm,comm_building,2070,0.403906452
+UP,comm,comm,comm_building,2075,0.443496774
+UP,comm,comm,comm_building,2080,0.471303226
+UP,comm,comm,comm_building,2085,0.498319355
+UP,comm,comm,comm_building,2090,0.522551613
+UP,comm,comm,comm_building,2095,0.543041935
+UP,comm,comm,comm_building,2100,0.559835484
+UK,resid rural,resid rural,resid rural_building,2015,0.307122903
+UK,resid rural,resid rural,resid rural_building,2020,0.341870968
+UK,resid rural,resid rural,resid rural_building,2025,0.363151613
+UK,resid rural,resid rural,resid rural_building,2030,0.386648387
+UK,resid rural,resid rural,resid rural_building,2035,0.409619355
+UK,resid rural,resid rural,resid rural_building,2040,0.438270968
+UK,resid rural,resid rural,resid rural_building,2045,0.463454839
+UK,resid rural,resid rural,resid rural_building,2050,0.488470968
+UK,resid rural,resid rural,resid rural_building,2055,0.494483871
+UK,resid rural,resid rural,resid rural_building,2060,0.49623871
+UK,resid rural,resid rural,resid rural_building,2065,0.509696774
+UK,resid rural,resid rural,resid rural_building,2070,0.516206452
+UK,resid rural,resid rural,resid rural_building,2075,0.511277419
+UK,resid rural,resid rural,resid rural_building,2080,0.496309677
+UK,resid rural,resid rural,resid rural_building,2085,0.480258065
+UK,resid rural,resid rural,resid rural_building,2090,0.460496774
+UK,resid rural,resid rural,resid rural_building,2095,0.438625806
+UK,resid rural,resid rural,resid rural_building,2100,0.415854839
+UK,resid urban,resid urban,resid urban_building,2015,0.175582258
+UK,resid urban,resid urban,resid urban_building,2020,0.218273226
+UK,resid urban,resid urban,resid urban_building,2025,0.272133871
+UK,resid urban,resid urban,resid urban_building,2030,0.338141935
+UK,resid urban,resid urban,resid urban_building,2035,0.418203226
+UK,resid urban,resid urban,resid urban_building,2040,0.50976129
+UK,resid urban,resid urban,resid urban_building,2045,0.61436129
+UK,resid urban,resid urban,resid urban_building,2050,0.724883871
+UK,resid urban,resid urban,resid urban_building,2055,0.844070968
+UK,resid urban,resid urban,resid urban_building,2060,0.969683871
+UK,resid urban,resid urban,resid urban_building,2065,1.072616129
+UK,resid urban,resid urban,resid urban_building,2070,1.163229032
+UK,resid urban,resid urban,resid urban_building,2075,1.2296
+UK,resid urban,resid urban,resid urban_building,2080,1.2786
+UK,resid urban,resid urban,resid urban_building,2085,1.31913871
+UK,resid urban,resid urban,resid urban_building,2090,1.353267742
+UK,resid urban,resid urban,resid urban_building,2095,1.377764516
+UK,resid urban,resid urban,resid urban_building,2100,1.396648387
+UK,comm,comm,comm_building,2015,0.027809581
+UK,comm,comm,comm_building,2020,0.038195161
+UK,comm,comm,comm_building,2025,0.052202258
+UK,comm,comm,comm_building,2030,0.071305161
+UK,comm,comm,comm_building,2035,0.095486129
+UK,comm,comm,comm_building,2040,0.126773548
+UK,comm,comm,comm_building,2045,0.163755161
+UK,comm,comm,comm_building,2050,0.206638065
+UK,comm,comm,comm_building,2055,0.250244516
+UK,comm,comm,comm_building,2060,0.300224516
+UK,comm,comm,comm_building,2065,0.352758065
+UK,comm,comm,comm_building,2070,0.403906452
+UK,comm,comm,comm_building,2075,0.443496774
+UK,comm,comm,comm_building,2080,0.471303226
+UK,comm,comm,comm_building,2085,0.498319355
+UK,comm,comm,comm_building,2090,0.522551613
+UK,comm,comm,comm_building,2095,0.543041935
+UK,comm,comm,comm_building,2100,0.559835484
+WB,resid rural,resid rural,resid rural_building,2015,0.307122903
+WB,resid rural,resid rural,resid rural_building,2020,0.341870968
+WB,resid rural,resid rural,resid rural_building,2025,0.363151613
+WB,resid rural,resid rural,resid rural_building,2030,0.386648387
+WB,resid rural,resid rural,resid rural_building,2035,0.409619355
+WB,resid rural,resid rural,resid rural_building,2040,0.438270968
+WB,resid rural,resid rural,resid rural_building,2045,0.463454839
+WB,resid rural,resid rural,resid rural_building,2050,0.488470968
+WB,resid rural,resid rural,resid rural_building,2055,0.494483871
+WB,resid rural,resid rural,resid rural_building,2060,0.49623871
+WB,resid rural,resid rural,resid rural_building,2065,0.509696774
+WB,resid rural,resid rural,resid rural_building,2070,0.516206452
+WB,resid rural,resid rural,resid rural_building,2075,0.511277419
+WB,resid rural,resid rural,resid rural_building,2080,0.496309677
+WB,resid rural,resid rural,resid rural_building,2085,0.480258065
+WB,resid rural,resid rural,resid rural_building,2090,0.460496774
+WB,resid rural,resid rural,resid rural_building,2095,0.438625806
+WB,resid rural,resid rural,resid rural_building,2100,0.415854839
+WB,resid urban,resid urban,resid urban_building,2015,0.175582258
+WB,resid urban,resid urban,resid urban_building,2020,0.218273226
+WB,resid urban,resid urban,resid urban_building,2025,0.272133871
+WB,resid urban,resid urban,resid urban_building,2030,0.338141935
+WB,resid urban,resid urban,resid urban_building,2035,0.418203226
+WB,resid urban,resid urban,resid urban_building,2040,0.50976129
+WB,resid urban,resid urban,resid urban_building,2045,0.61436129
+WB,resid urban,resid urban,resid urban_building,2050,0.724883871
+WB,resid urban,resid urban,resid urban_building,2055,0.844070968
+WB,resid urban,resid urban,resid urban_building,2060,0.969683871
+WB,resid urban,resid urban,resid urban_building,2065,1.072616129
+WB,resid urban,resid urban,resid urban_building,2070,1.163229032
+WB,resid urban,resid urban,resid urban_building,2075,1.2296
+WB,resid urban,resid urban,resid urban_building,2080,1.2786
+WB,resid urban,resid urban,resid urban_building,2085,1.31913871
+WB,resid urban,resid urban,resid urban_building,2090,1.353267742
+WB,resid urban,resid urban,resid urban_building,2095,1.377764516
+WB,resid urban,resid urban,resid urban_building,2100,1.396648387
+WB,comm,comm,comm_building,2015,0.027809581
+WB,comm,comm,comm_building,2020,0.038195161
+WB,comm,comm,comm_building,2025,0.052202258
+WB,comm,comm,comm_building,2030,0.071305161
+WB,comm,comm,comm_building,2035,0.095486129
+WB,comm,comm,comm_building,2040,0.126773548
+WB,comm,comm,comm_building,2045,0.163755161
+WB,comm,comm,comm_building,2050,0.206638065
+WB,comm,comm,comm_building,2055,0.250244516
+WB,comm,comm,comm_building,2060,0.300224516
+WB,comm,comm,comm_building,2065,0.352758065
+WB,comm,comm,comm_building,2070,0.403906452
+WB,comm,comm,comm_building,2075,0.443496774
+WB,comm,comm,comm_building,2080,0.471303226
+WB,comm,comm,comm_building,2085,0.498319355
+WB,comm,comm,comm_building,2090,0.522551613
+WB,comm,comm,comm_building,2095,0.543041935
+WB,comm,comm,comm_building,2100,0.559835484
+LD,resid rural,resid rural,resid rural_building,2015,0.307122903
+LD,resid rural,resid rural,resid rural_building,2020,0.341870968
+LD,resid rural,resid rural,resid rural_building,2025,0.363151613
+LD,resid rural,resid rural,resid rural_building,2030,0.386648387
+LD,resid rural,resid rural,resid rural_building,2035,0.409619355
+LD,resid rural,resid rural,resid rural_building,2040,0.438270968
+LD,resid rural,resid rural,resid rural_building,2045,0.463454839
+LD,resid rural,resid rural,resid rural_building,2050,0.488470968
+LD,resid rural,resid rural,resid rural_building,2055,0.494483871
+LD,resid rural,resid rural,resid rural_building,2060,0.49623871
+LD,resid rural,resid rural,resid rural_building,2065,0.509696774
+LD,resid rural,resid rural,resid rural_building,2070,0.516206452
+LD,resid rural,resid rural,resid rural_building,2075,0.511277419
+LD,resid rural,resid rural,resid rural_building,2080,0.496309677
+LD,resid rural,resid rural,resid rural_building,2085,0.480258065
+LD,resid rural,resid rural,resid rural_building,2090,0.460496774
+LD,resid rural,resid rural,resid rural_building,2095,0.438625806
+LD,resid rural,resid rural,resid rural_building,2100,0.415854839
+LD,resid urban,resid urban,resid urban_building,2015,0.175582258
+LD,resid urban,resid urban,resid urban_building,2020,0.218273226
+LD,resid urban,resid urban,resid urban_building,2025,0.272133871
+LD,resid urban,resid urban,resid urban_building,2030,0.338141935
+LD,resid urban,resid urban,resid urban_building,2035,0.418203226
+LD,resid urban,resid urban,resid urban_building,2040,0.50976129
+LD,resid urban,resid urban,resid urban_building,2045,0.61436129
+LD,resid urban,resid urban,resid urban_building,2050,0.724883871
+LD,resid urban,resid urban,resid urban_building,2055,0.844070968
+LD,resid urban,resid urban,resid urban_building,2060,0.969683871
+LD,resid urban,resid urban,resid urban_building,2065,1.072616129
+LD,resid urban,resid urban,resid urban_building,2070,1.163229032
+LD,resid urban,resid urban,resid urban_building,2075,1.2296
+LD,resid urban,resid urban,resid urban_building,2080,1.2786
+LD,resid urban,resid urban,resid urban_building,2085,1.31913871
+LD,resid urban,resid urban,resid urban_building,2090,1.353267742
+LD,resid urban,resid urban,resid urban_building,2095,1.377764516
+LD,resid urban,resid urban,resid urban_building,2100,1.396648387
+LD,comm,comm,comm_building,2015,0.027809581
+LD,comm,comm,comm_building,2020,0.038195161
+LD,comm,comm,comm_building,2025,0.052202258
+LD,comm,comm,comm_building,2030,0.071305161
+LD,comm,comm,comm_building,2035,0.095486129
+LD,comm,comm,comm_building,2040,0.126773548
+LD,comm,comm,comm_building,2045,0.163755161
+LD,comm,comm,comm_building,2050,0.206638065
+LD,comm,comm,comm_building,2055,0.250244516
+LD,comm,comm,comm_building,2060,0.300224516
+LD,comm,comm,comm_building,2065,0.352758065
+LD,comm,comm,comm_building,2070,0.403906452
+LD,comm,comm,comm_building,2075,0.443496774
+LD,comm,comm,comm_building,2080,0.471303226
+LD,comm,comm,comm_building,2085,0.498319355
+LD,comm,comm,comm_building,2090,0.522551613
+LD,comm,comm,comm_building,2095,0.543041935
+LD,comm,comm,comm_building,2100,0.559835484
+PC,resid rural,resid rural,resid rural_building,2015,0.307122903
+PC,resid rural,resid rural,resid rural_building,2020,0.341870968
+PC,resid rural,resid rural,resid rural_building,2025,0.363151613
+PC,resid rural,resid rural,resid rural_building,2030,0.386648387
+PC,resid rural,resid rural,resid rural_building,2035,0.409619355
+PC,resid rural,resid rural,resid rural_building,2040,0.438270968
+PC,resid rural,resid rural,resid rural_building,2045,0.463454839
+PC,resid rural,resid rural,resid rural_building,2050,0.488470968
+PC,resid rural,resid rural,resid rural_building,2055,0.494483871
+PC,resid rural,resid rural,resid rural_building,2060,0.49623871
+PC,resid rural,resid rural,resid rural_building,2065,0.509696774
+PC,resid rural,resid rural,resid rural_building,2070,0.516206452
+PC,resid rural,resid rural,resid rural_building,2075,0.511277419
+PC,resid rural,resid rural,resid rural_building,2080,0.496309677
+PC,resid rural,resid rural,resid rural_building,2085,0.480258065
+PC,resid rural,resid rural,resid rural_building,2090,0.460496774
+PC,resid rural,resid rural,resid rural_building,2095,0.438625806
+PC,resid rural,resid rural,resid rural_building,2100,0.415854839
+PC,resid urban,resid urban,resid urban_building,2015,0.175582258
+PC,resid urban,resid urban,resid urban_building,2020,0.218273226
+PC,resid urban,resid urban,resid urban_building,2025,0.272133871
+PC,resid urban,resid urban,resid urban_building,2030,0.338141935
+PC,resid urban,resid urban,resid urban_building,2035,0.418203226
+PC,resid urban,resid urban,resid urban_building,2040,0.50976129
+PC,resid urban,resid urban,resid urban_building,2045,0.61436129
+PC,resid urban,resid urban,resid urban_building,2050,0.724883871
+PC,resid urban,resid urban,resid urban_building,2055,0.844070968
+PC,resid urban,resid urban,resid urban_building,2060,0.969683871
+PC,resid urban,resid urban,resid urban_building,2065,1.072616129
+PC,resid urban,resid urban,resid urban_building,2070,1.163229032
+PC,resid urban,resid urban,resid urban_building,2075,1.2296
+PC,resid urban,resid urban,resid urban_building,2080,1.2786
+PC,resid urban,resid urban,resid urban_building,2085,1.31913871
+PC,resid urban,resid urban,resid urban_building,2090,1.353267742
+PC,resid urban,resid urban,resid urban_building,2095,1.377764516
+PC,resid urban,resid urban,resid urban_building,2100,1.396648387
+PC,comm,comm,comm_building,2015,0.027809581
+PC,comm,comm,comm_building,2020,0.038195161
+PC,comm,comm,comm_building,2025,0.052202258
+PC,comm,comm,comm_building,2030,0.071305161
+PC,comm,comm,comm_building,2035,0.095486129
+PC,comm,comm,comm_building,2040,0.126773548
+PC,comm,comm,comm_building,2045,0.163755161
+PC,comm,comm,comm_building,2050,0.206638065
+PC,comm,comm,comm_building,2055,0.250244516
+PC,comm,comm,comm_building,2060,0.300224516
+PC,comm,comm,comm_building,2065,0.352758065
+PC,comm,comm,comm_building,2070,0.403906452
+PC,comm,comm,comm_building,2075,0.443496774
+PC,comm,comm,comm_building,2080,0.471303226
+PC,comm,comm,comm_building,2085,0.498319355
+PC,comm,comm,comm_building,2090,0.522551613
+PC,comm,comm,comm_building,2095,0.543041935
+PC,comm,comm,comm_building,2100,0.559835484
+LA,resid rural,resid rural,resid rural_building,2015,0.307122903
+LA,resid rural,resid rural,resid rural_building,2020,0.341870968
+LA,resid rural,resid rural,resid rural_building,2025,0.363151613
+LA,resid rural,resid rural,resid rural_building,2030,0.386648387
+LA,resid rural,resid rural,resid rural_building,2035,0.409619355
+LA,resid rural,resid rural,resid rural_building,2040,0.438270968
+LA,resid rural,resid rural,resid rural_building,2045,0.463454839
+LA,resid rural,resid rural,resid rural_building,2050,0.488470968
+LA,resid rural,resid rural,resid rural_building,2055,0.494483871
+LA,resid rural,resid rural,resid rural_building,2060,0.49623871
+LA,resid rural,resid rural,resid rural_building,2065,0.509696774
+LA,resid rural,resid rural,resid rural_building,2070,0.516206452
+LA,resid rural,resid rural,resid rural_building,2075,0.511277419
+LA,resid rural,resid rural,resid rural_building,2080,0.496309677
+LA,resid rural,resid rural,resid rural_building,2085,0.480258065
+LA,resid rural,resid rural,resid rural_building,2090,0.460496774
+LA,resid rural,resid rural,resid rural_building,2095,0.438625806
+LA,resid rural,resid rural,resid rural_building,2100,0.415854839
+LA,resid urban,resid urban,resid urban_building,2015,0.175582258
+LA,resid urban,resid urban,resid urban_building,2020,0.218273226
+LA,resid urban,resid urban,resid urban_building,2025,0.272133871
+LA,resid urban,resid urban,resid urban_building,2030,0.338141935
+LA,resid urban,resid urban,resid urban_building,2035,0.418203226
+LA,resid urban,resid urban,resid urban_building,2040,0.50976129
+LA,resid urban,resid urban,resid urban_building,2045,0.61436129
+LA,resid urban,resid urban,resid urban_building,2050,0.724883871
+LA,resid urban,resid urban,resid urban_building,2055,0.844070968
+LA,resid urban,resid urban,resid urban_building,2060,0.969683871
+LA,resid urban,resid urban,resid urban_building,2065,1.072616129
+LA,resid urban,resid urban,resid urban_building,2070,1.163229032
+LA,resid urban,resid urban,resid urban_building,2075,1.2296
+LA,resid urban,resid urban,resid urban_building,2080,1.2786
+LA,resid urban,resid urban,resid urban_building,2085,1.31913871
+LA,resid urban,resid urban,resid urban_building,2090,1.353267742
+LA,resid urban,resid urban,resid urban_building,2095,1.377764516
+LA,resid urban,resid urban,resid urban_building,2100,1.396648387
+LA,comm,comm,comm_building,2015,0.027809581
+LA,comm,comm,comm_building,2020,0.038195161
+LA,comm,comm,comm_building,2025,0.052202258
+LA,comm,comm,comm_building,2030,0.071305161
+LA,comm,comm,comm_building,2035,0.095486129
+LA,comm,comm,comm_building,2040,0.126773548
+LA,comm,comm,comm_building,2045,0.163755161
+LA,comm,comm,comm_building,2050,0.206638065
+LA,comm,comm,comm_building,2055,0.250244516
+LA,comm,comm,comm_building,2060,0.300224516
+LA,comm,comm,comm_building,2065,0.352758065
+LA,comm,comm,comm_building,2070,0.403906452
+LA,comm,comm,comm_building,2075,0.443496774
+LA,comm,comm,comm_building,2080,0.471303226
+LA,comm,comm,comm_building,2085,0.498319355
+LA,comm,comm,comm_building,2090,0.522551613
+LA,comm,comm,comm_building,2095,0.543041935
+LA,comm,comm,comm_building,2100,0.559835484

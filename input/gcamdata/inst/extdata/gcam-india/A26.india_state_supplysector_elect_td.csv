@@ -1,0 +1,10 @@
+# File: A26.india_state_supplysector_elect_td.csv
+# Title: Mapping from calibrated intermediate sectors and fuels to supplysector / subsector / technology / input in GCAM
+# Units: n/a
+# Column types: ccccciic
+# ----------
+region,supplysector,output.unit,input.unit,price.unit,logit.year.fillout,logit.exponent,logit.type
+India,elect_td_res,EJ,EJ,1975$/GJ,1975,-8,
+India,elect_td_com,EJ,EJ,1975$/GJ,1975,-8,
+India,elect_td_ind,EJ,EJ,1975$/GJ,1975,-3,
+India,elect_td_trn,EJ,EJ,1975$/GJ,1975,-3,

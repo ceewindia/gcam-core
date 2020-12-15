@@ -1,0 +1,11 @@
+# File:A26.india_state_SubsectorInterp_elect_td.csv
+# Title: ss file
+# Description:  by State
+# Units: In column names
+# Column types: cccciic
+# ----------
+region,supplysector,subsector,apply.to,from.year,to.year,interpolation.function
+India,elect_td_res,elect_td_res,share-weight,2010,2100,linear
+India,elect_td_com,elect_td_com,share-weight,2010,2100,linear
+India,elect_td_ind,elect_td_ind,share-weight,2010,2100,linear
+India,elect_td_trn,elect_td_trn,share-weight,2010,2100,linear

@@ -1,0 +1,11 @@
+# File: A54.india_StubTech_passthru.csv
+# Title: Sub technology passthrough
+# Units: Unitless
+# Column types: cccc
+# ----------
+region,supplysector,tranSubsector,stub.technology
+India,trn_pass,road,road
+India,trn_pass_road,LDV,LDV
+India,trn_pass_road_LDV,2W,2W
+India,trn_pass_road_LDV,4W,4W
+India,trn_freight,road,road
