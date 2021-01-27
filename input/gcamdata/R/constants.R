@@ -697,6 +697,74 @@ gcamusa.ELEC_SEGMENT_SUBPEAK <- "subpeak generation"
 gcamusa.ELEC_SEGMENT_PEAK <- "peak generation"
 
 
+##GCAM-India Specific constants
+gcam.INDIA_CODE          <- 17
+gcam.india_REGION          <- "India"
+energy.INTERNAL_GAINS_SCALAR_INDIA_H <- -930
+energy.INTERNAL_GAINS_SCALAR_INDIA_C <- 350
+gcamindia.WIND_BASE_COST_YEAR   <- 2005
+gcamindia.DEFAULT_COEFFICIENT <- 1
+gcamindia.DEFAULT_LOGIT_TYPE  <- NA  # default logit type
+gcamindia.DEFAULT_LOGITEXP    <- -3
+gcamindia.DEFAULT_MARKET      <- gcam.india_REGION
+gcamindia.DEFAULT_SHAREWEIGHT <- 1
+gcamindia.GRID_REGION_LOGIT      <- -6
+gcamindia.GRID_REGION_LOGIT_TYPE <- "relative-cost-logit"
+gcamindia.GEOTHERMAL_DEFAULT_EFFICIENCY <- 0.1
+gcamindia.ELECT_TD_SECTORS  <- c("elect_td_res", "elect_td_com", "elect_td_ind", "elect_td_trn")
+gcamindia.USE_REGIONAL_ELEC_MARKETS <- TRUE
+gcamindia.USE_REGIONAL_FUEL_MARKETS  <- TRUE
+gcamindia.REGIONAL_FUEL_MARKETS <- c("regional coal", "delivered coal", "wholesale gas", "delivered gas",
+                                     "refined liquids industrial", "refined liquids enduse")
+gcamindia.STATE_RENEWABLE_RESOURCES <- c("distributed_solar", "geothermal", "onshore wind resource", "traditional biomass")
+gcamindia.STATE_UNLIMITED_RESOURCES <- c("global solar resource", "limestone")
+gcamindia.SECTOR_EN_NAMES <- "refining"
+gcamindia.INT_TECH_LIST <- c("CSP", "PV", "wind")
+gcamindia.STORAGE_TECH_LIST <- c("CSP_storage", "PV_storage", "wind_storage")
+gcamindia.BASE_HDD_INDIA <- 6595 # https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0107
+gcamindia.BASE_CDD_INDIA <- 20938 # https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb010
+gcamindia.AEO_DD_YEARS <- seq(2010, 2040, 5)
+gcamindia.GAS_ADJ_THRESH      <- 5
+gcamindia.STATE_SUBSECTOR_DELIMITER <- " "
+gcamindia.DIGITS_CALOUTPUT          <- 7    # production
+gcamindia.DIGITS_COST               <- 4
+gcamindia.EFFICIENCY_PARTITION_YEAR <- 2010
+gcamindia.DIGITS_TRNUSA_DEFAULT     <- 1    # Reduce rounding in detailed USA transport for compatability with model
+gcamindia.DIGITS_EMISSIONS          <- 5
+gcamindia.LOAD_SEG_CAL_YEARS <- c(2010, 2005, 1990)       # Years for which electricity load segments are calibrated
+gcamindia.ELEC_SEGMENT_BASE <- "base load generation"
+gcamindia.ELEC_SEGMENT_INT <- "intermediate generation"
+gcamindia.ELEC_SEGMENT_SUBPEAK <- "subpeak generation"
+gcamindia.ELEC_SEGMENT_PEAK <- "peak generation"
+
+# GCAM-INDIA states
+gcamindia.STATES <- c("AP", "AR", "AS", "BR", "CG", "DL", "GA", "GJ", "HR",
+                      "HP", "JK", "JH", "KA", "KL", "MP", "MH", "MN", "ML",
+                      "MZ", "NL", "OD", "PB", "RJ", "SK", "TN", "TS", "TR",
+                      "UP", "UK", "WB", "CH", "DD", "DN", "LA", "LD", "AN",
+                      "PC")
+
+#GCAM-INDIA industries
+gcamindia.energyindustries <- c("Agriculture_enuse", "Chem_Fert_enuse", "Fisheries_enuse",
+                                "Iron and Steel_enuse", "Non-Ferrous Metals_enuse", "Other Industries_enuse",
+                                "Paper and Pulp_enuse")
+
+gcamindia.feedstocksindustries <- c("Agriculture_fsuse", "Chem_Fert_fsuse", "Fisheries_fsuse",
+                                    "Iron and Steel_fsuse", "Non-Ferrous Metals_fsuse", "Other Industries_fsuse",
+                                    "Paper and Pulp_fsuse")
+
+gcamindia.industries <- c("Agriculture", "Chem_Fert", "Fisheries",
+                          "Iron and Steel", "Non-Ferrous Metals", "Other Industries", "Paper and Pulp")
+
+# GCAM-india grid regions
+gcamindia.GRID_REGIONS <- c("Northern", "Western", "North-Eastern", "Eastern",  "Southern")
+
+#Residential sector
+resid <- c("resid rural","resid urban")
+
+Price_2019INR_1975USD       <- 0.00304
+
+
 # Time shift conditions ======================================================================
 # Uncomment these lines to run under 'timeshift' conditions
 # # HISTORICAL_YEARS <- 1971:2005       # normally 1971:2010

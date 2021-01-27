@@ -231,6 +231,30 @@ write_to_all_states <- function(data, names, region_list = gcamusa.STATES) {
 }
 
 
+write_to_all_india_states <- function(data, names, region_list = gcamindia.STATES) {
+
+  assert_that(is_tibble(data))
+  assert_that(is.character(names))
+  assert_that(is.character(region_list))
+
+  region <- NULL  # silence package check notes
+
+  if("logit.year.fillout" %in% names) {
+    data$logit.year.fillout <- "start-year"
+  }
+
+  if("price.exp.year.fillout" %in% names) {
+    data$price.exp.year.fillout <- "start-year"
+  }
+
+  data %>%
+    set_years %>%
+    mutate(region = NULL) %>% # remove region column if it exists
+    repeat_add_columns(tibble(region = region_list)) %>%
+    select(names)
+}
+
+
 #' set_subsector_shrwt
 #'
 #' Calculate subsector shareweights in calibration periods, where subsectors may have multiple technologies
@@ -631,3 +655,28 @@ downscale_FAO_country <- function(data, country_name, dissolution_year, years = 
   data_new[newyrs][is.na(data_new[newyrs])] <- 0
   data_new
 }
+
+write_to_all_india_states <- function(data, names, region_list = gcamindia.STATES) {
+
+  assert_that(is_tibble(data))
+  assert_that(is.character(names))
+  assert_that(is.character(region_list))
+
+  region <- NULL  # silence package check notes
+
+  if("logit.year.fillout" %in% names) {
+    data$logit.year.fillout <- "start-year"
+  }
+
+  if("price.exp.year.fillout" %in% names) {
+    data$price.exp.year.fillout <- "start-year"
+  }
+
+  data %>%
+    set_years %>%
+    mutate(region = NULL) %>% # remove region column if it exists
+    repeat_add_columns(tibble(region = region_list)) %>%
+    select(names)
+}
+
+
